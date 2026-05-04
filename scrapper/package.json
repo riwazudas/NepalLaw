@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "date-fns": "^4.1.0",
+    "leaflet": "^1.9.4",
+    "lucide-react": "^1.7.0",
+    "react-leaflet": "^5.0.0",
+    "recharts": "^3.8.1"
+  }
+}

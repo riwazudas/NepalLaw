@@ -1,0 +1,3500 @@
+# Bank and Financial Institution Act, 2073 (2017)
+
+---
+
+## Preamble
+
+The date of certification and publication
+
+
+2074/1/10
+
+
+The Act of Amending
+
+
+1) Amendments to the Constitution of
+
+
+Nepal, 2074                            2075/11/1
+
+
+2) An Act to amend some Nepal Acts related to 
+
+
+the National Code, 2075                    2076/1/12
+
+
+Act No. 1 of the year 2074
+
+
+An Act enacted for amendment and consolidation in laws relating to Banks and Financial Institutions
+
+
+Preamble: Whereas it is expedient to amend and consolidate forthwith the prevailing laws relating to banks and financial institutions in order to increase the confidence of the general public towards the overall banking and financial system of the country; to protect and promote the rights and interests of depositors; to provide quality and reliable banking and financial services to the general public through healthy competition among banks and financial institutions thereby making national economy sustainable and strong; and to maintain financial stability and make necessary legal provisions concerning establishment, operation, management, regulation, inspection and supervision of banks and financial institutions;
+Now, therefore, be this Act enacted by the Legislature-Parliament pursuant to in Sub-Article (1) of Article 296 of the Constitution of Nepal
+
+
+---
+
+## Chapter- 1 Preliminary
+
+### Section 1: Short Title, Extension and Commencement
+
+1) This Act may be called the “Banks and Financial Institutions Act, 2073 .”
+
+
+2) This Act shall extend to the whole territory of the state of Nepal and also enforce to a branch or liaison office opened outside of Nepal by a bank and financial institution incorporated in Nepal.
+
+
+3) This Act shall come into force at once.
+
+---
+
+### Section 2: Definitions
+
+Unless the subject or the context otherwise requires, in this Act,-
+
+
+(a) “Court” means Commercial Bench of the Court designated by the Government of Nepal with approval from the Supreme Court by publishing a notice in the Nepal Gazette.
+
+
+(b) “Chairperson” means the Chairperson of the Board of Directors, and the word also includes the Executive Chairperson.
+
+
+(c) “License” means the license issued by the Rastra Bank under this Act in the name of a bank or financial institution to carry on banking and financial transactions.
+
+
+(d) “Licensed transaction” means banking and financial transactions to be carried out by a bank or financial institution by obtaining a license under this Act.
+
+
+(e) “Bank or financial institution” means a bank or financial institution which has obtained a license pursuant to this Act for carrying on banking or financial transactions.
+
+
+(f) “Significant Ownership” means a situation where any person has, solely or jointly in association with another person or institution, subscribed two percent or more shares of a bank or financial institution and due to which he/she/it may have an influence on the management of the bank or financial institution.
+
+
+(g) “Borrower” means a person, firm, company or institution that obtained credit from a bank or financial institution.
+
+
+(h) “Credit” means the amount lent by bank or financial institution to any person, firm, company, institution or other business enterprise subject to repay principal, interest or other charge within certain time limit, direct or indirect commitment, interest or other charge of the credit, re-finance, restructuring and renewal of the credit, guarantee and other commitment issued for the repayment of such credit and the term also includes any type of credit as specified by the Rastra Bank by publishing public notice.
+
+
+(i) “Chief Executive” means the Chief Executive Officer having the responsibility of operating a bank or financial institution, and the term also includes the Executive Chairperson and Managing Director working as the Chief Executive.
+
+
+(j) “Office” means the registered and central office of a bank or financial institution, and the term also includes any branch office of a bank or financial institution located within Nepal and outside the territory of Nepal and a branch office of a foreign bank or financial institution located in Nepal.
+
+
+(k) “Net worth” means the amount remaining after deducting the external liabilities from the grand total of the assets to be mentioned in the balance sheet of a bank or financial institution.
+
+
+(l) “Non-executive Director” means the Director except the Executive Director performing the daily function of a bank or financial institution.
+
+
+(m) “Current account” means an account of funds deposited with a bank or financial institution by the customer as may be withdrawn at any time on demand.
+
+
+(n) “Paid-up Capital” means the portion of the capital paid up on behalf of shareholders out of the issued capital of a bank or financial institution.
+
+
+(o) “Risk-weight asset” means the total assets calculated by multiplying the amounts coming under each heading of the on-balance sheet and off-balance sheet operations of a bank or financial institution by the risk weight on the format as prescribed by the Rastra Bank.
+
+
+(p) “Liquid assets” means the cash balance of a bank or financial institution, the balance remained in the current account, the balance maintained in Rastra Bank and such assets of a bank or financial institution specified as liquid assets by the Rastra Bank from time to time.
+
+
+(q) “Prescribed” or “as prescribed” means prescribed or as prescribed in the Rules or Byelaws framed under this Act.
+
+
+(r) “Securities” means a share, stock, bond, debenture, debenture stock, or mutual investment scheme certificate issued by a bank, financial institution or body corporate; certificate, saving bond or bond issued by the Government of Nepal or by a corporate body against the guarantee of Government of Nepal, and the word also includes other stock specified by the Securities Board as the stock to be transacted or transferrable through the stock market to sell or exchange such stock.
+
+
+(s) “Articles of Association” means Articles of Association of a bank or financial institution framed pursuant to the prevailing laws relating to companies.
+
+
+(t) “Deposits” means amounts deposited in current, savings or fixed accounts of a bank or financial institution through customers with or without accruing interests, and the term also includes such amounts that a bank or financial institution accepts through different financial instruments as specified by the Rastra Bank from time to time.
+
+
+(u) “Deposit Guarantee” means the Act of security of deposit or guarantee of such deposit pursuant to Section 107.
+
+
+(v) “Office bearer” means a Director, Chief Executive, Company Secretary, and officer-level employee of a bank or financial institution authorised to make a decision on any matter.
+
+
+(w) “Family” means the Director’s husband or wife, son, daughter-in-law, daughter, adopted daughter, father, mother, stepmother, including elder brother, elder sister-in-law, younger brother, younger sister-in-law, elder sister and younger sister of the Director, to be cared or nurtured by him or her.
+
+
+Provided that the term does not include the member of the family being separated with the partition of the family property and carrying out his/her profession or business on his/her own.
+
+
+(x) “Capital” means the authorised capital, issued capital and paid-up capital of a bank or financial institution.
+
+
+(y) “Capital Fund” means the total sum of primary capital and supplementary capital of a bank or financial institution as specified by the Rastra Bank, and the term also includes other funds or amounts as specified by the Rastra Bank from time to time.
+
+
+(z) “Infrastructure Development Bank” means an Infrastructure Development Bank incorporated to carry on financial transactions as mentioned in sub-section (5) of section 49.
+
+
+(aa) “Letter of credit” means a letter written by one bank or financial institution in the name of any other bank or financial institution stating thereon to accept cheques, drafts, or bills of exchange of any specified person within the limit of the amount specified therein.
+
+
+(bb) “Memorandum of Association” means the Memorandum of Association of a bank or financial institution framed pursuant to the prevailing companies’ law.
+
+
+(cc) “Primary Capital” means the funds of a bank or financial institution listed under such headings as the paid-up capital, share premium, non-redeemable preference shares, general reserve fund and accumulated profit and loss, and the term also includes such other funds listed under other headings as may be prescribed as primary capital by the Rastra Bank from time to time.
+
+
+(dd) “Acquiring Institution” means the holding bank or financial institution acquiring an institution being licensed pursuant to this Act.
+
+
+(ee) “Acquisition” means the Act of acquisition by a bank or financial institution to another bank or financial institution having settled the accounts of entire assets and potential liabilities by winding up the legal capacity of such bank or financial institution. The term also includes the Act of accepting all contractual liabilities by the acquiring bank or financial institution created by the target institution before its merger.
+
+
+(ff) “Saving Account” means an account containing details of the amount deposited by any customer for savings in a bank or financial institution.
+
+
+(gg) “Bank” means a corporate body incorporated to carry on banking and financial transactions pursuant to sub-section (1) of Section 49, and the term also includes a branch office of a foreign bank located in Nepal, a branch office opened outside of Nepal by a bank incorporated in Nepal and an Infrastructure Development Bank to carry on functions pursuant to sub-section (5) of Section 49 and a branch office of the same bank.
+
+
+(hh) “Banking and financial transaction” means the banking and financial transaction as referred to in Section 49.
+
+
+(ii) “Bonus share” means a share issued as an additional share to shareholders by capitalising the saving earned from the profits or the reserve fund of a bank or financial institution, and this term also includes the increase of the paid-up value of a share by capitalising the saving or other fund.
+
+
+(jj) “Fixed Account” means a periodic account of funds deposited with a bank or financial institution for a specified term; during such term, normally, the deposited amount cannot be withdrawn.
+
+
+(kk) “Rastra Bank Act” means Nepal Rastra Bank Act, 2058 (2002).
+
+
+(ll) “Rastra Bank” means the Nepal Rastra Bank.
+
+
+(mm) “Targeted Institution” means the bank or financial institution to be merged in the acquiring institution under this Act with entire assets and liabilities.
+
+
+(nn) “Audit Committee” means the Audit Committee referred to in section 60.
+
+
+(oo) “Dividend” means the cash dividend, interim dividend or bonus share to be given by a bank or financial institution according to this Act and prevailing laws.
+
+
+(pp) “Liquidator” means the person appointed to carry out the functions of liquidation of the bank or financial institution according to an order of a court or a resolution passed by a meeting of the creditors, and the word also includes an office carrying out the function of liquidator.
+
+
+(qq) “Leasing” means the Act of acquiring only the possessory right of movable or immovable assets for a specified period of time by retaining the ownership thereof with the bank or financial institution and subject to payment amount therefor in the specified timetable by the customer according to an agreement.
+
+
+(rr) “Off-balance-sheet transaction” means letter of credit, letter of guarantee, letter of acceptance, commitment, swap, option and transaction in advance concerning foreign exchange having the possibility of bearing liabilities by a bank or financial institution, and the word also includes transaction of the instruments as specified by the Rastra Bank from time to time.
+
+
+(ss) “Financial institution” means a corporate body incorporated to carry on banking and financial transactions pursuant to sub-sections (2), (3), or (4) of Section 49 and the terms also include a branch office of a development bank, finance company, microfinance institution or a branch office of a foreign finance company located in Nepal or a branch office opened in abroad by a financial institution incorporated in Nepal.
+
+
+(tt) “Financial interests” means a situation where any Director, shareholder subscribing one percent or more shares or Chief Executive or family member of such person or the person, company, or corporate body having authority to appoint a Director subscribes ten percent or more shares of a firm, company or corporate body separately or jointly, such person or persons are deemed to have financial interests in the institution having ten percent or more shares, and the term also includes the interests which the Rastra Bank specifies as having financial interests depending upon the nature and circumstance of monetary transaction.
+
+
+(uu) “Branch of a foreign bank or financial institution” means a branch of any bank or financial institution having obtained a license from Rastra Bank under this Act in order to carry out banking and financial transactions having established a branch office in Nepal.
+
+
+(vv) “Electronic transaction” means the business of accepting deposits, making payments and transferring funds through telephone, telex, computers or magnetic tapes or similar types of other electronic equipment; and this term also includes the transactions to be carried on through terminal, automated teller machines and cash dispensing machines, as well as those to be carried on through charge cards, debit or credit card.
+
+
+(ww) “Prospectus” means the prospectus to be published by the bank or financial institution pursuant to Section 8.
+
+
+(xx) “Branch Office” means any branch, sub-branch, unit, area, and representative or liaison office of a bank or financial institution within and outside Nepal and any office including branch or representative office or liaison office or other office of a foreign bank or financial institution in Nepal.
+
+
+(yy) “Share” means the divided portion of the share capital of a bank or financial institution.
+
+
+(zz) “Shareholder” means a person having ownership in a share of a bank or financial institution.
+
+
+(aaa) “Director” means a member of the Board of Directors, and the term also includes the Chairperson of the Board of Directors as well as an Alternate Director.
+
+
+(bbb) “Board of Directors” means the Board of Directors constituted pursuant to Section 14.
+
+
+(ccc) “Promoter” means a person who, having undertaken to subscribe at least one share, signs the Memorandum of Association and the Articles of Association in the capacity of Promoter for the establishment of a bank or financial institution pursuant to this Act.
+
+
+(ddd) “Affiliated person” means a Director, official of a bank or financial institution or his/her family member or any firm, company or institution having substantial ownership of such person or any person, firm, company or institution having substantial ownership in such firm, company or institution or beneficial owner with substantial ownership thereof.
+
+
+(eee) “Independent Director” means the person appointed to the position of Independent Director pursuant to sub-section (3) of Section 14.
+
+
+(fff) “Voluntary Liquidation” means the situation in which a bank or financial institution initiates voluntary liquidation pursuant to Chapter 11.
+
+
+(ggg) “Creditor” means a person or a body corporate to whom/which a bank or financial institution has to pay, and the term also includes a depositor and debenture-holder for the purpose of the liquidation process.
+
+
+(hhh) “Hypothecation Loan” means the loan disbursed having agreed with a bank or financial institution and a Borrower against the collateral security of the stock having retained such stock under the possession of the concerned borrower.
+
+---
+
+
+---
+
+## Chapter &#8211; 2 Provisions on Incorporation of Bank or Financial Institution
+
+### Section 3: Incorporation of Bank or Financial Institution
+
+1) Any person who is desirous of incorporating a bank or financial institution to carry on financial transactions according to this Act shall have to incorporate it by getting such bank or financial institution registered as a public limited company in accordance with the prevailing laws.
+
+
+Provided that the bank or financial institution which has already been incorporated and is in operation during the commencement of this Act is not required to be incorporated pursuant to this sub-section.
+
+
+2) The official authorised under the laws in force to register a company pursuant to sub-section (1) shall have to register the company subject to Section 4.
+
+---
+
+### Section 4: Prior-approval to be obtained to incorporate bank or financial institution
+
+1) The person or institution willing to incorporate a bank or financial institution under Section 3 shall, while submitting an application for getting such bank or financial institution registered according to the prevailing laws, have to submit an application to the Rastra Bank along with the prescribed fee for obtaining prior approval having enclosed therewith the following documents:-
+
+
+(a) Memorandum of Association of the proposed bank or financial institution,
+
+
+(b) Articles of Association of the proposed bank or financial institution,
+
+
+(c) Feasibility study report of the proposed bank or financial institution,
+
+
+(d) Personal details of applicants in the form as prescribed by the Rastra Bank,
+
+
+(e) A certified copy of the agreement, if any, made between the applicants prior to incorporation of the bank or financial institution in relation to incorporation of the bank or financial institution,
+
+
+(f) Evidence of the statement disclosing the sources of income and of tax clearance by the applicants up to the fiscal year immediately preceding the making of an application pursuant to this Section,
+
+
+(g) Details as to whether or not the applicant of the proposed bank or financial institution is declared bankrupt in Nepal and abroad, whether or not he/she has borrowed any loan from any bank or financial institution, whether or not a person has been blocked in any transaction with a bank or financial institution, if so, whether or not a period of three years is passed after having such blocklisting,
+
+
+(h) Self-declaration of the applicant stating that no action has been taken and no punishment has been imposed against the applicant in Nepal or abroad for being involved in cheating, fraud or criminal offence as per the prevailing laws,
+
+
+(i) Details as to whether or not action has been taken against the applicant in Nepal or abroad by any regulating or supervisory authority or whether or not the license of the company, bank or financial institution with which he/she is associated has been suspended, revoked or subjected to mandatory dismissal or is in the course of being so,
+
+
+(j) Details as to name and address and relationship of the members of the family of the applicant; significant ownership and capacity of each of them and if any of them is a Director, official or employee in any institution; details as to the title of posts each of them holds,
+
+
+Provided that in case the applicant is a body corporate, details as to the person having substantial ownership or capacity in that body corporate, the audited financial statements of the last three years, as well as the tax clearance certificate of that corporate body shall also be enclosed.
+
+
+(k) Written authority given to the Rastra Bank to allow it to conduct or to cause to conduct an inquiry as to the financial and professional background of the applicant and to share such notice and information,
+
+
+(l) An undertaking that the deposits to the limits as prescribed by the Rastra Bank will be guaranteed/insured,
+
+
+(m) Other details or documents are specified by Rastra Bank from time to time.
+
+
+2) Rastra Bank may, if it finds appropriate to grant approval upon the examination of the application submitted for prior approval pursuant to SubSection (1) and enclosed documents, grant its approval to incorporate such bank or financial institution within one hundred twenty days after the filing of the application, with or without prescribing any conditions.
+
+
+3) Notwithstanding anything contained in sub-section (2), no prior approval shall be given to incorporate a bank or financial institution to the following persons and the firms or companies having substantial ownership of such person and of the member of their family:-
+
+
+(a) Subjected to regulatory actions of the Rastra Bank,
+
+
+(b) Punished in banking offences,
+
+
+(c) Punished for cheating, fraud, forgery
+
+
+(d) Punished in the offence of money laundering and terrorist financing,
+
+
+(e) Punished in the offence of corruption,
+
+
+(f) Punished in the serious types of offences such as human trafficking, kidnapping, hostage, and rape.
+
+---
+
+### Section 5: Prior approval to be obtained for Incorporation of Bank or Financial Institution on  Foreign Investment
+
+1) Any foreign bank or financial institution shall, prior to incorporation of a bank or financial institution as a subsidiary company under this Act in a joint venture with a body corporate registered in Nepal or a Nepali citizen or to maintain the share capital as specified by the Rastra Bank, have to submit the following documents and details as well along with the fee specified by the Rastra Bank while applying pursuant to sub-section (1) of Section 4:-
+
+
+(a) The Memorandum of Association, Articles of Association of foreign bank or financial institution and a copy of the certificate of incorporation of the bank or financial institution in the concerned country and capital structure thereof,
+
+
+(b) Copy of the license of the foreign bank or financial institution obtained from the concerned country for carrying on banking and financial transactions,
+
+
+(c) Details as to the principal place of business,
+
+
+(d) Certified copy of the audited balance sheet and profit and loss account of the last three years of the foreign bank or financial institution,
+
+
+(e) Details as to the proposed business plan in Nepal, business strategies and types of transaction to be carried out internal control, and risk management,
+
+
+(f) Decision made by the foreign bank or financial institution as per the prevailing laws of the concerned country to open a bank or financial institution in Nepal and authority granted by the regulatory body of the concerned country.
+
+
+2) Rastra Bank may, if it finds appropriate to grant approval upon examination of the application submitted for prior approval pursuant to sub-section (1) and enclosed documents, grant its approval to a foreign bank or financial institution for incorporation of bank or financial institution in a joint venture or within the prescribed share limit within one hundred twenty days after the filing of the application, with or without prescribing any conditions.
+
+
+3) A foreign bank or financial institution may, with approval from the Rastra Bank, take share ownership of a local bank or financial institution having been in operation as a joint venture by completing the procedures as prescribed by the Rastra Bank.
+
+
+4) Notwithstanding anything contained elsewhere in this Act, the investment made by any foreign bank or financial institution or other foreign institution by getting approval pursuant to prevailing laws before the commencement of this Act shall be deemed to have been continued.
+
+---
+
+### Section 6: Approval to be obtained to open Branch Office of Bank or Financial Institution
+
+1) If any internationally rated foreign bank or financial institution desires to open a branch office to carry on banking and financial transactions or non-banking financial transactions within Nepal, prior approval of the Rastra Bank should be obtained before opening such a branch office.
+
+
+2) For the purpose of sub-section (1), an application has to be submitted to the Rastra Bank along with the capital and fees as prescribed by the Rastra Bank.
+
+
+3) While submitting the application pursuant to sub-section (2), such foreign bank or financial institution shall have to submit the following details and documents in addition to the details and documents as referred to in sub-section (1) of Section 5:-
+
+
+(a) Written commitment of the Board of Directors that it will make available on demand of the Rastra Bank the amount necessary for fulfilling its entire liabilities with regard to business activities of its branch of representative or liaison office of concerned foreign bank or financial institution in Nepal,
+
+
+(b) Details as to the location of the proposed branch office of the foreign bank or financial institution,
+
+
+(c) Details as to the possible office bearers to be engaged in the proposed branch office of the foreign bank or financial institution.
+
+
+4) The Rastra Bank may, If deemed necessary demand further documents or details while carrying out an inquiry to the documents or details submitted pursuant to sub-section (3), demand required documents or details from the concerned applicant.
+
+
+5) The Rastra Bank may, if it deems appropriate to grant prior approval while carrying out an inquiry of the additional documents submitted pursuant to sub-section (3) and of the documents asked for submission pursuant to sub-section (4), grant approval to open a branch office in Nepal within one hundred twenty days after the filing of the application, with or without prescribing any conditions.
+
+
+6) The foreign bank or financial institution, after obtaining prior approval pursuant to sub-section (5), shall have to register as the branch office according to the prevailing laws relating to companies.
+
+
+7) The branch office of the foreign bank or financial institution registered pursuant to sub-section (6) shall have to submit an application before the Rastra Bank along with the following documents and details as well as the charge or fee as prescribed by the Rastra Bank for approval to carry on baking and financial transaction in Nepal:-
+
+
+(a) Registration certificate of being registered according to the prevailing laws to carry on baking and financial transactions in Nepal as a branch office,
+
+
+(b) Letter of approval or consent granted by the Government or central bank or regulating agency according to the law of the concerned country of the foreign bank or financial institution to open a branch office of such bank or financial institution in Nepal,
+
+
+(c) Details of the discrepancy, if any, in any matter to be completed by the concerned foreign bank or financial institution under this Act after submission of application before the Rastra Bank for establishment of a branch office of the foreign bank or financial institution or after obtaining approval from the Rastra Bank,
+
+
+(d) Other information and documents demanded by the Rastra Bank.
+
+
+8) The Rastra Bank may, if it deems appropriate upon carrying out an inquiry over the application received pursuant to sub-section (7), grant approval to such branch office of a foreign bank or financial institution for carrying on banking and financial transaction in Nepal within 90 days from the date of filing the application.
+
+
+9) The Rastra Bank may, while granting approval pursuant to sub-section (8), prescribe necessary terms and conditions.
+
+
+10) A bank or financial institution may open a branch office outside of Nepal by obtaining approval from the Rastra Bank.
+
+
+11) The Rastra Bank may frame necessary policies from time to time with regard to opening branch offices outside of Nepal pursuant to sub-section (10).
+
+---
+
+### Section 7: Prior approval may be denied
+
+1) The Rastra Bank may deny granting prior approval for incorporation of any bank or financial institution and for opening a branch office of the foreign bank or financial institution in the following circumstances:
+
+
+(a) If the name or banking and financial transaction to be carried out by the proposed bank or financial institution is not found to be appropriate from the point of view of public interests, religion, ethnicity or traditional belief, etc.,
+
+
+(b) If the objective of the proposed bank or financial institution is contrary to the prevailing laws
+
+
+(c) If incorporation of the proposed bank or financial institution does not seem to be technically appropriate,
+
+
+(d) If a study of the feasibility study report, details and documents of other infrastructures submitted by the proposed bank or financial institution do not provide a ground to believe that it may carry on
+financial transactions healthily and competitively,
+
+
+(e) If not all promoters of the proposed bank or financial institution have signed the Memorandum of Association and Articles of Association, also stating their names, addresses and number of shares subscribed by them, in the presence of a witness and the name and address of the witnesses have not been mentioned,
+
+
+(f) If per person share investment limit and share ownership ratio has not been found to have been maintained as specified by the Rastra Bank from time to time,
+
+
+(g) If it is found to be inconsistent with the policy relating to the incorporation of bank or financial institution and licensing policy issued by the Rastra Bank,
+
+
+(h) If any condition as prescribed by the Rastra Bank has not been found to be fulfilled.
+
+
+2) If Rastra Bank denies granting prior approval to the proposed bank or financial institution for any of the reasons referred to above, information shall be given to the applicant stating the reasons thereof
+
+---
+
+
+---
+
+## Chapter-3 Provisions Concerning Transactions of Securities
+
+### Section 8: Prospectus
+
+1) A bank or financial institution shall, before the public offering of its securities, have to get the prospectus registered at the Rastra Bank, having obtained necessary approval concerning securities according to the prevailing laws.
+
+
+2) Unless such prospectus is registered pursuant to sub-section (1), the said bank or financial institution or anyone on behalf of the bank or financial institution shall not be allowed to publish the prospectus of such bank or financial institution.
+
+
+3) Notwithstanding anything contained in sub-section (1), unless the Rastra Bank receives a written notification of the approval from the Securities Board to register the prospectus, the Rastra Bank shall not register such prospectus.
+
+---
+
+### Section 9: Allotment of Shares
+
+1) The bank or financial institution shall set aside at least thirty percent share of its total issued capital for subscription by the general public.
+
+
+Explanation: For the purpose of this section, “general public” means natural person.
+
+
+2) The shares allotted to the general public pursuant to sub-section (1) shall be sold to the general public within the stipulated time. The shares that could not be sold in such a manner may be sold to other firms, companies or institutions.
+
+
+3) The bank or financial institution may allot 0.5% shares, except that of the limit referred to in sub-section (1), to its employees.
+
+
+4) The bank or financial institution may, if it desires, convert the shares to ordinary shares, having fulfilled the process specified by the Rastra Bank subject not to the share ownership of the promoter shares group less than 51 percent.
+
+
+Explanation: For the purpose of this Chapter,-
+
+
+(a) “Promoter shares group” means the promoter shares group as prescribed by the Rastra Bank.
+
+
+(b) “Ordinary shares group” means the shares groups other than the promoter shares group.
+
+
+5) Notwithstanding anything contained in sub-section (1), the ratio of share ownership is not necessary in the case of the bank or financial institution and infrastructure development bank to be incorporated under significant ownership of the Government of Nepal.
+
+
+6) The bank or financial institution to be incorporated in a joint venture with a foreign bank or financial institution or other foreign institution or infrastructure development bank shall have to allot the shares to the general public as specified by the Rastra Bank.
+
+
+7) While calling upon application from the general public for the subscription of its shares, every bank or financial institution shall demand payment of a hundred percent amount of the face value of its shares along with the application.
+
+---
+
+### Section 10: Transactions of Securities
+
+(1) The bank or financial institution shall, while issuing its securities for subscription to the general public, carry out the acts of sale, allotment and the act of exchange in accordance with the prevailing laws
+relating to securities.
+
+
+(2) The bank or financial institution shall submit a copy of an agreement entered into by it on the dealing of securities through any institution dealing in securities before the Rastra Bank within seven days after the date of entering into such agreement.
+
+
+(3) The bank or financial institution shall, while issuing any type of debenture or financial instrument, have to obtain prior approval from the Rastra Bank.
+
+
+(4) The Rastra Bank ma, while approving pursuant to sub-section (3), specifies required terms and conditions, and it shall be the duty of the concerned bank or financial institution to abide by such terms and conditions.
+
+---
+
+### Section 11: Provision on sale or pleading of Securities
+
+1) The promoter of the bank or financial institution shall not be entitled to sell or pledge any share registered under his/her ownership for at least five years from the date of commencement of financial transactions.
+
+
+2) Notwithstanding anything contained in sub-section (1), in case of arising a special circumstance due to the emergence of any obstruction or hindrance in the operation of the bank or financial institution or the promoter shareholder is included in the blocklist owing to transactions with another bank or financial institution, shares may be sold or brought amongst promoters by obtaining approval from the Rastra Bank.
+
+
+Explanation:  For the purpose of this Section, “special circumstance” means failure to hold a meeting of the Board of Directors due to lack of quorum for a consecutive period of three times or a situation of indecision because of disputes amongst Directors.
+
+
+3) If the promoter of the bank or financial institution wishes to sell or pledge the shares held in his/her name after five years from the date of commencement of financial transactions by the bank or financial institution, his/her may sell or pledge such shares by obtaining approval from the Rastra Bank subject to belong such share under the promoter’s group.
+
+
+Provided that approval of the Rastra Bank shall not be required while selling or pledging the shares by the promoter having subscribed the shares of less than two percent of the paid-up capital.
+
+
+4) Notwithstanding anything contained in sub-section (1) and sub-section (2) of Section 9, after completion of a period of ten years of transactions of bank or financial institution, the promoter shares may be converted into ordinary shares with the approval of the Rastra Bank by giving due consideration to impact it causes on the capital market, banking and overall financial sector.
+
+
+5) In case any company or body corporate has subscribed promoter shares, prior approval of the Rastra Bank shall be obtained before the alteration of shareholders or sale or transfer of the ownership of shares among the shareholders having substantial ownership of such company or body corporate.
+
+
+Provided that approval of the Rastra Bank shall not be required while selling or mortgaging the shares by a company or body corporate having subscribed the shares of less than two percent of the paid-up capital of the bank or financial institution.
+
+---
+
+### Section 12: Prohibition on transaction of Securities
+
+1) The Director, Chief Executive, Auditor, Company Secretary of the bank or financial institution or the person directly involved in the management and account of a bank or financial institution shall not buy or sell, mortgage or cause to be mortgaged, transfer or transact or give or accept as a donation the securities of the concerned bank or financial institution or of its subsidiary company in his/her name or in name of member of his/her family or a firm, company or institution under the control of such person or to any other person until he/she is in such position or until one year from the date of retirement from such position.
+
+
+Provided that this Sub-Section is not deemed to have hindered to buy and sell securities among Directors to Directors or Directors to Promoters with the approval of the Rastra Bank while issuing bonus shares, rights shares or the shares allotted for employee or issuing new shares, or while implementing a directive of the Rastra Bank or while selling entire share having in any bank or financial institution under own ownership by any Director or any corporate body having power to appoint Director or while merging or amalgamating bank or financial institutions in each other according to provisions made in Chapter-10 or while acquiring all assets or liabilities of one bank or financial institution by another bank or financial institution or while carrying out purchase or sale of securities among promoter directors or directors to directors with the approval of the Rastra Bank in case of emergence of any hurdle in operation of the bank or financial institution or while carrying out purchase or sale or transfer of shares during the process of reformative or settlement process of a problematic bank.
+
+
+2) In case anyone commits any act in contrary with sub-section (1), the concerned bank or financial institution shall have to forfeit such securities and sell them according to the process as prescribed by the Rastra Bank.
+
+---
+
+### Section 13: Prohibition on purchase by Bank or Financial Institution of its’ own Shares
+
+1) No bank or financial institution shall purchase its own shares or lend a loan against the security of its own shares.
+
+
+2) Notwithstanding anything contained in sub-section (1), in the following circumstances, a bank or financial institution may, with the approval of the Rastra Bank, purchase its shares out of its free reserves available for being distributed as dividends not exceeding the percentage prescribed by the Rastra Bank: –
+
+
+(a) If the shares issued by the bank or financial institution are fully paid up,
+
+
+(b) If the shares issued by the bank or financial institution have already been listed in the securities market,
+
+
+(c) If the Articles of Association of the concerned bank or financial institution authorise the buy-back of own shares,
+
+
+(d) If a special resolution has been adopted at the General Meeting of the concerned bank or financial institution authorising the buy-back of own share,
+
+
+(e) If the ratio of the debt owed by the bank or financial institution is not more than double the capital and general reserve fund after such buy-back of shares,
+
+
+Explanation: For the purposes of this sub-section, “debt” means all amounts of secured or unsecured debts borrowed by the bank or financial institution.
+
+
+(f) If the value of shares to be bought back by a bank or financial institution is not more than twenty percent of the total paid-up capital and general reserve fund of that bank or financial institution,
+
+
+(g) If the buy-back of shares complies with the directives relating to the capital fund issued by the Rastra Bank to the bank or financial institution,
+
+
+(h) If it is not against the directives issued by the Rastra Bank from time to time with regard to buy back of shares.
+
+
+3) Any bank or financial institution shall have to make an application before the Rastra Bank for getting approval to buy back its own share pursuant to sub-section (2) with the following details:-
+
+
+(a) The reason, necessity, time duration and modus operandi for the buy-back of shares,
+
+
+(b) A statement of the evaluation of possible impacts on the financial situation of the bank or financial institution as a result of the buy back of shares,
+
+
+(c) The type of share, par value of share and number of shares purpose to buy-back,
+
+
+(d) The maximum or minimum amount required to buy back shares as referred to in Part (c) and the source of such amount,
+
+
+(e) Such other matters as specified by the Rastra Bank with regard to the buy-back of shares,
+
+
+(f) Other necessary matters to be mentioned as per the prevailing laws.
+
+
+4) The Rastra Bank may, in case it deems appropriate to grant approval to such bank or financial institution to buy back its own shares based on the application acquired pursuant to sub-section (3) and details enclosed with it, grant such approval.
+
+
+5) Upon receipt of the approval pursuant to sub-section (4), the concerned bank or financial institution may buy back its shares in any of the following manners within six months from the date of receipt of such approval or within twelve months of the adoption of a special resolution at the General Meeting, whichever occurs later: –
+
+
+(a) Purchasing through the securities market,
+
+
+(b) Purchasing from the existing shareholders on a proportional basis.
+
+
+6) If a bank or financial institution buys back its own shares pursuant to sub-section (5), it shall file with the Rastra Bank a return containing the number of shares bought back, the amount paid for the same and other necessary details within thirty days of the date of such buy-back.
+
+
+7) There shall be established a separate capital redemption reserve fund, to which a sum equal to the face value of the shares bought back pursuant to sub-section (5) shall be transferred, and the amount of such fund shall be maintained as if it is the paid-up capital.
+
+
+8) If the bank or financial institution buys back its shares pursuant to sub-section (5), it shall cancel the shares so bought back within one hundred twenty days of the date of such buy-back.
+
+
+9) Other provisions regarding the buy-back of own shares by the bank or financial institution shall be as prescribed by the Rastra Bank.
+
+---
+
+
+---
+
+## Chapter- 4 Provisions on Board of Directors and Chief Executive
+
+### Section 14: Formation of Board of Directors
+
+1) A bank or financial institution shall have a Board of Directors comprising at least five Directors and not exceeding seven Directors.
+
+
+2) Subject to this Act and the Articles of Association, the General Meeting of the bank or financial institution shall appoint Directors.
+
+
+Provided that,-
+
+
+(a) Until the First Annual General Meeting of the bank or financial institution is held, promoters shall appoint the Directors.
+
+
+(b) In case the position of any Director falls vacant before the holding of the Annual General Meeting, the Board of Directors may appoint a Director until the next General Meeting is held.
+
+
+(c) In case any corporate body has subscribed shares, it may appoint a Director to the proportion of the number of shares it has subscribed, and while nominating in such a manner, the same person shall not be nominated to more than one bank or financial institution.
+
+
+(d) Notwithstanding anything contained in Part (c), there shall be no obstruction to appoint a person who is a Director in any bank or financial institution as Director of an Infrastructure Development
+Bank.
+
+
+3) The Board of Directors shall appoint at least one Professional Director from among the persons possessing qualifications and experience pursuant to Section 17, and information thereof shall be furnished to the First General Meeting to be held after such appointment.
+
+
+Provided that the promoter, Director or shareholder possessing more than 0.1 percent share of the bank and financial institution and his/her member of family shall not be allowed to become a Professional Director.
+
+
+4) Notwithstanding anything contained in sub-sections (1) and (3), no more than one member of a family may become the Director of any bank or financial institution at the same time.
+
+
+5) A Director chosen by the Directors from among themselves by majority decision shall be the Chairperson of the Board of Directors.
+
+
+6) The company, corporate body, foreign bank or financial institution which has subscribed shares of a bank or financial institution may, while appointing a director to proportionate to the shares as it has subscribed, appoint an Alternate Director to work in the absence of the Director.
+
+---
+
+### Section 15: Term of Office of the Director
+
+1) The term of office of a Director shall be four years in maximum as provided for in the Articles of Association, and he/she may be reappointed or re-nominated.
+
+
+Provided that the Independent Director may be appointed for only a single tenure of office.
+
+
+2) Notwithstanding anything contained in sub-section (1), the Executive Chairperson or Managing Director appointed after the commencement of this Act shall remain in the office only for two consecutive terms
+
+---
+
+### Section 16: Qualifications of Director
+
+1) The person to be appointed to the office of Director shall have to possess the following qualifications:-
+
+
+(a) Having had work experience of five years as a Director or office bearer level of a foreign or local bank or financial institution or of body corporate of related sector or in officer level of Government of Nepal, or
+
+
+(b) Having attained a bachelor’s degree and had work experience of at least three years as a Director or office bearer level of a foreign or local bank or financial institution or of body corporate of related sector or at least in officer level of Government of Nepal, or
+
+
+(c) Having attained a master’s degree in the related subject as prescribed.
+
+
+2) Notwithstanding anything contained in sub-section (1), the academic qualifications and experiences of the Director of a financial institution of class “D” shall be as prescribed by the Rastra Bank from time to time.
+
+
+Provided that the qualification of independent Director shall be as mentioned in Section 17.
+
+---
+
+### Section 17: Qualifications of Independent Director
+
+While appointing an Independent Director of the bank or financial institution, appointment shall be made from amongst the persons having met the following qualifications and experience:-
+
+
+(a) In the case of class “A” bank or national level class “B” development bank, having obtained at least a master’s degree in the subject as prescribed by the Rastra Bank and experiences as prescribed by the Rastra Bank,
+
+
+(b) In the case of class “B” development bank and financial institution of class “C”, except the class “B” development bank of national level, having obtained at least a bachelor’s degree in the subject prescribed by the Rastra Bank and work experiences as prescribed by the Rastra Bank,
+
+
+(c) In the case of microfinance institution of class” “D”, the person possessing the qualifications and experiences prescribed by the Rastra Bank.
+
+---
+
+### Section 18: Disqualification of Directors
+
+1) The following persons shall not be eligible to become a Director of the bank or financial institution:-
+
+
+(a) Having not attained the age of 25 years,
+
+
+(b) Having an unsound mind or insane,
+
+
+(c) Having declared bankrupt in Nepal or abroad for being unable to pay debt,
+
+
+(d) Having blocked or declared defaulter in connection with any transaction with any bank or financial institution in Nepal or in abroad, and a period of at least three years has not been completed after removal of his\her name from the blocklist or list of defaulter,
+
+
+(e) The incumbent Director or an employee of any corporate body carrying out transactions of bank or financial institution or any institution collecting any type of deposits or carrying out transactions relating to insurance,
+
+
+(f) Borrower or incumbent auditor or advisor of concerned bank or financial institution or the person, firm or company who/which is the partner in any kind of contract with the concerned bank or financial institution or having personal interests,
+
+
+(g) Who has acquired membership of the Stock Exchange to act as a securities broker of merchant banker,
+
+
+(h) Incumbent Director of the bank or financial institution,
+
+
+(i) The person who has not subscribed to the minimum number of shares required to be subscribed to be eligible for appointment as a Director pursuant to the Articles of Association of the bank or
+financial institution,
+
+
+(j) Incumbent employee of the Government of Nepal, or an organisation having ownership of Government of Nepal, or Rastra Bank or of a bank or financial institution,
+
+
+Provided that this provision shall not be deemed to have made obstruction to nominate a Director in micro-finance or infrastructure development bank, of which share has been purchased by the Government of Nepal or the institution having under the ownership of Government of Nepal or Rastra Bank or bank or financial institution.
+
+
+(k) Who, having a liability to pay tax pursuant to the laws in force, has failed to pay the same
+
+
+(l) Having not completed a period of ten years after replenishment of punishment upon being convicted of an offence of theft, cheating, forgery, fraud, corruption, any offence involving moral turpitude or a banking offence from a court of Nepal or of a foreign country,
+
+
+(m)Having been taken action by a regulatory agency as per law for committing an act against the law and not having completed a period of five years after being taken such action,
+
+
+(n) In case of an independent director, promoter or shareholder holding ownership of more than 0.1 % share of the concerned bank or financial institution,
+
+
+(o) Having remained to clear imprisonment and dues of fine as imposed by the court or having defaulted to pay government due.
+
+
+2) Notwithstanding anything contained in Part (e) of Sub-Section (1), an official or employee of a bank or financial institution may work as a Director of the subsidiary company of the same bank or financial institution.
+
+---
+
+### Section 19: Circumstances for ineligibility to remain in office of Director
+
+1) No person shall remain in the office of the Director of the bank or financial institution in any of the following circumstances:-
+
+
+(a) If having no qualifications as referred to in Section 16 or 17 or is ineligible pursuant to Section 18,
+
+
+(b) In case the motion to remove from the office of a Director is passed by a majority of the general meeting at the recommendation of the group from which he/she is appointed to the office of Director that is passed by the shareholders having representation of at least 51 percent of the shares of the same group,
+
+
+Explanation: For the purpose of this Section, “group” means a group of promoters and shareholders from the general public.
+
+
+(c) In case the resignation tendered by a Director from his/her position is approved,
+
+
+(d) In case of commission of any act that is not supposed to be committed under this Act or directives of Rastra Bank,
+
+
+(e) In case the Rastra Bank directs to remove from the office stating that since a Director has committed acts against rights and interests of the bank or financial institution or of the depositors and since he/she is not competent to carry out works as in the office of a Director of the bank or financial institution.
+
+
+2) In case a bank or financial institution deems that any of its directors is ineligible to remain in the office of the Director according to this Act or the Rastra Bank Act or is no more in the office, written information thereof shall be given to the Rastra Bank within fifteen days.
+
+
+3) The Rastra Bank may if it has received in written form with regard to a Director that he/she is ineligible to remain in the office as stated in sub-section (2), issue appropriate direction after carrying out the necessary enquiry.
+
+---
+
+### Section 20: As to an incumbent Constitutional Position Holder
+
+No person who holds a constitutional position shall, so long as he/she is holding such position, be eligible in the Board of Directors or as the Chief Executive of any bank or financial institution.
+
+---
+
+### Section 21: Meetings of Board of Directors
+
+1) Meetings of the Board of Directors shall have to be held at least 12 times in a year.
+
+
+Provided that the gap between the two meetings shall not be more than sixty days.
+
+
+2) The Chairperson shall convene a meeting of the Board of Directors at any time when at least one-third of the Directors request in writing to convene the meeting by mentioning the agenda to be discussed in the meeting.
+
+
+3) Meetings of the Board of Directors shall be presided over by the Chairperson. In the absence of the Chairperson, the meeting shall be presided over by a Director selected by a majority of the Directors from amongst themselves.
+
+
+4) No meeting of the Board of Directors shall be held unless it is attended by at least fifty-one percent of the total number of Directors.
+
+
+5) The decision of a majority in the meeting of the Board of Directors shall be binding, and the Chairperson may exercise the casting vote only in the event of a tie.
+
+
+6) Minutes regarding the names of Directors attended in the meeting of the Board of Directors, the agenda discussed, and the decisions taken thereon shall be recorded in a separate book, and such minutes shall be signed by all Directors attended in the meeting.
+
+
+Provided that, if any Director puts forward any dissenting opinion in the decision of the Board of Directors, he/she may mention such dissenting opinion in the minutes by putting his/her signature.
+
+---
+
+### Section 22: Functions, Duties and Powers of Board of Directors
+
+1) All functions, duties and powers to be exercised by the bank or financial institution, except those functions to be performed by the General Meeting, shall be vested in the Board of Directors subject to this Act, prevailing laws and the Memorandum of Association and Articles of Association.
+
+
+2) It shall be the duty of the Board of Directors to operate a bank in the interests of depositors, customers, and general shareholders having taken overall risks management of the bank or financial institution and to make assurance not to intervene in the daily conduct of business such as deposit collection, lending, investing, managing personnel, making expenses from budget having maintained appropriate corporate governance in the bank or financial institution.
+
+
+3) Other functions, duties and powers of the Board of Directors shall be as follows:-
+
+
+(a) To frame necessary Byelaws, directives, and procedures and to enforce them subject to this Act, the prevailing laws and directives of the Rastra Bank in order to carry on the functions of bank or financial institution in good order,
+
+
+(b) To prepare an internal control system and risk management norms for avoiding the emergence of risk or risk-prone situations in transactions of bank or financial institutions and to carry on banking and financial transactions carefully according to its policies and strategies,
+
+
+(c) To make necessary policy management for carrying out functions of a bank or financial institution and to operate the bank or financial institution in an order and rational manner by carrying out regular monitoring of such functions,
+
+
+(d) To prepare a clear organisational structure of the bank or financial institution and frame policies and implement it accordingly,
+
+
+(e) To submit an audit report, including the annual progress report of the bank or financial institution, before the General Meeting,
+
+
+(f) To carry out other functions as specified by the Rastra Bank from time to time.
+
+---
+
+### Section 23: Accountability and Responsibility of Director
+
+1) A Director shall not commit or cause to be committed any act for personal benefit through a bank or financial institution or in the course of business of a bank or financial institution.
+
+
+2) A Director shall be personally liable for any act carried out exceeding his/her authority as in the capacity of a Director of the bank or financial institution.
+
+
+3) A Director of a bank or financial institution shall have to assume responsibility with regard to risk management and internal control by following sound business strategies of the institution.
+
+
+4) A Director shall not have to intervene in the daily functions and activities of the management of the bank or financial institution.
+
+
+5) A Director shall have to fully comply with the directives issued by the Rastra Bank from time to time.
+
+---
+
+### Section 24: Details of Directors to be collected
+
+A bank or financial institution shall collect the following details of a Director:-
+
+
+(a) Name, surname, address, academic qualifications, profession and experience of the Director,
+
+
+(b) Details as to designation and responsibility if he/she has worked earlier as Director, official or employee of any other agency,
+
+
+(c) Details as to name and address of family of the Director and relevant person’s details and financial interests of himself/herself or his/her family in bank or financial institution or other agencies, share ownership in his/her name and names of the family of said institution,
+
+
+(d) Details of the shares and debentures subscribed by the Director or his/her family members in the bank or financial institution or its holding or subsidiary company,
+
+
+(e) Details of the family members working as officials or employees in the concerned bank or financial institution, if any,
+
+
+(f) Details as to whether the concerned bank or financial institution has, or is going to have, any type of agreement with himself/herself or his/her family member,
+
+
+(g) Details as to whether any type of interests or concerns with regard to the appointment of Chief Executive, Company Secretary and Auditor,
+
+
+(h) Written authority given to the Rastra Bank to allow it to conduct an inquiry or to cause to be conducted the inquiry as to the financial and professional background of the Director,
+
+
+(i) Self-declaration that he/she is qualified to be the Director pursuant to this Act,
+
+
+(j) Any other details as specified by Rastra Bank from time to time to be furnished before the Rastra Bank and the Board of Directors.
+
+---
+
+### Section 25: Information of Director and Record
+
+1) A Director shall have to submit the details referred to in sub-section (1) of Section 24 to the bank or financial institution within seven days of his/her appointment.
+
+
+2) The bank or financial institution shall have to separately maintain records of the details submitted pursuant to sub-section (1).
+
+
+3) In case a Director or any member of his/her family acquires any substantial ownership or any type of interest in the bank or financial institution directly or indirectly, such Director shall have to present full details thereof at the first meeting of the Board of Directors.
+
+
+4) The Director shall, while conducting discussions on any subject related to any interests in the Board of Directors or in any other sub-committee, have to inform about such interests at the beginning of the meeting and he/she shall not take part in the discussions or voting on such subjects.
+
+
+5) In case there is a change in the details as referred to in sub-section (2) or Director has been changed, information thereof has to be submitted to the Rastra Bank within 15 days.
+
+
+6) The Rastra Bank, if it deems it appropriate to conduct an inquiry on the information forwarded pursuant to sub-section (5), shall have powers to conduct or cause to be conducted inquiry on it.
+
+---
+
+### Section 26: Sub-Committees may be formed
+
+1) Except otherwise expressly provided for in this Act that particular work shall be carried out by any specific agency or official, the Board of Directors may form one or more sub-committee/s for any particular purpose subject to the directives of the Rastra Bank.
+
+
+Provided that the Chairperson of the Board of Directors shall not be allowed to remain in the sub-committee.
+
+
+2) The functions, duties, powers and rules of procedure of the sub-committee formed pursuant to sub-section (1) and the remuneration or allowances receivable by the member for attending its meetings shall be as prescribed by the Board of Directors and such functions carried out by such sub-committee and expenditures incurred thereof shall be clearly mentioned in the annual report.
+
+---
+
+### Section 27: Delegation of Power
+
+The Board of Directors may, having stated the rational and reasons, delegate any of its powers to any Director, a sub-committee formed pursuant to Section 26, the Chief Executive or any person acting as the Chief Executive of the bank or financial institution on the condition that such powers shall be exercised under its supervision or direction.
+
+---
+
+### Section 28: Allowances and Facilities of the Director
+
+Meeting allowances and other facilities to be entitled to a Director for being present in the meeting shall be as provided for in the Articles of Association.
+
+---
+
+### Section 29: Appointment of Chief Executive and Terms and Conditions of Service
+
+1) The Board of Directors shall, subject to this Act, Memorandum of Association and Articles of Association, appoint one Chief Executive for management of the bank or financial institution.
+
+
+2) The tenure of office of the Chief Executive shall be four years maximum, and he/she may be re-appointed again for the next term of office.
+
+
+3) The provision referred to in sub-section (2) shall come into force after the commencement of this Act.
+
+
+4) Notwithstanding anything contained in sub-section (2), the Board of Directors may remove the Chief Executive from his/her office at any time in case his/her work performance has not been satisfactory.
+
+
+Provided that before removing from the office, reasonable opportunity shall have to be provided to him/her to submit clarification.
+
+
+5) While appointing a Chief Executive, the persons having possessed the following qualifications and experience shall be appointed, and information thereof shall be furnished to the Rastra Bank within even days from the date of appointment:
+
+
+(a) Having attained a Master’s degree in management, banking, finance, monetary, economics, commerce, bookkeeping, statistics, accounts, mathematics, business administration or law,
+
+
+(b) Having work experience of at least ten years as an officer level or above in the banking or finance sector, government agency, corporate body, university or an international institution or organisation to carry on similar works after having attained a bachelor’s degree in chartered accountancy or management, banking, finance, monetary, economics, commerce, bookkeeping, statistics, account, mathematics, business administration or law,
+
+
+Provided that in the case of the Chief Executive of a Class “D” financial institution, one shall have to possess the academic qualifications and work experience as specified by the Rastra Bank.
+
+
+(c) Having completed the criteria as prescribed by the Rastra Bank with regard to appointment of the Chief Executive,
+
+
+(d) Not been disqualified pursuant to Sub-Section (1) of Section 18.
+
+
+Provided that disqualifications as mentioned in Part (i) and (n) of sub-section (1) of Section 18 shall not apply with regard to the Chief Executive.
+
+
+6) In case the Chief Executive appointed pursuant to sub-section (1) has not been found qualified according to this Act, the Rastra Bank may issue an order to the concerned bank or financial institution to remove such Chief Executive and to appoint another person being qualified to get appointed in the post of Chief Executive.
+
+
+7) Remuneration and terms and conditions of service and other facilities of the Chief Executive shall be as specified by the Board of Directors, and the terms and conditions of service and facilities shall have to be fixed at the time of his/her appointment.
+
+
+8) The Chief Executive of any bank or financial institution may not be appointed as the Chief Executive, official, employee or in other positions in any other business organisation.
+
+
+Provided that the provision of this Sub-Section shall not be deemed to have made obstruction to be the Director of an Infrastructure Development Bank in which the bank or financial institution has made an investment in such development bank.
+
+---
+
+### Section 30: Functions, Duties and Powers of the Chief Executive
+
+1) The functions, duties and powers of the Chief Executive shall be as follows:-
+
+
+(a) To exercise the powers delegated by the Board of Directors and to implement decisions of the Board of Directors subject to the Memorandum of Association and Articles of Association and oversee and control the activities and transactions of the bank or financial institution,
+
+
+(b) To prepare the annual budget and action plan of the bank or financial institution and submit it before the Board of Directors for approval,
+
+
+(c) To manage necessary human resources subject to the Personnel Byelaws of the bank or financial institution,
+
+
+(d) To implement or cause to be implemented the decisions of the General Meeting,
+
+
+(e) To operate the institution according to this Act and directives of the Rastra Bank and to have an effective internal control system and risk management,
+
+
+(f) To submit statements, documents, decisions, etc. to be submitted by the bank or financial institution to the Rastra Bank or any other agency on time subject to this Act, directives of the Rastra Bank and Memorandum of Association and Articles of Association,
+
+
+(g) To operate the institution with optimum protection of the interests of depositors, shareholders and the institution itself,
+
+
+(h) To apply appropriate norms for senior management subject to the policy as determined by the Board of Directors.
+
+
+2) The Chief Executive shall be accountable to the Board of Directors for their work.
+
+---
+
+
+---
+
+## Chapter-5 Provisions on License
+
+### Section 31: Prohibition on carrying on Financial Transactions by anyone other than Bank or  Financial Institution
+
+1) No one, except the bank or financial institution having obtained a license pursuant to Section 34, shall carry on banking or financial transactions according to this Act.
+
+
+2) The Rastra Bank shall formulate and execute a licensing policy concerning the bank or financial institution for the purpose of granting a license to the bank or financial institution.
+
+---
+
+### Section 32: Use of Name of Bank or Financial Institution
+
+1) No one shall use the name of a bank or financial institution for the purpose of carrying on banking and financial transactions without obtaining approval from the Rastra Bank.
+
+
+2) Any person, company, or institution shall not be entitled to use in its name words such as “bank”, “banking”, “finance”, “financial”, or other words or symbols or adjectives indicating a similar meaning without getting prior approval from the Rastra Bank, except the bank or financial institution having obtained license to carry on banking and financial transaction pursuant to Section 49 of this Act and a foreign bank or financial institution opening a branch office in Nepal.
+
+
+3) Notwithstanding anything contained in sub-section (2), the provision as referred to in sub-section (2) shall not be applicable in the case of the following organisation:-
+
+
+(a) Any organisation established or recognised according to law or international agreement or practice,
+
+
+(b) The company submitting an application for carrying on banking and financial transactions within six months of incorporation.
+
+
+4) Notwithstanding anything contained in sub-section (2), any bank or financial institution having obtained approval to carry on financial transactions according to the prevailing laws during the commencement of this Act may carry on financial transactions by using the name prevailing at the time of approval.
+
+
+5) Financial institution of Class “B”, “C” and “D” shall use the name as “development bank”, “finance company” and “micro finance financial institution” respectively.
+
+
+6) The bank or financial institution having used the name of micro-finance development bank before the commencement of this Act shall use the name as referred to in Sub-section (5) after the commencement of this Act
+
+---
+
+### Section 33: Application to be filed to obtain License for carrying on Banking and Financial  Transactions
+
+1) A bank or financial institution desirous of carrying on banking or financial transactions pursuant to this Act shall make an application to the Rastra Bank for obtaining a license with a fee as prescribed by the Rastra Bank.
+
+
+2) The bank or financial institution shall also enclose the following details and documents with the application to be made pursuant to Sub-Section (1): –
+
+
+(a) A copy of the Memorandum of Association, Articles of Association of the bank or financial institution along with the certificate of incorporation according to the prevailing laws,
+
+
+(b) Particulars of an office building equipped with all infrastructures required by the bank or financial institution to carry on financial transactions, or, if such building is to be rented, a copy of the lease agreement and the particulars of the building to be rented, including that there are enough bases for making available banking and financial services and facilities,
+
+
+(c) Document evidencing that the amount of the shares undertaken to be subscribed by promoters is paid and deposited to the Rastra Bank,
+
+
+(d) Byelaws Relating to Conditions of Service and Facilities of the Employees, Financial Administration Byelaws; and Bye-laws relating to Write-off of Loans of the bank or financial institution,
+
+
+(e) Principal place of business or, if the address of the branches has been ascertained, address thereof,
+
+
+(f) Consent that the terms and conditions set forth by the Rastra Bank for carrying out banking and financial transactions will be abided by,
+
+
+(g) Business plan prepared by incorporating the business strategy of the bank or financial institution, an organisational structure suitable to the nature of the transaction to be operated, internal control and risk management process,
+
+
+(h) Name list of the Directors and officials of the bank or financial institution and details stating that they are qualified to become the Director and officials according to this Act,
+
+
+(i) Commitment to meet the minimum capital adequacy ratio set by the Rastra Bank from time to time until the bank or financial institution carries on banking and financial transactions,
+
+
+(j) Commitment that the bank or financial institution will maintain an internal control system for proper management of all potential risks,
+
+
+(k) Other details and documents specified by the Rastra Bank from time to time.
+
+
+3)In case of a bank or financial institution to be established in a joint venture in Nepal by any foreign bank or financial institution, the following details and documents have also to be submitted to the Rastra Bank in addition to those matters mentioned in Sub-Section (2):-
+
+
+(a) In the case of banks or financial institutions of Class “A”, “B”, “C” and “D”, a letter of consent or approval given by the government of the concerned country or central bank or regulating agency formed according to the laws of the concerned country of foreign bank or financial institution, for operating banking and financial transactions in Nepal by such foreign bank or financial institution,
+
+
+(b) Upon submitting an application to the Rastra Bank to incorporate a foreign bank or financial institution or upon obtaining permission from the Rastra Bank, if any matter to be fulfilled by such foreign bank or financial institution under this Act could not be fulfilled, details of that matter,
+(c) Other information and documents specified by the Rastra Bank.
+
+
+4) The Rastra Bank may, if any documents or details are not adequate or sufficient while carrying out an enquiry to the documents and details received pursuant to Sub-Section (2) or (3), ask for additional documents or details from a concerned bank or financial institution.
+
+---
+
+### Section 34: License may be granted for carrying out Banking and Financial Transactions
+
+1) In case the Rastra Bank finds, while carrying out an inquiry on the application submitted pursuant to Section 33 and documents and details enclosed therewith, that all requirements to carry on the banking and financial transaction under this Act are met, the Rastra Bank may issue a license of any class based on the classification of bank or financial institution pursuant to Section 37 within one hundred twenty days to operate banking and financial transaction.
+
+
+2) Before issuing a license pursuant to sub-section (1), the Rastra Bank shall ascertain the following matters:-
+
+
+(a) Granting of license for the operation of a bank or financial institution will result in the development of healthy competition and effective financial intermediary transactions, and it will result in the protection of the interests of depositors,
+
+
+(b) It is capable of carrying on banking and financial transactions subject to this Act, Rules, Byelaws framed thereunder, Orders or Directives as well as Memorandum of Association and Articles of Association,
+
+
+(c) The documents and details submitted along with the application pursuant to Section 33 for a license are sufficient, and physical infrastructures are adequate,
+
+
+(d) Any official appointed or included or to be appointed or to be included in the bank or financial institution is capable of carrying out banking and financial transactions.
+
+
+3) In case the Rastra Bank has specified the date of enforcement of the license while issuing a license to carry on banking and financial transactions, the license shall be deemed to have been activated from that specified date, and if no such date has been specified, the license shall be deemed to have been activated from the date of issuance of the license
+
+---
+
+### Section 35: Issuance of License may be denied
+
+1) Notwithstanding anything contained in Section 34, the Rastra Bank may deny issuing a license to operate banking and financial transactions to a bank or financial institution in any of the following circumstances:-
+
+
+(a) If it causes adverse effects on the stability, fair competition and credibility of the financial system of Nepal,
+
+
+(b) If it is not reasonable and appropriate to issue a license for the operation of financial transactions for the protection of the interests of depositors,
+
+
+(c) If the infrastructure to operate banking and financial transactions are not completed,
+
+
+(d) If other particulars or conditions pursuant to this Act are not found to be completed.
+
+
+2) The Rastra Bank shall, in case there is a situation that the license to operate banking and financial transactions cannot be issued according to this Section, inform the concerned bank or financial institution stating the reasons thereof within ninety days of the date of filing of the application.
+
+---
+
+### Section 36: Rastra Bank may Specify Conditions
+
+1) The Rastra Bank may, while granting a license for carrying on banking and financial transactions pursuant to Section 34, specify necessary terms and conditions by giving consideration to the existing position of the bank or financial institution, healthy operation of financial transactions and interests of depositors. It shall be the duty of the concerned bank or financial institution to abide by such terms and conditions.
+
+
+2) The Rastra Bank may bring necessary alterations and changes from time to time as per the requirement in the terms and conditions as specified pursuant to sub-section (1).
+
+---
+
+### Section 37: Classification of Bank or Financial Institution
+
+The Rastra Bank shall, based on the minimum paid-up capital of the bank or financial institution submitting application pursuant to Section 33 for carrying on banking and financial transactions and transactions to be operated on by such bank or financial institution and working areas, classify banks or financial institutions in classes “A”, “B”, “C” and “D” and issue license to concerned banks or financial institutions accordingly.
+
+
+Provided that an infrastructure development bank shall not be classified in any class.
+
+---
+
+### Section 38: May be Converted into Higher Class of Bank or Financial Institution
+
+1) If a bank or financial institution of the lower class desires to be converted into a bank or financial institution of one level higher class, it has to submit an application to the Rastra
+Bank.
+Provided that the class “D” institutions may not be converted into the higher class.
+
+
+2) If the Rastra Bank deems it appropriate, upon carrying out an inquiry into the application and details enclosed with the application according to sub-section (1), to convert the bank or financial institution as the bank or financial institution of higher class, it may grant prior approval subject to the following terms and conditions:-
+
+
+(a) If it has met the paid-up capital requirement for a bank or financial institution of higher class as prescribed by the Rastra Bank,
+
+
+(b) If it has continuously maintained the capital fund adequacy according to the Rastra Bank directives for the last five years, it has been in profit continuously for the last five years, and the average non-performing loans of the last five years have been within the limits as prescribed by the Rastra Bank,
+
+
+(c) If preliminary expenses have already been written off,
+
+
+(d) If the shares to be issued publicly have been issued and already been allotted,
+
+
+(e) If the General Meeting has already passed the special resolution for conversion into the upper class of the bank or financial institution,
+
+
+(f) If it has met all conditions as prescribed by the Rastra Bank.
+
+
+3) The Rastra Bank shall issue the license of upper-class bank or financial institution pursuant to this Act, causing amendment to be made to the Memorandum of Association and Articles of Association of the bank or financial institution according to prevailing law having obtained prior approval pursuant to sub-section (2).
+
+---
+
+### Section 39: List to be Published
+
+1) The Rastra Bank shall publish a list of the bank or financial institutions carrying on banking and financial transactions every month in a national-level newspaper or through any other means.
+
+
+2) The Rastra Bank may include the date of commencement of the transaction, paid-up capital, the position of the capital fund, total loans, the status of non-performing loans and other details as deemed necessary by the Rastra Bank in the list to be published pursuant to sub-section (1).
+
+---
+
+### Section 39A: Provisions as to the operation of financial institutions in the Province
+
+11) The Nepal Rastra Bank will be able to operate as a financial institution limited to the province level subject to the limits, conditions or instructions set by the bank.
+
+
+2) The financial institution, pursuant to sub-section (1), shall obtain a license from the Nepal Rastra Bank subject to the prescribed license and in accordance with the law made by the Province.
+
+
+3) The regulation, supervision and supervision of financial institutions operating in accordance with this section shall be carried out by the Nepal Rastra Bank.
+
+
+4) Other arrangements regarding the operation of financial institutions at the state level shall be subject to this Act as provided in the laws of the respective states.
+
+
+1 Added by the Act to Amend Certain Nepal Acts to Adapt the Constitution of Nepal, 2075.
+
+---
+
+### Section 40: Special Provision on Branch of Foreign Bank
+
+1) In case the Rastra Bank has granted a license to an internationally classified foreign bank to carry on banking and financial transactions through a branch in Nepal, the branch so established in Nepal as per the prevailing law shall be deemed as equivalent to the bank or financial institution established under this Act and unless otherwise provided by this Act or
+Rules, By-laws, orders or directives framed under this Act and all other provisions shall be applicable equally, even in the case of such a branch.
+
+
+2) The Rastra Bank may issue necessary directives with regard to the responsibility of the officials and employees taking responsibility for the functions, duties, powers, responsibility, liability, assets, accounts, etc., of the branch of the foreign bank and carrying out such functions.
+
+
+3) The branch of a foreign bank located in Nepal shall, while using its assets in the course of bearing its responsibility, give priority to its liability towards Nepal, subject not to adverse effects in any other legal provisions.
+
+
+4) Notwithstanding anything contained elsewhere in this Act, a branch of the foreign bank may carry on wholesale banking transactions.
+
+
+5) The function and activities of the branch office of a foreign bank shall be as prescribed by the Rastra Bank.
+
+---
+
+
+---
+
+## Chapter-6 Provisions on Capital, Capital Fund and Liquid Assets
+
+### Section 41: Capital to be Maintained
+
+1) The minimum paid-up capital of the bank or financial institutions shall be as prescribed by the Rastra Bank from time to time.
+
+
+2) Banks or financial institutions shall have to fulfil the minimum paid-up capital pursuant to sub-section (1) within the time frame as set by the Rastra Bank.
+
+
+3) The Rastra Bank may make provisions that any person, firm, company or institution may only invest up to fifteen percent of the paid-up capital of any one bank or financial institution.
+
+
+4) While investing in another bank or financial institution by any person, firm, company or institution having investment in one bank or financial institution pursuant to sub-section (3), investment shall have to be made subject to be less than one percent of the paid-up capital of said bank or financial institution.
+
+
+5) Provisions concerning investment by any person, firm, company or institution in the paid-up capital of any bank or financial institution to be established in a foreign joint venture, “D” class financial institution and infrastructure development bank shall be as prescribed by the Rastra Bank.
+
+
+6) The percentage of the share capital that may be invested by any person or institution in order to incorporate a bank or financial institution or invest in a bank or financial institution shall be as prescribed by the Rastra Bank from time to time.
+
+---
+
+### Section 42: Capital Fund
+
+1) A bank or financial institution shall have to maintain a capital fund in the ratio as prescribed by the Rastra Bank on the basis of its total assets or total risk-weighted assets. The Rastra Bank may, while prescribing such a ratio, also prescribe the ratio of the additional capital funds.
+
+
+2) If any bank or financial institution fails to maintain the capital fund in accordance with sub-section (1), the Board of Directors of such bank or financial institution shall have to give information thereof to the Rastra Bank within one month.
+
+
+3) The information given pursuant to sub-section (2) shall also be accompanied by, inter alia, the reasons for the failure to maintain the capital fund and the plans or programs prepared by the Board of Directors to increase the capital fund and restore it to the position as prescribed by the Nepal Rastra Bank.
+
+
+4) On receipt of the information referred to in sub-section (2) and (3) , if the Rastra Bank deems the plan or program submitted by the Board of Directors reasonable, it may give a directive to the concerned bank or financial institution to implement such plans or programs. If any amendment or alteration is to be made in the proposed plans or programs, it may give a direction to the concerned bank or financial institution to amend or alter such plans or programs, stating the reasons for such amendment or alteration and to implement the same.
+
+---
+
+### Section 43: Provisions on Possible Loss
+
+A bank or financial institution shall have to make provisions of loan loss as prescribed by the Rastra Bank so as to be able to cover its potential risks concerning assets, including loans and liabilities incurring from the off-balance sheet transactions.
+
+---
+
+### Section 44: General Reserve Fund
+
+1) A bank or financial institution shall have to maintain a general reserve fund. At least twenty percent of the net profits of each fiscal year shall have to be added until the paid-up capital is doubled, and at least ten percent shall have to be deposited in every fiscal year after that in such reserve fund.
+
+
+2) The amount credited to the reserve fund of a bank or financial institution under sub-section (1) may not be invested or transferred to any other headings without obtaining prior approval of the Rastra Bank.
+
+---
+
+### Section 45: Exchange Equalisation Fund
+
+(1) A bank or financial institution carrying on foreign exchange business shall make necessary account adjustments in the profit and loss account of the revaluation profits earned as a result of fluctuations in the exchange rates of foreign currencies, other than the Indian currency, every year at the end of the same fiscal year. While making such account adjustments in the profit and loss account, if revaluation earnings have been made in any fiscal year, at least twenty-five per cent of such profits shall be credited to the exchange equalisation fund.
+
+
+Provided that in the case of revaluation profit-loss resulting from fluctuation in the exchange rate of the Indian currency, it shall be as prescribed by the Rastra Bank.
+
+
+(2) No amount credited to the exchange equalisation fund pursuant to sub-section (1) shall, without the approval of the Rastra Bank, be spent or transferred for any purpose other than the adjustment of loss resulting from the devaluation of foreign currencies.
+
+---
+
+### Section 46: Liquid Assets to be maintained
+
+A bank or financial institution shall have to maintain liquid assets as prescribed by the Rastra Bank from time to time.
+
+---
+
+### Section 47: Declaration and Distribution of Dividends
+
+1) A bank or financial institution shall have to obtain approval from the Rastra Bank before declaring and distributing dividends.
+
+
+2) No bank or financial institution shall be allowed to declare or distribute dividends to its shareholders until it recovers all of its preliminary expenses and the losses sustained by it until the previous year, capital, capital fund and possible loan loss provisioning as prescribed by the Rastra bank and for general reserve fund pursuant to Section 44 and until the complete sale of shares to be allotted to the general public.
+
+---
+
+### Section 48: Order may be issued to decrease Capital
+
+Notwithstanding anything contained in the prevailing laws, the Rastra Bank may issue an order to decrease the issued and paid-up capital of a bank or financial institution.
+
+---
+
+
+---
+
+## Chapter -7 Provisions on Operation of Banking and Financial Transactions
+
+### Section 49: Bank or Financial Institution may carry on Banking and Financial Transactions
+
+1) The class “A” banks may carry on the following banking and financial transactions subject to this Act, Memorandum of Association and Articles of Association and limitation, conditions imposed and direction issued by the Rastra Bank:-
+
+
+(a) To accept deposits or to mobilise deposits through various financial instruments and make payment thereof with or without interest,
+
+
+(b) To accept deposits, make payments, have transactions, carry on intermediary services and transfer funds through various electronic instruments or devices,
+
+
+(c) To lend loans, including hire-purchase, leasing, housing and overdrafts,
+
+
+(d) To lend a loan on the collateral of the project and hypothecation and lending or causing to be lending loans in consortium financing having divided the collateral on pari passu according to a mutual agreement entered into between one another,
+
+
+(e) To lend loans on the guarantee of a foreign bank or financial institution,
+
+
+(f) To lend loans in the amount covered by the value of the movable or immovable assets which has already been mortgaged to it or lending loans on remortgage in the amount to be covered by the value of the movable or immovable assets which has already been mortgaged to other bank or financial institution,
+
+
+(g) To issue guarantees on behalf of its customers and execute necessary bonds with such customers in consideration thereof, obtaining security, and acquire their movable or immovable assets as collateral or on mortgage, or the assets of third persons as collateral and to acquire, accept the assets holding as security and to carry on other related transaction,
+
+
+(h) To make available refinance from the Rastra Bank as may be necessary or to lend or borrow loans from other banks or financial institutions,
+
+
+(i) To supply loans or manage loans from the amount received from the Government of Nepal or other native or foreign agencies for the promotion of a project,
+
+
+(j) To write off credits subject to the prevailing credits write-off Byelaws,
+
+
+(k) To issue shares, debenture, debenture bonds, etc. so on, for the purpose of meeting the capital fund,
+
+
+(l) To issue, accept, pay, discount or purchase and sell letters of credit,  bills of exchange, promissory notes, cheques, traveller’s cheques, drafts or other financial instruments,
+
+
+(m) To issue, accept and manage digital cards or other instruments for electronic transactions and appoint agents for carrying out acts relating thereto,
+
+
+(n) To carry on foreign exchange business subject to the prevailing laws,
+
+
+(o) To carry on government transactions subject to the limits, terms and conditions or direction of the Rastra Bank,
+
+
+(p) To purchase, sell or accept treasury bills issued by the Government of Nepal or bonds issued by the Rastra Bank,
+
+
+(q) To remit or transmit the amount to different places within or outside Nepal through bills of exchange, cheques or other financial instruments; receiving remittance from abroad and to make payment thereof,
+
+
+(r) To take responsibility for and arrange for the sale or purchase of shares, debentures or securities; collecting interest, dividends, etc., accruing from shares, debentures or securities; remitting or transmitting such interests or dividends to places within or outside Nepal; and arranging safe deposit vaults for customers acting as a commission agent of its customers,
+
+
+(s) To carry on off-balance sheet transactions,
+
+
+(t) To disburse credits up to the amount as prescribed by the Rastra Bank against individual or collective guarantee for the economic upliftment of the people from deprived sector, low-income families, victims of natural calamities and inhabitants in any area of the country,
+
+
+(u) To exchange details, information or notices on debtors or customers who have obtained credits from it or other banks or financial institutions with the Rastra Bank or any other bank or financial institutions,
+
+
+(v) To buy and sell of gold and silver bullion,
+
+
+(w) To conduct, or causing to be conducted, study, research and survey work relating to the establishment, operation and evaluation of projects, and providing training, consultancy and other information,
+
+
+(x) To manage properly or sell its assets of every type to come under its ownership according to this Act and the prevailing laws,
+
+
+(y) To give a guarantee with the consent of the parties involved on matters of payment to be made or values to be recovered for the performance of any act between two or more persons, subject to the prevailing laws,
+
+
+(z) To perform other functions as may be prescribed by the Rastra Bank.
+
+
+2) The Class “B” financial institution may carry on the following banking and financial transactions, in addition to banking and financial transactions as referred
+to in clauses (a), (b), (c), (f), (h), (i), (j), (k), (n), (p), (r), (s), (t), (u) and (x) of SubSection (1) subject to this Act, the Memorandum of Association and Articles of Association and limitation and conditions imposed and directives issued by the Rastra Bank:-
+
+
+(a) To lend credit in collateral of project, to make or cause to be made arrangements for jointly lending credits on the basis of consortium financing in collaboration with other bank or financial institutions in accordance with the mutual agreement entered into for the division of the collateral (pari passu)
+
+
+(b) To issue guarantees on behalf of its customers and to cause to be  executed necessary bonds with such customers, to acquire their movable or immovable assets as collateral or on mortgage, or the assets of third persons as collateral in consideration thereof,
+
+
+(c) To issue, accept, make payment, discount or purchase and sell bills of exchange, promissory notes, cheques, traveller’s cheques, drafts,
+
+
+(d) To accept loans in mortgage of its movable and immovable assets,
+
+
+(e) To carry on transactions of letters of credit and remittance with prior approval of Rastra Bank,
+
+
+(f) To take custody of and arrange for the sale or purchase of shares, debentures or securities, to collect interest, dividends, etc., accruing from shares, debentures or securities, to make arrangements of safe deposit vaults for customers acting as a commission agent of its customers,
+
+
+(g) To carry on transactions of transfer of amount within Nepal,
+
+
+(h) To carry on, or cause to be carry on study, research and survey work relating to the project establishment and operation as well as banking, account, property, and loan evaluation and to provide training, consultancy and other services and to provide information thereof,
+
+
+(i) To carry out other functions as may be prescribed by the Rastra Bank.
+
+
+3) Class “C” financial institution may carry on the following financial transactions, in addition to the financial transactions referred to in clauses (a), (b), (f), (h), (j), (k), (p), (r), (t) (u) and (x) of Sub-Section (1) subject to this Act and the Memorandum of Association and Articles of Association, the limitation and conditions imposed and directives issued by the Rastra Bank: –
+
+
+(a) To disburse credit for hire-purchase, leasing, housing loans,
+
+
+(b) To make arrangements for jointly disbursing credits on the basis of consortium financing in collaboration with other banks or financial institutions in accordance with the mutual agreement entered into for the division of the collateral pari passu,
+
+
+(c) To accept loans having mortgaged its movable and immovable assets,
+
+
+(d) To properly manage its assets, to sell or rent or lease them out,
+
+
+(e) To issue, accept, make payment, discount or purchase and sell bills of exchange, promissory notes, cheques, traveller’s cheques or other financial instruments,
+
+
+(f) To carry on the transaction of foreign currencies by obtaining approval from the Rastra Bank,
+
+
+(g) To disburse instalment or hire-purchase loan to any person, firm, company or institution for motor vehicles, machinery, tools, equipment, durable household goods or similar other movable property,
+
+
+(h) To provide leasing finance to any person, firm, company or institution to hire vehicles, machines, tools or instruments, household durable goods, or similar types of movable assets or to accept or provide such goods on hire,
+
+
+(j) To issue guarantees on behalf of its customers and to cause to be executed necessary bonds with such customers, to acquire their movable or immovable assets as collateral or on mortgage, or the assets of third persons as collateral in consideration thereof,
+
+
+(i) To sell off or lease out whole or part of its assets,
+
+
+(j) To prescribe prices of goods on consent with the finance company and seller in case any goods procured have to be sold to other purchasers on the current price or deferred price,
+
+
+(k) To carry out other functions as may be prescribed by the Rastra Bank.
+
+
+4) The Class “D” financial institution may carry on the following banking and financial transactions subject to this Act, Memorandum of Association and Articles of Association and limitation, conditions imposed and direction issued by the Rastra Bank:
+
+
+(a) To Disburse micro-credit, with or without any movable or immovable property as the collateral or security for operating any micro-enterprise prescribed by the Rastra Bank to any project, any group or a member thereof which/who has regularly saved for the period and maintained the prescribed savings,
+
+
+(b) To accept loans or grants from any bank or financial institution or native or foreign organisation or institution and use such loans or grants for the supply of micro-credit or for making the same effective,
+
+
+Provided that approval of the Rastra Bank shall be obtained prior to obtaining loans or grants from any foreign organisation.
+
+
+(c) Prior to disbursing micro-credits, evaluate the schemes for which micro-credits have been requested and determine whether or not they are feasible,
+
+
+(d) To provide necessary services and consultation to groups with regard to the mobilisation of microfinance,
+
+
+(e) To carry out necessary actions for recovery of the microcredits on time,
+
+
+(f) To accept deposits and refund such deposits subject to the limit prescribed by the Rastra Bank by getting approval from the Rastra Bank,
+
+
+(g) To issue shares, debentures, bonds, etc., for the purpose of meeting the capital fund requirements,
+
+
+(h) To exchange information or notices on debtors or customers who have obtained credit or any kind of facility from it and other bank or financial institutions with the Rastra Bank or any other bank or financial institution particulars of,
+
+
+(i) To carry out such other functions as may be prescribed by the Rastra Bank.
+
+
+5) The infrastructure development banks may carry on the following transactions subject to this Act, Memorandum of Association, Articles of Association, and limits, conditions and directives of the Rastra Bank:-
+
+
+(a) To Disburse loans and financing in shares in projects relating to infrastructure development,
+
+
+(b) To Finance in securities of the companies operating projects relating to infrastructure development,
+
+
+(c) To open letters of credit and issue guarantees for the purchase, sale, supply or installation of machinery, equipment and tools required for the construction and operation of projects relating to infrastructure development,
+
+
+(d) To issue financial instruments in national or foreign currencies with approval of the Rastra Bank for collecting funds required for investment in projects concerning infrastructure development and to acquire loans to that effect,
+
+
+(e) To mobilise resources by accepting long-term deposits or issuing debenture,
+
+
+(f) To carry on leasing transactions with the approval of the Rastra Bank,
+
+
+(g) To provide loans and facilities for projects by accepting guarantees of foreign banks and financial institutions,
+
+
+(h) To carry out other acts as prescribed by the Rastra Bank.
+
+---
+
+### Section 50: Acts not to be carried out by Bank or Financial Institution
+
+1) A bank or financial institution shall not have to carry out or cause to be carried out any of the following acts:-
+
+
+(a) To purchase and sell goods with the objective of the business and to purchase immovable land and to construct buildings except those that are necessary for its own purposes,
+
+
+(b) To disburse credit against security of one’s own shares,
+
+
+(c) To provide any type of credit facility to the Directors, a person having subscribed one percent or more than that of the paid-up capital, Chief Executive, or a member of the family of such persons, or the firm, company or organization having significant ownership or financial interest in any person, firm, company or organization having authority to nominate or appoint Director or managing agent,
+
+
+(d) To provide any type of credit or facility exceeding per customer limit prescribed by the Rastra Bank from its capital fund to the single customer, company, companies or partnership firms of the same group and relevant person,
+
+
+(e) To provide any type of credit to any person, firm, company or institution on the guarantee of promoters, Directors, or Chief Executive,
+
+
+(f) To make an investment in the securities of the bank or financial institutions of class “A”, “B”, and “C”, classified by the Rastra Bank,
+
+
+(g) To invest the amount more than the limit as prescribed by the Rastra Bank in the share capital of other institutions,
+
+
+(h) To create any type of monopoly or other type of restrictive practices in banking and financial transactions in collusion with banks or financial institutions,
+
+
+(i) To commit in any act to create an artificial hurdle in a competitive environment in financial sectors with the intention of getting an undue advantage,
+
+
+(j) To carry out any other functions prescribed by the Rastra Bank, as the functions are not to be carried out by a bank or financial institutions.
+
+
+2) Notwithstanding anything contained elsewhere in this Act, there shall be no restriction to carry on own banking and financial transactions or to provide housing or other facilities for its own employees according to prevailing Personnel Byelaws of bank or financial institution, to disburse any credit against the collateral security of the bond issued by Government of Nepal or Rastra Bank, amount deposited in any account or fixed deposits receipts or to make available credit and credit card facilities up to the prescribed limit to promoters, Directors, Chief
+Executive or shareholders having subscribed more than one percent of shares against the collateral security of their own fixed deposit receipts and the bonds issued by the Government of Nepal or the Rastra Bank.
+
+---
+
+### Section 51: Provisions concerning Subsidiary Company
+
+1) A bank or financial institution may incorporate a subsidiary company with approval from the Rastra Bank.
+
+
+2) The Rastra Bank may prescribe necessary terms and conditions while granting approval pursuant to sub-section (1).
+
+---
+
+### Section 52: Prohibition on carrying out transactions with relevant persons
+
+No bank or financial institution shall be allowed to provide any type of loan or facilities to the relevant persons.
+
+---
+
+### Section 53: Information of Suspicious Transaction to be furnished
+
+A bank or financial institution shall have to take actions as per the provision mentioned in the prevailing law preventing money laundering and terrorist financing with regard to informing about suspicious transactions with its account holder or customer having had transactions with it.
+
+---
+
+### Section 54: Rastra Bank may issue Directive
+
+The Rastra Bank may issue necessary directives with regard to procedural aspects and other matters to be followed by the bank or financial institutions while carrying out activities under this Chapter.
+
+---
+
+
+---
+
+## Chapter -8 Provisions on Disbursement and Recovery of Credits
+
+### Section 55: Provisions on Disbursement of Credit
+
+1) A bank or financial institution shall have to disburse credit only after disclosing the purpose subject to the directives issued by the Rastra Bank from time to time and the credit policy as determined by the Board of Directors.
+
+
+2) While disbursing credit, a bank or financial institution shall have to obtain any movable or immovable property acceptable to it as collateral security or an appropriate guarantee so as to safeguard the interests of its own and of the depositors.
+
+
+3) A bank or financial institution shall have to write to the concerned office to withhold any property which it has taken up as collateral security against a credit pursuant to this Section in the name of the bank or financial institution so that such property may not be registered in the name of, or transferred to, any person in any manner whatsoever.
+
+
+4) When requested in writing to withhold, registration or transmission of property pursuant to sub-section (3), the concerned office shall have to withhold the registration or transmission thereof accordingly.
+
+
+5) In case the Rastra Bank gives direction to disburse credits for such class and in such area as prioritized for the economic upliftment of the persons belonging to a low-income group and indigent class and of the inhabitants residing in any specific geographical region, to banks or financial institutions shall have to disburse credits according to the direction.
+
+
+6) The terms and conditions, repayment schedule, and interests of the credits borrowed by the borrower shall be according to the deeds or agreement executed between the bank or financial institution and the borrower.
+
+
+7) The bank or financial institution shall have to collect the necessary details of identity documents of the borrower, guarantor or, if the borrower is a firm, company or an institution, the directors, the shareholders having subscribed the shares in numbers more than the percent prescribed by the Rasta Bank or partners or owners in any manner thereof; the members of families of all of the above persons and if any of them is a beneficiary of any institution, and evidence of identity that may be required while taking legal actions.
+
+
+8) While disbursing any credit by a bank or financial institution to anyone, the regular instalment of the credit, interests, penal interests, and repayment schedule shall have to be clearly specified in the deed or contract, and information thereof must be given to the borrower and guarantor.
+
+
+9) A borrower may request details of the payable or paid principal, interests, penal interests, and other fees and the deed or contract executed in the course of availing the credit and the bank or financial institution shall have to make such details available.
+
+---
+
+### Section 56: Monitoring as to Utilization of Credit Amount
+
+A bank or financial institution shall have to carry out regular monitoring by preparing a monitoring schedule as to whether or not the borrower has utilized the credit for the purpose for which it has been disbursed.
+
+---
+
+### Section 57: Provisions on Recovery of Credit
+
+1) Notwithstanding anything contained in the deed of loan or in the prevailing Nepal law, the bank or financial institution may recover its principal and interests, having sold by auction the assets taken or put as mortgaged by the borrower in the name of the bank or financial institution, if the borrower fails to abide by the terms of the credit as mentioned in the deed or agreement or any terms and covenants made with a bank or financial institution or fails to repay credit to the bank or financial institution within the time-limit stipulated in the deed, or if the bank or financial institution is found, through the monitoring conducted pursuant to Section 56, that it has misused the credit by using it for the purpose other than the purpose for which it was disbursed.
+
+
+2) Notwithstanding anything contained in the prevailing law, in case the borrower gives off the title in any manner whatsoever over the assets mortgaged collateral security or the value of assets mortgaged as collateral security to the bank or financial institution is decreased, the bank or financial institution may ask such borrower to place more assets as collateral security within the time limit specified by it, and the borrower shall have to put additional collateral security within the time-limit prescribed by the bank or financial institution.
+
+
+3) In case the borrower fails to place more assets as collateral within the time limit pursuant to sub-section (2) or the principal and interests cannot be recovered from the collateral security so mortgaged, the bank or financial institution may recover its principal and interests from the movable or immovable assets under the ownership or title of the borrower according to the prevailing laws.
+
+
+4) In case any amount remains after deducting the amount realized from auction sale or other provisions under this Section from the amount of expenses and the amount of principal and interests of the bank or financial institution, such remaining amount shall have to be refunded to the concerned borrower.
+
+
+5) The bank or financial institution shall write to the concerned office to register or transfer the ownership of the assets so auctioned as per this Section in the name of the person accepting the auction in accordance with the prevailing law.
+
+
+6) In case the bank or financial institution writes for registering or transferring the ownership of the assets pursuant to Sub-Section (5), notwithstanding anything contained in the prevailing laws, the concerned office shall have to register or transfer the ownership of the assets as requested.
+
+
+7) In case no one accepts the movable or immovable assets while carrying out an auction by the bank or financial institution under this Section, the bank or financial institution shall take into its ownership such assets as prescribed.
+
+
+8) The bank or financial institution shall write to the concerned office to register or transfer the ownership of the assets it has taken into its ownership pursuant to sub-section (7). In case such a request is received, the concerned office shall, notwithstanding anything contained in the prevailing laws, register or transfer the ownership of the assets in the name of the concerned bank or financial institution.
+9) In case the then owner denies to, or obstructs in, possessing the property accepted by any person or a bank or financial institution and the party accepting the auction has the right to enjoy the assets according to laws, the concerned body of Government of Nepal shall take action to cause to possess of said property as per the prevailing law.
+
+
+10) The licensed institution shall not be entitled to suspend the recovery process of the credit written off subject to the prevailing Credit Write-off Byelaws.
+
+
+11) In case a borrower does not repay the credit from a bank or financial institution and the interests accrued thereto and penal interests within the time limit stipulated in the deed of the credit or the contract, the bank or financial institution shall have to write to the Credit Information Bureau Limited to blocklist such borrower according to the prevailing laws.
+
+
+12) In case the credit could not be recovered even after taking actions against the borrower under this Section, the bank or financial institution may, for the purpose of recovering such credit amount, take actions for recovery of the credits according to the prevailing laws including the freezing of any assets of the borrower located in a foreign country.
+
+
+13) In case the credit cannot be recovered even after taking all actions under this Section, the concerned bank or financial institution may request the Rastra Bank to make necessary provisions to withhold or confiscate the passport/s of the concerned borrowers and to deprive the concerned borrower of availing the services to be made available by the state. Upon receipt of such request, Rastra Bank shall have to forward the request to the Government of Nepal for necessary actions along with its opinion.
+
+
+14) The taking actions by any bank or financial institution against anyone in the course of recovery of credits shall not be deemed to have prevented to take legal action for any offence as per the prevailing laws.
+
+---
+
+
+---
+
+## Chapter-9 Provisions on Accounts, Records, Details and Reporting
+
+### Section 58: Accounts to be maintained accurately
+
+1) A bank or financial institution shall have to maintain its accounts, books, and records precisely and correctly.
+
+
+2) The accounts to be maintained pursuant to sub-section (1) shall have to be maintained according to the recognized principle of a double-entry bookkeeping system reflecting the exact status of transactions of the bank or financial institution.
+
+
+3) Without prejudice to the generality of sub-section (1) and (2), a licensed branch or office of a foreign bank or financial institution shall have to prepare and maintain financial statements, including separate accounts, books and records of its assets, liabilities, income and expenses and profit and loss accounts.
+
+
+4) Unless otherwise approved by the Rastra Bank, the accounts and other statements to be maintained pursuant to sub-section (1) shall have to be maintained at its central office.
+
+---
+
+### Section 59: Balance-sheet, Profit and Loss Accounts to be prepared
+
+1) The bank or financial institution shall have to prepare and maintain its balance sheet, profit and loss account cash flow statement and other statements in the formats as prescribed by the Rastra Bank.
+
+
+2) The bank or financial institution shall have to submit a balance, profit and loss account to the Rastra Bank within three months of the completion of every fiscal year, and details of such balance sheet and profit and loss account shall have to be published for the information of general public as prescribed by the Rastra Bank. A bank or financial institution shall have to publish the audited balance sheet of every Fiscal Year and the profit and loss account of the transactions within and outside Nepal as in the prescribed formats within nine months of the next fiscal year.
+
+
+3) If a bank or financial institution has its subsidiary company, the balance-sheet profit and loss accounts and status of transaction of business of the subsidiary company and parent company must be separately stated and stated in an integrated manner as well.
+
+
+4) The format, contents, methods of certification and details of the matters to be made public in the balance sheet and profit and loss accounts to be prepared by banks or financial institutions under this Chapter shall be as prescribed or directed by the Rastra Bank.
+
+
+5) In case the Rastra Bank has suspicion that any details publicized by a bank or financial institution pursuant to sub-section (2) are erroneous, incomplete, misleading or false, the Rastra Bank may require notification in writing to the concerned bank or financial institution to do as follows:-
+
+
+(a) To publicize the matters escaped or not stated, or
+
+
+(b) To re-publicize the details which are erroneous, incomplete, misleading or false, or
+
+
+(c) To publish by making corrections of the matters required by directives of the Rastra Bank.
+
+---
+
+### Section 60: Audit Committee
+
+1) The Board of Directors of a bank or financial institution shall have to form an Audit Committee comprising three members under the headship of one non-executive Director.
+
+
+2) The Chairperson of the bank or financial institution, convener of the sub-committee and the Chief Executive shall not be allowed to act in the audit committee referred to in sub-section (1).
+
+
+3) Members of the committee referred to in sub-section (1) shall not be entitled to be engaged in collecting deposits, disbursing credits, investing in securities, and making decisions in any daily transaction that requires making expenses out of the approved budget.
+
+
+4) Except in cases of meetings called by the Board of Directors, meetings of the Audit Committee shall normally be held once every three months.
+
+
+5) Procedures of the meeting of the Audit Committee shall be as prescribed by the committee itself.
+
+---
+
+### Section 61: Functions, Duties and Powers of the Audit Committee
+
+Functions, duties and powers of the Audit Committee shall be as follows:-
+
+
+(a) To ascertain whether or not the accounts, budget and internal auditing procedures, and internal control mechanisms of bank and financial institution are appropriate and, if they are appropriate, to carry out monitoring and supervision, whether or not they are complied with,
+
+
+(b) To cause to carry out internal auditing of the accounts and books of records of the bank or financial institution and to ascertain whether or not such documents are prepared according to the prevailing law, regulation and directives of the Rastra Bank,
+
+
+(c) To conduct or to cause to conduct auditing of management and operation, managerial and work performance of the bank or financial institution to be assured that the laws in force in the bank or financial institution are fully complied with,
+
+
+(d) To carry out monitoring of whether or not actions are being taken according to the Act or Rules enacted under the Act, Byelaws, policies or given directives in the bank or financial institution and to submit the report thereof to the Board of Directors,
+
+
+(e) To recommend names of three auditors for appointment of the  external auditor,
+
+
+(f)To furnish opinion on the subjects as required by the Board of Directors.
+
+---
+
+### Section 62: Auditing
+
+1) A bank or financial institution shall, within four months from the date of completion of the Fiscal Year, have to prepare the balance sheet, profit and loss account, cash flow statement and other financial statements in the formats and according to the methods specified by the Rastra Bank and get the external audit conducted. Such financial statement shall have to be signed by at least two Directors, the Chief Executive and the auditor.
+
+
+Provided that it shall be as prescribed by the Rastra Bank in case of a branch office of a foreign bank or financial institution carrying on financial transactions by getting approval from the Rastra Bank.
+
+
+2) In case the bank or financial institution not completing the auditing within the period referred to in sub-section (1) makes a request for an extension of time for auditing, stating reasonable cause, the Rastra Bank may extend the period up to two months.
+
+
+3) The external auditor shall have to submit the audit report to the concerned bank or financial institution and the Rastra Bank as well.
+
+---
+
+### Section 63: Appointment and Remuneration of Auditor
+
+1) The General Meeting of a bank or financial institution shall appoint an auditor.
+
+
+2) The General Meeting shall not appoint the same Auditor for more than three consecutive times.
+
+
+3) While appointing an auditor pursuant to sub-section (1), the General Meeting shall appoint a Chartered Accountant in the case of a licensed bank or financial institution of Class “A” or “B” or “C”, and a Chartered Accountant or a Registered Auditor in the case of a bank or licensed bank or financial institution of Class “D”.
+
+
+4) In case any bank or financial institution does not or could not appoint an auditor pursuant to sub-section (1), the Rastra Bank may appoint the Auditor.
+
+
+5) In case the position of Auditor falls vacant for any reason whatsoever, the Board of Directors shall appoint another Auditor for the remaining period.
+
+
+6) The remuneration of an auditor of a bank or financial institution shall be as determined by the Rastra Bank in case the Auditor has been appointed by the Rastra Bank, as determined by the General Meeting in case the Meeting has appointed, and as determined by the Board of Directors, in case the Board has appointed the Auditor.
+
+---
+
+### Section 64: Ineligibility for Appointment as Auditor
+
+1) Any of the following persons or any firm, company or institution in which such person is a promoter or partner shall not be eligible to be appointed as an auditor of a bank or financial institution: –
+
+
+(a) A promoter, Director, Chief Executive of a bank or financial institution or his\her family member,
+
+
+(b) An official, employee or internal auditor of the bank or financial institution,
+
+
+(c) A person working as a partner of any promoter, Director or employee of the bank or financial institution,
+
+
+(d) A borrower of the bank or financial institution, a person with significant ownership or a relevant person or person having financial interests,
+
+
+(e) A person who has been declared bankrupt in Nepal or abroad,
+
+
+(f) A person, firm, company or institution having subscribed one percent or more shares of the bank or financial institution,
+
+
+(g) A person who has been punished in any criminal offence by the court and a period of five years has not lapsed after he or she has served the punishment,
+
+
+(h) A person who is disqualified to become an auditor according to prevailing laws.
+
+
+2) If any person appointed as auditor of a bank or financial institution is found to be ineligible pursuant to sub-section (1), his/her appointment shall be deemed to have been ipso facto invalid.
+
+---
+
+### Section 65: Details to be Furnished
+
+1) A bank or financial institution shall, at all times, provide all such accounts, records, books, ledgers and other statements as demanded by the auditor in the course of performing the audit.
+
+
+2) For the purpose of sub-section (1), the officer responsible for providing an accurate statement or answer as demanded shall also have to furnish forthwith an accurate statement or answer to the queries made by the auditor.
+
+---
+
+### Section 66: Functions, Duties and Powers of Auditor
+
+1) The functions, duties and powers of the auditor shall be as follows:-
+
+
+(a) To conduct auditing of accounts and financial statements,
+
+
+(b) To prepare an audit report by including audited accounts, balance sheet, and profit and loss accounts and to produce it before the Board of Directors of the bank or financial institution,
+
+
+(c) If it is found that there are irregularities committed in the activities of the bank or financial institution or works are not being carried out in the appropriate manner, and such matters will cause harm or loss to the bank or financial institution, to inform the same to the Board of Directors,
+
+
+(d) To inform the Rastra Bank if any of the following situations are likely to emerge:-
+
+
+(1) Violation of the terms and conditions as prescribed by the Rastra Bank during the issuance of the license or this Act or Rules, Byelaws, Directives framed under this Act,
+
+
+(2) To cause adverse effect on regular activities of the bank or financial institution,
+
+
+(3) To prohibit the auditor from submitting the audit report or asking to prepare a false audit report.
+
+
+2) The auditor shall have the power to inspect all documents concerning accounts, including ledger, books, accounts, vouchers, and goods, at any time. The auditor may seek answers or explanations from a Director or official of a bank or financial institution on matters required by him/her in the course of performing his/her duties and carrying out his/her functions in an appropriate manner.
+
+
+3) The auditor shall have to include the following matters in his/her report clearly:-
+
+
+(a) Whether or not replies to the queries as per the demand were provided,
+
+
+(b) Whether or not the balance sheet, off-balance sheet transactions, profit and loss account, cash flow statement and other financial statements, as well, have been prepared in such format and in accordance with such procedures as prescribed by the Rastra Bank, and whether or not they actually matched with the accounts, records, books and ledgers maintained by the bank and financial institution,
+
+
+(c) Whether or not the accounts, records, books and ledgers have been maintained accurately in accordance with prevailing laws,
+
+
+(d) Whether or not any official of the bank or financial institution has committed any act contrary to the prevailing laws, committed any irregularity, or caused any loss or damage to the bank or financial institution,
+
+
+(e) Whether or not credits have been written off as per the Credit Write off By-laws or directives of the Rastra Bank,
+
+
+(f) Whether or not the transactions of the bank or financial institution have been carried on in a satisfactory manner as prescribed by the Rastra Bank,
+
+
+(g) Matters to be informed to the shareholders,
+
+
+(h) Matters prescribed by the prevailing laws and other matters as prescribed by the Rastra Bank to be mentioned in the audit report by the auditor,
+
+
+(i) Other suggestions which the auditor deems necessary to be furnished.
+
+
+4) Upon receipt of the audit report, the Rastra Bank may order the auditor of the bank or financial institution to carry out the following additional functions:-
+
+
+(a) To submit additional information as required by the Rastra Bank concerning auditing,
+
+
+(b) To make more expand the areas of auditing of the bank or financial institution or its subsidiary company,
+
+
+(c) To carry out other tests as recommended to the bank or financial institution or as required by the Rastra Bank in any particular subject.
+
+---
+
+### Section 67: Recommendation for taking actions against Auditor
+
+1) The Rastra Bank shall write to the concerned regulating authority to remove the name of an auditor who does not perform his/her duties as per this Act from the panel of the auditors subject to prohibit him/her from carrying out an audit of any bank or financial institution for one year to three years.
+
+
+2) In case of recommendation pursuant to sub-section (1), the concerned regulating agency shall have to take action against such auditor as per the prevailing laws.
+
+---
+
+### Section 68: Auditor to certify
+
+The auditor shall mark the accounts, records, books and ledgers audited by him/her by affixing his /her signature thereon and also mentioning therein the date on which he/she has audited them.
+
+---
+
+
+---
+
+## Chapter-10 Provisions on Merger and Acquisition of Bank or Financial Institutions
+
+### Section 69: Bank or Financial institutions may be merged or acquisition
+
+1) One bank or financial institution may be merged with another bank or financial institution, or one bank or financial institution may acquire another bank or financial institution by fulfilling the procedures prescribed by this Act and the Nepal Rastra Bank Act.
+
+
+2) A class “D” financial institution may be merged with, or such institution may acquire another institution of the same class.
+
+
+Provided that an infrastructure development bank and a bank or financial institution may not be merged into each other, and none of them may acquire the other.
+
+
+3) Notwithstanding anything contained elsewhere in this Chapter, in case any of the following circumstances are found from an Inspection and Supervision Report of the Rastra Bank, the Rastra Bank may order such bank or financial institution or any of its assets, liabilities, or business to merge or be merged into another bank or financial institution:-
+
+
+(a) Capital fund is inadequate or financial position has been deteriorating for last three years,
+
+
+(b) An act causing an adverse effect on depositor’s interests and liabilities towards depositors or such situation is prevailing,
+
+
+(c) It is necessary to enhance the competitive capacity at the national and international levels for stability, development, and promotion of the state’s financial system.
+
+
+4) Notwithstanding anything contained elsewhere in this Chapter, in case any of the following circumstances are found from an Inspection and Supervision Report of the Rastra Bank, the Rastra Bank may order such bank or financial institution to acquire or cause to be acquired another bank or financial institution, having stated the reasons thereof:-
+
+
+(a) In case more than one bank or financial institution belonging to single group of persons, firms and companies are in operation and there is unhealthy financial relation,
+
+
+(b) In case the rights and interests of the depositors, ordinary shareholders, and other customers could not be protected due to the negative impact if the bank or financial institution is operated in the status quo,
+
+
+(c) System-based risks are increased, and the licensed institution is unable to pay its liabilities,
+
+
+(d) In case shares have not been issued in the ordinary group within the prescribed time, the issued shares have not been sold or subscribed, or the prescribed minimum proportional paid-up capital has not been met,
+
+
+(e) In case a bank or financial institution is subjected to actions of rapid reforms for three times or more or good governance has become weak due to the arising of frequent disputes in the Board of Directors of the bank or financial institution.
+
+
+5) While issuing an order by the Rastra Bank pursuant to sub-section (3) or (4) for merger or acquisition of bank or financial institutions, it may specify the procedures thereof in such order.
+
+---
+
+### Section 70: Application to be submitted for Merger or Acquisition
+
+1) In case any bank or financial institution desires to be merged into another bank or financial institution, two or more banks or financial institution/s so desiring to merge or be merged shall have to decide the matter first from their respective Board of Directors and submit a joint application to the Rastra Bank for theoretical approval stating the following matters:-
+
+
+(a) Necessity of and justification for the merger of the bank or financial institutions and general projection of the impact it is likely to cause in the banking and financial sector and fiscal system,
+
+
+(b) Latest auditor’s report of bank or financial institutions to merge or be merged, including the audited balance sheets, profit and loss account, cash flow statement, net worth and so on,
+
+
+(c) Provisions made for the protection of the interests of the creditors of the bank or financial institutions to merge or be merged,
+
+
+(d) Actual report of movable and immovable assets of the merging bank or financial institutions and period of payment of liabilities,
+
+
+(e) Details of management of employees of the merged or merging bank or financial institutions,
+
+
+(f) Approval process under the laws concerning the company and securities;
+
+
+(g) Preliminary agreement concluded for merger by the institutions;
+
+
+(h) Other details as prescribed by the Rastra Bank.
+
+
+2) In case any bank or financial institution desires to acquire another bank or financial institution, the concerned two or more banks or financial institutions shall have to decide the matter first from their respective Board of Directors and submit a joint application to the Rastra Bank for theoretical approval stating the following matters:-
+
+
+(a) Necessity of and justification of acquisition of the bank/s or financial institution/s and general projection of the impact it is likely to cause in the banking and financial sector and fiscal system,
+
+
+(b) Latest auditor’s report of the principal institution and the target institution/s, including the audited balance sheets, profit and loss account, cash flow statement, net worth and so on,
+
+
+(c) Provisions made for the protection of the interests of the creditors of the bank or financial institutions to be acquired,
+
+
+(d) Approval process under the laws concerning companies and securities,
+
+
+(e) Preliminary agreement concluded for acquisition of the bank or financial institution,
+
+
+(f) Other details as prescribed by the Rastra Bank.
+
+
+3) The Rastra Bank shall inquire into the application submitted pursuant to sub-section (1) or (2), and in the course of the inquiry, the Rastra Bank may ask for discussions with the applicants as may be necessary and ask for additional documents.
+
+
+4) If the Rastra Bank is satisfied upon inquiry carried out pursuant to sub-section (3) that the merger or acquisition would not have any negative impact on the development of the banking and financial system of the country and in fair competition and compliance with the prevailing laws, it may give theoretical consent for moving ahead with the process of merger or acquisition, and while giving such approval, it may prescribe additional conditions or issue additional directives.
+
+---
+
+### Section 71: Provisions concerning Valuation of Assets and Liabilities
+
+1) Upon obtaining theoretical approval of merger of bank/s or financial institution/s pursuant to Section 70, such bank/s or financial institution/s shall have to appoint, on mutual consent a person, firm, company or institution that is at least capable for auditing of bank for valuation of their respective assets, liabilities, and transactions and information thereof must be furnished before the Rastra Bank.
+
+
+Provided that, the bank or financial institutions may carry out such valuation to be conducted before submitting application to the Rastra Bank.
+
+
+2) Upon obtaining theoretical approval to acquire a bank or financial institution pursuant to Section 70, the target institution shall have to get the auditing of its assets, liabilities and transactions through an auditor appointed by the General Meeting or by the Board of Directors under the authority of the General Meeting.
+
+
+3) The acquiring institution may also conduct comprehensive valuation of the assets and liabilities of the target institution.
+
+
+4) In case the Rastra Bank does not find actions of the Valuator appointed pursuant to sub-section (1) or (2) credible, it may remove him/her and order to concerned bank or financial institution to appoint another valuator.
+
+
+5) The terms and conditions of services of the valuator shall be as determined by the concerned bank or financial institution.
+
+
+6) While valuating the assets, liabilities, net worth, and overall transaction by the valuator, it has to be carried out according to the established norms, bases and procedures.
+
+
+7) The Rastra Bank may issue necessary directives as to the methods of valuation, bases of valuation and scope thereof.
+
+---
+
+### Section 72: Provisions on Agreement
+
+Unless otherwise ordered by the Rastra Bank according to this Act, the banks or financial institutions having obtained theoretical approval of merger or acquisition shall have to enter into an agreement having stated the following matters:-
+
+
+(a) Provisions concerning the protection of interests of depositors, creditors and shareholders,
+
+
+(b) Provisions concerning valuation system and matching of assets and liabilities of bank or financial institutions,
+
+
+(c) Provisions concerning management of investment and transaction, inter-agency ownership and inter-agency give and take, guarantee and assurance, management of non-banking transaction, assets and liabilities,
+
+
+(d) Merger, merging and acquisition processes, the time to be taken and costs to be incurred,
+
+
+(e) Operation and management structure and name list of Directors,
+
+
+(f) Matching of levels of employees of both institutions or of the principal institution and of the target institution/s getting theoretical approval for merger or acquisition and matching of terms and conditions of services,
+
+
+(g) Details of the shareholders with substantial ownership and of other shareholders,
+
+
+(h) If the bank or financial institution is to be merged or acquired as a new bank or financial institution, the name, Memorandum of Association and Articles of Association, capital structure, restructuring and class,
+
+
+(i) In the case of a foreign bank or financial institution, the letter of approval from the concerned regulating agency,
+
+
+(j) In the case of a foreign bank or financial institution, matters as to whether or not acquire the business of a bank or financial institution in Nepal or sell the entire business of such bank or financial institution in Nepal,
+
+
+(k) Grievance handling system of stakeholders,
+
+
+(l) The prevailing laws and process for its compliance,
+
+
+(m) Other necessary details required by the Rastra Bank.
+
+---
+
+### Section 73: Provisions on Approval
+
+1) The bank or financial institutions obtaining theoretical approval for initiating merger or acquisition process shall have to adopt special resolutions from their respective General Meetings and shall submit joint application to the Rastra Bank having attached therewith the agreement referred to in Section 72 and other matters prescribed by the Rastra Bank for final approval.
+
+
+2) While carrying out inquiry into the application submitted pursuant to sub-section (1), the Rastra Bank, if it deems necessary, may ask for additional information or documents to concerned bank or financial institution.
+
+
+3) While carrying out enquiry pursuant to sub-section(1) and (2), the Rastra Bank may give due consideration to the facts that whether or not the merger of the bank or financial institutions would create healthy competition in the financial sector of the country, whether or not monopoly or controlled practice of any bank or financial institution emerges; whether or not serious negative impact would cause in the financial market and depositors and also having conducted fit and proper test of the promoter/s who may has/have significant ownership in the institution to be created after the merger. After completion of the enquiry, Rastra Bank may grant final approval to the bank or financial institutions for merger or acquisition by prescribing any terms and conditions and or limitations.
+
+
+4) The Rastra Bank shall, if it has not found to be appropriate to grant approval pursuant to sub-section (3), notify the concerned bank or financial institution along with reasons thereof within forty five days.
+
+
+5) In case it would be difficult for the institutions obtained approval pursuant to sub-section (3) to comply with the provisions of this Act and directives of Rastra Bank due to merger or acquisition, the Rastra Bank may give privilege as prescribed on the basis of necessity and rationality.
+
+
+6) Other provisions concerning merger and acquisition shall be as prescribed by the Rastra Bank.
+
+---
+
+### Section 74: Transactions may be acquired
+
+With prior approval of the Rastra Bank, any branch, office of any bank or financial institution or any property or transaction thereof may be acquired by, or transferred to, any other bank or financial institution on mutual consent.
+
+---
+
+
+---
+
+## Chapter-11 Voluntary Liquidation of Banks or Financial Institutions
+
+### Section 75: Voluntary Liquidation of Bank or Financial Institution
+
+1) Any bank or financial institution willing to voluntary liquidation shall have to submit an application along with an action plan of voluntary liquidation.
+
+
+2) In case the Rastra Bank is confident, upon an inquiry on the application submitted pursuant to Sub-Section (1), that such bank or financial institution or a branch or office of a foreign bank or financial institution is fully capable of paying all of its credits and liabilities, the Rastra Bank may grant theoretical consent, along with some terms and conditions, for voluntary liquidation.
+
+
+3) The bank or financial institution obtaining theoretical approval from the Rastra Bank pursuant to Sub-Section (2) shall have to carry out the following functions:-
+
+
+(a) To inform the Office of the Companies Registrar about obtaining theoretical approval within seven days from the date of obtaining;
+
+
+(b) To send notice to all depositors, creditors or concerned persons by fast, efficient and reliable means about obtaining theoretical approval within thirty days from the date of obtaining;
+
+
+(c) To publish a notice in national newspapers about obtaining theoretical approval within thirty days from the date of obtaining;
+
+
+(d) To carry out other acts as prescribed by the Rastra Bank.
+
+---
+
+### Section 76: Initiation of Voluntary Liquidation
+
+1) The process of initiation of voluntary liquidation of a bank or financial institution shall be deemed to have been initiated from the date of grant final approval for voluntary liquidation by the Rastra Bank.
+
+
+2) The bank or financial institution obtaining theoretical approval for voluntary liquidation pursuant to Section 75 shall have to complete the following acts before obtaining final approval of the voluntary liquidation from Rastra Bank:-
+
+
+(a) All the deposits and liabilities have to be refunded or fulfilled within the set time limit,
+
+
+(b) Operation of transactions has to be closed down, and no new transaction to be carried on,
+
+
+(c) Exercise of other powers, except those essential for voluntary liquidation, shall not be allowed.
+
+
+3) The Rastra Bank may issue necessary directives in the course of carrying out functions pursuant to sub-section (2).
+
+
+4) In case a person entitled to get payment of the amount and other liabilities pursuant to Clause (a) of sub-section (2) does not come to receive the payment within the prescribed time limit, the said amount shall be deposited to the account as directed by the Rastra Bank.
+
+
+5) The approval of voluntary liquidation will not cause any type of adverse effect on the rights and interests of the depositors and other creditors.
+
+
+6)The bank or financial institution opting for voluntary liquidation shall, upon completion of the proceedings of this Act, have to submit to the Rastra Bank an auditing report of such bank or financial institution.
+
+
+7) The Rastra Bank shall grant final approval for voluntary liquidation to the bank or financial institution that accomplished the function as referred to in this Section. The Rastra Bank shall revoke the license to carry out banking and financial transactions.
+
+
+8) The amount to be paid by the bank or financial institution opting to voluntary liquidation for the deposits not claimed at the moment shall have to be separately retained as directed by the Rastra Bank.
+
+---
+
+### Section 77: No Change in Liability
+
+There shall be no change in the liability of any shareholder, Director, Chief Executive, official, employee or other person arising out of this Act or any other prevailing laws due to the liquidation of any bank or financial institution under this Chapter.
+
+---
+
+
+---
+
+## Chapter-12 Provisions on Mandatory Liquidation of Bank or Financial Institutions
+
+### Section 78: Application may be filed before the Court for Mandatory Liquidation of Bank or  Financial Institution
+
+1) The Rastra Bank may file an application to the court for mandatory liquidation of any bank or financial institution under this Chapter, and notice of the application of such action shall be published in a daily newspaper of the national level.
+
+
+2) The Rastra Bank shall include the following documents along with the application filed before the court for initiation of the process of liquidation of any bank or financial institution pursuant to sub-section (1):-
+
+
+(a) Details along with reasons for mandatory liquidation of the bank or financial institution that the situation referred to in Section 78 is prevailing,
+
+
+(b) Financial statement of the bank or financial institution.
+
+
+3) Notwithstanding anything contained in sub-section (1), any of the following persons may, with prior approval of the Rastra Bank, file an application to the court by mentioning the grounds to show the situation that a bank or financial institution may be subjected to mandatory liquidation pursuant to Section 79:-
+
+
+(a) Joint application of the depositors having representation of more than 25 percent of the total deposit, who do not get the payment of the payable deposits or of more than one percent of the depositors,
+
+
+(b) The person competent to file an application for mandatory liquidation according to the prevailing law relating to insolvency.
+
+
+4) In case the court orders for initiation of the process of liquidation of a bank or financial institution based on the application referred to in sub-section (1) or (3), the process of mandatory liquidation of the bank or financial institution shall be commenced from the date of passing of such an order.
+
+---
+
+### Section 79: Circumstances leading to Mandatory Liquidation of Bank or Financial Institution
+
+The bank or financial institution may be subjected to mandatory liquidation in the following circumstances:-
+
+
+(a) In case the matured deposit or the deposit to be repaid immediately or other financial liability could not be paid on time and is due,
+
+
+(b) In case the capital fund of the bank or financial institution is negative,
+
+
+(c) In case the Rastra Bank recommends for liquidation of a bank or financial institution based on an inspection report of the bank or financial institution,
+
+
+(d)In case the shareholders with significant ownership or officials of a bank or financial institution frequently commit acts causing obstruction against the rights and interests of the depositors for the development of the financial system,
+
+
+(e) In case of frequent violations of this Act and directives given by the Rastra Bank,
+
+
+(f) In other situations, as determined by the Rastra Bank for mandatory liquidation of banks or financial institutions.
+
+---
+
+### Section 80: Transaction to be Suspended
+
+1) Immediately after submission of the application to the court pursuant to Section 78 for mandatory liquidation of a bank or financial institution, the Rastra Bank shall suspend entire financial transactions of such bank or financial institution.
+
+
+2) The Rastra Bank may, while issuing an order for suspension of financial transactions pursuant to sub-section (1), revoke the license of such bank or financial institution.
+
+---
+
+### Section 81: Appointment of Liquidator
+
+1) The court may issue an order to the Rastra Bank to make a recommendation for the appointment of a liquidator for initiating the process of mandatory liquidation of any bank or financial institution.
+
+
+2) In case the court issues an order pursuant to sub-section (1), the Rastra Bank shall recommend names of at least three persons for appointment to the Liquidator within fifteen days.
+
+
+3) While making recommendations to the court by the Rastra Bank pursuant to sub-section (2), the persons having experience in the banking and financial sector from amongst the licensed insolvency practitioners according to the prevailing laws have to be recommended.
+
+
+4) The court may appoint one of the three persons recommended pursuant to sub-section (2) as the Liquidator.
+
+
+5) After the appointment of the Liquidator pursuant to sub-section (4), the Board of Directors of such bank or financial institution shall be deemed to have been ipso facto dissolved, and unless otherwise ordered by the Liquidator, services of entire officials and employees appointed by the bank or financial institution shall ipso facto be terminated.
+
+
+6) In case the Liquidator appointed pursuant to sub-section (4) resigns, he/she dies, or the Rastra Bank deems that he/she is incompetent to perform the prescribed works, the Rastra Bank shall file an application to the court, according to this Section to appoint another Liquidator by removing such Liquidator.
+
+
+7) Remuneration and terms and conditions of services of the Liquidator shall be as prescribed by the court on the recommendation of the Rastra Bank.
+
+---
+
+### Section 82: Functions, Duties and Powers of Liquidator
+
+1) The Liquidator appointed for the purpose of initiating the process of mandatory liquidation of a bank or financial institution shall, after his/her appointment, carry out the following actions:-
+
+
+(a) To publish a notice in a national level Nepali and English daily newspaper for information of shareholders and other concerned persons of the bank or financial institution within 15 days of the appointment,
+
+
+(b) To send to the Office of the Company Registrar and the institution established as per the prevailing laws for guarantee of deposits for information with an authenticated copy of the order of mandatory liquidation within 15 days of the appointment;
+
+
+(c) To post or cause to be posted a copy of such order in a conspicuous manner at the principal place of business of the bank or financial institution and at each of its offices,
+
+
+(d) To broadcast the notice through national-level television and radio for four weeks, at least once a week after the appointment,
+
+
+(e) To carry out other works prescribed by the Rastra Bank.
+
+
+2) After getting information as referred to in Clause (b) of sub-section (1), the Office of the Company Registrar shall make a record on the concerned registration book that the order of initiating the process of mandatory liquidation has been made.
+
+
+3) In addition to the functions, duties and powers as referred to elsewhere in this Act, the functions, duties and powers of the Liquidator, subject to the directives of the Rastra Bank, shall be as follows:-
+
+
+(a) To take responsibility for the office, books and accounts, records and assets of the bank or financial institution,
+
+
+(b) To carry on most essential regular works of operation and management of the bank or financial institution,
+
+
+(c) To carry on all the functions to be carried out on behalf of or in the name of the bank or financial institution,
+
+
+(d) To appoint employees to render assistance in their own works,
+
+
+(e) To make necessary expenses for the operation, management and liquidation of the bank or financial institution,
+
+
+(f) To make coordinate with institutions established by the prevailing laws for the security of deposits,
+
+
+(g) To exercise all the powers to be exercised by the shareholders, General Meeting, Board of Directors and officials of the bank or financial institution
+
+
+(h) To carry out an inquiry into the business and financial status of the bank or financial institution,
+
+
+(i) To merge or transfer entire or some of the assets and liabilities of the bank or financial institution to another bank or financial institution by getting approval of the Rastra Bank,
+
+
+(j) To get credit in the security of the assets of the bank or financial institution,
+
+
+(k) If it is deemed that it will be beneficial for the bank or financial institution to sell any assets or terminate any contract or liability, to sell such assets or to terminate such contract or liability,
+
+
+(l) To procure services of professional and qualified persons to assist for own functions as may be necessary,
+
+
+(m) To hold necessary discussions and enter into compromise with any creditor or borrower of the bank or financial institution,
+
+
+(n) To collect, protect and sell the assets of the bank or financial institution and to distribute according to this Act,
+
+
+(o) To inquire whether or not a Director, official, employee, or any other person has committed fraud, cheating, or misrepresentation against the bank or financial institution or depositors or creditors and to take necessary legal actions against them or to file any case or initiate legal action on behalf of the bank or financial institution or to defend on behalf of the bank or financial institution,
+
+
+(p) If anyone has been using the property of the bank or financial institution to withdraw it or to take legal actions to get such property back or cash amount from the transaction which has been declared invalid,
+
+
+(q) To prepare a report every three months on the actions taken in the course of liquidation in the format as prescribed by Rastra Bank and to submit the report to the Court and Rastra Bank,
+
+
+(r) To carry out all other functions as required for the liquidation of a bank or financial institution,
+
+
+(s) To carry out other functions as prescribed by the Rastra Bank.
+
+
+4) In case any difficulty or hurdle arises while exercising any power by the Liquidator under this chapter, he/she may file an application to the court to remove
+such hurdles or difficulties.
+
+
+5) In case the reasons stated in the application submitted pursuant to sub-section (4) are found to be appropriate, the Court may issue an appropriate order.
+
+---
+
+### Section 83: Effects of Order Relating to Liquidation
+
+1) In case the court orders for initiating the process of mandatory liquidation of any bank or financial institution, the order results in the following on the following matters:-
+
+
+(a) In case any limitation is expired as to any claim or right of the bank or financial institution, the limitations of such claims or rights shall ipso facto be deemed to be extended for six months from the date of issuing the order by the Court to initiate the process of mandatory liquidation.
+
+
+(b) Except in the situation as mentioned in Clause (c), if any property or assets of the bank or financial institution has been under impediment for any reason whatsoever, or such property is pledged for any credit availed to the bank or financial institution, such property or asset shall ipso facto be released.
+
+
+(c) The functions concerning accepting deposits and lending credits shall ipso facto be stopped.
+
+
+(d) Case proceedings against the bank or financial institution in any court shall ipso facto be stopped, and unless otherwise ordered by the Court, court proceedings against such bank or financial institution shall not be revived.
+
+
+Provided that in case there is any case sub-juiced at the Supreme Court as to the bank or financial institution, or it is necessary to seek clearance from the Supreme Court, the Rastra Bank shall file an application to that Court.
+
+
+(e) No interests or any type of additional charge shall be levied on the liabilities of the bank or financial institution.
+
+
+(f) Share of such bank or financial institution shall not be transferred, mortgaged or alienated.
+
+
+Provided, however, that the Act of transfer, mortgage or alienation may be done with prior approval of the Rastra Bank.
+
+
+2) In case the Liquidator comes to know from any source that any action carried out before six months from the date of passing the order by the Court to initiate the process of mandatory liquidation causes harm or loss to the interests of the depositors or creditors of the bank or financial institution, the Liquidator shall submit an application about it to the Court and information thereof shall also be given to the Rastra Bank.
+
+
+3) In case the Court finds from the application submitted pursuant to sub-section (2) that any of the following actions were carried out, the Court may declare such action null and void:-
+
+
+(a) If the decision to offer presents is made,
+
+
+(b) If any act causing loss to the rights and interests of the creditors or depositors is committed,
+
+
+(c) If payment is made or transferred before repayment of credits or the collateral is released, transferred or alienated before the expiry of the term of the credit,
+
+
+(d) If the bank or financial institution has to suffer more liability in the course of any transaction or contract than that is normally prevailing practice,
+
+
+(e) If any agreement or transaction, other than those regular banking or financial transactions permissible under this Act, is found to have been made,
+
+
+(f) If a contract has been made for providing employment to the relevant persons.
+
+
+4) In case any bank or financial institution is subjected to mandatory liquidation, the following transactions shall be null and void:-
+
+
+(a) Preferential transactions made immediately before six months of the initiation of the process of mandatory liquidation or within the period of six months after initiation of the process,
+
+
+(b) Preferential transactions made with the relevant persons immediately before one year of initiation of the process of mandatory liquidation or within the period of one year after
+initiation of the process,
+
+
+(c) The bank or financial institution is subjected to mandatory liquidation as a result of any transaction made with a low price immediately before one year of the initiation of the process of mandatory liquidation and other transactions with a low price made within one year after initiation of the process;
+
+
+(d) Fraudulent transactions made immediately before two years of the initiation of the process of mandatory liquidation or within the period of two years after initiation of the process;
+
+
+5) The Liquidator shall have to file an application to the Court to get the transactions referred to in sub-section (4) invalidated.
+
+
+6) In case the Court is satisfied with the invalidity of any transaction, the Court may issue the following order:-
+
+
+(a) To issue an order to the concerned person to pay to the Liquidator all or some of the amount the payment of which has been made by the bank or financial institution with regard to such transactions,
+
+
+(b) To issue an order to the concerned person to handover the assets so transacted or to pay the value equivalent to thereof to the Liquidator,
+
+
+(c) To issue an order to exempt or release, fully or in part, the credit the bank or financial institution has availed, the security or collateral pledged by the bank or financial institution against that credit,
+
+
+(d) To issue an order to invalidate, inactivate or declare as non-implementable the agreements between the bank or financial institution and another person executed for pardon or
+surrender,
+
+
+(e) If an additional order is required to be given for execution of the order under this Sub-Section, the Court shall issue such an order as well.
+
+
+7) In case any Director, official, employee or any other person is found to have committed the acts referred to in sub-section (3) or (4) and the bank or financial institution has been facing any loss or damage, they shall be liable to bear the compensation personally for such loss or damage.
+
+---
+
+### Section 84: Records of Assets and Liabilities
+
+1) The Liquidator shall have to immediately prepare a record of the assets, liabilities or potential liabilities of the bank or financial institution being in mandatory liquidation as per this Act, and one copy of it shall be submitted to the Rastra Bank and one copy shall be retained at the concerned bank or financial institution.
+
+
+2) The record to be prepared pursuant to sub-section (1) shall have to include the following details:-
+
+
+(a) Liabilities towards the depositors and creditors of the bank or financial institution,
+
+
+(b) Entire assets and all types of liabilities of the bank or financial institution, and its estimated costs,
+
+
+(c) Contracts the bank or financial institution has entered into for procuring services,
+
+
+(d) Significant transactions the bank or financial institution has made before six months of the date of the order issued for mandatory liquidation.
+
+
+3) The record referred to in sub-section (1) shall have to be updated in every trimester and be made available when desired for inspection by the creditors.
+
+---
+
+### Section 85: Transactions may be terminated
+
+1) The Liquidator may terminate the following transactions of the bank or financial institution within six months of the date of the order issued by the court for mandatory liquidation of the bank or financial institution:-
+
+
+(a) Any contract concluded by the bank or financial institution concerning employment,
+
+
+(b) Any contract concluded for any services involving the bank or financial institution as a party,
+
+
+(c) All functions and contracts being carried out by the bank or financial institution as in the capacity of a trustee,
+
+
+(d) Any regular functions or business of the bank or financial institution or branches of the bank or financial institution according to need and circumstances,
+
+
+(e) Any liabilities said to be borne by the bank or financial institution without any limit,
+
+
+(f) Other functions or proceedings as prescribed by the Rastra Bank.
+
+
+2) For the transactions terminated pursuant to sub-section (1), no any type of additional amount or compensation may be claimed other than the due amount to be paid or liability to be borne by the bank or financial institution till the date of termination of the transaction.
+
+---
+
+### Section 86: Notice to submit claims
+
+Upon initiating the process of mandatory liquidation of a bank or financial institution, the Liquidator shall, within the time prescribed by the Rastra Bank, have to publish a notice containing the following details asking the persons having any claim of any type with the bank or financial institution to submit his/her details of the claim within one month from the last date of publication of the notice stating his/her claims and the amount he/she may receive in a clear manner:-
+
+
+(a) To publish a notice in daily Nepali and English languages newspapers at the national level,
+
+
+(b) To publish such notices at the main places of businesses, banks, or financial institutions and post them at every office in a conspicuous manner.
+
+---
+
+### Section 87: Liquidator may accept or reject claims
+
+1) The Liquidator shall, within 90 days from the date of submission of the claim pursuant to Section 86, inquire into the claims and accept or reject the claim fully or partially based on the evidence available, and information thereof shall be given to the claimant and public notice thereof shall also be published.
+
+
+2) The claimant having his/her claim partially accepted or rejected pursuant to sub-section (1) shall, within 15 days from the date of publication of notice thereof, have to submit his/her claims again, enclosing the additional evidence, if any.
+
+
+3) In case there is the need for any change in the claims made pursuant to sub-section (2), the Liquidator may change it partially or wholly.
+
+
+4) In case the claimant is not satisfied with the decision of the Liquidator made pursuant to sub-section (1) or (3), the claimant may file an appeal at a court within 21 days of receiving the decision sent by the Liquidator.
+
+---
+
+### Section 88: Classification of Claims
+
+1) The claims accepted, partially accepted or rejected pursuant to Section 87 shall have to be recorded separately with segregation in different titles.
+
+
+2) The claims partially accepted pursuant to sub-section (1) shall have to be included in the accepted list, and the rest of the claims shall have to be included in the list of rejected claims.
+
+
+3) While preparing a list of claims, the name and address of the claimant, place, date and amount of payment and whether or not collateral is there for securing the claim shall have to be clearly stated.
+
+
+4) If there is a dispute as to a claim, such claim shall have to be stated in the list of disputed claims until a decision is made.
+
+
+5) The Liquidator shall have to enlist the approved claims and the claims having no value fixed in the list as he/she has prescribed.
+
+
+6) The claims of the secured creditors shall have to be separately classified.
+
+
+7) The approved claims shall have to be listed so as to place them on priority in the payment process.
+
+---
+
+### Section 89: Meeting of Creditors
+
+1) The creditors of the bank or financial institution having its mandatory liquidation process initiated may form a Meeting of Creditors for mutual discussions and consensus.
+
+
+2) Subject to the directives given and conditions as prescribed by the Rastra Bank, the Liquidator of the bank or financial institution subject to mandatory liquidation may have discussions and build consensus as may be necessary with the creditors and borrowers of such bank or financial institution.
+
+---
+
+### Section 90: Liquidation Plan
+
+1) Within thirty days of the completion of the classification of claims pursuant to Section 88, the liquidator shall prepare a detailed plan for the liquidation process of the bank or financial institution and submit it to the court for approval and inform the Rastra Bank thereof.
+
+
+2) The liquidation plan to be submitted pursuant to Sub-section (1) shall include the following matters;
+
+
+(a) Detailed description of the assets or liabilities of the bank or financial institution, their nature and results,
+
+
+(b) Details of the past and projected income and expenditure of the bank or financial institution,
+
+
+(c) Detailed description of the continuation or cancellation of the current financial transactions of the bank or financial institution,
+
+
+(d) Decision or order made by the court,
+
+
+(e) Details of the action taken to claim compensation for the offence or other illegal acts committed by the director, officer or employee of the bank or financial institution,
+
+
+(f) Detailed description including classification of claims and priority of payment,
+
+
+(g) Plan for sale and liquidity of the main assets or groups of assets of the bank or financial institution,
+
+
+(h) Schedule of liabilities of the bank or financial institution and possible payments to be made to depositors and creditors within the next ninety days,
+
+
+(i) Costs and expenses of compulsory liquidation,
+
+
+(j) Other details specified by the Rastra Bank.
+
+
+3) The liquidator shall update the liquidation plan pursuant to Sub-section (1) on a quarterly basis.
+
+
+4) After the court approves the liquidation plan, it shall be made available for inspection to the creditors of the bank or financial institution whose claims are mentioned in the plan.
+
+
+5) Notwithstanding anything contained elsewhere in this Act, a bank or financial institution that has been subject to compulsory liquidation shall not be recapitalised by investing in whole or in part.
+
+---
+
+### Section 91: Advance Payment may be made to Depositors Immediately
+
+1) Notwithstanding anything contained elsewhere in this Chapter, the depositors of the bank or financial institution subject to mandatory liquidation may be distributed up to one hundred thousand rupees per account as an advance with a condition to settle the account at the time of payment of the deposit.
+
+
+2) The amount advanced payment pursuant to sub-section (1) shall be adjusted while making payment pursuant to Section 94.
+
+---
+
+### Section 92: Powers to sell Assets
+
+The Liquidator may, subject to the directives given by the Rastra Bank, cause the auction of the entire assets of the bank or financial institution, including the assets mortgaged as collateral security of the approved secured claim of the creditor’s bank or financial institution as follows:-
+
+
+(a) At the place of transaction of the securities, foreign currencies or other assets that may be sold easily in the market,
+
+
+(b) The securities given for security of the loan of creditor, foreign currencies or other assets that may be sold easily in the market by the creditors,
+
+
+(c) In case the Liquidator deems that no reasonable value could be received by auction of assets, to sell it in any manner,
+
+
+(d) To make other provisions as prescribed by the Rastra Bank.
+
+---
+
+### Section 93: Notice of Settlement of Claims
+
+The Liquidator shall, in order to settle the claims according to the liquidation plan as referred to in Section 90, publish and broadcast public notice stating the nature, quantity and priority order for payment of the claims.
+
+---
+
+### Section 94: Order of Priority for Payment
+
+1) The bank or financial institution subjected to mandatory liquidation shall have to pay its liabilities in the order of the following priority:-
+
+
+(a) Expenses incurred for mandatory liquidation,
+
+
+(b) Amount up to the amount paid for deposit security/insurance made as per the prevailing laws subject not to exceed the limitation of the total approved claimed amount of the depositor or the amount equivalent to the paid amount if payment has been made to the security/insurance organization incorporated as per the prevailing laws for security of deposit,
+
+
+(c) The deposits remaining after payment made pursuant to Clause (b),
+
+
+(d) Salary, allowances and amounts for other liabilities payable to employees of the bank or financial institution,
+
+
+(e) Amount payable to the Government of Nepal, local bodies, and the Rastra Bank,
+
+
+(f) Outstanding amounts payable to other banks or financial institutions as fees or valuation amounts,
+
+
+(g) Amounts payable for other creditors and other claims;
+
+
+(h) Shareholders according to the prevailing laws.
+
+
+2) Notwithstanding anything contained elsewhere in the Chapter, in case any creditor submits an application agreeing to accept any of the assets that were not sold while auctioning pursuant to Section 91 in lieu of the amount which the bank or financial institution has to pay him/her, the Liquidator may transfer such assets to such creditor having fixed the value of such assets subject to the norms determined by the Rastra Bank.
+
+
+3) Notwithstanding anything contained elsewhere in the Chapter, in case any asset has been pledged as security for the secured creditors, such asset shall be used only for fulfilling the liability towards them.
+
+---
+
+### Section 95: Unclaimed Goods or Amount
+
+While notice has been issued under this Chapter to receive the amount or goods according to details of the claims or liabilities, if the concerned person does not come to receive the amount or goods within the specified time, such amount or goods shall have to be kept under the responsibility of the Liquidator or other body as according to the direction given by the Rastra Bank.
+
+---
+
+### Section 96: Decision of Liquidation
+
+1) The Liquidator of the bank or financial institution subject to mandatory liquidation or having its license revoked by the Rastra Bank shall have to submit an application before the court for liquidation after completion of the function of liquidation along with details of the activities performed.
+
+
+2) In case the Liquidator submits an application to the court pursuant to sub-section (1), the court shall inquire on it as may be necessary and may decide that such bank or financial institution has been subjected to mandatory liquidation.
+
+
+3) The Liquidator shall have to publish the decision given by the court pursuant to sub-section (2) in each national-level newspaper in Nepali or English language at least once, and while publishing in such manner, the main points in the order of the court and in the liquidation report shall have to be mentioned.
+
+
+4) Upon publication of the notice pursuant to sub-section (3), the Liquidator shall request the Office of the Company Registrar to remove the name of the bank or financial institution from the list of registration of companies, and the Office of the Company Registrar shall publish the notice of removal of the name of the bank or financial institution from the Companies Registration Book in the Nepal Gazette accordingly.
+
+
+5) The process of mandatory liquidation of the bank or financial institution shall be completed after removal of the name of the bank or financial institution subjected to mandatory liquidation after publishing notice thereof in the Nepal Gazette pursuant to sub-section (4) and such bank or financial institution shall be deemed to have been duly dissolved.
+
+
+6) If there is any liability of a Director, Chief Executive, official, employee or shareholder of the bank or financial institution or other person under this Act or other prevailing Nepal laws, the mandatory liquidation of the bank or financial institution shall not absolve them from their respective liability.
+
+---
+
+### Section 97: Mandatory Liquidation of Bank or Financial Institution carrying on transactions in  more than one Country
+
+The process of the mandatory liquidation of the branch of the bank or financial institution carrying on transactions in more than one country shall be as determined by the Rastra Bank by giving due consideration to best international practices.
+
+
+Provided that mandatory liquidation of the bank or financial institution engaged as a subsidiary company of the bank or financial institution working in more than one country shall be according to this Chapter.
+
+---
+
+### Section 98: No claim to be entertained
+
+The creditor or other person who does not submit the claim within the time prescribed while publishing notices for the same pursuant to Section 86 shall not be entitled to make the claim after that.
+
+
+Provided that in case of the amount in the depositor’s account, there shall be no effect in his/her right for the reason of absence of the claim.
+
+---
+
+
+---
+
+## Chapter-13 Provisions on Actions, Offences and Punishment
+
+### Section 99: Regulatory Actions may be taken
+
+1) In case a bank or financial institution is found to have violated this Act, the Rastra Bank Act, or Rules, Directives, or Orders issued thereunder, the Rastra Bank may, depending upon the nature and gravity of the violation, take one or more of the following actions against the bank or financial institution:-
+
+
+(a) To make aware or issue a warning in writing,
+
+
+(b) To cause the Board of Directors to enter into a deed of commitment for taking reformative steps,
+
+
+(c) To issue an order in writing not to violate this Act or Rastra Bank Act or Rules, By-laws, Directives or Order framed thereunder or to take reformative steps,
+
+
+(d) To prohibit distributing dividends or issuing bonus shares to the shareholders of bank or financial institutions or to prohibit acts of distributing dividends or issuing bonus shares,
+
+
+(e) To specify limits on, or prohibit, accepting deposits or disbursing credits or the Act of accepting deposits or disbursing credits by bank or financial institution,
+
+
+(f) To impose a complete or partial ban on transactions of a bank or financial institution.
+
+
+2) The Rastra Bank may suspend or revoke the license to carry out banking or financial transactions issued to a bank or financial institution in the following circumstances:-
+
+
+(a) In case banking and financial transactions are not initiated within six months from the date of obtaining the license for carrying on banking and financial transactions,
+
+
+(b) In case banking and financial transactions have been closed without obtaining approval from the Rastra Bank,
+
+
+(c) In case of operation of banking and financial transactions against the interests of depositors or demanded or matured deposits are not repaid or could not be repaid while on-demand,
+
+
+(d) In case of violation or non-compliance of the Rastra Bank Act, this Act, and the Rules, By-laws, Orders, Directives framed thereunder or the terms and conditions as prescribed by the Rastra Bank,
+
+
+(e) In case the bank or financial institution is found to have taken a license having submitted a false description,
+
+
+(f) In case the deposits have not been guaranteed as per the prevailing laws.
+
+
+3) In case a promoter, shareholder, Director, Chief Executive, official, employee or any other relevant person of a bank or financial institution violates this Act or Rastra Bank Act, or Rules, By-laws, Directives, or Orders issued thereunder, the Rastra Bank may, having regard to the nature and gravity of the violation, take one or more of the following actions and impose fines as well:-
+
+
+(a) To forfeit and freeze the shares of the concerned bank or financial institution as he/she has subscribed and to direct the Board of Directors to sell the said shares to other persons,
+
+
+(b) To direct the Board of Directors to stop or suspend some or all of the facilities, including meeting allowance monthly remuneration to be entitled to the Board of Directors, Director, official, employee or any other relevant person of a bank or financial institution,
+
+
+(c) In case the Chairperson, Director, Chief Executive or the person to act as in the capacity of the Chief Executive or an employee is, upon an inspection or monitoring of the Rastra Bank, not found to have worked in the interests of depositors, shareholders, and licensed institution, he/she may be removed from the said position by furnishing a written notification to that effect.
+
+
+Provided that while taking actions under this Clause, a time limit of three to fifteen days shall be given to such person to submit explanations of the allegation. In case such a person is terminated from the service, he/she shall not be entitled to any compensation or benefits as referred to in the Personnel By-laws, and he/she shall be deemed to be disqualified for service in any bank or financial institution for a period of five years after such actions.
+
+
+(d) In case the Director, official or other employee subjected to actions does not receive the letter of taking actions or does not submit the explanation after receiving the letter while taking actions pursuant to Clause (c), the Rastra Bank may inform the taking of actions against through public notice,
+
+
+(e) In case any bank or financial institution is found to have taken or given remuneration or other facilities against this Act or in an unnatural manner, to recover all of such facilities or the amount to be required for such facilities and the interests to be accrued thereon from the person gives such facilities,
+
+
+(f) To issue an order to the bank or financial institution to write to the concerned agency to take action against a Director, official or employee of the bank or financial institution where he/she is professionally affiliated.
+
+
+4) In case the amount to be paid by a bank or financial institution has been found to have been paid or incurred because of recklessness or negligence of any Director, official or employee, the Rastra Bank may issue an order to recover the amount from such Director, official or employee.
+
+
+5) The Director, official or employee shall have to pay such amount on a personal basis within 35 days from the date of receiving the order issued pursuant to sub-section (4).
+
+
+6) In case the amount payable within the time limit as referred to in sub-section (5) is not paid, said amount shall be recovered from any account of such Director, official or employee or in any family member’s name at any bank or financial institution or from any movable or immovable assets in his/her name or in any family member’s name, as the Government due.
+
+
+7) In case the Rastra Bank carries out regulation, inspection, supervision or any other actions of any bank or financial institution under this Section and publishes or broadcasts public notices thereof, the concerned bank or financial institution shall have to pay the expenses to be incurred for publishing or broadcasting such notices
+
+---
+
+### Section 100: Fines may be imposed
+
+1) The Rastra Bank may impose the following fines against the bank or financial institution which does not give information or documents to be given according to this Act or Rastra Bank Act, or Rules, Byelaws, Directives or Orders issued thereunder; or which does not make available within the prescribed time the documents, description, statistics, or record as required by any officer deputed by the Rastra Bank for monitoring, inspection or supervision of the said bank or financial institution:-
+
+
+(a) Daily one hundred thousand rupees up to one week from the date of expiry of the term,
+
+
+(b) Daily one hundred twenty-five thousand rupees up to two weeks from the date of expiry of the term,
+
+
+(c) Daily one hundred fifty thousand rupees from the date of expiry of the term referred to in Clause (b) up to an indefinite period of time.
+
+
+2) In case a Promoter, Director, Shareholder, Chief Executive, official, an employee of a bank or financial institution, or any other related person violates this Act or the Rastra Bank Act or the Rules, Byelaws framed thereunder or the Directive or Order issued thereunder, or fails to implement the directive issued by Rastra Bank pursuant to Clause (b) of sub-section(3) of section 99, the Rastra Bank may impose a fine up to one million rupees having regard to the nature and gravity of the violation.
+
+
+3) In case the bank or financial institution, having been imposed the fines pursuant to sub-section (1), does not pay the fine within three days from the date of receipt of information of the decision, the said amount shall be recovered by deducted from the amount deposited in the account of the said bank or financial institution opened at the Rastra Bank.
+
+
+4) The cash fine to be received by the Rastra Bank pursuant to sub-sections (1) and (2) shall be deposited to the Government fund.
+
+---
+
+### Section 101: Procedures of Actions
+
+1) Except otherwise provided in this Act, the Rastra Bank shall follow the procedures as mentioned hereunder while taking actions pursuant to Section 99 and imposing fines pursuant to Section 100:-
+
+
+(a) Before taking the proposed action or imposing fines, the alleged bank or financial institution or person shall be given a written notice of seven days to defend its/his/her position, stating the nature of the Act he/she has committed, a short description of the Act, the amount that may be imposed as fines and the proposed actions.
+
+
+(b) The concerned bank or financial institution or person shall have to submit clarification in written form within seven days from the date of receiving written notice pursuant to Clause (a).
+
+
+(c) If the written clarification submitted pursuant to Clause (b) is found to be satisfactory, Rastra Bank may amend, delimit or dismiss the charge.
+
+
+(d) If the written clarification submitted pursuant to Clause (b) is not found to be satisfactory, the Rastra Bank may take action pursuant to Section 99 or impose a fine pursuant to Section 100.
+
+
+2) Other procedures to be complied with while taking actions or imposing fines by the Rastra Bank shall be as prescribed by the Rastra Bank.
+
+---
+
+### Section 102: Control over the Licensed Institutions
+
+1) Notwithstanding anything contained elsewhere in this Act, if the Rastra Bank believes that a licensed institution has violated this Act or Rastra Bank Act or the Rules or Byelaws framed hereunder or the Orders or Directives issued hereunder or is satisfied, on the basis of the inspection and supervision report of the Rastra Bank, that a licensed institution has failed or is likely to fail to perform the obligations required to be performed by the licensed institution or that a bank or financial institution has not been operated smoothly or has carried out anything contrary to the interests of its shareholders or depositors, the Rastra Bank may suspend the Board of Directors of such licensed institution for a period of maximum three years and take such bank or a financial institution under own control.
+
+
+2) After taking any licensed institution under its control pursuant to sub-section (1), the Rastra Bank may, either itself or through any appropriate person, firm, company or institution appointed by it, carry out the management of such bank or financial institution.
+
+
+3) The Rastra Bank shall, within one year after the management of the licensed institution has been carried out by itself or through any other person, firm, company or institution pursuant to sub-section (2), conduct or cause to be conducted financial and management audit of such institution and publicly publish a report thereof.
+
+
+4) If the Rastra Bank is satisfied, from the report referred to in sub-section (3), that the concerned licensed institution has become capable of performing the liabilities required to be performed by it or that the institution has reached a stage of operating smoothly, the Rastra Bank may take the following actions:-
+
+
+(a) To remove the suspension of the Board of Directors of the licensed institution made pursuant to sub-section (1) and handover the management of the institution again to that Board of Directors, or
+
+
+(b) To dismiss the Board of Directors of the licensed institution which has been suspended pursuant to sub-section (1), form a new Board of Directors from amongst the shareholders of the licensed institution and hand over the management of that institution to the new Board of Directors, or
+
+
+(c) To convene the General Meeting of the licensed institution, get a new Board of Directors formed by the Meeting, and handover the management of the institution to the Board of Directors or
+
+
+(d) To take any other action as the Rastra Bank deems appropriate.
+
+
+5) If the Rastra Bank is satisfied, from the report referred to in sub-section (3), that the concerned licensed institution has become incapable of performing the liabilities required to be performed by it or that the institution has reached a stage of not being operated smoothly, the Rastra Bank may take any of the following two actions:-
+
+
+(a) To initiate the process of mandatory liquidation according to the provisions made in Chapter 12 of the Act, or
+
+
+(b) To initiate the process of settlement according to the Rastra Bank Act.
+
+
+6) The Rastra Bank shall, prior to taking a licensed institution under its control pursuant to sub-section (1), give an opportunity to the concerned bank or financial institution to defend itself by providing it with a time limit not exceeding 15 days, having regard to the situation.
+
+
+7) The concerned licensed institution shall bear all expenses incurred by the Rastra Bank in every act and action taken by it after taking such institution under its control pursuant to this Section.
+
+
+8) The Rastra Bank shall have to inform the Government of Nepal and the Ministry of Finance about the taking of any licensed institution under its control pursuant to sub-section (1).
+
+---
+
+### Section 103: Offences
+
+1) Whoever commits any of the following acts contrary to this Act or the Rules, Byelaws, Directives, Orders issued under this Act or terms or limitation as prescribed shall be deemed to have committed an offence under this Act:-
+
+
+(a) Carrying out banking and financial transactions without obtaining a license,
+
+
+(b) Obtaining a license for carrying on banking and financial transactions, submitting wrong or false statements,
+
+
+(c) Carrying out banking and financial transactions against the terms and limits of the license for carrying on banking and financial instruments,
+
+
+(d) Carrying out foreign currency exchange-related business without license,
+
+
+(e) Disbursing credits or other financing against this Act,
+
+
+(f) Committing irregularities while carrying out valuation in artificial price while disbursing credits, recovering credits, valuating securities, recovering loan or carrying out any act relating thereto, creating artificial price while auctioning the assets pledged as collateral, or while accepting the property as non-banking assets or while selling by accepting non-banking assets or while taking collateral,
+
+
+(g) Committing irregularities by any Director, official, employee and other person while carrying out merger and acquisition, liquidating, or auditing,
+
+
+(h) Attempting to commit the offence referred to in Clauses (a) to (g) or abetting the commission of such offence in any manner.
+
+
+2) Except in cases where a Director, official or any other person abetting in the commission of the offence referred to as sub-section (1) proves that he/she had tried his/her best effort to avoid committing such offence or that it was committed without his/her consent, the offence is deemed to have been committed by himself/herself.
+
+
+3) Except in connection with regular transactions of the branch, in case an official or employee of a branch of a foreign bank transfers assets of such branch to another country, grants approval therefor, delegates authority to that effect, or abets the commission of such an act, it shall be deemed to be an offence under this Act.
+
+---
+
+### Section 104: Punishment
+
+1) Any person who commits any of the following offences shall be liable to the following punishment:-
+
+
+(a) In case of the commission of the offence as referred to in Clause (a) of sub-section (1) of Section 103, the amount involved shall be confiscated, and the offender shall be punished with a fine up to three times the amount involved and imprisonment up to five years,
+
+
+(b) In case of the commission of the offence referred to in Clause (b) of sub-section (1) of Section 103, the amount involved shall be confiscated, and the offender shall be punished with a fine up to two times the amount involved and imprisonment of up to two years,
+
+
+(c) In case of commission of the offence referred to in Clause (c), (d), (e), (f) or (g) of sub-section (1) of Section 103, the amount involved, if any, shall be confiscated and the offender shall be punished with a fine equal to the amount involved and an
+imprisonment up to one year,
+
+
+(d) In case of the commission of the offence referred to in Clause (h) of sub-section (1) of Section 103, the amount involved, if any, shall be confiscated, and the offender shall be punished with half of the punishment to be imposed to the principal offender.
+
+
+2) While ascertaining the amount involved for the purpose of sub-section (1), the amount shall have to be calculated having taken into account the entire amount involved.
+
+
+3) While imposing fines for the offences as referred to in Clause (a) to (e) of sub-section (1), if the claimed amount is revealed, the fines shall be imposed accordingly, and if no such amount is revealed, the amount from one million to five million has to be fined.
+
+
+4) In case of commission of the offence as referred to in sub-section (3) of Section 103, the offender shall be punished with a fine equivalent to the involved amount and imprisonment up to five years.
+
+
+5) In case an offence as referred to in Section 103 is committed by any firm, company or corporate body, punishment according to this Section shall be imposed on the concerned Director, official, employee or a concerned person of the concerned firm, company,, or corporate body and if such concerned person could not be ascertained, the punishment shall be imposed on the chief of the firm, company, or corporate body.
+
+
+6) In case anyone is found to have been committed in any offence as referred to in Section 103 and the proceeds of the offence are found to have been kept or concealed in the name of himself/herself, any member of the family or relative or in the name of anyone else, such property and the property accrued therefrom shall also be confiscated.
+
+---
+
+### Section 105: Appeal
+
+1) The bank or financial institution or a Director, official or employee thereof which/who is not satisfied with the actions taken by the Rastra Bank pursuant to Section 99 or punishment imposed pursuant to Section 100 may file an appeal at the court within 35 days from the date of getting order of such actions.
+
+
+Provided that while filing an appeal against an action taken pursuant to Section 99 or punishment imposed pursuant to Section 100 on a bank or financial institution by any shareholder, it has to be filed by the representative of the shareholders representing at least 25 percent of the paid-up capital of the bank or financial institution.
+
+
+2) In case any Director, official, employee or any other person desires to file an appeal pursuant to sub-section (1) against the personal actions or fines, fifty percent of the amount of such fines or any amount as given order to pay must be deposited.
+
+
+3) The Director, official or employee of any bank or financial institution who is removed or dismissed from the office shall not be eligible to become a Director, official or employee of any other bank or financial institution until a period of five years has expired from the date of such taking of actions or until the final decision of the case if he/she has filed an appeal.
+
+---
+
+### Section 106: No obstruction to Punishment
+
+In case any person is found to have committed any offence as referred to in Section 103 while holding any position of a bank or financial institution, there shall be no obstruction to take actions against him/her for the reason of his/her retirement or non-holding of the position.
+
+---
+
+
+---
+
+## Chapter-14 Miscellaneous
+
+### Section 107: Special Provisions on Infrastructure Development Bank
+
+1) The Rastra Bank may formulate separate special policy provisions or issue directives concerning the establishment, operation, regulation, supervision actions, merger and acquisitions or liquidation of Infrastructure Development Banks based on the nature, volume and investment made in respective Infrastructure Development Banks.
+
+
+2) Notwithstanding anything contained elsewhere in this Act, the maximum limit of shares to be subscribed by a promoter or shareholder of an Infrastructure Development Bank or limit of equity investment to be made by any foreign bank, financial institution and other corporate bodies in shares, debentures or other financial instruments shall be as determined by the Rastra Bank from time to time
+
+---
+
+### Section 108: Security of Deposits to be made
+
+A licensed bank or financial institution shall have to secure the amount remaining in the deposit account as prescribed by the Rastra Bank in accordance with the provision prescribed by the prevailing law.
+
+---
+
+### Section 109: Banking Secrecy to be Maintained
+
+1) The relationship between a bank or financial institution and its customers and information pertaining to its accounts, records, books, ledgers and statements shall not be disclosed to any person other than the concerned person.
+
+
+2) Notwithstanding anything contained in sub-section (1), the secrecy shall not be deemed to have been violated if the details or information of any person remained in the bank or financial institution is provided in the following manner: –
+
+
+(a) If the details or information is provided to the Rastra Bank pursuant to this Act or Rastra Bank Act or the Rules or By-laws framed thereunder or the orders or directives issued thereunder or if the details or information is shared between banks or financial institutions in the course of exchanging credit information,
+
+
+(b) If the details or information is provided to the court in connection with any litigation or any other legal action,
+
+
+(c) If such notice or information is provided to the legally authorized official inquiries and investigations or prosecution, in connection with such inquiries and investigations or prosecution; or if it is provided to the enquiry committee or the investigation officer authorized by the other prevailing laws, in the course of enquiries or if such information is provided to the regulatory bodies,
+
+
+(d) If any details or information is provided to the auditor in the course of auditing,
+
+
+(e) If any details or information is provided to a foreign country in accordance with prevailing laws relating to mutual legal assistance,
+
+
+(f) If, in the course of the investigation of any case of a specific nature, the Government of Nepal, Ministry of Finance, has made a request, accompanied by the reason therefor, for providing the details of the account of the bank or financial institution or any details of the account of any person, firm, company or institution maintained with the bank or financial institution, and if the Rastra Bank has given direction for the same.
+
+
+3) No one shall divulge any information or details received under sub-section (2) to any unauthorized person.
+
+
+4) Except in the situation as mentioned in sub-section (2), the Directors, Chief Executive, employees, auditor, advisors of a bank or financial institution or any other relevant person shall not divulge the secrecy of the accounts, records, books, ledgers and any other information of the bank or financial institution the confidentiality of which is required to be maintained in such a manner as to undermine the relationship between the bank or financial institution and its customers.
+
+---
+
+### Section 110: Power to give Directive to freeze Accounts
+
+1) The Rastra Bank may, in the following circumstances, give a directive to a bank or financial institution at any time to freeze any account not allowing any type of payment or transfer of funds in the name of any person, firm, company or institution:-
+
+
+(a) In case of a request made by an authorized officer to the Rastra Bank in the course of investigation of any offence,
+
+
+(b) In order to uphold national interests by preventing money laundering and terrorist financing and controlling an offence of corruption, organized crime or possible offence may be incurred in the transaction of bank and financial institutions.
+
+
+2) It shall be the duty of the concerned bank or financial institution to comply with the directive given by the Rastra Bank pursuant to sub-section (1).
+
+---
+
+### Section 111: Right to Claims over the Deposits
+
+1) Claims of any person other than the actual depositor to deposits made with a licensed institution shall not be entertained.
+
+
+2) In the event of the death of the depositor, the nominee appointed by him/ her, if any, and if such nominee also dies or if no nominee has been appointed by the depositor, the surviving person from amongst his/her relatives, in the following order, shall have first right to such deposits: –
+
+
+(a) Husband or wife living in the joint family,
+
+
+(b) Son or daughter, or adopted son or adopted daughter or widow daughter-in-law, living in a joint family,
+
+
+(c) Father, mother, grandson or granddaughter living in the joint family,
+
+
+(d) Husband or wife, son, daughter, father or mother, son, daughter-in-law or married daughter living separately,
+
+
+(e) Grandfather, grandmother, brother, nephew, niece, sister living in the same family, grandfather or grandmother living separately,
+
+
+(f) Stepmother living in the joint family, grandson and unmarried granddaughter towards son living separately,
+
+
+(g) Elder or younger brother living separately, nephew, niece, sister, nephew, niece
+
+
+(h) Uncle, widowed aunt, sister-in-law (elder or younger brother’s wife), or grand-daughter-in-law living in a joint family,
+
+
+(i) Married sisters and granddaughter-in-law live separately.
+
+
+3) If there is no one in the order of priority as referred to in sub-section (2), the successor shall have the title to such deposit, and if there is not even such successor, the deposit shall be collected to the Banking Development Fund of the Rastra Bank and be used for banking development.
+
+
+4) Notwithstanding anything contained in prevailing laws, no amount deposited with a bank or financial institution shall be handed over to anyone without the approval of the person who has the title thereto under sub-section (1).
+
+---
+
+### Section 112: Statement of Unclaimed Deposits
+
+(1) A bank or financial institution shall, within the first month of each fiscal year, submit to the Rastra Bank statement of deposit accounts which have remained unreported and of those the title to which have not been claimed under this Act for ten years.
+
+
+2) A bank or financial institution shall publish a notice to collect the unused or unclaimed deposits as referred to in sub-section (1) once every five years in a national-level daily newspaper. Detailed descriptions of that shall also have to be kept by the bank or financial institution on its website.
+
+
+3) In case the amount as referred to in sub-section (1) is not collected for a period of twenty years, such deposit shall be collected to the Banking Development Fund of the Rastra Bank and be used for banking development.
+
+---
+
+### Section 113: Recovery from or confiscation of deposits
+
+If any business or transaction is carried on by pledging as collateral or security the amount deposited with a bank or financial institution, or if amounts are deposited with a bank or financial institution with misappropriated funds belonging to the governmental body or anybody owned by the Government of Nepal, or with funds obtained by committing any act which is deemed to be an offense under the prevailing laws, or with funds collected through any activity relating to terrorism or organized crime or banking or financial offence or organized crime, such deposits may be confiscated or such collateral or security or misappropriated or other funds may be recovered from such deposits or such deposit may be confiscated in accordance with the prevailing laws.
+
+---
+
+### Section 114: Recovery from Director
+
+In case any Director is found to have taken any cash or kind for personal benefit in the course of a transaction of a bank or financial institution, the bank or financial institution shall have to recover such cash or kind from such Director.
+
+---
+
+### Sectiom115: Claims may not be made
+
+In case any person is found to have entered into any transaction with any Director or his/her representative knowingly or having adequate reasons to believe that the Director entered into the transaction for his/her interests or causing loss to the bank or financial institution, such a person may not make a claim against the bank or financial institution with regard to such transaction.
+
+---
+
+### Section 116: Government of Nepal to be plaintiff
+
+1) The case relating to offences as referred to in Section 103 shall be filed with the Government of Nepal being the plaintiff, and such case shall be deemed to have been included in Schedule 1 of the Government Cases Act enforcement.
+
+
+2) Anyone may file a complaint in writing or verbally against any Director, official, employee, borrower or any other person committing an offence referred to in Section 103, along with evidence thereof at the nearby police office. While filing such a complaint, it shall not be required to mention the name.
+
+
+3) The Rastra Bank shall have to extend necessary cooperation in all acts of investigation, prosecution and adjudication of the offences as referred to in Section 103.
+
+---
+
+### Section 117: Provisions on Transparency
+
+1) A bank or financial institution or a branch of a foreign bank or financial institution shall have to publish a periodic report on its financial position and status of risks in every three months for transparency of the transactions it has carried out.
+
+
+2) The minimum matters to be included in the report, as referred to in sub-section (1), shall be as prescribed by the Rastra Bank.
+
+---
+
+### Section 118: Provisions on Protection of Customers’ Interests
+
+The Rastra Bank may carry out the following functions for the purpose of protecting the interests of consumers:-
+
+
+(a) To make assurance that the licensed bank or financial institution has been carrying out its financial transactions as per the prevailing laws and that they have been making available financial services to the consumers in a transparent and fair manner,
+
+
+(b) To make coordination on matters of protection of interests of customers in the financial sector,
+
+
+(c) To collect necessary information to reform in the sector of protection of interests of consumers in the banking sector and to bring financial literacy
+
+---
+
+### Section 119: Exemption and facilities
+
+1) Any mortgage deed of movable or immovable assets to be made for credit not exceeding one million rupees supplied by a bank or financial institution to any citizen of Nepal or any institution established in accordance with the laws in force for agriculture, cottage and small-scale industry, irrigation, hydropower generation and for any other enterprise as specified by the Government of Nepal shall not be required to make registration.
+
+
+2) The repayment period of the credit and deposits shall be as prescribed by the bank or financial institution.
+
+
+3) No revenue stamp fee shall be charged on any deeds or documents related to the bank or financial institution.
+
+---
+
+### Section 120: Expenditures Management
+
+The Rastra Bank may issue necessary directives on preliminary, incorporation, administrative, commercial and managerial as well as other expenditures of bank or financial institutions.
+
+---
+
+### Section 121: Statement of Assets to be submitted
+
+A Director, official and Chief Executive of a bank or financial institution shall have to submit the statement of entire movable and immovable assets and liabilities in his/her name and in the name of his/her family members within sixty days from the date of completion of every fiscal year to concerned Bank and information thereof shall be given to the Rastra Bank. While submitting such a statement, the source of such income shall also have to be mentioned.
+
+---
+
+### Section122: Credit, Liabilities and Titles against the Collateral of Credit may be purchased or  sold
+
+Notwithstanding anything contained in prevailing laws of Nepal and unless otherwise provided for in the agreement concerning credit, the title over the credit given by any bank or financial institution to any person or of the liability it has assumed and of the movable or immovable assets pledged as collateral (the title of a mortgage) may also be purchased or sold.
+
+---
+
+### Section 123: Settlement of Disputes
+
+1) In the event of any dispute incurred between banks or financial institutions, such dispute shall have to be settled in mutual understanding.
+
+
+2) In case the dispute cannot be settled through mutual consent in accordance with sub-section (1), Rastra Bank shall settle the dispute through mediation or other methods of dispute resolution as per the prevailing laws.
+
+
+3) The decision made by the Rastra Bank pursuant to sub-section (2) shall be final.
+
+---
+
+### Section 124: Not to be liable for acts done in good faith
+
+1) The official or employee of the Rastra Bank or a bank or financial institution shall not be held individually or collectively liable for any act carried out in good faith under this Act or Rastra Bank Act or the Rules or Byelaws framed hereunder or the orders or directives issued thereunder.
+
+
+2) If any kind of lawsuit is filed against the Rastra Bank, a bank or financial institution or an official thereof in relation to any loss or damage caused or likely to be caused by any act carried out or supposed to be carried out in good faith for the compliance with this Act or Rastra Bank Act or the Rules or Byelaws framed hereunder or the orders or directives issued thereunder, the concerned institution shall bear the expenses of such lawsuit.
+
+
+Provided that in case of the act committed out of enmity, negligence or malafide intention, the concerned person shall be liable, and Rastra Bank or a bank or finance company shall not bear the expenses to be incurred on such matter.
+
+---
+
+### Section 125: Actions taken not to be invalidated
+
+No action taken by a Director or Board of Directors shall be invalidated solely for the reason of the commission of any irregularity in the appointment of the Director of a bank or financial institution or formation of any committee or for the vacancy of the office of Director.
+
+---
+
+### Section 126: Study Committee or Sub-committee may be formed
+
+1) The Rastra Bank may, in order to carry out an overall study on banking and financial laws, credit recovery, stability of the financial sector, judicial development, and contemporary reforms on the financial system and to submit the report, form an expert study committee comprising representative of the Rastra Bank, bank or financial institutions and concerned agencies and experts.
+
+
+2) The Rastra Bank may form sub-committees as may be necessary for the purpose of sub-section (1).
+
+
+3) The functions, duties and powers of and facilities of the Study Committee as referred to in sub-section (1) or of the sub-committee as referred to in sub-section (2) shall be as specified by the Rastra Bank.
+
+---
+
+### Section 127: Oath of Office
+
+1) The director, official, Chief Executive or employee of a bank or financial institution shall, prior to assuming the duties of his or her office, take an oath of office and secrecy according to the format as referred to in the Annex.
+
+
+2) The oath referred to in sub-section (1) shall be administered by the Rastra Bank to the Chairperson, by the Chairperson to other Directors and Chief Executive and by the Chief Executive or official designated by him/her to other officials and employees.
+
+---
+
+### Section 128: Amendment of Memorandum of Association and Articles of Association
+
+Notwithstanding anything contained in prevailing laws, an amendment to the Memorandum of Association and Articles of Association of the bank or financial institution shall not be applicable unless approved by the Rastra Bank.
+
+---
+
+### Section 129: This Act shall be Prevailed
+
+1) On the matters as referred to in this Act or the Rules, Byelaws, Guidelines Orders or Directives issued under this Act, it shall be according to those provisions and in other matters, it shall be according to Rastra Bank Act and other prevailing laws.
+
+
+2) The provisions of the Rastra Bank Act shall be applied to the activities of regulation, inspection supervision and settlement of the bank or financial institutions established under this Act.
+
+---
+
+### Section 130: Power to Remove Difficulties
+
+(1) If any difficulty arises in the enforcement of any provision of this Act, the Rastra Bank may, with the approval of the Government of Nepal, issue necessary orders to remove such difficulty.
+
+
+(2) While issuing an order for removing difficulty pursuant to sub-section (1), reasons and justification thereof shall have to be mentioned.
+
+---
+
+### Section 131: Power to issue Order or Direction
+
+The Rastra Bank may, subject to this Act or the Rules or Byelaws framed hereunder, issue order or directive to bank or financial institution as may be necessary.
+
+---
+
+### Section 132: Power to frame Rules, By-laws
+
+1) The Rastra Bank may, if it deems necessary, frame and enforce necessary Rules and By-laws for implementing this Act.
+
+
+2) The Rules framed by the Rastra Bank pursuant to Sub-Section (1) shall be commenced only after granting approval by the Government of Nepal.
+
+---
+
+### Section 133: Power to frame By-laws and Procedures
+
+1) The Board of Directors may, in order to operate its institutional, administrative and business transactions in a systematic manner, frame byelaws on any or all of the following matters subject to this Act and the terms and conditions, limitations and norms as prescribed by the Rastra Bank:-
+
+
+(a) On appointment, promotion, transfer, dismissal, remuneration, allowances, gratuity, pension, leave, code of conduct, discipline, and terms and conditions of services and formation of such services,
+
+
+(b) On financial administration of the bank or financial institution,
+
+
+(c) On writing off of credits,
+
+
+(d) On other matters as prescribed by the Rastra Bank from time to time.
+
+
+2) In addition to the matters as referred to in sub-section (1), a bank or financial institution may frame procedures/guidelines on the following matters as may be necessary:-
+
+
+(a) On meeting of the Board of Directors and procedures of the General Meeting,
+
+
+(b) On delegation of authority by the Board of Directors to Director, Chief Executive, Official or employee,
+
+
+(c) On the terms and conditions of the contract to be concluded on behalf of bank or financial institutions,
+
+
+(d) On the procedures of the use of the seal of bank or financial institutions,
+
+
+(e) On valuation of non-banking assets to be mortgaged at the time of disbursement of credits or at the time of auction,
+
+
+(f) On other actions and proceedings to be carried out under this Act by banks or financial institutions,
+
+
+(g) On crushing documents and papers,
+
+
+(h) On other matters as prescribed by the Rastra Bank from time to time.
+
+---
+
+### Section 134: Repeal and saving
+
+1) The Banks and Financial Institutions Act, 2006 is hereby repealed.
+
+
+2) Acts carried out and actions taken according to the Act repealed pursuant to sub-section (1) shall be deemed to have been taken under this Act.
+
+---
+
+
+---
+
+## Annex
+
+(Relating to Sub-Section (1) of Section 127)
+
+
+Format of Oath of Office
+
+
+ 
+
+
+I, …………………solemnly and sincerely resolve that as I have been appointed/nominated/elected to the office of ……………………of the ………………………….bank or financial institution, I shall perform the duties of my office according to the prevailing Act, Rules and policies, regulation and directives of the Rastra Bank having always taken account of promotion of financial system and interests of the bank or financial institution and with honesty. I also do solemnly resolve with a high sense of honesty and truth that I shall not disclose the transactions and matters of the bank or financial institution to be kept confidential. Except in case authorized by the Board of Directors or compelled by the law, I shall not disclose, directly or indirectly, in any manner any information or matter that came to my knowledge as in the capacity of …………, whether I shall continue in the office or discontinue it.
+
+
+The person taking the oath               The person administering the oath
+
+
+Name:                                                      Name:
+
+
+Designation:                                           Designation:
+
+
+Signature:                                                Signature:
+
+
+Date:                                                          Date:
+
+
+Date of authentication: 2074-01-10 BS (April 23, 2017 AD
+
+
+---
+
