@@ -13,7 +13,7 @@ export async function POST(req: NextRequest) {
     // 1. Retrieve relevant law sections
     const searchResults = searchKnowledgeBase(message, 5);
     const context = searchResults.map(r => 
-      `Act: ${r.actName} (${r.year})\nSection: ${r.title}\nContent: ${r.content}`
+      `ID: ${r.actId}#${r.sectionId}\nAct: ${r.actName} (${r.year})\nSection: ${r.title}\nContent: ${r.content}`
     ).join('\n\n---\n\n');
 
     // 2. Get streaming response from Gemini
