@@ -1,7 +1,7 @@
 "use client";
 
 import { useState, useRef, useEffect, useMemo } from 'react';
-import { Send, Bot, User, Scale, RefreshCcw, X } from 'lucide-react';
+import { Send, Bot, User, Scale, RefreshCcw, X, Moon, Sun, Type, SpellCheck } from 'lucide-react';
 import MarkdownIt from 'markdown-it';
 
 interface Message {
@@ -27,12 +27,29 @@ export default function Home() {
   const [lawModalOpen, setLawModalOpen] = useState(false);
   const [modalLang, setModalLang] = useState<'english' | 'nepali'>('english');
   const [knowledgeBase, setKnowledgeBase] = useState<any[]>([]);
+  const [isDarkMode, setIsDarkMode] = useState(false);
+  const [fontSize, setFontSize] = useState<'normal' | 'large' | 'xl'>('normal');
+  const [isDyslexic, setIsDyslexic] = useState(false);
 
   const chatEndRef = useRef<HTMLDivElement>(null);
   const textAreaRef = useRef<HTMLTextAreaElement>(null);
   const md = useMemo(() => new MarkdownIt({ html: true, linkify: true, breaks: true }), []);
 
   useEffect(() => {
+    // Theme initialization
+    const savedTheme = localStorage.getItem('theme');
+    if (savedTheme === 'dark') {
+      setIsDarkMode(true);
+      document.body.classList.add('dark-mode');
+    }
+
+    // Accessibility initialization
+    const savedFontSize = localStorage.getItem('fontSize');
+    if (savedFontSize) setFontSize(savedFontSize as any);
+
+    const savedDyslexic = localStorage.getItem('isDyslexic');
+    if (savedDyslexic === 'true') setIsDyslexic(true);
+    
     // Attempt to load the knowledge base for the modal
     fetch('/api/knowledge')
       .then(res => {
@@ -47,6 +64,57 @@ export default function Home() {
         console.error('Failed to load knowledge base:', err);
       });
   }, []);
+
+  // Update localStorage when settings change
+  useEffect(() => {
+    localStorage.setItem('fontSize', fontSize);
+  }, [fontSize]);
+
+  useEffect(() => {
+    localStorage.setItem('isDyslexic', isDyslexic.toString());
+  }, [isDyslexic]);
+
+  // Keyboard Navigation
+  useEffect(() => {
+    const handleGlobalKeyDown = (e: KeyboardEvent) => {
+      if (!lawModalOpen) return;
+
+      if (e.key === 'Escape') setLawModalOpen(false);
+      if (e.key === 'l' || e.key === 'L') setModalLang(prev => prev === 'english' ? 'nepali' : 'english');
+      
+      // J/K Navigation between sections
+      if (e.key === 'j' || e.key === 'k') {
+        const sections = Array.from(document.querySelectorAll('.law-section'));
+        const currentIdx = sections.findIndex(s => s.classList.contains('highlight-section'));
+        let nextIdx = currentIdx;
+
+        if (e.key === 'j') nextIdx = Math.min(sections.length - 1, currentIdx + 1);
+        if (e.key === 'k') nextIdx = Math.max(0, currentIdx - 1);
+
+        const nextSection = sections[nextIdx];
+        if (nextSection) {
+          const id = nextSection.id.replace('section-', '');
+          setSelectedSectionId(id);
+          nextSection.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        }
+      }
+    };
+
+    window.addEventListener('keydown', handleGlobalKeyDown);
+    return () => window.removeEventListener('keydown', handleGlobalKeyDown);
+  }, [lawModalOpen]);
+
+  const toggleDarkMode = () => {
+    const newMode = !isDarkMode;
+    setIsDarkMode(newMode);
+    if (newMode) {
+      document.body.classList.add('dark-mode');
+      localStorage.setItem('theme', 'dark');
+    } else {
+      document.body.classList.remove('dark-mode');
+      localStorage.setItem('theme', 'light');
+    }
+  };
 
   const scrollToBottom = () => {
     chatEndRef.current?.scrollIntoView({ behavior: "smooth" });
@@ -97,6 +165,9 @@ export default function Home() {
           const chunk = decoder.decode(value, { stream: true });
           aiText += chunk;
 
+          // Slow down the typing effect a bit
+          await new Promise(resolve => setTimeout(resolve, 30));
+
           setMessages(prev => prev.map(msg =>
             msg.id === aiMessageId ? { ...msg, text: aiText } : msg
           ));
@@ -146,24 +217,19 @@ export default function Home() {
         const fullId = match[1].toLowerCase();
         const displayId = part.replace(/\[Ref:\s*/i, '').replace(']', '').trim().toUpperCase();
 
-        console.log('Detected reference:', { fullId, displayId, original: part });
-
         return (
           <button
             key={index}
             className="reference-pill"
-            onClick={() => {
-              console.log('Clicking pill for:', fullId);
-              openLawModal(fullId);
-            }}
-            title={`Click to view: ${displayId}`}
+            onClick={() => openLawModal(fullId)}
+            title={`View citation: ${displayId}`}
+            aria-label={`View legislative reference ${displayId}`}
           >
             {displayId}
           </button>
         );
       }
 
-      // Only render markdown if it's not empty
       if (!part.trim()) return null;
 
       return (
@@ -183,29 +249,61 @@ export default function Home() {
   }, [selectedLawId, knowledgeBase]);
 
   return (
-    <main suppressHydrationWarning>
-      <header className="header">
+    <main suppressHydrationWarning className={`${isDarkMode ? 'dark-mode' : ''} ${isDyslexic ? 'dyslexic-mode' : ''} font-size-${fontSize}`}>
+      <header className="header" role="banner">
         <div className="logo">
-          <Scale size={24} />
+          <Scale size={24} aria-hidden="true" />
           <span>Nepal Law Assistant</span>
         </div>
-        <button className="reset-btn" onClick={() => window.location.reload()}>
-          <RefreshCcw size={16} />
-          <span>Reset Chat</span>
-        </button>
+        <div className="header-actions">
+          <div className="a11y-controls-header" role="toolbar" aria-label="Accessibility options">
+            <div className="a11y-group">
+              <button className={`a11y-btn ${fontSize === 'normal' ? 'active' : ''}`} onClick={() => setFontSize('normal')} aria-label="Normal font size">A</button>
+              <button className={`a11y-btn ${fontSize === 'large' ? 'active' : ''}`} onClick={() => setFontSize('large')} aria-label="Large font size">A+</button>
+              <button className={`a11y-btn ${fontSize === 'xl' ? 'active' : ''}`} onClick={() => setFontSize('xl')} aria-label="Extra large font size">A++</button>
+            </div>
+            <div className="a11y-group">
+              <button 
+                className={`a11y-btn ${isDyslexic ? 'active' : ''}`} 
+                onClick={() => setIsDyslexic(!isDyslexic)}
+                title="Dyslexia-friendly font"
+                aria-label="Toggle dyslexia-friendly font"
+              >
+                <SpellCheck size={18} />
+              </button>
+            </div>
+          </div>
+
+          <button 
+            className="icon-btn" 
+            onClick={toggleDarkMode} 
+            title={isDarkMode ? "Switch to Light Mode" : "Switch to Night Mode"}
+            aria-label={isDarkMode ? "Switch to Light Mode" : "Switch to Night Mode"}
+          >
+            {isDarkMode ? <Sun size={20} /> : <Moon size={20} />}
+          </button>
+          <button 
+            className="reset-btn" 
+            onClick={() => window.location.reload()}
+            aria-label="Reset chat session"
+          >
+            <RefreshCcw size={16} aria-hidden="true" />
+            <span>Reset</span>
+          </button>
+        </div>
       </header>
 
-      <div className="scroll-area">
+      <div className="scroll-area" role="log" aria-live="polite">
         <div className="chat-container">
           {messages.map((msg) => (
-            <div key={msg.id} className={`message ${msg.role}`}>
-              <div className="avatar">
+            <div key={msg.id} className={`message ${msg.role}`} role="article">
+              <div className="avatar" aria-hidden="true">
                 {msg.role === 'ai' ? <Bot size={20} /> : <User size={20} />}
               </div>
               <div className="message-bubble">
                 <div className="markdown-body">
                   {msg.text ? renderMessageText(msg.text) : (msg.role === 'ai' && isLoading && (
-                    <div className="typing-indicator">
+                    <div className="typing-indicator" aria-label="Assistant is typing">
                       <span></span><span></span><span></span>
                     </div>
                   ))}
@@ -217,7 +315,7 @@ export default function Home() {
         </div>
       </div>
 
-      <div className="input-container">
+      <div className="input-container" role="form">
         <div className="input-wrapper">
           <textarea
             ref={textAreaRef}
@@ -228,40 +326,56 @@ export default function Home() {
               e.target.style.height = `${e.target.scrollHeight}px`;
             }}
             onKeyDown={handleKeyDown}
-            placeholder="Type your question... (Shift+Enter for new line)"
+            placeholder="Type your question..."
             rows={1}
             disabled={isLoading}
-            suppressHydrationWarning
+            aria-label="Legal question input"
           />
-          <button onClick={() => handleSubmit()} disabled={!input.trim() || isLoading}>
-            <Send size={20} />
+          <button 
+            onClick={() => handleSubmit()} 
+            disabled={!input.trim() || isLoading}
+            aria-label="Send message"
+          >
+            <Send size={20} aria-hidden="true" />
           </button>
         </div>
       </div>
 
       {lawModalOpen && (
-        <div className="modal-overlay" onClick={() => setLawModalOpen(false)}>
+        <div className="modal-overlay" onClick={() => setLawModalOpen(false)} role="dialog" aria-modal="true" aria-labelledby="modal-title">
           <div className="modal-content" onClick={e => e.stopPropagation()}>
             <div className="modal-header-sticky">
               <div className="modal-header-top">
                 <div className="title-area">
                   <span className="subtitle">Nepal Law Document</span>
-                  <h2>{currentLaw ? currentLaw.actName : 'Law Details'}</h2>
+                  <h2 id="modal-title">{currentLaw ? currentLaw.actName : 'Law Details'}</h2>
                 </div>
-                <button className="close-btn" onClick={() => setLawModalOpen(false)}>×</button>
+                <button 
+                  className="close-btn" 
+                  onClick={() => setLawModalOpen(false)}
+                  aria-label="Close document viewer"
+                >
+                  <X size={24} />
+                </button>
               </div>
               
               <div className="modal-controls">
-                <div className="language-toggle">
+                <div className="language-toggle" role="tablist">
                   <button 
+                    role="tab"
+                    aria-selected={modalLang === 'english'}
                     className={modalLang === 'english' ? 'active' : ''} 
                     onClick={() => setModalLang('english')}
+                    aria-label="View in English"
                   >
                     English
                   </button>
                   <button 
+                    role="tab"
+                    aria-selected={modalLang === 'nepali'}
                     className={modalLang === 'nepali' ? 'active' : ''} 
                     onClick={() => setModalLang('nepali')}
+                    aria-label="नेपालीमा हेर्नुहोस्"
                   >
                     नेपाली
                   </button>
@@ -271,19 +385,19 @@ export default function Home() {
                   <button 
                     className="view-toggle-btn-small"
                     onClick={() => setShowFullAct(!showFullAct)}
+                    aria-pressed={showFullAct}
                   >
                     {showFullAct ? 'Exit Full View' : 'View Full Act'}
                   </button>
                 )}
               </div>
 
-              {currentLaw && (
-                <div className="act-info-banner-sticky">
-                  <p>Reference from <strong>{currentLaw.actName} ({currentLaw.year})</strong></p>
-                  {showFullAct && <span className="view-badge">Full Act View</span>}
-                </div>
-              )}
+              <div className="act-info-banner-sticky">
+                <p>Reference from <strong>{currentLaw?.actName} ({currentLaw?.year})</strong></p>
+                {showFullAct && <span className="view-badge">Full Act View</span>}
+              </div>
             </div>
+
 
             <div className="modal-body">
               {knowledgeBase.length === 0 ? (
@@ -304,6 +418,7 @@ export default function Home() {
                             key={sec.id} 
                             id={`section-${sec.id}`} 
                             className={`law-section ${isHighlighted ? 'highlight-section' : ''}`}
+                            lang={modalLang === 'nepali' ? 'ne' : 'en'}
                           >
                             <div className="section-header">
                               <h3>{langData?.title || `${sec.id.toUpperCase()} (Translation missing)`}</h3>

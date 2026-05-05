@@ -90,33 +90,66 @@ function parseMarkdown(content: string): ParsedSection[] {
   let currentContent = '';
 
   const addSection = (title: string, content: string) => {
-    // Try to extract section number for stable ID (e.g., "Section 1" or "दफा १")
+    // Standardize IDs across languages
     const nepaliDigits: Record<string, string> = { '०': '0', '१': '1', '२': '2', '३': '3', '४': '4', '५': '5', '६': '6', '७': '7', '८': '8', '९': '9' };
-    const sectionMatch = title.match(/(?:Section|दफा)\s*([0-9०-९]+)/i);
+    const nepaliSuffixes: Record<string, string> = {
+      'क': 'a', 'ख': 'b', 'ग': 'c', 'घ': 'd', 'ङ': 'e',
+      'च': 'f', 'छ': 'g', 'ज': 'h', 'झ': 'i', 'ञ': 'j'
+    };
+    
+    const keywords: Record<string, string> = {
+      'section': 'sec', 'दफा': 'sec',
+      'article': 'art', 'धारा': 'art',
+      'part': 'part', 'भाग': 'part',
+      'chapter': 'chap', 'परिच्छेद': 'chap',
+      'schedule': 'sch', 'अनुसूची': 'sch',
+      'annex': 'annex',
+      'rule': 'rule', 'नियम': 'rule',
+      'preamble': 'preamble', 'प्रस्तावना': 'preamble',
+      'constitution': 'const', 'संविधान': 'const'
+    };
+
     let sectionId = '';
     
-    if (sectionMatch) {
-      const numStr = sectionMatch[1].split('').map(char => nepaliDigits[char] || char).join('');
-      sectionId = `sec_${numStr}`;
+    // Check for numbered keywords - Improved regex to allow optional keywords and suffixes (e.g., 5A, ५क)
+    const keywordPattern = Object.keys(keywords).join('|');
+    const match = title.match(new RegExp(`(?:(${keywordPattern}))?[^0-9०-९]*([0-9०-९]+)([a-zक-ञ])?`, 'i'));
+    
+    if (match && match[2]) {
+      const keyword = match[1] ? match[1].toLowerCase() : '';
+      const type = keywords[keyword] || 'sec'; // Default to 'sec' if number exists but no keyword
+      const numStr = match[2].split('').map(char => nepaliDigits[char] || char).join('');
+      const suffix = match[3] ? (nepaliSuffixes[match[3]] || match[3].toLowerCase()) : '';
+      sectionId = `${type}_${numStr}${suffix}`;
+    } else if (/preamble|प्रस्तावना/i.test(title)) {
+      sectionId = 'preamble';
     } else {
       // Fallback to slugified title
       sectionId = title.toLowerCase()
         .replace(/[:.]/g, '')
         .replace(/\s+/g, '_')
         .replace(/[^a-z0-9_]/g, '')
-        .split('_').slice(0, 3).join('_');
+        .split('_').filter(Boolean).slice(0, 3).join('_');
     }
 
-    // Ensure uniqueness within the act
-    let finalId = sectionId || `section_${sections.length + 1}`;
-    if (sections.some(s => s.id === finalId)) {
-      finalId = `${finalId}_${sections.length + 1}`;
+    // Ensure uniqueness within the act if ID generation failed or collided
+    let finalId = sectionId || 'section';
+    let counter = 1;
+    const baseId = finalId;
+    while (sections.some(s => s.id === finalId)) {
+      finalId = `${baseId}_${counter++}`;
+    }
+
+    // Skip placeholder or extremely short sections
+    const cleanContent = content.trim();
+    if (cleanContent === '---' || cleanContent.length < 3) {
+      return;
     }
 
     sections.push({ 
       id: finalId, 
       title, 
-      content: content.trim() 
+      content: cleanContent 
     });
   };
 
