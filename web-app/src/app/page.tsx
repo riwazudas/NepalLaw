@@ -330,6 +330,7 @@ export default function Home() {
             rows={1}
             disabled={isLoading}
             aria-label="Legal question input"
+            suppressHydrationWarning={true}
           />
           <button 
             onClick={() => handleSubmit()} 

@@ -11,7 +11,7 @@ export async function POST(req: NextRequest) {
     }
 
     // 1. Retrieve relevant law sections
-    const searchResults = searchKnowledgeBase(message, 5);
+    const searchResults = await searchKnowledgeBase(message, 5, true);
     const context = searchResults.map(r => 
       `ID: ${r.actId}#${r.sectionId}\nAct: ${r.actName} (${r.year})\nSection: ${r.title}\nContent: ${r.content}`
     ).join('\n\n---\n\n');
