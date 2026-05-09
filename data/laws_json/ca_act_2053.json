@@ -1,0 +1,774 @@
+[
+  {
+    "id": "ca_act_2053",
+    "actName": "CA",
+    "year": "2053",
+    "sections": [
+      {
+        "id": "preamble",
+        "english": {
+          "title": "Preamble",
+          "content": "Preamble: Whereas, it is expedient to establish an Institute of Chartered Accountants of Nepal in order to enhance social recognition and faith in accounting profession by raising public awareness towards the importance of the accounting profession, towards economic and social responsibility of the accountants and towards economic development of the country through the development of awareness among the professionals about their responsibility towards the importance of accountancy in order to develop, protect and promote the accounting profession.\r\n\r\nBe this Act enacted by Parliament in the 25th year of the reign of His Majesty King Birendra Bir Bikram Shah Dev."
+        },
+        "nepali": {
+          "title": "प्रस्तावना",
+          "content": "प्रस्तावनाः राष्ट्रको आर्थिक विकास गर्नको निमित्त लेखाको महत्व तथा लेखा व्यवसायीको आर्थिक एवं सामाजिक उत्तरदायित्व प्रति जनचेतना जगाई लेखा व्यवसायको सम्बन्धमा सामाजिक मान्यता तथा विश्वास अभिवृद्धि गर्न र लेखा व्यवसाय एवं लेखाको महत्व प्रति लेखा व्यवसायीको उत्तरदायित्व बोध गराई लेखा व्यवसायको विकास, संरक्षण र सम्वर्द्धन गर्नको लागि नेपाल चार्टर्ड एकाउन्टेन्टस् संस्थाको स्थापना र व्यवस्था गर्न वाञ्छनीय भएकोले,\r\n\r\n\r\nश्री ५ महाराजाधिराज वीरेन्द्र वीर विक्रम शाहदेवको शासनकालको पच्चीसौं वर्षमा संसदले यो ऐन बनाएको छ।\r\n\r\n\r\n---"
+        }
+      },
+      {
+        "id": "sec_1",
+        "english": {
+          "title": "Section 1: Short Title and Commencement",
+          "content": "(1) This Act may be called (the) Nepal Chartered Accountants Act (including First Amendment), 1997.\r\n\r\n(2) Sections 29 and 49 of this Act shall be effective from the date of notification in Nepal Gazette by His Majesty's Government and other Sections shall come into force immediately.\r\n---",
+          "chapterTitle": "Chapter 1 Preliminary"
+        },
+        "nepali": {
+          "title": "दफा १: संक्षिप्त नाम र प्रारम्भ",
+          "content": "१) यस ऐनको नाम “नेपाल चार्टर्ड एकाउन्टेन्टस् ऐन, २०५३” रहेको छ।\r\n\r\n\r\n२) यो ऐनको दफा २९ र ४९ नेपाल सरकारले नेपाल राजपत्रमा सूचना प्रकाशन गरी तोकेको मितिदेखि र अन्य दफाहरू प्रारम्भ हुनेछन्।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद १ प्रारम्भिक"
+        }
+      },
+      {
+        "id": "sec_2",
+        "english": {
+          "title": "Section 2: Definitions",
+          "content": "In this Act, unless the subject or context otherwise refers,\r\n(a) \"Institute\" means the Institute of Chartered Accountants of Nepal established pursuant to Section 3.\r\n(b) \"Council\" means the Council constituted pursuant to Section 7.\r\n(c) \"President\" means the President of the Council.\r\n(d) \"Vice-President\" means the Vice-President of the Council.\r\n(e) \"Council Member\" means Member of the Council and these words also refer to the President and the Vice-President of the Council.\r\n(f) \"Executive Director\" means the Executive Director appointed pursuant to Section 38.\r\n(g) \"Member\" means a person who has obtained membership pursuant to Section 16.\r\n(h) \"Chartered Accountant\" means a person who has obtained membership pursuant to Section 16 subsection (2).\r\n(h1) \"Fellow Chartered Accountant (F.C.A.)\" means a member having obtained the membership of the Institute pursuant to Section 17.\r\n(I) \"Registered Auditor\" means a person who has obtained membership pursuant to Section 16 subsection (3).\r\n\r\n(j) \"Certificate of Practice (COP)\" means the certificate issued, pursuant to Section 28, to render accounting profession.\r\n(j1) \"Audit\" means the audit service rendered, under the provisions of the existing legislation, by members holding Certificate of Practice.\r\n---\r\n\r\n(j2) \"Foreign Accounting Body\" means a national level Chartered Accountant Institute or equivalent accounting body having full legal authority to regulate the public accounting profession in any foreign country.\r\n\r\n(j3) \"Accounting Standards Board\" means the Accounting Standards Board constituted under Section 15a.\r\n\r\n(j4) \"Standards on Auditing Board\" means the Standards on Auditing Board constituted under Section 15d.\r\n\r\n(j5) \"Accounting Standards\" means the accounting standards including directives and explanations prepared or recommended by the Accounting Standards Board in order to govern and regulate accounting profession and financial reporting system.\r\n\r\n(j6) \"Standards on Auditing\" means the standards on auditing including directives and explanations prepared or recommended by the Standards on Auditing Board in order to govern and regulate accounting profession and auditing.\r\n\r\n(k) \"Prescribed\" or \"As prescribed\" means prescribed or as prescribed in the Regulations or Byelaws framed under this Act.\r\n\r\n---",
+          "chapterTitle": "Chapter 1 Preliminary"
+        },
+        "nepali": {
+          "title": "दफा २: परिभाषा",
+          "content": "विषय वा प्रसङ्गले अर्को अर्थ नलागेमा यस ऐनमा,\r\n\r\n\r\n(क) “संस्था” भन्नाले दफा ३ बमोजिम स्थापना भएको नेपाल चार्टर्ड एकाउन्टेन्टस् संस्था सम्झनु पर्छ ।\r\n\r\n\r\n(ख) “परिषद्” भन्नाले दफा ७ बमोजिम गठन भएको परिषद् सम्झनु पर्छ ।\r\n\r\n\r\n(ग) “अध्यक्ष” भन्नाले परिषद्को अध्यक्ष सम्झनु पर्छ ।\r\n\r\n\r\n(घ) “उपाध्यक्ष” भन्नाले परिषद्‌को उपाध्यक्ष सम्झनु पर्छ ।\r\n\r\n\r\n(ङ) “पार्षद्” भन्नाले परिषद्‌को सदस्य सम्झनु पर्छ र सो शब्दले अध्यक्ष तथा उपाध्यक्षलाई समेत जनाउँछ ।\r\n\r\n\r\n(च) “कार्यकारी निर्देशक” भन्नाले दफा ३८ बमोजिम नियुक्त भएको कार्यकारी निर्देशक सम्झनु पर्छ।\r\n\r\n\r\n(छ) “सदस्य” भन्नाले यस ऐन बमोजिम संस्थामा नाम दर्ता गराई संस्थाको सदस्यता प्राप्त गरेको व्यक्ति सम्झनु पर्छ ।\r\n\r\n\r\n(ज) “चार्टर्ड एकाउन्टेन्ट” भन्नाले १दफा १६ को उपदफा (२) बमोजिम संस्थाको सदस्यता प्राप्त गरेको व्यक्ति सम्झनु पर्छ ।\r\n\r\n\r\n२(ज१) “फेलो चार्टर्ड एकाउन्टेन्ट (एफ.सी.ए.)” भन्नाले दफा १७ बमोजिम संस्थाको सदस्यता प्राप्त गरेको सदस्य सम्झनु पर्छ ।\r\n\r\n\r\n(झ) “दर्तावाला लेखापरीक्षक (रजिष्टर्ड अडिटर)” भन्नाले लेखापरीक्षक सम्बन्धी ऐन, २०३१ बमोजिम लेखापरीक्षकको प्रमाणपत्र प्राप्त व्यक्ति सम्झनु पर्छ ।\r\n\r\n\r\n१(ञ) “पेशागत प्रमाणपत्र” भन्नाले पेशागत रुपमा लेखा व्यवसाय गर्न दफा २८ बमोजिम प्रदान गरिएको प्रमाणपत्र सम्झनु पर्छ ।\r\n\r\n\r\n२(ञ१) “लेखापरीक्षण” भन्नाले पेशागत प्रमाणपत्र लिई प्रचलित कानून बमोजिम गरिने लेखापरीक्षण सम्झनु पर्छ ।\r\n\r\n\r\n२(ञ२) “विदेशी लेखा व्यवसायी संस्था” भन्नाले विदेशी मुलुकमा सार्वजनिक लेखा व्यवसायलाई नियमन गर्ने अधिकार प्राप्त भएको राष्ट्रिय स्तरको चार्टर्ड एकाउन्टेन्ट्स संस्था वा सो सरहको लेखा व्यवसायी संस्था सम्झनु पर्छ ।\r\n\r\n\r\n२(ञ३) “लेखामान बोर्ड (एकाउन्टीङ्ग स्टैण्डर्डस बोर्ड)” भन्नाले दफा १५क. बमोजिम गठन भएको लेखामान बोर्ड सम्झनु पर्छ ।\r\n\r\n\r\n२(ञ४) “लेखापरीक्षणमान बोर्ड (स्टैण्डर्डस अन अडिटिङ्ग बोर्ड)” भन्नाले दफा १५घ. बमोजिम गठन भएको लेखापरीक्षणमान बोर्ड सम्झनु पर्छ ।\r\n\r\n\r\n२(ञ५) “लेखामान (एकाउन्टीङ्गस्टैण्डर्डस)” भन्नाले लेखा व्यवसाय र वित्तीय प्रतिवेदनलाई सुव्यवस्थित र नियमन गर्नको लागि लेखामान बोर्डबाट व्यवस्थित वा सिफारिस गरिएका लेखामान र तत् सम्बन्धी निर्देशिका तथा व्याख्या सम्झनु पर्छ ।\r\n\r\n\r\n२(ञ६) “लेखापरीक्षणमान (स्टैण्डर्ड्स अन अडिटिङ्ग” भन्नाले लेखा व्यवसाय र लेखापरीक्षणलाई सुव्यवस्थित र नियमन गर्नको लागि लेखापरीक्षणमान बोर्डबाट व्यवस्थित वा सिफारिस गरिएका लेखापरीक्षणमान र तत् सम्बन्धी निर्देशिका तथा व्याख्या सम्झनु पर्छ ।\r\n\r\n\r\n(ट) “तोकिएको” वा “तोकिए बमोजिम” भन्नाले यस ऐन अन्तर्गत बनेको नियम वा विनियममा बमोजिम सम्झनु पर्छ ।\r\n\r\n\r\n१ पहिलो संशोधनद्वारा संशोधित।\r\n\r\n\r\n२ पहिलो संशोधनद्वारा थप ।\r\n\r\n---\r\n\r\n\r\n---",
+          "chapterTitle": "परिच्छेद १ प्रारम्भिक"
+        }
+      },
+      {
+        "id": "sec_3",
+        "english": {
+          "title": "Section 3: Establishment of the Institute",
+          "content": "(1) An institute by the name of (the) Nepal Chartered Accountants Sanstha is hereby established for development of the accounting profession.\r\n\r\n(2) The Institute shall be named as \"the Institute of Chartered Accountants of Nepal\" in English language.\r\n\r\n(3) The headquarter of the Institute shall be located in Kathmandu Valley, and the Institute may, as per necessity, set up its offices or training centers or branch and sub-branch in any place within the Kingdom of Nepal.\r\n---",
+          "chapterTitle": "Chapter 2 Establishment of the Institute"
+        },
+        "nepali": {
+          "title": "दफा ३: संस्थाको स्थापना",
+          "content": "१) लेखा व्यवसायको विकास गर्नको लागि नेपाल चार्टर्ड एकाउन्टेन्टस् संस्थाको नामबाट एउटा संस्थाको स्थापना गरिएको छ।\r\n\r\n\r\n२) संस्थालाई अंग्रेजी भाषामा “द इन्स्टिच्यूट अफ चार्टर्ड एकाउन्टेन्टस् अफ नेपाल” भनिनेछ।\r\n\r\n\r\n३) संस्थाको प्रधान कार्यालय काठमाडौं उपत्यकामा रहनेछ र संस्थाले आवश्यकतानुसार नेपाल भित्र जुनसुकै स्थानमा आफ्नो प्रशिक्षण केन्द्र तथा शाखा उपशाखा कार्यालयहरू खोल्न सक्नेछ।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद २ संस्थाको स्थापना र व्यवस्था"
+        }
+      },
+      {
+        "id": "sec_4",
+        "english": {
+          "title": "Section 4: The Institute to be an Autonomous Body",
+          "content": "(1) The Institute shall be an autonomous and body corporate with perpetual succession.\r\n\r\n(2) The Institute shall have a separate seal of its own for its business.\r\n\r\n(3) The Institute may, like an individual, acquire, own, and dispose off or otherwise deal with movable and immovable property.\r\n\r\n(4) The Institute may sue and also be sued in its name, like an individual.\r\n---",
+          "chapterTitle": "Chapter 2 Establishment of the Institute"
+        },
+        "nepali": {
+          "title": "दफा ४: संस्था स्वशासित संस्था हुने",
+          "content": "१) संस्था अविच्छिन्न उत्तराधिकारवाला स्वशासित र सङ्गठित संस्था हुनेछ ।\r\n\r\n\r\n२) संस्थाको काम कारबाहीको लागि आफ्नो एउटा छुट्टै छाप हुनेछ।\r\n\r\n\r\n३) संस्थाले व्यक्ति सरह चल, अचल सम्पत्ति प्राप्त गर्न, उपभोग गर्न, बेचबिखन गर्न वा अन्य किसिमले व्यवस्था गर्न सक्नेछ ।\r\n\r\n\r\n(४) संस्थाले व्यक्ति सरह आफ्नो नामबाट नालिस उजुर गर्न र संस्था उपर पनि सोही नामबाट नालिस उजुर लाग्न सक्नेछ ।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद २ संस्थाको स्थापना र व्यवस्था"
+        }
+      },
+      {
+        "id": "sec_5",
+        "english": {
+          "title": "Section 5: Objective of the Institute",
+          "content": "The objectives of the Institute shall be as follows:-\r\n(a) To play the role of a regulatory body to encourage the members to carry on accounting profession being within the extent of the code of conduct in order to consolidate and develop accounting profession as a cause for economic development of the nation.\r\n---\r\n\r\n(b) To enhance social recognition and faith in accounting profession by raising awareness of the general public towards the importance of accounting profession and the economic and social responsibility of professional accountants.\r\n(c) To develop, protect and promote the accounting profession by enabling professional accountants understand their responsibility towards the importance of accounting profession and accountancy.\r\n(d) To develop mechanism of registration, evaluation and examination of accounting professionals in consonance with international norms and practices so as to make the accounting profession respectable and reliable.",
+          "chapterTitle": "Chapter 2 Establishment of the Institute"
+        },
+        "nepali": {
+          "title": "दफा ५: संस्थाको उद्देश्य",
+          "content": "संस्थाको उद्देश्य देहाय बमोजिम हुनेछः-\r\n\r\n\r\n(क) राष्ट्रको आर्थिक विकास गर्नको निमित्त लेखा व्यवसायको सुदृढीकरण गरी विकसित गर्दै लैजान सदस्यलाई आचार संहिताको परिधिभित्र रही लेखा व्यवसाय गर्न उत्प्रेरित गर्ने नियमनकारी निकाय (रेगुलेटरी बडी) को भूमिका निर्वाह गर्ने ।\r\n\r\n\r\n(ख) लेखाको महत्व तथा लेखा व्यवसायीको आर्थिक एवं सामाजिक उत्तरदायित्व प्रति जन चेतना जगाई लेखा व्यवसायको सम्बन्धमा सामाजिक मान्यता तथा विश्वास अभिवृद्धि गर्ने ।\r\n\r\n\r\n(ग) लेखा व्यवसाय र लेखाको महत्व प्रति लेखा व्यवसायीको उत्तरदायित्व बोध गराई लेखा व्यवसायको विकास, संरक्षण र सम्वर्द्धन गर्ने ।\r\n\r\n\r\n(घ) लेखा व्यवसायलाई मर्यादित र विश्वासिलो बनाउन लेखा व्यवसायीको दर्ता, योग्यता तथा परीक्षा प्रणालीलाई अन्तर्राष्ट्रिय मान्यता र प्रचलन अनुरुप विकसित गर्ने ।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद २ संस्थाको स्थापना र व्यवस्था"
+        }
+      },
+      {
+        "id": "sec_6",
+        "english": {
+          "title": "Section 6: Nobody Else Allowed to Use the Name, Emblem and Authority of the Institute",
+          "content": "After the establishment of the Institute pursuant to this Act, nobody shall be allowed to use any name or emblem resembling the name of the Institute or to certify anyone or to issue any guidance to anyone on behalf of the Institute or to exercise any of such authority bestowed to the Institute.\r\n---",
+          "chapterTitle": "Chapter 2 Establishment of the Institute"
+        },
+        "nepali": {
+          "title": "दफा ६: संस्थाको नाम, चिन्ह र अधिकार अन्य कसैले प्रयोग गर्न नपाउने",
+          "content": "यस ऐन बमोजिम संस्थाको स्थापना भएपछि कुनै व्यक्तिले संस्थाको नामसँग मिल्दोजुल्दो नाम वा चिन्ह प्रयोग गर्न वा संस्थाले प्रदान गर्ने कुनै पनि किसिमको प्रमाणपत्र कसैलाई दिन वा संस्थाको तर्फबाट कसैलाई कुनै पनि किसिमको निर्देशन दिने लगायत संस्थाले प्रयोग गर्न पाउने कुनै पनि किसिमको अधिकारको प्रयोग गर्न पाउने छैन।\r\n\r\n---\r\n\r\n\r\n---",
+          "chapterTitle": "परिच्छेद २ संस्थाको स्थापना र व्यवस्था"
+        }
+      },
+      {
+        "id": "sec_7",
+        "english": {
+          "title": "Section 7: Constitution of the Council",
+          "content": "(1) A Council, to take up necessary actions required to attain objectives of the Institute in a well-planned manner and to manage and supervise all activities of the Institute, shall be constituted.\r\n(2) The Council shall, except as otherwise provided elsewhere in this Act, exercise all authority and discharge all duties conferred on and assigned to the Institute subject to the Act and Regulations and Bye-laws framed under this Act.\r\n(3) The Council shall consist of the following Council members:-\r\n(a) Ten persons elected by and amongst Chartered Accountant members -Member\r\n(b) Four persons elected by and amongst Registered Auditors -Member\r\n(c) Three persons nominated by His Majesty's Government, upon the recommendation of the Auditor General, from amongst the persons well experienced in the field of accounting profession. -Member\r\n(4) The Council members shall elect a President and a Vice-President from the Fellow Chartered Accountants (F.C.A) Council members referred to in clause (a) of sub-section (3).\r\n---\r\n\r\n(5) The term of office of the President and the Vice-President shall be of one year and upon expiry of the term of office, they shall be eligible to be elected for one more term.\r\n\r\n(6) The term of office of the Council members shall be of three years and upon expiry of the term of office, they shall be eligible to be re-elected or re-nominated.\r\n\r\n(7) The procedures relating to the election of Council members shall be as prescribed.\r\n\r\n(8) The functions, duties and authorities of the President and the Vice-President shall be as prescribed.",
+          "chapterTitle": "Chapter III Constitution, Functions, Duties and Authorities of the Council"
+        },
+        "nepali": {
+          "title": "दफा ७: परिषद्को गठन",
+          "content": "१) संस्थाको उद्देश्य प्राप्तिको लागि आवश्यक कार्यक्रमहरु सुव्यवस्थित रुपले सञ्चालन गर्न गराउन र संस्थाको सम्पूर्ण काम कारबाहीहरुको रेखदेख तथा प्रबन्ध गर्नको लागि एक परिषद् गठन हुनेछ।\r\n\r\n\r\n२) यस ऐनमा अन्यत्र अन्य व्यवस्था भएकोमा बाहेक परिषद्‌ले यो ऐन वा यस ऐन अन्तर्गत बनेको नियम र विनियमका अधीनमा रही संस्थालाई भएको सबै अधिकारको प्रयोग र कर्तव्यको पालन गर्नेछ ।\r\n\r\n\r\n३) परिषदमा देहायका पार्षद्हरु रहनेछन्ः-\r\n\r\n\r\n(क) चार्टर्ड एकाउन्टेन्ट सदस्यहरुले आफूमध्येबाट निर्वाचित दश जना – सदस्य\r\n\r\n\r\n(ख) दर्तावाला लेखापरीक्षक सदस्यहरुले आफूमध्येबाट निर्वाचित चारजना – सदस्य\r\n\r\n\r\n(ग) महालेखा परीक्षकको सिफारिसमा नेपाल सरकारले लेखा सम्बन्धी अनुभव भएका व्यक्तिहरु मध्येबाट मनोनीत गरेका तीनजना  – सदस्य\r\n\r\n\r\n४) उपदफा (३) को खण्ड (क) बमोजिमका पार्षद्हरुमध्ये फेलो चार्टर्ड एकाउन्टेन्ट (एफ.सी.ए.) हरुबाट पार्षद्हरुले अध्यक्ष र उपाध्यक्षको निर्वाचन गर्नेछन्।\r\n\r\n\r\n५) अध्यक्ष र उपाध्यक्षको पदावधि एक वर्षको हुनेछ र पदावधि समाप्त भएपछि निजहरु पुनः एक पटकको लागि निर्वाचित हुन सक्नेछन् ।\r\n\r\n\r\n६) पार्षद्हरुको पदावधि तीन वर्षको हुनेछ र पदावधि समाप्त भएपछि निजहरु पुनः निर्वाचित वा मनोनीत हुन सक्नेछन् ।\r\n\r\n\r\n७) पार्षद्हरुको निर्वाचन सम्बन्धी कार्यविधि तोकिए बमोजिम हुनेछ।\r\n\r\n\r\n८) अध्यक्ष र उपाध्यक्षको काम, कर्तव्य र अधिकार तोकिए बमोजिम हुनेछ ।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद ३ परिषद्को गठन तथा काम, कर्तव्य र अधिकार"
+        }
+      },
+      {
+        "id": "sec_8",
+        "english": {
+          "title": "Section 8: Circumstances Wherein the Council Member's Seat to Remain Vacant",
+          "content": "(1) The seat of a Council member shall be deemed to remain vacant, if:\r\n(a) He ceases to be a member of the Institute,\r\nProvided that this provision shall not be applicable to the nominated Council member.\r\n(b) The Council accepts his resignation,\r\n(c) He, without giving a notice with reason, absconds himself from three consecutive meetings of the Council,\r\n(d) His term of office expires,\r\n(e) His non-compliance with the code of conduct referred to in Section 34 is proved,\r\n(f) He dies.\r\n\r\n(2) Pursuant to clause (b) of sub-section (1), the President shall tender resignation to the Vice-President and other Council members to the President.\r\n---",
+          "chapterTitle": "Chapter III Constitution, Functions, Duties and Authorities of the Council"
+        },
+        "nepali": {
+          "title": "दफा ८: पार्षद् पदमा कायम नरहने अवस्था",
+          "content": "१) देहायको अवस्थामा पार्षद्को पद रिक्त भएको मानिनेछः-\r\n(क) निज संस्थाको सदस्य नरहेमा,\r\nतर यो व्यवस्था मनोनीत पार्षद्को हकमा लागू हुने छैन।\r\n(ख) परिषद्‌ले निजको राजीनामा स्वीकृत गरेमा,\r\n(ग) निजले बिना सूचना र कारण परिषद्को लगातार तीनवटा बैठकमा अनुपस्थित रहेमा,\r\n(घ) निजको पदावधि समाप्त भएमा,\r\n(ङ) दफा ३४ मा उल्लिखित आचारसंहिता पालना नगरेको प्रमाणित भएमा,\r\n(च) निजको मृत्यु भएमा।\r\n\r\n२) उपदफा (१) को खण्ड (ख) बमोजिम अध्यक्षले उपाध्यक्ष समक्ष र अन्य पार्षद्ले अध्यक्ष समक्ष राजीनामा दिनु पर्नेछ।\r\n---",
+          "chapterTitle": "परिच्छेद ३ परिषद्को गठन तथा काम, कर्तव्य र अधिकार"
+        }
+      },
+      {
+        "id": "sec_9",
+        "english": {
+          "title": "Section 9: Vacancy and Fulfillment",
+          "content": "(1) The Council shall, if any seat of any Council member elected pursuant to clause (a) or (b) of sub-section (3) of Section 7 turns vacant due to death or resignation or disqualification to continue as a member of the Institute pursuant to the other provisions of this Act, designate any member as Council member for the remaining term of office, provided the remaining period of such vacated office is of less than a year; and if such term is of more than a year, the vacancy shall be filled through election.\r\n\r\n(2) A seat, falling vacant owing to death or resignation of any Council member, nominated pursuant to clause (c) of sub-section (3) of Section 7, shall be fulfilled, for the remaining term of office, as per the procedure set forth in the same section.\r\n---",
+          "chapterTitle": "Chapter III Constitution, Functions, Duties and Authorities of the Council"
+        },
+        "nepali": {
+          "title": "दफा ९: स्थानको रिक्तता र पुर्ति",
+          "content": "१) दफा ७ को उपदफा (३) को खण्ड (क) वा (ख) बमोजिम निर्वाचित कुनै पार्षद्‌को मृत्यु भएको वा कुनै पार्षद्ले राजीनामा दिएको वा कुनै पार्षद् यस ऐनको व्यवस्था अनुसार संस्थाको सदस्य कायम रही रहन अयोग्य भएको कारणबाट रिक्त हुन आएको स्थानमा त्यस्तो पार्षद्‌को बाँकी पदावधि एक वर्षभन्दा कम भएमा परिषद्‌ले सोही दफाको उपदफा (३) को सोही खण्डहरुमा उल्लेख भए बमोजिम संस्थाका सदस्यहरुमध्ये कसैलाई पार्षद् तोक्नेछ र एक वर्षभन्दा बढी भएमा निर्वाचनद्वारा सो पदको पूर्ति गरिनेछ ।\r\n\r\n\r\n२) दफा ७ को उपदफा (३) को खण्ड (ग) बमोजिम मनोनीत कुनै पार्षद्को मृत्यु भएको वा कुनै पार्षद्ले राजीनामा दिएको कारणबाट रिक्त हुन आएको स्थानमा त्यस्तो पार्षद्‌को बाँकी पदावधिको लागि सोही खण्डमा उल्लिखित प्रक्रिया अपनाई कसैलाई पार्षद् मनोनीत गरिनेछ ।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद ३ परिषद्को गठन तथा काम, कर्तव्य र अधिकार"
+        }
+      },
+      {
+        "id": "sec_10",
+        "english": {
+          "title": "Section 10: Meeting and Decision of the Council",
+          "content": "(1) The Executive Director shall convene the meeting of the Council on such date, time and place as fixed by the President.\r\n\r\n(2) The Council shall generally meet six times a year, and the interval between two consecutive meetings shall not be of more than three months.\r\n\r\n(3) The President shall chair meeting of the Council, and in his absence, the Vice-President; and in the absence of both, a Council member, selected by the Council members from amongst themselves, shall chair the meeting of the Council.\r\n---\r\n\r\n(4) If twenty-five percent of Council members request, in writing, to convene a Council meeting, the President shall order the Executive Director to summon such meeting within fifteen days of such request.\r\n\r\n(5) Presence of fifty-percent members shall be deemed to meet a quorum for the meeting of the Council.\r\n\r\n(6) The majority opinion of the Council shall be deemed to be a decision of the Council and, in case of a tie, person chairing the meeting shall cast the deciding vote.\r\n\r\n(7) The Executive Director shall authenticate decisions of the Council.\r\n\r\n(8) The Council may, if it deems appropriate, invite any office bearer of His Majesty's Government, any national or foreign expert, advisor, or any prominent person in the field accounting profession, to attend meeting of the Council as an observer.\r\n\r\n(9) Other procedures relating to the meeting of the Council shall be as fixed by the Council itself.\r\n---",
+          "chapterTitle": "Chapter III Constitution, Functions, Duties and Authorities of the Council"
+        },
+        "nepali": {
+          "title": "दफा १०: परिषद्को बैठक र निर्णय",
+          "content": "१) अध्यक्षले तोकेको मिति, समय र स्थानमा कार्यकारी निर्देशकले परिषद्‌को बैठक बोलाउनेछ ।\r\n\r\n\r\n२) परिषद्‌को बैठक साधारणतया वर्षको ६ पटक बस्नेछ र दुईवटा बैठकको अन्तर तीन महिना भन्दा बढी हुने छैन ।\r\n\r\n\r\n३) परिषदको बैठकको अध्यक्षता अध्यक्षले र निजको अनुपस्थितिमा उपाध्यक्षले गर्नेछ र अध्यक्ष र उपाध्यक्ष दुवैको अनुपस्थितिमा पार्षदहरूले आफूमध्येबाट छानेको पार्षद्ले परिषद्‌को बैठकको अध्यक्षता गर्नेछ ।\r\n\r\n\r\n४) कुल पार्षद् सङ्ख्याको पच्चीस प्रतिशत पार्षद्ले परिषद्‌को बैठक बोलाउन आवश्यक छ भनी अध्यक्ष समक्ष लिखित निवेदन दिएमा त्यस्तो निवेदन परेको पन्ध्र दिनभित्र अध्यक्षले कार्यकारी निर्देशकलाई परिषदको बैठक बोलाउन निर्देशन दिनु पर्नेछ ।\r\n\r\n\r\n५) कुल पार्षद सङ्ख्याको पचास प्रतिशत पार्षद् उपस्थित भएमा बैठकको लागि गणपूरक सङ्ख्या पुगेको मानिनेछ ।\r\n\r\n\r\n६) परिषद्‌को बैठकमा बहुमतको रायलाई परिषद्‌को निर्णय मानिनेछ र मत बराबर भएमा बैठकको अध्यक्षता गर्ने व्यक्तिले निर्णायक मत दिनेछ ।\r\n\r\n\r\n७) परिषद्‌को निर्णय कार्यकारी निर्देशकद्वारा प्रमाणित गरिनेछ ।\r\n\r\n\r\n८) परिषद्ले आवश्यक देखेमा नेपाल सरकारको कुनै अधिकृत वा कुनै स्वदेशी वा विदेशी विशेषज्ञ, सल्लाहकार वा लेखा व्यवसायसँग सम्बन्धित लब्ध प्रतिष्ठित व्यक्तिलाई परिषद्‌को बैठकमा पर्यवेक्षकको रुपमा भाग लिन आमन्त्रण गर्न सक्नेछ ।\r\n\r\n\r\n९) परिषद्‌को बैठक सम्बन्धी अन्य कार्यविधि परिषद् आफैले निर्धारण गरे बमोजिम हुनेछ।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद ३ परिषद्को गठन तथा काम, कर्तव्य र अधिकार"
+        }
+      },
+      {
+        "id": "sec_11",
+        "english": {
+          "title": "Section 11: Functions, Duties and Authority of the Council",
+          "content": "The functions, duties and authority of the Council shall be as follows:-\r\n(a) To conduct professional examinations for new entrants in accounting profession.\r\n(b) To fix up procedures relating to the registration of members and members holding Certificate of Practice.\r\n(c) To provide membership of appropriate class to applicants having acquired qualifications pursuant to Section 16.\r\n(d) To optimum utilise available resources and means for the cause of development of accounting profession.\r\n(e) To determine appropriate qualifications for manpower engaged in the accounting profession.\r\n(f) To fix curriculum and practical training period required for obtaining membership of the Institute.\r\n(g) To organize academic classes and training programmes by itself or in collaboration with any university or other academic institutions.\r\n(h) To issue Certificates of Practice to members willing to carry on accounting profession.\r\n(i) To offer career development opportunities in order to enhance efficiency of members.\r\n(j) To monitor as to whether or not the members and Members holding Certificate of Practice have acted in conformity with the prescribed professional code of conduct.\r\n(k) To initiate actions, in accordance with the recommendation of the Disciplinary Committee, against members holding Certificate of Practice for their acts and actions done in contravention of the professional code of conduct.\r\n---\r\n\r\n(l) To issue theoretical or practical guidance and guidelines in various aspects of accounting and auditing and to carry out other professional development activities as and when needed.\r\n(m) To monitor and regulate so as to ensure the compliance of Accounting Standards and Standards on Auditing developed or recommended by Accounting Standards Board and Standards on Auditing Board.\r\n(n) To safeguard rights and interests of the members and to protect and promote their reputation.\r\n(o) To render advice and suggestions to His Majesty's Government for improvement in prevailing laws related with industry, commerce, finance, revenue and accounting profession.\r\n(p) To acquire membership of the International Federation of Accountants and Regional and Sub-regional Federations, and establish contact with other foreign professional institutes.\r\n(q) To recommend appropriate educational standards for account education, in consultation with university or any other educational institutions.\r\n(r) To organize, as and when necessary, training, symposia and seminars to enhance professional efficiency of Registered Auditors.\r\n(s) To conduct short-term or long-term training, workshops or symposia for the benefit of manpower involved accounting profession.\r\n(t) To publish materials related with accounting profession.\r\n(u) To establish a library containing materials related to profession.\r\n(v) To determine procedures to be followed by Committees constituted by the Council.\r\n(w) To approve budget of the Institute and arrange for the fund.\r\n(x) To recruit staff, as required, for the Institute and fix their remuneration and other perks.\r\n(x1) To install the mechanism of providing Continued Professional Education (CPE) to members.\r\n(x2) To develop education system to produce Accounting Technicians and undertake other necessary actions in this regard.\r\n(y) To carry out such other functions as prescribed by this Act or Regulations and Byelaws framed under this Act.\r\n(z) To carry out any other functions that deem to be necessary to attain the objectives laid down by this Act.",
+          "chapterTitle": "Chapter III Constitution, Functions, Duties and Authorities of the Council"
+        },
+        "nepali": {
+          "title": "दफा ११: परिषदको काम, कर्तव्य र अधिकार",
+          "content": "परिषद्‌को काम, कर्तव्य र अधिकार देहाय बमोजिम हुनेछः-\r\n\r\n\r\n(क) लेखा व्यवसायमा प्रवेश गर्नेहरुको लागि परीक्षा सञ्चालन गर्ने ।\r\n\r\n\r\n(ख) संस्थाको सदस्यता तथा पेशागत प्रमाणपत्र प्राप्त सदस्यमा नाम दर्ता गर्ने सम्बन्धी कार्यविधि निर्धारण गर्ने ।\r\n\r\n\r\n(ग) निर्धारित योग्यता पुगेको व्यक्तिलाई दफा १६ बमोजिम उपयुक्त किसिमको सदस्यता प्रदान गर्ने।\r\n\r\n\r\n(घ) उपलब्ध स्रोत र साधनको अधिकतम उपयोग गरी लेखा व्यवसायको समन्वयात्मक विकास गर्ने।\r\n\r\n\r\n(ङ) लेखा व्यवसायको विकासको लागि दक्ष जनशक्तिको लागि चाहिने योग्यता निर्धारण गर्ने ।\r\n\r\n\r\n(च) सदस्यता प्राप्त गर्न आवश्यक पर्ने योग्यता हासिल गर्नको लागि आवश्यक पाठ्यक्रम र व्यवहारिक तालीमको किसिम निर्धारण गर्ने ।\r\n\r\n\r\n(छ) विश्वविद्यालय वा अन्य शैक्षिक संस्थाको सहयोगमा वा संस्था स्वयंले विभिन्न शिक्षण तथा प्रशिक्षण कार्यक्रमहरु सञ्चालन गर्ने ।\r\n\r\n\r\n(ज) लेखा व्यवसाय गर्नको निमित्त सदस्यहरुलाई पेशागत प्रमाणपत्र दिने ।\r\n\r\n\r\n(झ) सदस्यहरुलाई वृत्ति विकासका अवसरहरु प्रदान गरी\r\n\r\n\r\nनिजहरुको दक्षतामा अभिवृद्धि गराउने ।\r\n\r\n\r\n(ञ) सदस्यको तथा पेशागत प्रमाणपत्र प्राप्त सदस्यको लागि तोकिएको व्यावसायिक आचार संहिता अनुरुप सदस्य वा पेशागत प्रमाणपत्र प्राप्त सदस्यले काम गरे नगरेको सम्बन्धमा अनुगमन गर्ने ।\r\n\r\n\r\n(ट) सदस्य तथा पेशागत प्रमाणपत्र प्राप्त सदस्यले व्यावसायिक आचार संहिताको विपरीत गरेको काम कारबाही उपर अनुशासन समितिको सिफारिस बमोजिम आवश्यक कारबाही गर्ने ।\r\n\r\n\r\n(ठ) लेखा र लेखापरीक्षणका विविध पक्षमा सैद्धान्तिक वा व्यावहारिक निर्देशन र मार्गदर्शनहरु दिने तथा व्यावसायिक विकासको लागि आवश्यक अन्य काम गर्ने ।\r\n\r\n\r\n(ड) लेखामान बोर्ड र लेखापरीक्षणमान बोर्डद्वारा व्यवस्थित वा सिफारिस गरिएका लेखामान तथा लेखापरीक्षणमान पालना गर्ने, गराउने र सोको पालना भए नभएको नियमन गर्ने ।\r\n\r\n\r\n(ढ) सदस्यहरुको हकहितको सुरक्षा एवं प्रतिष्ठाको संरक्षण तथा सम्वर्द्धन गर्ने ।\r\n\r\n\r\n(ण) उद्योग, वाणिज्य, अर्थ, राजस्व तथा लेखा व्यवसायसँग सम्बन्धित विषयका विभिन्न प्रचलित कानूनहरुको सुधारको निमित्त नेपाल सरकारलाई राय सुझाब दिने ।\r\n\r\n\r\n(त) अन्तर्राष्ट्रिय लेखा व्यवसायी महासङ्घ तथा क्षेत्रीय र उपक्षेत्रीय महासङ्घहरुको सदस्यता ग्रहण गर्ने तथा अन्य मुलुकका लेखा व्यवसायी संस्थाहरुसँग सम्पर्क स्थापना गर्ने।\r\n\r\n\r\n(थ) विश्वविद्यालय तथा अन्य शिक्षण संस्थासँग समन्वय राखी लेखा शिक्षाको लागि उपयुक्त शैक्षिक मापदण्ड सिफारिस गर्ने ।\r\n\r\n\r\n(द) दर्तावाला लेखापरीक्षकहरुको व्यावसायिक दक्षता अभिवृद्धि गर्न आवश्यक तालीम, गोष्ठी र सेमिनार सञ्चालन गर्ने ।\r\n\r\n\r\n(ध) सेवारत लेखा जनशक्तिको भलाईका लागि अल्पकालीन वा दीर्घकालीन तालीम, गोष्ठी आदि सञ्चालन गर्ने ।\r\n\r\n\r\n(न) लेखा व्यवसायसँग सम्बन्धित सामग्रीहरु प्रकाशन गर्ने ।\r\n\r\n\r\n(प) लेखा व्यवसायसँग सम्बन्धित पुस्तकालय सञ्चालन गर्ने ।\r\n\r\n\r\n(फ) परिष‌द्बाट गठन हुने समितिहरुले अपनाउनुपर्ने कार्यविधि निर्धारण गर्ने ।\r\n\r\n\r\n(ब) संस्थाको बजेट स्वीकृत गर्ने तथा कोषको प्रबन्ध गर्ने ।\r\n\r\n\r\n(भ) संस्थाको लागि आवश्यकपर्ने कर्मचारीहरु नियुक्त गर्ने र निजहरुको पारिश्रमिक तथा अन्य सुविधा तोक्ने ।\r\n\r\n\r\n(भ१) सदस्यको लागि अनवरत व्यावसायिक शिक्षाको व्यवस्था गर्ने ।\r\n\r\n\r\n(भ२) लेखा प्राविधिज्ञ तयार गर्न शिक्षा प्रणालीको विकास र तत्सम्बन्धी आवश्यक कार्य गर्ने ।\r\n\r\n\r\n(म) यो ऐन वा यस ऐन अन्तर्गत बनेका नियम तथा विनियम बमोजिम तोकिएका अन्य कार्यहरु गर्ने।\r\n\r\n\r\n(य) यस ऐनको उद्देश्य पूरा गर्न आवश्यक पर्ने अन्य कामहरु गर्ने।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद ३ परिषद्को गठन तथा काम, कर्तव्य र अधिकार"
+        }
+      },
+      {
+        "id": "sec_12",
+        "english": {
+          "title": "Section 12: Actions Not To Be Invalid",
+          "content": "Any action undertaken according to decision of the Council, where any seat of any Council member has remained vacant or a person, without possessing qualifications required to be a Council member, has been elected or nominated as the Council member, shall not be invalid merely on the ground thereof.\r\n---",
+          "chapterTitle": "Chapter III Constitution, Functions, Duties and Authorities of the Council"
+        },
+        "nepali": {
+          "title": "दफा १२: काम कारबाही बदर नहुने",
+          "content": "कुनै पार्षद्‌को स्थान रिक्त रहेको वा पार्षद् हुनको निमित्त चाहिने योग्यता नपुगेको व्यक्ति पार्षदमा निर्वाचित वा मनोनीत भई परिषद्‌को निर्णय बमोजिम कुनै काम कारबाही भएको रहेछ भने सोही कारणले मात्र त्यसरी भैसकेको काम कारबाही बदर हुने छैन।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद ३ परिषद्को गठन तथा काम, कर्तव्य र अधिकार"
+        }
+      },
+      {
+        "id": "sec_13",
+        "english": {
+          "title": "Section 13: Committees of the Council",
+          "content": "(1) The Council, under its responsibility, may constitute following Standing Committees :-\r\n(a) Disciplinary Committee,\r\n(b) Examination Committee,\r\n(c) Executive Committee,\r\n(d) Professional Guidance Committee.\r\n\r\n(2) The Council may, as per necessity, constitute other committees for the attainment of the objectives of the Institute.\r\n\r\n(3) The functions, duties and powers of the Committees constituted pursuant to this section shall be as prescribed.\r\n\r\n(4) The Committee constituted under Sub-section (1), shall not be so constituted that the members of one Committee, except the President and the Vice-President, are also included in another Committee.\r\n---",
+          "chapterTitle": "Chapter III Constitution, Functions, Duties and Authorities of the Council"
+        },
+        "nepali": {
+          "title": "दफा १३: परिषद्का समितिहरु",
+          "content": "१) परिषद्‌ले आफूप्रति जवाफदेही हुने गरी देहाय बमोजिमका स्थायी समितिहरु गठन गर्न सक्नेछः-\r\n\r\n\r\n(क) अनुशासन समिति,\r\n\r\n\r\n(ख) परीक्षा समिति,\r\n\r\n\r\n(ग) कार्यकारिणी समिति,\r\n\r\n\r\n(घ) व्यावसायिक मार्गदर्शन समिति ।\r\n\r\n\r\n२) परिषद्ले संस्थाको उद्देश्य पूरा गर्न समितिहरु गठन गर्न सक्नेछ ।\r\n\r\n\r\n३) यस दफा बमोजिम गठन भएका समितिहरुको काम, कर्तव्य र अधिकार तोकिए बमोजिम हुनेछ।\r\n\r\n\r\n४) उपदफा (१) बमोजिम समिति गठन गर्दा अध्यक्ष र उपाध्यक्ष बाहेक एक समितिमा रहेका सदस्यहरु अर्को समितिमा समेत रहने गरी समितिको गठन गरिने छैन।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद ३ परिषद्को गठन तथा काम, कर्तव्य र अधिकार"
+        }
+      },
+      {
+        "id": "sec_14",
+        "english": {
+          "title": "Section 14: Disciplinary Committee",
+          "content": "(1) A Disciplinary Committee, comprising of following members, shall be constituted to recommend the Council to take necessary actions after investigation upon complaints lodged against any action, contrary to this Act or Regulations or code of conduct framed under this Act, rendered by any member, or the Institute receives any information of such kind :-\r\n(a) A FCA member designated by the Council\r\nfrom amongst the Council members referred\r\nto in clause (a) of sub-section (3) of Section 7 -Chairman\r\n(b) Three persons nominated by the Council\r\nfrom amongst the Council members\r\n-Member\r\n(c) Two persons nominated by the\r\nCouncil from amongst the members\r\n-Member\r\n(d) One person nominated by the\r\nAuditor General\r\n-Member\r\n\r\n(2) Notwithstanding anything contained in sub-section (1), the Chairman or members shall not be allowed to attend any meeting that hears complaint against the Chairman or member of the Disciplinary Committee for their actions contrary to this Act or the Regulations, Bye-laws or code of conduct framed under this Act.\r\n\r\n(3) The procedures of the meeting of the Disciplinary Committee and the term of office of the Chairman and members of the Disciplinary Committee shall be as prescribed.\r\n\r\n(4) The Disciplinary Committee shall have the authority, similar to a judicial court, in respect of summoning concerned person and investigating evidences and witnesses.\r\n\r\n(5) The Disciplinary Committee shall recommend to the Council, along with its opinion and finding, for necessary action against a member, if found guilty, and the Council may, considering such a recommendation, impose any of the following punishment according to the degree of offense:-\r\n(a) Reprimanding,\r\n(b) Removing from the membership for a period up to five years,\r\n(c) Prohibiting from carrying on the accounting profession for any particular period,\r\n(d) Cancellation of the Certificate of Practice or membership.\r\n\r\n(6) Any Council member against whom the Disciplinary Committee, after investigating upon the complaint of his action contrary to the Act or Regulations, Bye-laws or code of conduct framed under the Act, has decided to recommend the Council to take necessary action, shall not be allowed to attend and to vote at the Council meeting where the Council is hearing at such recommendation.\r\n\r\n(7) Before imposing a punishment referred to in sub-section (5), the Council shall provide reasonable opportunity to the concerned members to submit their clarification.\r\n\r\n(8) The concerned member may, if he is not satisfied with the decision referred to in sub-section (5), file an appeal in the Appellate Court.\r\n---",
+          "chapterTitle": "Chapter III Constitution, Functions, Duties and Authorities of the Council"
+        },
+        "nepali": {
+          "title": "दफा १४: अनुशासन समिति",
+          "content": "१) कुनै सदस्यले यो ऐन वा यस ऐन अन्तर्गत बनेको नियम वा आचार संहिता विपरीत कुनै काम कारबाही गरेको छ भनी कसैले संस्थामा उजूरी दिएमा वा संस्थालाई त्यस्तो जानकारी प्राप्त भएमा सो उपर छानबिन गरी आवश्यक कारबाही गर्नका लागि परिष‌द्मा सिफारिस गर्न देहाय बमोजिमको एक अनुशासन समिति रहनेछः-\r\n\r\n\r\n(क) दफा ७ को उपदफा (३) को खण्ड (क) बमोजिमका पार्षद्हरुमध्येबाट परिषद्‌ले तोकेको फेलो चार्टर्ड एकाउन्टेन्ट (एफ.सी.ए.) – सभापति\r\n\r\n\r\n(ख) पार्षदहरूमध्ये परिषदबाट मनोनीत तीनजना – सदस्य\r\n\r\n\r\n(ग) सदस्यहरूमध्ये परिषदबाट मनोनीत दुईजना – सदस्य\r\n\r\n\r\n(घ) महालेखापरीक्षकबाट मनोनीत एकजना – सदस्य\r\n\r\n\r\n२) उपदफा (१) मा जुनसुकै कुरा लेखिएको भए तापनि अनुशासन समितिको सभापति वा कुनै सदस्यले यो ऐन वा यस ऐन अन्तर्गत बनेको नियम, विनियम वा आचार संहिता विपरीत कुनै काम कारबाही गरेको छ भनी परेको उजूरी उपर छानबिन गरी आवश्यक कारबाही गर्नका लागि परिष‌द्मा सिफारिस गर्नको निमित्त बस्ने बैठकमा त्यस्तो सभापति वा सदस्यले भाग लिन र मतदान गर्न पाउने छैन।\r\n\r\n\r\n३) अनुशासन समितिको बैठक सम्बन्धी कार्यविधि र अनुशासन समितिको सभापति तथा सदस्यहरुको पदावधि तोकिए बमोजिम हुनेछ।\r\n\r\n\r\n४) अनुशासन समितिलाई सम्बन्धित व्यक्ति उपर आदेश जारी गर्ने र साक्षी प्रमाण बुझ्ने सम्बन्धमा अदालतलाई भए सरहको अधिकार हुनेछ ।\r\n\r\n\r\n५) अनुशासन समितिले छानबिनबाट दोषी देखिएको सदस्य उपर आवश्यक कारबाहीका लागि आफ्नो राय ठहर साथ परिषदमा सिफारिस गर्नेछ र त्यस्तो सिफारिस उपर परिषद्‌ले विचार गरी सम्बन्धित सदस्यलाई कसुरको मात्रा अनुसार देहाय बमोजिमको कुनै सजाय गर्न सक्नेछः-\r\n\r\n\r\n(क) नसिहत दिने,\r\n\r\n\r\n(ख) बढीमा पाँच वर्षसम्मको लागि सदस्यताबाट हटाउने,\r\n\r\n\r\n(ग) कुनै खास अवधिको लागि लेखा व्यवसाय गर्न नपाउने गरी रोक लगाउने,\r\n\r\n\r\n(घ) पेशागत प्रमाणपत्र वा सदस्यताको प्रमाणपत्र रद्द गर्ने ।\r\n\r\n\r\n६) कुनै पार्षद्ले यो ऐन वा यस ऐन अन्तर्गत बनेको नियम, विनियम वा आचार संहिता विपरीत कुनै काम कारबाही गरेको सम्बन्धमा अनुशासन समितिले छानबिन गरी त्यस्तो पार्षद् उपर आवश्यक कारबाही चलाउनको लागि राय ठहर साथ परिष‌द्मा सिफारिस पेश गरेकोमा त्यस्तो सिफारिस उपर परिषद्‌ले निर्णय गर्दा त्यस्तो पार्षद्ले परिषद्‌को सो बैठकमा भाग लिन र मतदान गर्न पाउने छैन ।\r\n\r\n\r\n७) उपदफा (५) बमोजिमको सजाय अघि परिषद्ले सम्बन्धित सदस्यलाई सफाई पेश गर्ने मनासिब माफिकको मौका दिनु पर्नेछ ।\r\n\r\n\r\n८) उपदफा (५) बमोजिमको निर्णयमा चित्त नबुझे सम्बन्धित सदस्यले उच्च अदालतमा पुनरावेदन गर्न सक्नेछ ।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद ३ परिषद्को गठन तथा काम, कर्तव्य र अधिकार"
+        }
+      },
+      {
+        "id": "sec_15",
+        "english": {
+          "title": "Section 15: Executive Committee",
+          "content": "(1) An Executive Committee, comprising of the following members, shall be constituted for carrying out day to day business of the Institute :-\r\n(a) President -Chairman\r\n(b) Vice-President -Vice-Chairman\r\n(b) Two persons nominated by the Council from amongst the Council members -Member\r\n(d) Executive Director -Member-Secretary\r\n(2) The functions, duties and authorities of the Executive Committee and the procedures of its meeting shall be as prescribed.\r\n---",
+          "chapterTitle": "Chapter III Constitution, Functions, Duties and Authorities of the Council"
+        },
+        "nepali": {
+          "title": "दफा १५: कार्यकारिणी समिति",
+          "content": "१) परिषद्‌को निर्देशनमा रही संस्थाको दैनिक कार्य सञ्चालन गर्नको लागि देहायका सदस्यहरु रहेको एक कार्यकारिणी समितिको गठन गरिनेछः-\r\n\r\n\r\n(क) अध्यक्ष – अध्यक्ष\r\n\r\n\r\n(ख) उपाध्यक्ष – उपाध्यक्ष\r\n\r\n\r\n(ग) परिषद्ले पार्षहरुमध्येबाट मनोनीत गरेको दुई जना – सदस्य\r\n\r\n\r\n(घ) कार्यकारी निर्देशक – सदस्य सचिव\r\n\r\n\r\n२) कार्यकारिणी समितिको काम, कर्तव्य, अधिकार तथा बैठकको कार्यविधि तोकिए बमोजिम हुनेछ।\r\n\r\n---\r\n\r\n\r\n---",
+          "chapterTitle": "परिच्छेद ३ परिषद्को गठन तथा काम, कर्तव्य र अधिकार"
+        }
+      },
+      {
+        "id": "sec_15a",
+        "english": {
+          "title": "Section 15A: Constitution of Accounting Standards Board",
+          "content": "(1) His Majesty's Government, in order to govern and regulate financial reporting and accounting profession, shall constitute Accounting Standards Board.\r\n\r\n(2) The Board shall comprise of following members :\r\n(a) One FCA member nominated by His Majesty's Government - Chairman\r\n(b) Representative, Ministry of Finance - member\r\n(c) Representative, Office of the Auditor General - member\r\n(d) Representative, Office of the Comptroller General - member\r\n(e) Company Registrar, Company Registrar's Office - member\r\n(f) Director General, Department of Inland Revenue - member\r\n(g) Chairman, Securities Board/Nepal - member\r\n(h) Five Chartered Accountant members nominated by His Majesty's Government on recommendation of the Council - member\r\n---\r\n\r\n(i) One Registered Auditor member nominated by His Majesty's Government on recommendation of the Council - member\r\n(3) The Accounting Standards Board, if deems necessary, may invite expert to participate in the meeting as an observer.\r\n(4) The tenure of members as per clause (a), (h) and (i) shall be of three years and shall be eligible for re-appointment on expiry of their tenure.\r\n(5) The business procedure of Accounting Standards Board shall be as prescribed by the Accounting Standards Board itself.\r\n(6) The secretariat of Accounting Standards Board shall be stationed in the Head Office of the Institute.",
+          "chapterTitle": "Chapter 3A Accounting Standards Boards"
+        },
+        "nepali": {
+          "title": "दफा १५क: लेखामान बोर्डको गठम",
+          "content": "१) लेखा व्यवसाय र वित्तीय प्रतिवेदनलाई सुव्यवस्थित र नियमन गर्नको लागि नेपाल सरकारले एक लेखामान बोर्डको गठन गर्नेछ ।\r\n\r\n\r\n२) लेखामान बोर्डमा देहायका सदस्यहरु रहनेछन्ः –\r\n\r\n\r\n(क) नेपाल सरकारले फेलो चार्टर्ड एकाउन्टेन्टहरु मध्येबाट मनोनीत गरेको एकजना – अध्यक्ष\r\n\r\n\r\n(ख) प्रतिनिधि, अर्थ मन्त्रालय – सदस्य\r\n\r\n\r\n(ग) प्रतिनिधि, महालेखापरीक्षकको कार्यालय – सदस्य\r\n\r\n\r\n(घ) प्रतिनिधि, महालेखा नियन्त्रकको कार्यालय – सदस्य\r\n\r\n\r\n(ङ) रजिष्ट्रार, कम्पनी रजिष्ट्रारको कार्यालय – सदस्य\r\n\r\n\r\n(च) महानिर्देशक, आन्तरिक राजस्व विभाग – सदस्य\r\n\r\n\r\n(छ) अध्यक्ष वा निजले तोकेको प्रतिनिधि, नेपाल धितोपत्र बोर्ड – सदस्य\r\n\r\n\r\n(ज) नेपाल सरकारले परिषद्‌को सिफारिसमा चार्टर्ड एकाउन्टेन्टहरुमध्येबाट मनोनीत गरेका पाँचजना – सदस्य\r\n\r\n\r\n(झ) नेपाल सरकारले परिषद्‌को सिफारिसमा दर्तावाला लेखापरीक्षक सदस्यहरुमध्येबाट मनोनीत गरेको एक जना – सदस्य\r\n\r\n\r\n३) लेखामान बोर्डले आवश्यक देखेमा सम्बन्धित विज्ञलाई आफ्नो बैठकमा पर्यवेक्षकको रुपमा भाग लिन आमन्त्रण गर्न सक्नेछ ।\r\n\r\n\r\n४) उपदफा (२) को खण्ड (क), (ज) र (झ) मा उल्लिखित सदस्यहरुको पदावधि तीन वर्षको हुनेछ र पदावधि समाप्त भएपछि निजहरु पुनः नियुक्त वा मनोनयन हुन सक्नेछन् ।\r\n\r\n\r\n५) लेखामान बोर्डको बैठक सम्बन्धी कार्यविधि सो बोर्ड आफैले निर्धारण गरे बमोजिम हुनेछ ।\r\n\r\n\r\n६) लेखामान बोर्डको सचिवालय संस्थाको प्रधान कार्यालयमा रहनेछ ।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद ३क लेखामान बोर्ड"
+        }
+      },
+      {
+        "id": "sec_15b",
+        "english": {
+          "title": "Section 15B: Rights and Duties of Board",
+          "content": "The rights and duties of Accounting Standards Board shall be as follows :\r\n(a) To develop accounting standards, on the basis of relevant International Accounting Standards, in order to govern and regulate financial reporting and accounting profession,\r\n(b) To evolve appropriate process of development of accounting standards and publish material related to accounting standards,\r\n(c) To redraft, improvise and revise standards,\r\n(d) To interpret the standards,\r\n(e) To undertake other related tasks related to accounting standards.\r\n---",
+          "chapterTitle": "Chapter 3A Accounting Standards Boards"
+        },
+        "nepali": {
+          "title": "दफा १५ख: लेखामान बोर्डको काम, कर्तव्य र अधिकार",
+          "content": "लेखामान बोर्डको काम, कर्तव्य र अधिकार देहाय बमोजिम हुनेछः\r\n\r\n\r\n(क) लेखा व्यवसाय र वित्तीय प्रतिवेदनलाई सुव्यवस्थित र नियमन गर्न अन्तर्राष्ट्रिय लेखामान (इन्टरनेशनल एकाउन्टीङ्ग स्टैण्डर्ड) समेतको आधार लिई लेखामानको व्यवस्था गर्ने,\r\n\r\n\r\n(ख) लेखामानको विकास गर्न उपयुक्त विधि तयार गर्ने र लेखामान सम्बन्धी सामग्री प्रकाशन गर्ने,\r\n\r\n\r\n(ग) लेखामानको संशोधन, सुधार र परिमार्जन गर्ने,\r\n\r\n\r\n(घ) लेखामानको व्याख्या गर्ने,\r\n\r\n\r\n(ङ) लेखामान सम्बन्धी अन्य कार्य गर्ने ।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद ३क लेखामान बोर्ड"
+        }
+      },
+      {
+        "id": "sec_15c",
+        "english": {
+          "title": "Section 15C: Seat not to retain",
+          "content": "The seat of any member of the Accounting Standards Board shall be not be retained on any of following conditions :\r\n(a) if resigned,\r\n(b) if remained absent for three consecutive board meeting without any information,\r\n(c) if convicted and penalized by the court in a criminal offense,\r\n(d) if declared insane,\r\n(e) if declared insolvent,\r\n(f) if dead,\r\n(f) in case of members of the Institute, if the name is removed from the Membership Register pursuant to Section 22 of the Act.\r\n---",
+          "chapterTitle": "Chapter 3A Accounting Standards Boards"
+        },
+        "nepali": {
+          "title": "दफा १५ग: पदमा कायम नरहने अवस्था",
+          "content": "देहायको कुनै अवस्थामा लेखामान बोर्डको सदस्य आफ्नो पदमा कायम रहने छैनः-\r\n\r\n\r\n(क) राजीनामा दिएमा,\r\n\r\n\r\n(ख) बिना कुनै सूचना तीन पटकसम्म लेखामान बोर्डको बैठकमा लगातार अनुपस्थित रहेमा,\r\n\r\n\r\n(ग) नैतिक पतन देखिने फौजदारी अभियोगमा अदालतबाट कसूरदार ठहरी सजाय पाएको भएमा,\r\n\r\n\r\n(घ) मगज बिग्रेमा,\r\n\r\n\r\n(ङ) साहूको ऋण तिर्न नसकी दामासाहीमा परेमा,\r\n\r\n\r\n(च) मृत्यु भएमा,\r\n\r\n\r\n(छ) संस्थाको सदस्यको हकमा दफा २२ बमोजिम सदस्यता दर्ता किताबबाट नाम हटाइएमा।\r\n\r\n---\r\n\r\n\r\n---",
+          "chapterTitle": "परिच्छेद ३क लेखामान बोर्ड"
+        }
+      },
+      {
+        "id": "sec_15d",
+        "english": {
+          "title": "Section 15D: Constitution of Standards on Auditing Board",
+          "content": "(1) His Majesty's Government, in order to govern and regulate accounting and auditing profession, shall constitute Standards on Auditing Board.\r\n(2) The Standards on Auditing Board shall comprise of following members :\r\n(a) One FCA member nominated by His Majesty's Government - Chairman\r\n(b) Representative, Ministry of Finance - member\r\n(c) Representative, Office of the Auditor General - member\r\n(d) Three Chartered Accountants nominated by His Majesty's Government on recommendation of the Council - member\r\n(e) One Registered Auditor nominated by His Majesty's Government on recommendation of the Council - member\r\n\r\n(3) The Standards on Auditing Board, if deems necessary, may invite concerned experts to participate in the meeting as observer.\r\n\r\n(4) The tenure of members as per clause (a), (d) and (e) shall be of three years and shall be eligible for re-appointment on expiry of their tenure.\r\n\r\n(5) The business procedure of Standards on Auditing Board shall be as prescribed by the Standards on Auditing Board itself.\r\n\r\n(6) The secretariat of Standards on Auditing Board shall be stationed in the Head Office of the Institute.\r\n---",
+          "chapterTitle": "Chapter 3B Standards on Auditing Board"
+        },
+        "nepali": {
+          "title": "दफा १५घ: लेखापरीक्षणमान बोर्डको गठन",
+          "content": "१) लेखा व्यवसाय र लेखापरीक्षणलाई सुव्यवस्थित र नियमन गर्नको लागि नेपाल सरकारले एक लेखापरीक्षणमान बोर्डको गठन गर्नेछ ।\r\n\r\n\r\n२) लेखापरीक्षणमान बोर्डमा देहायका सदस्यहरु रहनेछन्ः –\r\n\r\n\r\n(क) नेपाल सरकारले फेलो चार्टर्ड एकाउन्टेन्टहरुमध्येबाट मनोनीत गरेको एकजना – अध्यक्ष\r\n\r\n\r\n(ख) प्रतिनिधि, अर्थ मन्त्रालय – सदस्य\r\n\r\n\r\n(ग) प्रतिनिधि, महालेखा परीक्षकको कार्यालय – सदस्य\r\n\r\n\r\n(घ) नेपाल सरकारले परिषद्‌को सिफारिसमा चार्टर्ड एकाउन्टेन्टहरुमध्येबाट मनोनीत गरेका तीनजना – सदस्य\r\n\r\n\r\n(ङ) नेपाल सरकारले परिषद्‌को सिफारिसमा दर्तावाला लेखापरीक्षक सदस्यहरुमध्येबाट मनोनीत गरेका एकजना – सदस्य\r\n\r\n\r\n३) लेखापरीक्षणमान बोर्डले आवश्यक देखेमा सम्बन्धित विज्ञलाई आफ्नो बैठकमा पर्यवेक्षकको रुपमा भाग लिन आमन्त्रण गर्न सक्नेछ ।\r\n\r\n\r\n४) उपदफा (२) को खण्ड (क), (घ) र (ङ) मा उल्लिखित सदस्यहरुको पदावधि तीन वर्षको हुनेछ र पदावधि निजहरु पुनः नियुक्त वा मनोनयन हुन सक्नेछन् ।\r\n\r\n\r\n५) लेखापरीक्षणमान बोर्डको बैठक कार्यविधि सो बोर्ड आफैले निर्धारण गरे बमोजिम हुनेछ ।\r\n\r\n\r\n६) लेखापरीक्षणमान बोर्डको सचिवालय संस्थाको प्रधान कार्यालयमा रहनेछ ।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद ३ख लेखापरीक्षणमान बोर्ड"
+        }
+      },
+      {
+        "id": "sec_15e",
+        "english": {
+          "title": "Section 15E: Rights and Duties of Standards on Auditing Board",
+          "content": "The rights and duties of Standards on Auditing Board shall be as follows:\r\n(a) To develop Standards on Auditing, on the basis of relevant International Standards on Auditing, in order to govern and regulate accounting and auditing profession,\r\n(b) To evolve appropriate process of development of Standards on Auditing and publish material related to Standards on Auditing,\r\n(c) To redraft, improvise and revise Standards on Auditing,\r\n(d) To interpret the Standards on Auditing,\r\n(e) To undertake other related tasks related to Standards on Auditing.\r\n---",
+          "chapterTitle": "Chapter 3B Standards on Auditing Board"
+        },
+        "nepali": {
+          "title": "दफा १५ङ: लेखा परीक्षणमान बोर्डको काम, कर्तव्य र अधिकार",
+          "content": "लेखापरीक्षणमान बोर्डको काम, कर्तव्य र अधिकार देहाय बमोजिम हुनेछः-\r\n\r\n\r\n(क) लेखा व्यवसाय र वित्तीय प्रतिवेदनलाई सुव्यवस्थित र नियमन गर्न अन्तर्राष्ट्रिय लेखापरीक्षणमान (इन्टरनेशनल स्टैण्डर्ड अन अडिटिङ्ग) समेतको आधार लिई लेखापरीक्षणमानको व्यवस्था गर्ने,\r\n\r\n\r\n(ख) लेखापरीक्षणमानको विकास गर्न उपयुक्त विधि तयार गर्ने र लेखापरीक्षणमान सम्बन्धी सामग्री प्रकाशन गर्ने,\r\n\r\n\r\n(ग) लेखापरीक्षणमानको संशोधन, सुधार र परिमार्जन गर्ने,\r\n\r\n\r\n(घ) लेखापरीक्षणमानको व्याख्या गर्ने,\r\n\r\n\r\n(ङ) लेखापरीक्षणमान सम्बन्धी अन्य कार्य गर्ने ।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद ३ख लेखापरीक्षणमान बोर्ड"
+        }
+      },
+      {
+        "id": "sec_15f",
+        "english": {
+          "title": "Section 15F: Seat not to retain",
+          "content": "The seat of any member of Standards on Auditing Board shall not be retained on any of following conditions:\r\n(a) if resigned,\r\n(b) if remained absent for three consecutive board meetings without any information,\r\n(c) if convicted and penalized by the court in a criminal offense,\r\n(d) if declared insane,\r\n(e) if declared insolvent,\r\n(f) if dead,\r\n(g) in case of members of the Institute, if the name is removed from the Membership Register pursuant to Section 22 of the Act.\r\n---",
+          "chapterTitle": "Chapter 3B Standards on Auditing Board"
+        },
+        "nepali": {
+          "title": "दफा १५च: पदमा कायम नरहने अवस्था",
+          "content": "देहायको कुनै अवस्थामा लेखापरीक्षणमान बोर्डको सदस्य आफ्नो पदमा कायम रहने छैनः-\r\n\r\n\r\n(क) राजीनामा दिएमा,\r\n\r\n\r\n(ख) बिना कुनै सूचना तीन पटकसम्म लेखापरीक्षणमान बोर्डको बैठकमा लगातार अनुपस्थित रहेमा,\r\n\r\n\r\n(ग) नैतिक पतन देखिने फौजदारी अभियोगमा अदालतबाट कसूरदार ठहरी सजाय पाएको भएमा,\r\n\r\n\r\n(घ) मगज बिग्रेमा,\r\n\r\n\r\n(ङ) साहूको ऋण तिर्न नसकी दामासाहीमा परेमा,\r\n\r\n\r\n(छ) मृत्यु भएमा,\r\n\r\n\r\n(ज) संस्थाको सदस्यको हकमा दफा २२ बमोजिम सदस्यता दर्ता किताबबाट नाम हटाइएमा ।\r\n\r\n---\r\n\r\n\r\n---",
+          "chapterTitle": "परिच्छेद ३ख लेखापरीक्षणमान बोर्ड"
+        }
+      },
+      {
+        "id": "sec_16",
+        "english": {
+          "title": "Section 16: Membership of the Institute",
+          "content": "(1) The membership of the Institute shall be classified into following classes:-\r\n(a) The Chartered Accountant, and\r\n(b) The Registered Auditor.\r\n\r\n(2) The membership of Chartered Accountant shall, subject to Section 18, be provided to a person who:-\r\n(a) Has, on the date of commencement of this sub-section, obtained the certificate of Registered Auditor of class 'A' pursuant to the Auditors' Act, 1974 or of class 'B' on the basis of qualification of Chartered Accountant,\r\n(b) Has passed Chartered Accountancy or equivalent course from the Institute or other foreign accounting bodies recognized by the Institute and has received practical training relating to accounting profession.\r\n\r\n(3) Subject to Section 18, Membership of Registered Auditor shall be granted, on the date of commencement of this sub-section, to a person holding audit license of class 'B', 'C' or 'D' acquired under the provisions of Auditor's Act, 2031 (1974).\r\n---",
+          "chapterTitle": "Chapter 4 Membership of the Institute"
+        },
+        "nepali": {
+          "title": "दफा १६: संस्थाको सदस्यता",
+          "content": "१) संस्थाको सदस्यतालाई देहाय बमोजिमको श्रेणीमा विभाजन गरिनेछः-\r\n\r\n\r\n(क) चार्टर्ड एकाउन्टेन्ट, र\r\n\r\n\r\n(ख) दर्तावाला लेखापरीक्षक ।\r\n\r\n\r\n२) देहायको योग्यता पुगेको व्यक्तिलाई दफा १८ को अधीनमा रही चार्टर्ड एकाउन्टेन्टको सदस्यता दिनु पर्नेछः-\r\n\r\n\r\n(क) यो उपदफा प्रारम्भ हुँदाका बखत लेखापरीक्षक सम्बन्धी ऐन, २०३१ बमोजिम “क” वर्गको वा चार्टर्ड एकाउन्टेन्सी परीक्षा उत्तीर्ण गरेको आधारमा “ख” वर्गको दर्तावाला लेखापरीक्षकको प्रमाणपत्र पाएको ।\r\n\r\n\r\n(ख) संस्था वा संस्थाबाट मान्यता प्राप्त विदेशी लेखा व्यवसायी संस्थाबाट चार्टर्ड एकाउन्टेन्सी वा सो सरहको परीक्षा उत्तीर्ण भई लेखा व्यवसायसँग सम्बन्धित व्यावसायिक तालीम प्राप्त गरेको ।\r\n\r\n\r\n३) यो उपदफा प्रारम्भ हुँदाका बखत लेखापरीक्षक सम्बन्धी ऐन, २०३१ बमोजिम “ख”, “ग” वा “घ” वर्गको लेखापरीक्षकको प्रमाणपत्र प्राप्त गरेको व्यक्तिलाई दफा १६ को अधीनमा रही दर्तावाला लेखापरीक्षकको सदस्यता दिन पर्नेछ ।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद ४ संस्थाको सदस्यता"
+        }
+      },
+      {
+        "id": "sec_17",
+        "english": {
+          "title": "Section 17: Fellow Chartered Accountant (FCA)",
+          "content": "Fellow Chartered Accountant (FCA) membership may be provided to the following members :\r\n(a) Members with class 'A' Registered Auditor Certificate acquired under the provisions of Auditor's Act, 1974 at the time of commencement of this Section,\r\n(b) Chartered Accountant members engaged in the accounting profession for at least five years.\r\n---",
+          "chapterTitle": "Chapter 4 Membership of the Institute"
+        },
+        "nepali": {
+          "title": "दफा १७: फेलो चार्टर्ड एकाउन्टेन्ट (एफ.सी.ए)",
+          "content": "देहायका सदस्यहरुलाई तोकिए बमोजिम फेलो चार्टर्ड एकाउन्टेन्टको सदस्यता दिन सकिनेछः-\r\n\r\n\r\n(क) यो दफा प्रारम्भ हुँदाका बखत लेखापरीक्षक सम्बन्धी ऐन, २०३१ बमोजिम “क” वर्गको दर्तावाला लेखापरीक्षक प्रमाणपत्र प्राप्त गरेको व्यक्ति,\r\n\r\n\r\n(ख) कम्तीमा पाँच वर्ष लेखा व्यवसायमा संलग्न रहेका चार्टर्ड एकाउन्टेन्ट सदस्य ।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद ४ संस्थाको सदस्यता"
+        }
+      },
+      {
+        "id": "sec_18",
+        "english": {
+          "title": "Section 18: Disqualification for Membership",
+          "content": "Following persons shall not be deemed to be eligible to be a member of the Institute:-\r\n(a) One who has not acquired qualifications as referred to in sub-sections (2) and (3) of Section 16,\r\n(b) One who has not attained the age of twenty-one years,\r\n(c) ………………………..\r\n(d) One who is insolvent and is unable to settle up the debts,\r\n(e) One who is convicted by the court in a criminal offense involving moral turpitude,\r\n(f) One who is insane.\r\n---",
+          "chapterTitle": "Chapter 4 Membership of the Institute"
+        },
+        "nepali": {
+          "title": "दफा १८: सदस्यता दर्ताको लागि अयोग्यता",
+          "content": "देहायको व्यक्ति संस्थाको सदस्यमा दरिनको लागि योग्य मानिने छैनः-\r\n\r\n\r\n(क) दफा १६ को उपदफा (२) र (३) बमोजिमको योग्यता नभएको,\r\n\r\n\r\n(ख) एक्काइस वर्षको उमेर पूरा नभएको,\r\n\r\n\r\n(ग) १……………………….\r\n\r\n\r\n(घ) साहूको ऋण तिर्न नसकी दामासाहीमा परेको,\r\n\r\n\r\n(ङ) नैतिक पतन देखिने फौजदारी अभियोगमा अदालतबाट सजाय पाएको,\r\n\r\n\r\n(च) मगज बिग्रेको ।\r\n\r\n\r\n१ पहिलो संशोधनद्वारा झिकिएको।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद ४ संस्थाको सदस्यता"
+        }
+      },
+      {
+        "id": "sec_19",
+        "english": {
+          "title": "Section 19: Name To Be Registered",
+          "content": "(1) Any person, desiring to become a member of the Institute and possesses qualifications referred to in this Act, shall submit an application, as prescribed, to the Institute with full details.\r\n(2) The fees, as prescribed, shall be paid before registration pursuant to sub-section (1).\r\n\r\n(3) A person, qualified to be a member pursuant to sub-section (3) of Section 16, if wishes to have his name registered as a member of the Institute, shall submit an application within six months of the date of commencement and date of notification of such commencement in Nepal Gazette by His Majesty's Government, of Sections 29 and 49 of this Act. A person, failing to submit such application within that period, shall not be entitled to obtain membership referred to in this Act.\r\n---",
+          "chapterTitle": "Chapter 4 Membership of the Institute"
+        },
+        "nepali": {
+          "title": "दफा १९: नाम दर्ता गराउनु पर्ने",
+          "content": "१) संस्थाको सदस्य हुन चाहने यस ऐन बमोजिम योग्यता पुगेको व्यक्तिले तोकिए बमोजिमको विवरणहरु खोली तोकिए बमोजिमको ढाँचामा संस्थामा दरखास्त दिनु पर्नेछ ।\r\n\r\n\r\n२) उपदफा (१) बमोजिम संस्थाको सदस्यता प्राप्त गर्नको नाम दर्ता गर्न तोकिए बमोजिमको शुल्क बुझाउनु पर्नेछ ।\r\n\r\n\r\n३) दफा १६ को उपदफा (३) बमोजिम सदस्यता प्राप्त गर्न योग्यता पुगेका व्यक्तिले आफ्नो नाम संस्थाको सदस्यतामा दर्ता गराउन चाहेमा नेपाल सरकारले नेपाल राजपत्रमा सूचना प्रकाशन गरी यस ऐनको दफा २९ र ४९ प्रारम्भ गरेको मितिले छ महिनाभित्र संस्थामा दरखास्त दिनु पर्नेछ । सो अवधिभित्र सदस्यताको लागि दरखास्त नदिने व्यक्तिले यो ऐन बमोजिम सदस्यता पाउने छैन ।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद ४ संस्थाको सदस्यता"
+        }
+      },
+      {
+        "id": "sec_20",
+        "english": {
+          "title": "Section 20: Membership Certificate",
+          "content": "(1) The Council shall, if the applicant pursuant to sub-section (1) of Section 19 is found to be eligible to be a member of the Institute, register the name of such person in the Membership Register of the Institute and provide a Membership Certificate, in a prescribed format, referring the class of the member.\r\n\r\n(2) The Institute shall maintain a separate Membership Register, in a prescribed format, for each class of members.\r\n\r\n(3) Other provisions concerning the registration of members shall be as prescribed.\r\n---",
+          "chapterTitle": "Chapter 4 Membership of the Institute"
+        },
+        "nepali": {
+          "title": "दफा २०: सदस्यता दर्ता प्रमाणपत्र",
+          "content": "१) दफा १९ को उपदफा (१) बमोजिम दरखास्त दिने व्यक्ति संस्थाको सदस्यमा दरिन योग्य देखिएमा परिषद्ले त्यस्तो व्यक्तिको नाम संस्थाको सदस्यतामा दर्ता गरी सदस्यको किसिम खोली तोकिए बमोजिमको ढाँचामा सदस्यता दर्ताको प्रमाणपत्र दिनु पर्नेछ।\r\n\r\n\r\n२) संस्थाले सदस्यताको श्रेणी अनुसार तोकिए बमोजिमको छुट्टै दर्ता किताब राख्नु पर्नेछ।\r\n\r\n\r\n३) संस्थाको सदस्यता दर्ता सम्बन्धी अन्य व्यवस्था तोकिए बमोजिम हुनेछ।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद ४ संस्थाको सदस्यता"
+        }
+      },
+      {
+        "id": "sec_21",
+        "english": {
+          "title": "Section 21: Information to be furnished in the Event of Leave off the Profession or Change in Address",
+          "content": "A member, if ceases to practise or changes his address, shall notify the Institute within thirty-five days from the date of such event.\r\n---",
+          "chapterTitle": "Chapter 4 Membership of the Institute"
+        },
+        "nepali": {
+          "title": "दफा २१: व्यवसाय छोडेमा वा ठेगाना बदलेमा सूचना गर्नुपर्ने",
+          "content": "सदस्यले आफ्नो व्यवसाय छोडेमा वा ठेगाना बदलेमा व्यवसाय छोडेको वा ठेगाना बदलेको पैंतीस दिनभित्र संस्थालाई सूचना गर्नु पर्नेछ।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद ४ संस्थाको सदस्यता"
+        }
+      },
+      {
+        "id": "sec_22",
+        "english": {
+          "title": "Section 22: Provision of Removal of Names and Re-instatement",
+          "content": "(1) The Council may issue an order to remove the name of any member from the Membership Register on any of the following circumstances:-\r\n(a) If he is convicted by a court in a criminal offense involving moral turpitude and punished there for,\r\n(b) If he fails to pay any fees required to be paid to the Institute,\r\n(c) If he fails to abide by the professional conduct referred to in this Act and the Rules framed under this Act,\r\n(d) If he becomes unsound-minded, or\r\n(e) If he is dead.\r\n\r\n(2) In case, a member whose name has been removed from the Membership Register pursuant to sub-section (1) makes an application, along with the fees as prescribed, stating reasonable ground to restore his membership, the Council may consider to restore his membership by reinstating his name in the Membership Register.\r\n---",
+          "chapterTitle": "Chapter 4 Membership of the Institute"
+        },
+        "nepali": {
+          "title": "दफा २२: नाम हटाउने र पुनः दर्ता गर्ने व्यवस्था",
+          "content": "१) देहायको कुनै अवस्थामा परिषद्‌ले सदस्यको नाम सदस्यता दर्ता किताबबाट हटाउने आदेश दिन सक्नेछः-\r\n\r\n\r\n(क) नैतिक पतन देखिने फौजदारी अभियोगमा अदालतबाट कसूरदार ठहरी सजाय पाएमा,\r\n\r\n\r\n(ख) संस्थालाई बुझाउनुपर्ने शुल्क नबुझाएमा,\r\n\r\n\r\n(ग) यो ऐन र यस ऐन अन्तर्गत बनेको नियम बमोजिमको पेशागत आचरण पालना नगरेमा,\r\n\r\n\r\n(घ) मगज बिग्रेमा, वा\r\n\r\n\r\n(ङ) मृत्यु भएमा ।\r\n\r\n\r\n२) उपदफा (१) बमोजिम सदस्यताबाट नाम हटाइएको व्यक्तिले मनासिब माफिकको कारण देखाई पुनः सदस्यता प्राप्त गर्न दरखास्त दिएमा परिषद्ले तोकिए बमोजिमको दस्तुर लिई निजको नाम पुनः दर्ता गरी सदस्यता दिने निर्णय गर्न सक्नेछ ।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद ४ संस्थाको सदस्यता"
+        }
+      },
+      {
+        "id": "sec_23",
+        "english": {
+          "title": "Section 23: Certificate to be Cancelled",
+          "content": "The Council, upon receipt of information that a person has been registered in the Membership Register by fraud or by mistake and upon an inquiry such matter has been found to be true, may order to invalidate such Membership and Certificate of Practice, if any. Notice of such actions shall be publicly announced.\r\n---",
+          "chapterTitle": "Chapter 4 Membership of the Institute"
+        },
+        "nepali": {
+          "title": "दफा २३: प्रमाणपत्र रद्द गर्ने",
+          "content": "धोखा वा गल्तीले कुनै व्यक्तिको नाम संस्थाको सदस्यतामा दर्ता हुन गएको कुरा जानकारी हुन आई जाँचबुझ गर्दा सो कुरा साँचो ठहरिन आएमा परिषद्‌ले त्यस्तो व्यक्तिको सदस्यता दर्ता प्रमाणपत्र तथा पेशागत प्रमाणपत्र पाएको भए सो समेत रद्द गर्न सक्नेछ र सोको सूचना पत्रपत्रिकामा प्रकाशित गर्नु पर्नेछ।\r\n\r\n---\r\n\r\n\r\n---",
+          "chapterTitle": "परिच्छेद ४ संस्थाको सदस्यता"
+        }
+      },
+      {
+        "id": "sec_24",
+        "english": {
+          "title": "Section 24: Provision of Curricula and Course Books",
+          "content": "(1) The Council shall fix level of education, curriculum and course-books required for professional accountancy or accounting technician course and conduct examinations.\r\n(2) The Council may, for the purpose of examinations pursuant to sub-section (1), if it deems necessary, seek advice and assistance of local or foreign universities or professional institutions or experts.\r\n(3) The Council shall conduct examination, referred to in sub-section (1), by itself or with cooperation of any local or foreign university or other professional institutions.\r\n(4) The eligibility qualifications required to participate in any examination of accounting profession or accounting technician shall be as prescribed.\r\n(5) Other provisions relating to examinations shall be as prescribed.\r\n(6) The provisions, relating to education and teaching programs to be undertaken by the Institute as per this Chapter, shall be as prescribed.\r\n\r\n---",
+          "chapterTitle": "Chapter V Examinations"
+        },
+        "nepali": {
+          "title": "दफा २४: पाठ्यक्रम तथा पाठ्यपुस्तकहरूको व्यवस्था गर्ने",
+          "content": "१) परिषद्‌ले लेखा व्यवसायी वा लेखा प्राविधिज्ञ हुनको लागि चाहिने शैक्षिक स्तर, पाठ्यक्रम र पाठ्यपुस्तक निर्धारण गरी परीक्षा सञ्चालन गर्न सक्नेछ।\r\n\r\n\r\n२) उपदफा (१) बमोजिमको परीक्षाको व्यवस्था गर्दा परिषद्ले आवश्यक देखेमा नेपाल 2 भित्रका विश्वविद्यालय तथा अन्य देशका लेखा व्यवसायी सङ्घ, संस्था वा विशेषज्ञको सल्लाह र सहयोग समेत लिन सक्नेछ ।\r\n\r\n\r\n३) उपदफा (१) बमोजिमको परीक्षा परिषद्‌ले आफैं वा स्वदेशी वा विदेशी विश्वविद्यालय वा अन्य संस्थाको सहयोग लिई सञ्चालन गर्न सक्नेछ ।\r\n\r\n\r\n४) लेखा व्यवसायी वा लेखा प्राविधिज्ञ सम्बन्धी परीक्षामा सम्मिलित हुन आवश्यकपर्ने योग्यता तोकिए बमोजिम हुनेछ ।\r\n\r\n\r\n५) परीक्षा सञ्चालन सम्बन्धी अन्य व्यवस्था तोकिए तोकिए बमोजिम हुनेछ ।\r\n\r\n\r\n६) यस परिच्छेद बमोजिम संस्थाबाट सञ्चालन हुने अध्ययन तथा अध्यापन सम्बन्धी व्यवस्था तोकिए बमोजिम हुनेछ।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद ५ परीक्षा सम्बन्धी व्यवस्था"
+        }
+      },
+      {
+        "id": "sec_25",
+        "english": {
+          "title": "Section 25: Certificates",
+          "content": "The Council shall award certificates, in a prescribed format, to those who have passed examinations pursuant to this Chapter.\r\n\r\n---",
+          "chapterTitle": "Chapter V Examinations"
+        },
+        "nepali": {
+          "title": "दफा २५: प्रमाणपत्र दिने",
+          "content": "परिषद्‌ले यस परिच्छेद बमोजिम लिएको परीक्षा उत्तीर्ण भएको व्यक्तिलाई तोकिए बमोजिम प्रमाणपत्र दिनेछ।\r\n\r\n---\r\n\r\n\r\n---",
+          "chapterTitle": "परिच्छेद ५ परीक्षा सम्बन्धी व्यवस्था"
+        }
+      },
+      {
+        "id": "sec_26",
+        "english": {
+          "title": "Section 26: Council to Recognize",
+          "content": "(1) A person, who has passed Chartered Accountancy or equivalent examination and has received training from any foreign accounting body, shall submit an application, in a prescribed format, to the Institute for recognition of such examination and training. The Council shall, upon receipt of such application, make a decision to grant or not to grant recognition to such examination and training.\r\n(2) Any condition, that the Council deems necessary that the applicant should accomplish before recognition of such examination and training referred to in sub-section (1), shall be notified to the applicant.\r\n(3) In case of notification of any condition pursuant to sub-section (2), the application for membership of the Institute pursuant to this Act, could be tendered only after accomplishment of such condition.\r\n\r\n---",
+          "chapterTitle": "Chapter VI Recognition of Professional Qualifications"
+        },
+        "nepali": {
+          "title": "दफा २६: परिषद्ले मान्यता दिने",
+          "content": "१) कुनै विदेशी लेखा व्यवसायी संस्थाबाट चार्टर्ड एकाउन्टेन्सी वा सो सरहको परीक्षा उत्तीर्ण गरेको र तालीम प्राप्त गरेको व्यक्तिले त्यस्तो परीक्षा र तालीमको मान्यताको लागि संस्थामा तोकिए बमोजिम दरखास्त दिन पर्नेछ र यसरी मान्यताको लागि दरखास्त सम्बन्धमा निर्णय गर्नेछ।\r\n\r\n\r\n२) उपदफा (१) बमोजिमको परीक्षा र तालीमको मान्यता दिनु अघि दरखास्तवालाले कुनै शर्त पूरा गर्नुपर्ने परिषद्ले ठहराएमा त्यस्तो शर्त समेत तोकी दिनु पर्नेछ ।\r\n\r\n\r\n३) उपदफा (२) बमोजिम कुनै शर्त पूरा गर्नुपर्ने गरी तोकिएकोमा त्यस्तो शर्त पूरा भएपछि मात्र यस ऐन बमोजिम संस्थाको सदस्यताको लागि दरखास्त दिन सकिनेछ।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद ६ शैक्षिक योग्यताको मान्यता"
+        }
+      },
+      {
+        "id": "sec_27",
+        "english": {
+          "title": "Section 27: Recognition of Foreign Institute",
+          "content": "(1) The Council may, with prior approval of His Majesty's Government, grant recognition to foreign accounting bodies and recognize the examinations and training conducted by such accounting bodies.\r\n(2) The Council shall maintain a list of such recognized foreign accounting bodies as per sub-section (1) and the procedures referred to in Section 26 need not to be followed regarding the recognition of examinations and training provided by the accounting bodies mentioned in such list.\r\n\r\n---",
+          "chapterTitle": "Chapter VI Recognition of Professional Qualifications"
+        },
+        "nepali": {
+          "title": "दफा २७: विदेशी लेखा व्यवसायी संस्थालाई मान्यता",
+          "content": "१) परिषद्‌ले नेपाल सरकारको पूर्व स्वीकृति लिई विदेशी लेखा व्यवसायी संस्थाहरु र त्यस्ता संस्थाहरुले लिएको परीक्षा र प्रदान गरेको तालीमलाई मान्यता दिन सक्नेछ ।\r\n\r\n\r\n२) परिषद्‌ले उपदफा (१) बमोजिम मान्यता दिएका संस्थाहरुको सूची बनाई राख्नु पर्नेछ र त्यस्तो सूचीमा पर्ने संस्थाले लिएको परीक्षा र प्रदान गरेको तालीमको मान्यताका सम्बन्धमा दफा २६ बमोजिमको प्रक्रिया पूरा गर्न आवश्यक पर्ने छैन।\r\n\r\n---\r\n\r\n\r\n---",
+          "chapterTitle": "परिच्छेद ६ शैक्षिक योग्यताको मान्यता"
+        }
+      },
+      {
+        "id": "sec_28",
+        "english": {
+          "title": "Section 28: Certificate of Practice",
+          "content": "(1) Members, willing to carry out audit profession, shall make an application, in a prescribed format, for Certificate of Practice, along with the prescribed fees, to the Institute.\r\n\r\n(2) The Council, provided that the applying member as per sub-section (1), has fulfilled all conditions prescribed by the Council, shall provide a Certificate of Practice, in a prescribed format, to such member.\r\n\r\n(3) The Council shall ensure that the members observe or shall cause to observe conditions prescribed for members holding Certificate of Practice and may prescribe Code of Conduct for such members.\r\n---",
+          "chapterTitle": "Chapter VII Certificate of Practice"
+        },
+        "nepali": {
+          "title": "दफा २८: पेशागत प्रमाणपत्र",
+          "content": "१) लेखापरीक्षण सेवा प्रदान गर्न चाहने सदस्यले पेशागत प्रमाणपत्र प्राप्त गर्नको लागि तोकिए बमोजिमको ढाँचामा संस्थामा दरखास्त दिनु पर्नेछ ।\r\n\r\n\r\n२) उपदफा (१) बमोजिम दरखास्त दिने सदस्यले तोकिए बमोजिमका शर्तहरु पूरा गरेपछि परिषद्ले त्यस्ता सदस्यलाई तोकिए बमोजिमको ढाँचामा पेशागत प्रमाणपत्र दिनेछ ।\r\n\r\n\r\n३) पेशागत प्रमाणपत्र पाएका सदस्यको लागि परिषद्‌ले शर्तहरु निर्धारण गरी त्यस्ता शर्तहरु पालन गर्न लगाउन र त्यस्ता सदस्यहरुका लागि आचार संहिता बनाई लागू गर्न सक्नेछ ।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद ७ पेशागत प्रमाणपत्र"
+        }
+      },
+      {
+        "id": "sec_28a",
+        "english": {
+          "title": "Section 28a: Registration of Auditing Firms",
+          "content": "(1) Members, holding Certificate of Practice and willing to carry on audit business under the name of an accounting firm, shall apply to the Institute, in a prescribed format, for registration of such firm.\r\n\r\n(2) The other procedures relating to the registration of accounting firms shall be as prescribed.\r\n\r\n(3) The Council, after completion of the procedures mentioned in sub-section (2), shall issue Certificate of Firm Registration in a prescribed format.\r\n---",
+          "chapterTitle": "Chapter VII Certificate of Practice"
+        },
+        "nepali": {
+          "title": "दफा २८क: लेखा व्यवसायी संस्था दर्ता गर्नु पर्ने",
+          "content": "१) लेखा व्यवसायी संस्थाको नामबाट लेखापरीक्षण सेवा सञ्चालन गर्न चाहने पेशागत प्रमाणपत्र प्राप्त सदस्यले त्यस्तो संस्था दर्ता गर्न तोकिए बमोजिमको ढाँचामा संस्थामा दरखास्त दिनु पर्नेछ ।\r\n\r\n\r\n२) लेखा व्यवसायी संस्था दर्ता सम्बन्धी कार्यविधि तोकिए बमोजिम हुनेछ ।\r\n\r\n\r\n३) उपदफा (२) बमोजिमको कार्यविधि पूरा भएपछि परिषद्ले तोकिए बमोजिमको ढाँचामा लेखा व्यवसायी संस्था दर्ताको प्रमाणपत्र दिनेछ ।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद ७ पेशागत प्रमाणपत्र"
+        }
+      },
+      {
+        "id": "sec_29",
+        "english": {
+          "title": "Section 29: Prohibition to Undertake Audit Business Without a Certificate of Practice",
+          "content": "No one shall be allowed to undertake audit business without a Certificate of Practice.\r\n\r\nProvided that this section shall not deem to restrain His Majesty's Government to regulate and cause to regulate, under separate arrangement, regarding audit of entities other than companies or commercial establishments registered under Company Act.\r\n---",
+          "chapterTitle": "Chapter VII Certificate of Practice"
+        },
+        "nepali": {
+          "title": "दफा २९: लेखापरीक्षण सेवा प्रदान गर्न नपाउने",
+          "content": "पेशागत प्रमाणपत्र प्राप्त नगरी कुनै व्यक्तिले लेखापरीक्षण सेवा प्रदान गर्न पाउने छैन ।\r\n\r\n\r\nतर कम्पनी ऐन अन्तर्गत स्थापना भएका कम्पनी वा व्यावसायिक संस्थाको लेखापरीक्षण बाहेक अन्य लेखापरीक्षणको सम्बन्धमा नेपाल सरकारले छुट्टै व्यवस्था गरी नियमन गर्न गराउन यस दफाले बाधा पुर्‍याएको मानिने छैन।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद ७ पेशागत प्रमाणपत्र"
+        }
+      },
+      {
+        "id": "sec_30",
+        "english": {
+          "title": "Section 30: Special Provision in Relation to Registered Auditors",
+          "content": "Notwithstanding anything mentioned elsewhere in this Act, the Council, subject to this Act, Regulations and bye-regulations framed under this Act, shall categorize the Registered Auditors existed at the commencement of this section and shall issue Certificate of Practice to carry out audit business as per the provisions of this Act.\r\n\r\nProvided that such Registered Auditors shall not be deprived of the privileges provided under the Auditors' Act, 1974.\r\n---",
+          "chapterTitle": "Chapter VII Certificate of Practice"
+        },
+        "nepali": {
+          "title": "दफा ३०: दर्तावाला लेखापरीक्षक सम्बन्धी विशेष व्यवस्था",
+          "content": "यस ऐनमा अन्यत्र जुनसुकै कुरा लेखिएको भए तापनि यो दफा प्रारम्भ हुँदाका बखत कायम रहेका दर्तावाला लेखापरीक्षकहरुलाई परिषद्‌ले यो ऐन र यस ऐन अन्तर्गत बनेका नियम तथा विनियमहरुका अधीनमा रही यस ऐन बमोजिम लेखापरीक्षण सेवा प्रदान गर्न तोकिए बमोजिम वर्गीकरण गरी पेशागत प्रमाणपत्र दिनेछ ।\r\n\r\n\r\nतर त्यस्ता दर्तावाला लेखापरीक्षकहरुलाई निजहरुले लेखापरीक्षक सम्बन्धी ऐन, २०३१ बमोजिम पाइ आएका सुविधाबाट वञ्चित गरिने छैन ।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद ७ पेशागत प्रमाणपत्र"
+        }
+      },
+      {
+        "id": "sec_30a",
+        "english": {
+          "title": "Section 30a: Limit of Audit Business",
+          "content": "The limit of audit business, entitled to a Registered Auditor member holding a categorized Certificate of Practice pursuant to Section 30, shall be fixed by His Majesty's Government on recommendation of the Council.\r\n---",
+          "chapterTitle": "Chapter VII Certificate of Practice"
+        },
+        "nepali": {
+          "title": "दफा ३०क: लेखापरीक्षण गर्न पाउने हद",
+          "content": "दफा ३० बमोजिम वर्गीकरण भएका पेशागत प्रमाणपत्र प्राप्त सदस्यले लेखापरीक्षण गर्न पाउने हद नेपाल सरकारको स्वीकृति लिई परिषद्‌ले तोकिदिए बमोजिम हुनेछ ।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद ७ पेशागत प्रमाणपत्र"
+        }
+      },
+      {
+        "id": "sec_30b",
+        "english": {
+          "title": "Section 30b: Upgrade of the Class of Certificate of Practice",
+          "content": "The Council, applying the prescribed procedure, may upgrade the class of Certificate of Practice, issued to Registered Auditor members under section 30.\r\n---",
+          "chapterTitle": "Chapter VII Certificate of Practice"
+        },
+        "nepali": {
+          "title": "दफा ३०ख: पेशागत प्रमाणपत्रको वर्ग वृद्धि हुन सक्ने",
+          "content": "दफा ३० बमोजिम दर्तावाला लेखापरीक्षकले प्राप्त गरेको पेशागत प्रमाणपत्र परिषद्ले तोकिए बमोजिमको कार्यविधि अपनाई वर्ग वृद्धि गर्न सक्नेछ ।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद ७ पेशागत प्रमाणपत्र"
+        }
+      },
+      {
+        "id": "sec_31",
+        "english": {
+          "title": "Section 31: Matters to be Disclosed in the Report",
+          "content": "The members holding Certificate of Practice shall fully disclose such matters, as prescribed, in their audit report.\r\n---",
+          "chapterTitle": "Chapter VII Certificate of Practice"
+        },
+        "nepali": {
+          "title": "दफा ३१: प्रतिवेदनमा खुलाउनु पर्ने कुराहरु",
+          "content": "पेशागत प्रमाणपत्र प्राप्त सदस्यले आफूले गरेको लेखा परीक्षणको प्रतिवेदनमा तोकिए बमोजिमका कुराहरु खुलाउनु पर्नेछ ।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद ७ पेशागत प्रमाणपत्र"
+        }
+      },
+      {
+        "id": "sec_32",
+        "english": {
+          "title": "Section 32: Publication of Member List",
+          "content": "The Institute shall, within three months of expiry of each fiscal year, publish a list of members and members holding Certificate of Practice.\r\n---",
+          "chapterTitle": "Chapter VII Certificate of Practice"
+        },
+        "nepali": {
+          "title": "दफा ३२: नामावली प्रकाशित गर्ने",
+          "content": "पेशागत प्रमाणपत्र प्राप्त सदस्यले आफूले गरेको लेखा परीक्षणको प्रतिवेदनमा तोकिए बमोजिमका कुराहरु खुलाउनु पर्नेछ ।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद ७ पेशागत प्रमाणपत्र"
+        }
+      },
+      {
+        "id": "sec_33",
+        "english": {
+          "title": "Section 33: Payment of Fees",
+          "content": "Members, Members holding Certificate of Practice and accounting firms registered under section 28 (a) shall pay fees, as prescribed, to the Institute.\r\n---",
+          "chapterTitle": "Chapter VII Certificate of Practice"
+        },
+        "nepali": {
+          "title": "दफा ३३: शुल्क बुझाउनु पर्ने",
+          "content": "सदस्य, पेशागत प्रमाणपत्र प्राप्त सदस्य र दफा २८क. बमोजिम दर्ता भएका लेखा व्यवसायी संस्थाले तोकिए बमोजिमको शुल्क संस्थालाई बुझाउनु पर्नेछ।\r\n\r\n---\r\n\r\n\r\n---",
+          "chapterTitle": "परिच्छेद ७ पेशागत प्रमाणपत्र"
+        }
+      },
+      {
+        "id": "sec_34",
+        "english": {
+          "title": "Section 34: Members to Observe the Conduct",
+          "content": "(1) Members and members holding Certificate of Practice shall fully abide this Act and the Regulations framed under this Act.\r\n(2) Auditing, either in partnership or in collusion in any manner with a person who has not obtained the Certificate of Practice of one's class, is prohibited.\r\n(3) One shall not share or distribute as profit the auditing fees or remuneration with any person other than a member of the Institute; and shall not pay any commission, brokerage etc. out of the professional fees earned to any person or member.\r\n(4) One shall not, directly or indirectly, influence any person by way of fear, threat, terror or enticement in order to secure any professional business.\r\n(5) One shall not disclose or divulge any information and explanations acquired in the course of professional service to any person other than the employer employing him and the person whom he is complied by the law to do so.\r\n(6) Members holding Certificate of Practice shall not certify any financial statement or give report of any type until they or their partner or employee checks and verifies it.\r\n(7) Member holding Certificate of Practice shall, while certifying financial statements or making report thereon of any corporate body in which he or his partner has interest, clearly mention the extent of his or his partner's interest therein.\r\nProvided that being merely a shareholder in a company shall not be deemed to have interest therein.\r\n(8) Member holding Certificate of Practice shall, in order to truly present the financial statement certified by him, clearly indicate all the material facts or any false statements or explanations known to him or to the best of his knowledge.\r\n(9) Members holding Certificate of Practice shall discharge their duties with due care in the course of their profession and shall draw attention of all concerned to all material facts which are or have take place contrary to the prevailing law and do not comply with generally accepted principles of auditing.\r\n(10) Members holding Certificate of Practice shall not base their remuneration as a percentage on the profit or on any other uncertain results.\r\n(11) One shall not knowingly or recklessly mention any false matter in a notice, explanation or statement required under the prevailing law to be provided to any office, department of His Majesty's Government or any organisation.\r\n(12) One shall not perform audit of accounts of any organization where he has served until the elapse of at least three years of his leaving the service.\r\n(13) A member holding Certificate of Practice shall not accept his appointment as an auditor of an organisation without ascertaining that all required procedures for appointment as the auditor under the prevailing law has been duly fulfilled.\r\n(14) One should have obtained sufficient information prior to give audit opinion.\r\n---\r\n\r\n(15) Other matters concerning the conduct to be observed by the members and members holding Certificate of Practice shall be as prescribed.",
+          "chapterTitle": "Chapter VIII Conduct"
+        },
+        "nepali": {
+          "title": "दफा ३४: आचरण पालन गर्नु पर्ने",
+          "content": "१) सदस्य र पेशागत प्रमाणपत्र प्राप्त सदस्यले यो ऐन वा वा यस ऐन अन्तर्गत बनेको नियमको पूर्ण पालना गर्नु पर्छ ।\r\n\r\n\r\n२) आफ्नो वर्गको पेशागत प्रमाणपत्र प्राप्त सदस्यको प्रमाणपत्र नपाएका व्यक्तिसँग साझेदारी वा अन्य कुनै किसिमबाट मिली लेखापरीक्षण कार्य गर्नु हुँदैन ।\r\n\r\n\r\n३) संस्थाको सदस्यता पाएको व्यक्ति बाहेक अन्य व्यक्तिसँग आफूले पाएको वा आर्जन गरेको लेखापरीक्षण शुल्क वा पारिश्रमिकमा कुनै किसिमको साझेदारी गर्न वा मुनाफामा हिस्सा दिनु हुँदैन र सदस्यता पाएको व्यक्ति लगायत अन्य कुनै व्यक्तिसँग आफूले पाएको वा आर्जन गरेको व्यावसायिक शुल्कमा कमिसन, दलाली आदि दिनु हुँदैन ।\r\n\r\n\r\n४) डर, धाक, त्रास वा प्रलोभन देखाई कसैलाई प्रत्यक्ष वा अप्रत्यक्ष रुपले लेखा व्यवसायको कामहरु पाउनका लागि प्रभावित गर्न हुँदैन ।\r\n\r\n\r\n५) आफूलाई काम लगाउने व्यक्ति र प्रचलित कानूनले बाध्य गराएको व्यक्तिलाई बाहेक अन्य व्यक्तिलाई आफ्नो व्यवसायको सिलसिलामा पाएका सूचना तथा स्पष्टीकरणहरु दिन वा भन्न हुँदैन ।\r\n\r\n\r\n६) पेशागत प्रमाणपत्र प्राप्त सदस्यले आफू वा आफ्नो साझेदार वा कर्मचारीले जाँची रुजू नगरेसम्म कुनै पनि आर्थिक विवरण प्रमाणित गर्न वा कुनै किसिमको प्रतिवेदन दिन हुँदैन ।\r\n\r\n\r\n७) पेशागत प्रमाणपत्र प्राप्त सदस्यले आफ्नो वा आफ्नो साझेदारको हित भएको कुनै संस्थाको आर्थिक विवरण प्रमाणित गर्दा वा प्रतिवेदन दिंदा आफ्नो वा आफ्नो साझेदारको स्वार्थ निहित रहेको कुरा पनि स्पष्ट रुपले उल्लेख गर्नु पर्नेछ ।\r\n\r\n\r\nतर कम्पनीमा शेयर होल्डर मात्र भएकोमा स्वार्थ निहित रहेको मानिने छैन ।\r\n\r\n\r\n८) पेशागत प्रमाणपत्र प्राप्त सदस्यले आफूले प्रमाणित गरेको कुनै पनि आर्थिक विवरणलाई यथार्थ रुपमा दर्शाउन आफूलाई थाहा भएका कुनै पनि मूलभूत कुराहरु स्पष्ट रुपले देखाउनु पर्नेछ वा आफूले थाहा पाएसम्म आफूले प्रमाणित गरेको आर्थिक विवरणमा कुनै गलत विवरण वा स्पष्टीकरण रहेछ भने सो पनि स्पष्ट रुपले उल्लेख गर्नु पर्नेछ ।\r\n\r\n\r\n९) पेशागत प्रमाणपत्र प्राप्त सदस्यले आफ्नो व्यवसायको सिलसिलामा गर्नुपर्ने कर्तव्य सावधानीपूर्वक गर्नु पर्नेछ र प्रचलित कानून तथा लेखापरीक्षण सम्बन्धी मान्य सिद्धान्त अनुरुप नभएका वा नगरिएका कुनै पनि मूलभूत कुराहरु माथि सम्बन्धित सबैको ध्यानाकर्षण गराउनु पर्नेछ ।\r\n\r\n\r\n१०) पेशागत प्रमाणपत्र प्राप्त सदस्यले आफूले काम गरे बापत पाउनुपर्ने पारिश्रमिकलाई मुनाफाको प्रतिशत वा अन्य कुनै अनिश्चित नतिजा माथि आधारित गर्नु हुँदैन ।\r\n\r\n\r\n११) नेपाल सरकारको कुनै कार्यालय, विभाग वा कुनै संस्थालाई प्रचलित कानून बमोजिम दिनुपर्ने सूचना, स्पष्टीकरण वा विवरणमा जानी जानी वा लापरवाही साथ झुट्टो कुरा उल्लेख गर्नु हुँदैन ।\r\n\r\n\r\n१२) आफूले नोकरी गरेको संस्थाको सेवा गर्न छोडेको कम्तीमा तीन वर्ष नपुगी सो संस्थाको लेखापरीक्षण गर्नु हुँदैन ।\r\n\r\n\r\n१३) प्रचलित कानून बमोजिम लेखापरीक्षकमा नियुक्त हुन आवश्यक रीत पूरा भएको यकिन नगरी कुनै पनि पेशागत प्रमाणपत्र प्राप्त सदस्यले कुनै संस्थाको लेखापरीक्षकमा भएको नियुक्ति स्वीकार गर्नु हुँदैन ।\r\n\r\n\r\n१४) लेखा परीक्षण सम्बन्धमा आफ्नो राय व्यक्त गर्नु अगाडि यथेष्ट रुपमा सम्बन्धित सूचना प्राप्त गरेको हुनुपर्छ ।\r\n\r\n\r\n१५) पेशागत प्रमाणपत्र प्राप्त सदस्य र सदस्यले पालना गर्नुपर्ने आचरण सम्बन्धी अन्य कुराहरु तोकिए बमोजिम हुनेछ ।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद ८ आचरण"
+        }
+      },
+      {
+        "id": "sec_35",
+        "english": {
+          "title": "Section 35: Complains to be Lodged",
+          "content": "(1) The concerned one may lodge complaint to the Institute against any member or member holding Certificate of Practice for not upholding the conduct mentioned in this Act or the Regulations framed under this Act or for violation of this Act or Regulations framed under this Act.\r\n\r\n(2) The Executive Director shall, if he finds convincing information that proves any member or member holding Certificate of Practice is not observing the conduct, submit the proposal along with the related facts to the Council for further action against such member or member holding Certificate of Practice.\r\n---",
+          "chapterTitle": "Chapter VIII Conduct"
+        },
+        "nepali": {
+          "title": "दफा ३५: उजूरी गर्न सकिने",
+          "content": "१) कुनै पेशागत प्रमाणपत्र प्राप्त सदस्य उपर यो ऐन वा यस ऐन अन्तर्गत बनेको नियममा उल्लिखित आचरणको पालना नगरेको वा त्यस्तो पेशागत प्रमाणपत्र प्राप्त सदस्यले यो ऐन वा यस ऐन अन्तर्गत बनेको नियम उल्लङ्घन गरेमा सरोकारवालाले संस्थामा उजूरी दिन सक्नेछ ।\r\n\r\n\r\n२) कुनै पेशागत प्रमाणपत्र प्राप्त सदस्यले पालना गर्नुपर्ने आचरणको पालना नगरेको विश्वास गर्नुपर्ने तथ्य फेला परेमा त्यस्तो पेशागत प्रमाणपत्र प्राप्त सदस्य उपर कारबाही गर्न कार्यकारी निर्देशकले प्राप्त तथ्यहरु सहित परिष‌द्मा प्रस्ताव पेश गर्नेछ ।\r\n\r\n---\r\n\r\n\r\n---",
+          "chapterTitle": "परिच्छेद ८ आचरण"
+        }
+      },
+      {
+        "id": "sec_36",
+        "english": {
+          "title": "Section 36: Funds of the Institute",
+          "content": "(1) The Institute shall have a Fund of its own and following income shall be the part of the Fund:-\r\n(a) Grants received from His Majesty's Government,\r\n(b) Grants received from international or foreign associations, organisations,\r\n\r\nProvided that while acquiring such funds, prior approval of His Majesty's Government shall be obtained.\r\n(c) Income received from registration of members or issuance of Certificate of Practice,\r\n(d) Income earned from movable and immovable property of the Institute,\r\n(e) Income received from other sources.\r\n\r\n(2) All money received by the Institute shall be deposited in an account opened in the name of the Institute in any commercial bank of Nepal.\r\n\r\n(3) All expenses to be incurred on behalf of the Institute shall be borne out of the Fund referred to in sub-section (1).\r\n\r\nProvided that the funds received for any specific purpose shall be used in that purpose only.\r\n\r\n(4) The Executive Director shall, under the supervision and control of the Council, make the expenses to be incurred out of the Fund.\r\n\r\n(5) The bank accounts of the Fund shall be operated as prescribed by the Council.\r\n---",
+          "chapterTitle": "Chapter IX Funds of the Institute"
+        },
+        "nepali": {
+          "title": "दफा ३६: संस्थाको कोष",
+          "content": "१) संस्थाको एउटा छुट्टै कोष हुनेछ र सो देहाय बमोजिमका रकमहरु रहनेछन्ः-\r\n\r\n\r\n(क) नेपाल सरकारबाट प्राप्त अनुदान रकम,\r\n\r\n\r\n(ख) अन्तर्राष्ट्रिय वा विदेशी सङ्घ, संस्थाबाट प्राप्त रकम,\r\n\r\n\r\nतर यस्तो रकम प्राप्त गर्दा नेपाल सरकारको पूर्व स्वीकृति लिनु पर्नेछ ।\r\n\r\n\r\n(ग) संस्थाका सदस्यहरुको नाम दर्ता गर्दा वा लेखा व्यवसायी प्रमाणपत्र दिँदा प्राप्त गरेको रकम,\r\n\r\n\r\n(घ) संस्थाको चल अचल सम्पत्तिबाट आर्जन हुने रकम,\r\n\r\n\r\n(ङ) संस्थालाई अन्य स्रोतबाट प्राप्त हुने रकम ।\r\n\r\n\r\n२) संस्थालाई प्राप्त सबै रकम संस्थाको नाममा नेपालको कुनै वाणिज्य बैंकमा खाता खोली जम्मा गरिनेछ ।\r\n\r\n\r\n३) संस्थाको तर्फबाट गर्नुपर्ने सबै खर्चहरु उपदफा (१) बमोजिमको कोषबाट व्यहोर्नेछन् ।\r\n\r\n\r\nतर संस्थालाई कुनै निश्चित उद्देश्यको लागि प्राप्त भएको रकम सोही उद्देश्यमा मात्र खर्च गर्नु पर्नेछ।\r\n\r\n\r\n४) कोषबाट गरिने खर्च परिषद्‌को रेखदेख र नियन्त्रणमा रही सचिवले गर्नेछ ।\r\n\r\n\r\n५) कोषको खाताको सञ्चालन परिषद्‌ले तोके बमोजिम हुनेछ ।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद ९ संस्थाको कोष"
+        }
+      },
+      {
+        "id": "sec_37",
+        "english": {
+          "title": "Section 37: Accounts and Audit of the Funds",
+          "content": "(1) The books of accounts, depicting income and expenditure of the Institute, shall be kept in the format as prescribed by the Council.\r\n\r\n(2) The books of accounts of the Institute shall be audited by a professional accountant appointed by the Council.\r\n\r\n(3) His Majesty's Government may, if it so desires, examine or can get examined the accounts and relevant documents of the Institute at any time.\r\n---",
+          "chapterTitle": "Chapter IX Funds of the Institute"
+        },
+        "nepali": {
+          "title": "दफा ३७: संस्थाको कोषको लेखा तथा लेखापरीक्षण",
+          "content": "१) संस्थाको आय व्ययको लेखा परिषद्‌ले तोके बमोजिमको ढाँचामा राखिनेछ ।\r\n\r\n\r\n२) संस्थाको हिसाब किताबको लेखापरीक्षण परिषद्‌ले तोकेको लेखा व्यवसायीबाट हुनेछ ।\r\n\r\n\r\n३) नेपाल सरकारले चाहेमा संस्थाको हिसाब किताब सम्बन्धित कागजात जुनसुकै बखत जाँच्न वा जाँच्न लगाउन सक्नेछ ।\r\n\r\n---\r\n\r\n\r\n---",
+          "chapterTitle": "परिच्छेद ९ संस्थाको कोष"
+        }
+      },
+      {
+        "id": "sec_38",
+        "english": {
+          "title": "Section 38: Executive Director",
+          "content": "(1) The Council shall, for the operation of the administrative business of the Institute, appoint any person having experience in accounting profession as the Executive Director.\r\n\r\n(2) The term of office of the Executive Director shall be four years, and the Council may, if it so desires, reappoint him.\r\n\r\n(3) The Council, in the absence of the Executive Director, may designate any officer level employee of the Institute to act as the Executive Director.\r\n---",
+          "chapterTitle": "Chapter X Provision Relating to Employees"
+        },
+        "nepali": {
+          "title": "दफा ३८: कार्यकारी निर्देशक",
+          "content": "१) संस्थाको प्रशासकीय काम कारबाही सञ्चालन गर्नको लागि परिषद्ले लेखा सम्बन्धी अनुभव भएको कुनै व्यक्तिलाई कार्यकारी निर्देशकको पदमा नियुक्त गर्नेछ ।\r\n\r\n\r\n२) कार्यकारी निर्देशकको पदावधि चार वर्षको हुनेछ र परिषद्ले चाहेमा निजलाई पुनः नियुक्त गर्न सक्नेछ ।\r\n\r\n\r\n३) कार्यकारी निर्देशकको अनुपस्थितिमा परिषद्‌ले संस्थाको कुनै अधिकृत कर्मचारीलाई कार्यकारी निर्देशकको काम गर्न तोक्न सक्नेछ ।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद १० कर्मचारी सम्बन्धी व्यवस्था"
+        }
+      },
+      {
+        "id": "sec_39",
+        "english": {
+          "title": "Section 39: Functions, Duties and Authorities of the Executive Director",
+          "content": "(1) The functions, duties and authorities of the Executive Director shall be as follows:-\r\n(a) To act as chief executive of the Institute being accountable to the Council,\r\n(b) To carry out day-to-day administrative business of the Institute,\r\n(c) To submit annual budget of the Institute to the Council,\r\n(d) To maintain and cause to be maintained the books of accounts of the Institute,\r\n(e) To keep in custody of the Members' Register and Register of the Members holding Certificate of Practice and keep it up-to-date.\r\n\r\n(2) The Executive Director shall discharge his duties under the control and supervision of the Council.\r\n\r\n(3) The functions, duties and powers of the Executive Director, other than those set forth in this Act, shall be as prescribed.\r\n---",
+          "chapterTitle": "Chapter X Provision Relating to Employees"
+        },
+        "nepali": {
+          "title": "दफा ३९: कार्यकारी निर्देशकको काम, कर्तव्य र अधिकार",
+          "content": "१) कार्यकारी निर्देशकको काम, कर्तव्य र अधिकार देहाय बमोजिम हुनेछः-\r\n\r\n\r\n(क) परिषदबाट जिम्मेवार रही संस्थाको प्रमुखको रुपमा काम गर्ने,\r\n\r\n\r\n(ख) संस्थाको दैनिक प्रशासनिक काम गर्ने,\r\n\r\n\r\n(ग) संस्थाको वार्षिक बजेट तयार गरी परिष‌द्मा पेश गर्ने,\r\n\r\n\r\n(घ) संस्थाको हिसाब किताब राखे तथा राख लगाउने,\r\n\r\n\r\n(ङ) सदस्य र पेशागत प्रमाणपत्र प्राप्त सदस्यहरुको दर्ता किताब जिम्मा लिई अद्यावधिक रुपमा राखे, राख लगाउने ।\r\n\r\n\r\n२) कार्यकारी निर्देशकले परिषद्‌को रेखदेख र नियन्त्रणमा रही कार्य गर्नेछ ।\r\n\r\n\r\n३) यस ऐनमा लेखिएदेखि बाहेक कार्यकारी निर्देशकको अन्य काम, कर्तव्य र अधिकार तोकिए बमोजिम हुनेछ ।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद १० कर्मचारी सम्बन्धी व्यवस्था"
+        }
+      },
+      {
+        "id": "sec_40",
+        "english": {
+          "title": "Section 40: Other Employees of the Institute",
+          "content": "(1) The Council shall appoint employees, subject to the direct control and supervision of the Executive Director, for the Institute as required.\r\n\r\n(2) The terms of service, remuneration and other perks of the employees of the Institute shall be as prescribed.\r\n---",
+          "chapterTitle": "Chapter X Provision Relating to Employees"
+        },
+        "nepali": {
+          "title": "दफा ४०:संस्थाका अन्य कर्मचारी",
+          "content": "१) कार्यकारी निर्देशकको प्रत्यक्ष रेखदेख र नियन्त्रणमा रहने गरी संस्थालाई आवश्यक पर्ने कर्मचारीहरुको नियुक्ति परिषद्‌ले गर्नेछ ।\r\n\r\n\r\n२) संस्थाका कर्मचारीहरुको सेवाको शर्त, पारिश्रमिक र सुविधाहरु तोकिए बमोजिम हुनेछ ।\r\n\r\n---\r\n\r\n\r\n---",
+          "chapterTitle": "परिच्छेद १० कर्मचारी सम्बन्धी व्यवस्था"
+        }
+      },
+      {
+        "id": "sec_41",
+        "english": {
+          "title": "Section 41: Punishment",
+          "content": "(1) A person, who carries out audit without obtaining a Certificate of Practice, pursuant to this Act, shall be liable of punishment with a penalty of maximum two thousand rupees or with an imprisonment for a maximum period of three months or with both.\r\n\r\n(2) A person, who in contravention of Section 6 uses the name or the seal of the Institute or exercises any type of authority bestowed to the Institute, shall be punished with a penalty of one thousand rupees maximum on first conviction, and on any subsequent conviction thereafter, a maximum penalty of five thousand rupees or imprisonment for a maximum period of six months or both.\r\n\r\nProvided that this sub-section shall not apply to the organizations or university established under their own legislation or the units within the Institute.\r\n\r\n(3) A person, who has not obtained a Certificate of Practice and is proved to have signed any document in capacity of the member holding Certificate of Practice, shall be liable to punishment with a penalty up to two thousand rupees or imprisonment for a period of up to three months or both.\r\n\r\n(4) A member, who commits any act contrary to the provisions of this Act or Regulations framed under this Act other than the provisions of this section, shall be suspended for a maximum period of five years and shall be liable of punishment with a maximum penalty of two thousand rupees or imprisonment for a maximum period of three months or both.\r\n\r\n(5) A complainant who lodges a complaint, without any reasonable cause to make complaint and it is proved that the complaint was made with an intention to harass a member, shall be liable to punishment with fine up to one thousand rupees.\r\n\r\n(6) The complain cases, except those to be heard under Section 14, lodged in the Council against any member, pursuant to Section 35, shall be instituted in the concerned Appellate Court.\r\n---",
+          "chapterTitle": "Chapter XI Punishment"
+        },
+        "nepali": {
+          "title": "दफा ४१: दण्ड सजाय",
+          "content": "१) यस ऐन बमोजिम पेशागत प्रमाणपत्र नलिई लेखापरीक्षणगर्ने व्यक्तिलाई दुई हजार रुपैयाँसम्म जरिबाना वा तीन महिनासम्म कैद वा दुवै सजाय हुनेछ ।\r\n\r\n\r\n२) कसैले दफा ६ को उल्लङ्घन गरी संस्थाको नाम, चिन्ह वा संस्थाले प्रयोग गर्न पाउने कुनै पनि किसिमको अधिकारको प्रयोग गरेमा निजलाई पहिलो पटक भए एक हजार रुपैयाँसम्म जरिबाना हुनेछ र त्यसपछि पनि त्यस्तो काम गरेको ठहरेमा पटकै पिच्छे पाँच हजार रुपैयाँसम्म जरिवाना वा ६ महिनासम्म कैद वा दुवै सजाय हुनेछ ।\r\n\r\n\r\nतर कानूनद्वारा गठित संस्था वा विश्वविद्यालय वा संस्थासँग सम्बन्धित निकायहरुको हकमा यो उपदफा लागू हुने छैन ।\r\n\r\n\r\n३) पेशागत प्रमाणपत्र नपाएको व्यक्तिले * पेशागत प्रमाणपत्र प्राप्त सदस्यको हैसियतले कुनै कागजातमा दस्तखत गरेको प्रमाणित भएमा त्यस्तो व्यक्तिलाई दुई हजार रुपैयाँसम्म जरिबाना वा तीन महिनासम्म कैद वा दुवै सजाय हुनेछ ।\r\n\r\n\r\n४) यस दफामा लेखिएदेखि बाहेक यो ऐन वा यस ऐन अन्तर्गत बनेको नियमको बर्खिलाप कुनै काम गर्ने सदस्यलाई पाँच वर्षसम्मको लागि निलम्बन गरी दुई हजार रुपैयाँसम्म जरिबाना वा तीन महिनासम्म कैद वा दुवै सजाय हुनेछ ।\r\n\r\n\r\n५) उजूर गर्नुपर्ने मनासिब माफिकको कारण बेगर सदस्यलाई दुःख दिने नियतले कुनै व्यक्तिले उजूर गरेको ठहरेमा त्यस्तो उजुर गर्ने व्यक्तिलाई एक हजार रुपैयाँसम्म जरिबाना हुनेछ ।\r\n\r\n\r\n६) दफा ३५ बमोजिम कुनै सदस्यको विरुद्धमा परिषद् समक्ष त्यस्तो उजूर पर्न आएमा दफा १४ बमोजिम कारबाही हुनेमा बाहेक अन्य मुद्दाहरु सम्बन्धित उच्च अदालतमा मुद्दा चलाउनु पर्नेछ ।\r\n\r\n---\r\n\r\n\r\n---",
+          "chapterTitle": "परिच्छेद ११ दण्ड सजाय"
+        }
+      },
+      {
+        "id": "sec_42",
+        "english": {
+          "title": "Section 42: Constitution of an Ad-Hoc Committee",
+          "content": "(1) Notwithstanding anything contained elsewhere in this Act, an Ad-hoc Council shall, until inception of the Council pursuant to Section 7, shall be constituted comprising the following members in order to register the persons having qualifications and are desirous of becoming members of the Institute and to issue the Certificate of Membership and to elect the Council members as representative to the Council from amongst the members:-\r\n(a) President, Association of Chartered Accountants of Nepal -Chairman\r\n(b) Three persons nominated by His Majesty's Government from amongst the registered auditors registered as auditors pursuant to the Auditors' Act, 1974 -Member\r\n(c) A Gazetted First Class Officer designated by His Majesty's Government -Member-Secretary\r\n(2) The Ad-hoc Council, constituted pursuant to sub-section (1), shall hold an election of Council members from amongst the members within 6 months of the date of commencement of this Act.\r\n\r\n(3) The Ad-hoc Council, constituted pursuant to sub-section (1), may itself determine the procedures of its meeting and other modus operandi.\r\n\r\n(4) The Ad-hoc Council, constituted pursuant to sub-section (1), shall ipso facto be dissolved upon constitution of the Council pursuant to Section 7. After the Ad-hoc Council is so dissolved, all the business and acts performed by the Ad-hoc Council on behalf of the Council shall be deemed as if they were performed by the Council itself.\r\n---",
+          "chapterTitle": "Chapter 12 Miscellaneous"
+        },
+        "nepali": {
+          "title": "दफा ४२: तदर्थ परिषद्को गठन",
+          "content": "१) यस ऐनमा अन्यत्र जुनसुकै कुरा लेखिएको भए तापनि दफा ७ बमोजिम परिषद्‌को गठन नभएसम्म संस्थाको सदस्य हुन चाहने योग्यता पुगेको व्यक्तिको नाम दर्ता गरी सदस्यता दर्ताको प्रमाणपत्र दिने सम्बन्धमा यस ऐन बमोजिम परिषद्‌ले गर्ने कार्य गर्न र सदस्यहरुमध्येबाट परिष‌द्मा प्रतिनिधित्व गर्ने पार्षद्हरुको निर्वाचन गर्नको लागि देहायका सदस्यहरु रहेको एक तदर्थ परिषद्‌को गठन गरिनेछः-\r\n\r\n\r\n(क) अध्यक्ष, नेपाल चार्टर्ड एकाउन्टन्टस् एसोसिएशन – अध्यक्ष\r\n\r\n\r\n(ख) लेखापरीक्षक सम्बन्धी ऐन, २०३१ बमोजिम लेखापरीक्षकको रुपमा नाम दर्ता गराएका लेखापरीक्षकहरुमध्येबाट नेपाल सरकारले मनोनीत गरेका तीनजना – सदस्य\r\n\r\n\r\n(ग) नेपाल सरकारले तोकेको राजपत्रांकित प्रथम श्रेणीको अधिकृत – सदस्य-सचिव\r\n\r\n\r\n२) उपदफा (१) बमोजिम गठन भएको तदर्थ परिषद्ले यो ऐन प्रारम्भ भएको मितिले ६ महिनाभित्र सदस्यहरुमध्येबाट परिषद्‌मा प्रतिनिधित्व गर्ने पार्षद्हरुको निर्वाचन गरी सक्नु पर्नेछ ।\r\n\r\n\r\n३) उपदफा (१) बमोजिम गठन भएको तदर्थ परिषद्ले आफ्नो बैठक सम्बन्धी कार्यविधि र अन्य कार्य प्रणालीहरु आफैंले निर्धारण गर्न सक्नेछ ।\r\n\r\n\r\n४) दफा ७ बमोजिम परिषद्‌को गठन भएपछि उपदफा (१) बमोजिम गठन भएको तदर्थ परिषद् स्वतः विघटन हुनेछ । यसरी तदर्थ परिषद् विघटन भएपछि उक्त तदर्थ परिषद्‌ले परिषद्‌को तर्फबाट गरेको सम्पूर्ण काम कारबाही परिषद्‌ले नै गरे सरह मानिनेछ ।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद १२ विविध"
+        }
+      },
+      {
+        "id": "sec_43",
+        "english": {
+          "title": "Section 43: Protection in Favor of Acts Done in Good Faith",
+          "content": "No Council Member or Committee member or the Executive Director or any employee of the Institute shall personally be liable for any acts and actions done by him in good faith in consonance with this Act or the Regulations framed under this Act.\r\n---",
+          "chapterTitle": "Chapter 12 Miscellaneous"
+        },
+        "nepali": {
+          "title": "दफा ४३: असल नियतले गरेको काममा बचाउ",
+          "content": "परिषद् वा संस्थाको समितिको कुनै सदस्य वा सचिव वा संस्थाका कर्मचारीले असल नियतले यो ऐन वा यस ऐन अन्तर्गत बनेको नियम अनुरुप गरेको कुनै काम कारबाहीहरु प्रति निजहरु व्यक्तिगत रुपमा जिम्मेवार हुने छैनन्।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद १२ विविध"
+        }
+      },
+      {
+        "id": "sec_44",
+        "english": {
+          "title": "Section 44: Delegation of Authority",
+          "content": "(1) The Council may, as per necessity, delegate any or all of its authority pursuant to this Act to a Committee or the Executive Director.\r\n\r\n(2) Pursuant to this Act, any official may delegate, subject to his general supervision, any authority bestowed upon him to an officer level subordinate.\r\n---",
+          "chapterTitle": "Chapter 12 Miscellaneous"
+        },
+        "nepali": {
+          "title": "दफा ४४: अधिकार प्रत्यायोजन",
+          "content": "१) परिषद्‌ले यस ऐन बमोजिम आफूलाई प्राप्त अधिकारमध्ये सबै वा केही अधिकार आवश्यकतानुसार समिति वा कार्यकारी निर्देशकलाई प्रत्यायोजन गर्न सक्नेछ ।\r\n\r\n\r\n२) यस ऐन बमोजिम कुनै अधिकारीलाई प्राप्त अधिकारमध्ये केही अधिकार आफ्नो सामान्य रेखदेखमा रही प्रयोग गर्ने गरी निजले आफू मुनिका अधिकृत स्तरको कर्मचारीलाई प्रत्यायोजन गर्न सक्नेछ ।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद १२ विविध"
+        }
+      },
+      {
+        "id": "sec_45",
+        "english": {
+          "title": "Section 45: Authority to Issue Directives",
+          "content": "(1) His Majesty's Government may issue directives, as per necessity, to the Council on the businesses and actions of the Institute.\r\n\r\n(2) The Auditor General may issue directives to the Council in regards to the development, protection and promotion of accounting profession.\r\n\r\n(3) It shall be the duty of the Council to execute the directives issued by His Majesty's Government or the Auditor General pursuant to sub-section (1) or (2).\r\n---",
+          "chapterTitle": "Chapter 12 Miscellaneous"
+        },
+        "nepali": {
+          "title": "दफा ४५: निर्देशन दिन सक्ने",
+          "content": "१) नेपाल सरकारले संस्थाको काम कारबाहीका सम्बन्धमा परिषद्‌लाई आवश्यक निर्देशन दिन सक्नेछ ।\r\n\r\n\r\n२) महालेखा परीक्षकले लेखा व्यवसायको विकास, संरक्षण र सम्वर्द्धन गर्ने सम्बन्धमा परिषद्लाई आवश्यक निर्देशन दिन सक्नेछ ।\r\n\r\n\r\n३) उपदफा (१) वा (२) बमोजिम नेपाल सरकार वा महालेखा परीक्षकले दिएको निर्देशनको पालना गर्नु परिषद्‌को कर्तव्य हुनेछ ।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद १२ विविध"
+        }
+      },
+      {
+        "id": "sec_46",
+        "english": {
+          "title": "Section 46: Contact With His Majesty's Government",
+          "content": "The Institute shall, through the Ministry of Finance, make contact with His Majesty's Government,\r\n---",
+          "chapterTitle": "Chapter 12 Miscellaneous"
+        },
+        "nepali": {
+          "title": "दफा ४६: नेपाल सरकारसँग सम्पर्क",
+          "content": "संस्थाले नेपाल सरकारसँग सम्पर्क राख्दा अर्थ मन्त्रालय मार्फत राख्नु पर्नेछ ।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद १२ विविध"
+        }
+      },
+      {
+        "id": "sec_47",
+        "english": {
+          "title": "Section 47: Authority to Frame Regulations and Byelaws",
+          "content": "(1) The Council may, for the purpose of achieving the objective of this Act, frame necessary Regulations.\r\n\r\n(2) Notwithstanding anything contained in sub-section (1), in the circumstance where the Council is not constituted pursuant to Section 7, the Ad-hoc Council, constituted pursuant to Section 42, may make necessary Regulations for the purpose of issuing Certificates of Membership and election of the Council members.\r\n\r\n(3) The Regulations framed pursuant to sub-sections (1) and (2) shall come into force on the approval of His Majesty's Government.\r\n\r\n(4) The Regulations framed by the Ad-hoc Council pursuant to sub-section (2) shall, ipso facto, be ineffective once the Regulations framed by the Council pursuant to sub-section (1) comes into force.\r\n---",
+          "chapterTitle": "Chapter 12 Miscellaneous"
+        },
+        "nepali": {
+          "title": "दफा ४७: नियम बनाउने अधिकार",
+          "content": "१) यो ऐनको उद्देश्य कार्यान्वयन गर्नको लागि परिषद्ले आवश्यक नियमहरु बनाउन सक्नेछ ।\r\n\r\n\r\n२) उपदफा (१) मा जुनसुकै कुरा लेखिएको भए तापनि दफा ७ बमोजिम परिषद् गठन नभएको अवस्थामा संस्थाको सदस्यता दर्ताको प्रमाणपत्र दिने र पार्षदहरुको निर्वाचन गर्ने प्रयोजनको निमित्त दफा ४२ बमोजिम गठन भएको तदर्थ परिषद्‌ले आवश्यक नियमहरु बनाउन सक्नेछ ।\r\n\r\n\r\n३) उपदफा (१) र (२) बमोजिम बनेका नियमहरु नेपाल सरकारबाट स्वीकृत्त भएपछि मात्र लागू हुनेछन् ।\r\n\r\n\r\n४) उपदफा (१) बमोजिम परिषद्ले बनाएका नियमहरु लागू भएपछि उपदफा (२) बमोजिम तदर्थ परिषद्‌ले बनाएका नियमहरु स्वतः निष्क्रिय हुनेछन् ।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद १२ विविध"
+        }
+      },
+      {
+        "id": "sec_48",
+        "english": {
+          "title": "Section 48: Authority to formulate Bye-laws",
+          "content": "The Council may, with the approval of His Majesty's Government, draw up bye-laws, subject to this Act and the Regulations framed under this Act, for the operation of day-to-day business of the Institute.\r\n---",
+          "chapterTitle": "Chapter 12 Miscellaneous"
+        },
+        "nepali": {
+          "title": "दफा ४८: विनियम बनाउने अधिकार",
+          "content": "परिषद्ले संस्थाको दैनिक कार्य सञ्चालनको लागि यो ऐन र यस ऐन अन्तर्गत बनेको नियमको अधीनमा रही विनियमहरु बनाउन सक्नेछ ।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद १२ विविध"
+        }
+      },
+      {
+        "id": "sec_49",
+        "english": {
+          "title": "Section 49: Repeal and Protection",
+          "content": "(1) The Auditors' Act, 1974 is hereby repealed.\r\n\r\n(2) In case, an auditor recognised by the Office of the Auditor General is recognised by any prevailing law as an auditor for the purpose of that law, such recognised auditor shall, after the commencement of this Act, be deemed as the member holding Certificate of Practice referred to in this Act.\r\n---",
+          "chapterTitle": "Chapter 12 Miscellaneous"
+        },
+        "nepali": {
+          "title": "दफा ४९: खारेजी र बचाउ",
+          "content": "१) लेखापरीक्षक सम्बन्धी ऐन, २०३१ खारेज गरिएको छ ।\r\n\r\n\r\n२) कुनै प्रचलित कानूनमा महालेखापरीक्षकको विभागबाट मान्यता प्राप्त लेखापरीक्षकलाई सो कानूनको प्रयोजनको निमित्त मान्यता प्राप्त लेखापरीक्षकको रुपमा मान्यता दिइएको भए यो ऐन प्रारम्भ भएपछि त्यस्ता मान्यता प्राप्त लेखापरीक्षक भन्नाले यस ऐन बमोजिमको पेशागत प्रमाणपत्र प्राप्त सदस्यलाई जनाएको मानिनेछ ।\r\n\r\n\r\n\r\nद्रष्टव्यः (१) नेपाल चार्टर्ड एकाउन्टेन्टस् (पहिलो संशोधन) ऐन, २०५९ द्वारा रुपान्तर भएका\r\n\r\n\r\nशब्दहरु:-\r\n\r\n\r\n(क) “सचिव” को सट्टा “कार्यकारी निर्देशक”।\r\n\r\n\r\n(ख) “वरिष्ठ चार्टर्ड एकाउन्टेन्ट” को सट्टा “फेलो चार्टर्ड एकाउन्टेन्ट”।\r\n\r\n\r\n(ग) “लेखा व्यवसाय प्रमाणपत्र” “लेखा व्यवसायी प्रमाणपत्र” र “लेखा व्यवसायीको प्रमाणपत्र” को सट्टा “पेशागत प्रमाणपत्र”।\r\n\r\n\r\n(२) केही नेपाल कानून संशोधन गर्ने ऐन, २०६३ द्वारा रुपान्तर गरिएका शब्दहरुः-\r\n\r\n\r\n“श्री ५ को सरकार” को सट्टा “नेपाल सरकार”।\r\n\r\n\r\n(३) न्याय प्रशासन ऐन, २०७३ द्वारा रुपान्तर गरिएका शब्दहरुः-\r\n\r\n\r\n“पुनरावेदन अदालत” को सट्टा “उच्च अदालत”।\r\n\r\n\r\n(मिति २०७९।९।०७ गते अद्यावधिक गरेको।\r\n\r\n---\r\n\r\n\r\n---",
+          "chapterTitle": "परिच्छेद १२ विविध"
+        }
+      }
+    ]
+  }
+]

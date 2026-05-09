@@ -1,0 +1,284 @@
+[
+  {
+    "id": "international_financial_act_2054",
+    "actName": "INTERNATIONAL FINANCIAL",
+    "year": "2054",
+    "sections": [
+      {
+        "id": "preamble",
+        "english": {
+          "title": "Preamble",
+          "content": "Date of Authentication and publication\r\n\r\n\r\n15 Magh 2054\r\n\r\n\r\nAn Act made to provide for International Financial Transactions\r\n\r\n\r\nPreamble: Whereas it is expedient to develop Nepal as a centre for international financial transactions to foster the economic development of the nation in the context of open, liberal and market-oriented economic policies pursued by the country and the globalisation of international financial markets and\r\n\r\n\r\nWhereas it is expedient to regulate and manage the financial activities of international financial entities in Nepal,\r\n\r\n\r\nParliament enacted it in the Sixth year of the reign of His Majesty’s King Birendra Bir Bikram Shah Dev.\r\n\r\n\r\n---"
+        },
+        "nepali": {
+          "title": "प्रस्तावना",
+          "content": "लालमोहर र प्रकाशन मिति\r\n२०५४।१०।१५\r\n\r\n\r\nसंशोधन गर्ने ऐन                         प्रमाणीकरण र  प्रकाशन मिति               \r\n\r\n\r\n१. गणतन्त्र सुदृढीकरण तथा केही नेपाल कानुन   २०६६।१०।७           \r\nसंशोधन गर्ने ऐन, २०६६                                             \r\n\r\n\r\n२. नेपालको संविधान अनुकूल बनाउन केही नेपाल ऐनलाई   २०७५।११।१९\r\nसंशोधन गर्ने ऐन, २०७५\r\n\r\n\r\n२०५४ सालको ऐन नं. २१\r\n\r\n\r\nअन्तर्राष्ट्रिय वित्तीय कारोबार सम्बन्धी व्यवस्था गर्न बनेको ऐन\r\n\r\n\r\nप्रस्तावना: मुलुकले अपनाएको खुला, उदार र बजारमुखी अर्थतन्त्रको नीति तथा अन्तर्राष्ट्रिय वित्तीय बजारको विश्वव्यापीकरणको परिप्रेक्षमा राष्ट्रको आर्थिक विकास गर्न, नेपाललाई एक अन्तर्राष्ट्रिय वित्तीय कारोबार केन्द्रको रूपमा विकसित गर्न तथा नेपालमा अन्तर्राष्ट्रिय वित्तीय संस्थाहरूको वित्तीय क्रियाकलापहरूलाई नियमित र व्यवस्थित गर्न वाञ्छनीय भएकोले,\r\n\r\n\r\nश्री ५ महाराजाधिराज वीरेन्द्र वीर विक्रम शाहदेवको शासनकालको छब्बीसौं वर्षमा संसदले यो ऐन बनाएको छ ।\r\n\r\n\r\n---"
+        }
+      },
+      {
+        "id": "sec_1",
+        "english": {
+          "title": "Section 1: Short Title and Commencement",
+          "content": "(1) This Act may be called “International Financial Transactions Act, 2054”.\r\n\r\n\r\n(2) It shall come into force on such date as the Government of Nepal may, by notification published in the Nepal Gazette, appoint.\r\n\r\n\r\n---"
+        },
+        "nepali": {
+          "title": "दफा १ः संक्षिप्त नाम र प्रारम्भ",
+          "content": "१) यस ऐनको नाम “अन्तर्राष्ट्रिय वित्तीय कारोबार ऐन, २०५४” रहेको छ।\r\n\r\n\r\n२) यो ऐन नेपाल सरकारले नेपाल राजपत्रमा सूचना प्रकाशन गरी तोकेको मितिदेखि प्रारम्भ हुनेछ।\r\n\r\n\r\n---"
+        }
+      },
+      {
+        "id": "sec_2",
+        "english": {
+          "title": "Section 2: Definition",
+          "content": "In this Act, unless the subject or context otherwise requires:\r\n\r\n\r\n(a) “International Financial Transaction” means any financial transaction carried out by any license holder entity under this Act.\r\n\r\n\r\n(b) “International Financial Entity” means any financial entity as referred to in Section 4.\r\n\r\n\r\n(c) “Promotion Board” means the International Financial Transactions Promotion Board constituted under Section 9.\r\n\r\n\r\n(d) “License” means a license granted under Section 14 to carry out international financial transactions in accordance with this Act.\r\n\r\n\r\n(e) “License holder Entity” means an international financial entity authorised to carry out international financial transactions under this Act.\r\n\r\n\r\n(f) “Accreditation Committee” means the International Financial Transactions Accreditation Committee constituted under Section 11.\r\n\r\n\r\n(g) “Person Resident of Nepal” means any of the following persons:-\r\n\r\n\r\n(1) Nepalese Citizens other than those residing outside Nepal for more than the prescribed period for the purpose of being engaged in any employment, doing any business or carrying out any other occupation, or for any other purpose,\r\n\r\n\r\n(2) Non-Nepalese citizens residing in Nepal for more than the prescribed period for the purpose of being engaged in any employment, doing any business or carrying out any other\r\noccupation,\r\n\r\n\r\n(3) Any entity which has been registered in Nepal under the existing laws.\r\n\r\n\r\n(h) “Prescribed” or “as prescribed” means prescribed or as prescribed in carrying out rules made under this Act.\r\n\r\n\r\n---"
+        },
+        "nepali": {
+          "title": "दफा २ः परिभाषा",
+          "content": "विषय वा प्रसंङ्गले अर्को अर्थ नलागेमा यस ऐनमा,-\r\n\r\n\r\n(क) “अन्तर्राष्ट्रिय वित्तीय कारोबार” भन्नाले अनुमतिपत्र प्राप्त संस्थाले यस ऐन बमोजिम सञ्चालन गर्ने कुनै वित्तीय कारोवार सम्झनु पर्छ ।\r\n\r\n\r\n(ख) “अन्तर्राष्ट्रिय वित्तीय संस्था” भन्नाले दफा ४ बमोजिमको वित्तीय संस्था सम्झनु पर्छ ।\r\n\r\n\r\n(ग)  “प्रवर्दन समिति” भन्नाले दफा ९ बमोजिम गठन भएको अन्तर्राष्ट्रिय वित्तीय कारोबार प्रवर्द्धन समिति सम्झनु पर्छ ।\r\n\r\n\r\n(घ) “अनुमतिपत्र” भन्नाले यस ऐन बमोजिम अन्तर्राष्ट्रिय वित्तीय कारोबार गर्नको लागि दफा १४ बमोजिम दिईएको अनुमतिपत्र सम्झनु पर्छ ।\r\n\r\n\r\n(ङ) “अनुमतिपत्र प्राप्त संस्था” भन्नाले यस ऐन बमोजिम अन्तर्राष्ट्रिय वित्तीय कारोबार गर्न अनुमतिपत्र प्राप्त अन्तर्राष्ट्रिय वित्तीय संस्था सम्झनु पर्छ ।\r\n\r\n\r\n(च)  “कार्यान्वय समिति” भन्नाले दफा ११ बमोजिम गठन भएको अन्तर्राष्ट्रिय वित्तीय कारोबार कार्यान्वयन समिति सम्झनु पर्छ ।\r\n\r\n\r\n(छ)  “नेपालमा वसोवास गर्ने व्यक्ति” भन्नाले देहायको कुनै व्यक्ति सम्झनु पर्छ:-\r\n\r\n\r\n(१) नोकरी, व्यापार वा अन्य कुनै व्यवसाय गरी वा अन्य कुनै कामले तोकिएकोभन्दा बढी अवधिको लागि नेपाल  1………. बाहिर बसोबास गरिरहेका नेपाली नागरिक बाहेक अरु नेपाली नागरिक,\r\n\r\n\r\n(२) नोकरी व्यापार वा अन्य कुनै व्यवसाय गरी तोकिएकोभन्दा बढी अवधिको लागि नेपालमा वसोवास गरिरहेका गैर नेपाली नागरिक,\r\n\r\n\r\n(३) प्रचलित कानुनबमोजिम नेपालमा दर्ता भएको कुनै संस्था ।\r\n\r\n\r\n(ज) “तोकिएको” वा “तोकिए बमोजिम” भन्नाले यस ऐन अन्तर्गत बनेको नियममा तोकिएको वा तोकिएबमोजिम सम्झनु पर्छ ।\r\n\r\n\r\n1गणतन्त्र सुदृढीकरण तथा केही नेपाल कानून संशोधन गर्ने ऐन, २०६६ द्वारा झिकिएको ।\r\n\r\n\r\n---"
+        }
+      },
+      {
+        "id": "sec_3",
+        "english": {
+          "title": "Section 3: License to be obtained",
+          "content": "An international financial entity interested in carrying out international financial transactions shall be required to obtain a license therefore from the Accreditation Committee pursuant to Section 14.\r\n\r\n\r\n---"
+        },
+        "nepali": {
+          "title": "दफा ३ः अनुमति लिनु पर्ने",
+          "content": "अन्तर्राष्ट्रिय वित्तीय कारोबार गर्न चाहने अन्तर्राष्ट्रिय वित्तीय संस्थाले दफा १४ बमोजिम कार्यान्वयन समितिबाट अनुमति लिनु पर्नेछ।\r\n\r\n\r\n---"
+        }
+      },
+      {
+        "id": "sec_4",
+        "english": {
+          "title": "Section 4: Financial Entities that may be authorised to obtain License",
+          "content": "(1) Only the following financial entities may be authorised to obtain licenses to carry out international financial transactions under this Act:\r\n\r\n\r\n(a) Foreign bank and trust companies,\r\n\r\n\r\n(b) International insurance and reinsurance companies,\r\n\r\n\r\n(c) Companies serving as the registered offices for foreign companies,\r\n\r\n\r\n(d) International holding and investment companies,\r\n\r\n\r\n(e) Administrative or regional offices established by foreign companies,\r\n\r\n\r\n(f) International trading companies,\r\n\r\n\r\n(g) International finance companies,\r\n\r\n\r\n(h) Foreign real estate holding companies,\r\n\r\n\r\n(i) Foreign Patent and royalty companies,\r\n\r\n\r\n(j) Foreign mutual funds,\r\n\r\n\r\n(k) International leasing companies,\r\n\r\n\r\n(l) International merchant banks,\r\n\r\n\r\n(m) Entities such as foreign partnerships and trusts established as body corporate,\r\n\r\n\r\n(n) International sales transaction companies,\r\n\r\n\r\n(o) Foreign entities to allow non-resident pensions or deferred bonus plans,\r\n\r\n\r\n(p) International financial companies providing services like stock broker, underwriter, investment advisor, pension fund advisor.\r\n\r\n\r\n2) Notwithstanding anything contained in sub-section (1), in order to obtain a license under this Act, a financial entity should have been registered duly in any country outside the Nepal and engaged in international financial transactions at least for a period of three years.\r\n\r\n\r\n3) Government of Nepal may, on the recommendation of the Promotion Board, and by notification published in the Nepal Gazette, make alterations, additions or deletion to the list of financial entities as referred to in sub-section (1).\r\n\r\n\r\n---"
+        },
+        "nepali": {
+          "title": "दफा ४ः अनुमतिपत्र पाउन सक्ने वित्तीय संस्थाहरू",
+          "content": "(१) देहायका वित्तीय संस्थाहरूले मात्र यस ऐन बमोजिम अन्तर्राष्ट्रिय वित्तीय कारोबार गर्नको लागि अनुमतिपत्र पाउन सक्नेछन्‌:-\r\n\r\n\r\n(क) विदेशी बैङ्क र ट्रस्ट कम्पनी,\r\n\r\n\r\n(ख) अन्तर्राष्ट्रिय बिमा र पुनर्बिमा कम्पनी,\r\n\r\n\r\n(ग) बिदेशी कम्पनीहरूको अधिकृत कार्यालयको रूपमा कार्य गर्ने कम्पनी,\r\n\r\n\r\n(घ) बिदेशी होल्डिङ्ग लगानी कम्पनी,\r\n\r\n\r\n(ङ) विदेशी वित्तीय कम्पनीले स्थापना गरेका प्रशासकीय वा क्षेत्रीय कार्यालय,\r\n\r\n\r\n(च) अन्तर्राष्ट्रिय व्यापारिक कम्पनी,\r\n\r\n\r\n(छ) अन्तर्राष्ट्रिय वित्तीय कम्पनी,\r\n\r\n\r\n(ज) विदेशी रियल स्टेट होल्डिङ्ग कम्पनी,\r\n\r\n\r\n(झ) विदेशी पेटेण्ट र रोयल्टी कम्पनी\r\n\r\n\r\n(ञ) विदेशी म्यूचुअल फण्ड,\r\n\r\n\r\n(ट) अन्तर्राष्ट्रिय लिजिङ्ग कम्पनी,\r\n\r\n\r\n(ठ) अन्तर्राष्ट्रिय मर्चेन्ट बैङ्क\r\n\r\n\r\n(ड) संगठित संस्थाको रूपमा संस्थापना भएका विदेशी साझेदारी र ट्रष्ट जस्ता निकायहरू,\r\n\r\n\r\n(ढ) अन्तराष्ट्रिय बिक्री कारोवार गर्ने कम्पनी,\r\n\r\n\r\n(ण) गैर आवासीय पेन्सन र डेफर्ड बोनस योजना सञ्चालन गर्न अनुमति दिईएको विदेशी निकाय,\r\n\r\n\r\n(त) घितोपत्र दलाल, अण्डराइटर, लगानी सल्लाहकार, पेन्सन फण्ड सल्लाहकार जस्ता वित्तीय सेवाहरू प्रदान गर्ने अन्तर्राष्ट्रिय वित्तीय कम्पनीहरू।\r\n\r\n\r\n२) उपदफा (१) मा जुनसुकै कुरा लेखिएको भए तापनि यस ऐन बमोजिम अनुमतिपत्र पाउनको लागि त्यस्तो वित्तीय संस्था नेपाल 1………. वाहिर कुनै मुलुकमा कानुनबमोजिम दर्ता भएको र कम्तीमा तीन वर्षसम्म अन्तर्राष्ट्रिय वित्तीय कारोबारमा संलग्न भएको हुनु पर्नेछ।\r\n\r\n\r\n३) नेपाल सरकारले प्रवर्द्धन समितिको सिफारिसमा नेपाल राजपत्रमा सूचना प्रकाशन गरी उपदफा (१) मा उल्लेखित वित्तीय संस्थाहरूमा आवश्यकता अनुसार हेरफेर वा थपघट गर्न सक्नेछ।\r\n\r\n\r\n1 गणतन्त्र सुदृढीकरण तथा केही नेपाल कानून संशोधन गर्ने ऐन, २०६६ द्वारा झिकिएको।\r\n\r\n\r\n---"
+        }
+      },
+      {
+        "id": "sec_5",
+        "english": {
+          "title": "Section 5: Acts not to be done by International Financial Entities",
+          "content": "International financial entities shall not be allowed to do the following acts:\r\n\r\n\r\n(a) To purchase any kind of immovable property within Nepal or to keep in their name otherwise,\r\n\r\n\r\n(b) To carry out any type of international financial transaction with any person resident of Nepal,\r\n\r\n\r\n(c) To purchase shares or debentures of any company incorporated in Nepal under the existing laws,\r\n\r\n\r\n(d) To open an account in any commercial bank in Nepal:\r\n\r\n\r\nProvided that an account may be opened in any commercial bank with the permission of the Accreditation Committee for the purpose of running the day-to-day administrative business of the office up to such amount as may be fixed by the Accreditation Committee.\r\n\r\n\r\n---"
+        },
+        "nepali": {
+          "title": "दफा ५ः अन्तर्राष्ट्रिय वित्तीय संस्थाले गर्न नहुने काम",
+          "content": "अन्तर्राष्ट्रिय वित्तीय संस्थाले देहायका कामहरू गर्न पाउने छैन:-\r\n\r\n\r\n(क) नेपाल 1……….. भित्र कुनै पनि किसिमको अचल सम्पत्ति खरिद गर्न वा अन्य कुनै किसिमबाट आफ्नो नाममा राख्न,\r\n\r\n\r\n(ख) नेपालमा बसोबास गर्ने व्यक्तिसित कुनै पनि किसिमको अन्तर्राष्ट्रिय वित्तीय कारोबार गर्न,\r\n\r\n\r\n(ग) प्रचलित कानुनबमोजिम नेपाल मा संस्थापित कुनै कम्पनीको शेयर वा डिवेन्चर खरिद गर्न,\r\n\r\n\r\n(घ) नेपाल 1………. स्थित बाणिज्य बैङ्कमा खाता खोल्न।\r\n\r\n\r\nतर कार्यान्वयन समितिको स्वीकृति लिई आफ्नो दैनिक कार्यालय प्रशासन सम्बन्धी काम गर्नको निमित्त कुनै वाणिज्य बैङ्कमा कार्यान्वयन समितिले तोकिदिएको रकमको हदसम्म खाता खोल्न सक्नेछ।\r\n\r\n\r\n1 गणतन्त्र सुदृढीकरण तथा केही नेपाल कानून संशोधन गर्ने ऐन, २०६६ द्वारा झिकिएको।\r\n\r\n\r\n---"
+        }
+      },
+      {
+        "id": "sec_6",
+        "english": {
+          "title": "Section 6: No restrictions on brining in Foreign Currencies",
+          "content": "1) No restriction of any kind shall be imposed on a license-holder entity to bring in foreign currencies as may be required for international financial transactions.\r\n\r\n\r\n2) No restriction of any kind imposed by the existing laws relating to foreign exchange shall apply in relation to a license-holder entity.\r\n\r\n\r\n---"
+        },
+        "nepali": {
+          "title": "दफा ६ः विदेशी मुद्रा ल्याउनमा बन्देज नलगाइने",
+          "content": "१) अनुमतिपत्र प्राप्त संस्थालाई अन्तर्राष्ट्रिय वित्तीय कारोबारको लागि आवश्यक पर्ने विदेशी मुद्रा ल्याउनमा कुनै पनि किसिमको बन्देज लगाइने छैन।\r\n\r\n\r\n२) अनुमतिपत्र प्राप्त संस्थाको हकमा विदेशी विनिमय सम्बन्धी प्रचलित कानुनले कनै छैन लगाएको कुने बन्देज लागू हुने छैन।\r\n\r\n\r\n---"
+        }
+      },
+      {
+        "id": "sec_7",
+        "english": {
+          "title": "Section 7: Fund to be allowed repatriation",
+          "content": "A license holder entity may repatriate outside Nepal the foreign currencies earned by it by carrying out international financial transactions and the foreign currencies brought in by such entity for the purpose of carrying out international financial transactions.\r\n\r\n\r\nProvided that no property or capital accrued from any illicit or illegal act shall be allowed to be repatriated.\r\n\r\n\r\n---"
+        },
+        "nepali": {
+          "title": "दफा ७ः रकम फिर्ता लैजान पाउने",
+          "content": "अनुमतिपत्र प्राप्त संस्थाले अन्तर्राष्ट्रिय वित्तीय कारोबार गरी आर्जन गरेको विदेशी मुद्रा र त्यस्तो संस्थाले अन्तर्राष्ट्रिय वित्तीय कारोबारको लागि ल्याएको विदेशी मुद्रा नेपाल 1………. बाहिर फिर्ता लैजान पाउनेछ।\r\n\r\n\r\nतर अवैध तथा गैरकानुनी ठहर हुने कुनै काम गरे बापत आर्जित सम्पत्ति वा पूँजी फिर्ता लैजान पाउने छैन।\r\n\r\n\r\n1 गणतन्त्र सुदृढीकरण तथा केही नेपाल कानून संशोधन गर्ने ऐन, २०६६ द्वारा झिकिएको।\r\n\r\n\r\n---"
+        }
+      },
+      {
+        "id": "sec_8",
+        "english": {
+          "title": "Section 8: Nationalisation not to be done",
+          "content": "The capital or the property of any entity shall not be subjected to nationalisation.\r\n\r\n\r\n---"
+        },
+        "nepali": {
+          "title": "दफा ८ः राष्ट्रियकरण नहुने",
+          "content": "अनुमतिपत्र प्राप्त संस्थाको पूँजी वा सम्पत्तिको राष्ट्रियकरण गरिने छैन।\r\n\r\n\r\n---"
+        }
+      },
+      {
+        "id": "sec_9",
+        "english": {
+          "title": "Section 9: Formation of Promotion Board",
+          "content": "1) An International Financial Transactions Promotion Board consisting of the following members shall be formed to promote international financial activities and develop Nepal as a centre for international financial transactions:\r\n\r\n\r\n\r\n\r\n\r\n(a)\r\nMinister of State Ministery of Finance\r\nChairperson\r\n\r\n\r\n(b)\r\nChairperson, Finance Committee, the House of Representatives\r\nMember\r\n\r\n\r\n(c)\r\nVice-Chairperson, National Planning Commission\r\nMember\r\n\r\n\r\n(d)\r\nGovernor, Nepal Rastra Bank\r\nMember\r\n\r\n\r\n(e)\r\nSecretary, Ministry of Finance\r\nMember\r\n\r\n\r\n(f)\r\nSecretary, Ministry of Law and Justice\r\nMember\r\n\r\n\r\n(g)\r\nA person nominated by Government of Nepal from among persons having experience in financial transactions\r\nMember\r\n\r\n\r\n\r\n2) The Promotion Board may invite national or foreign experts or advisors involved in international financial transactions to participate in its meeting as observers.\r\n\r\n\r\n3) The tenure of office of the member nominated under Clause (g) of sub-section (1) shall be two years.\r\n\r\n\r\n4) An officer-level employee of Nepal Rastra Bank designated by the Promotion Board, with the consent of the Nepal Rastra Bank, shall act as the Secretary of the Promotion Board.\r\n\r\n\r\n5) The working procedures of the meetings of the Promotion Board shall be as prescribed.\r\n\r\n\r\n6) The members of the Promotion Board shall be entitled to receive such allowances and benefits as may be prescribed.\r\n\r\n\r\n---"
+        },
+        "nepali": {
+          "title": "दफा ९ः प्रवर्द्धन समितिको गठन",
+          "content": "१) अन्तर्राष्ट्रिय वित्तीय कारोबारलाई प्रवर्द्धन गरी नेपाललाई एक अन्तर्राष्ट्रिय वित्तीय कारोवार केन्द्रको रूपमा विकास गर्नको लागि देहायका सदस्यहरू रहेको एक अन्तर्राष्ट्रिय वित्तीय कारोबार प्रवर्द्धन समितिको गठन हुनेछ:-\r\n\r\n\r\n\r\n\r\n\r\n(क)\r\nअर्थ मन्त्री वा अर्थ राज्यमन्त्री\r\nअध्यक्ष\r\n\r\n\r\n(ख)\r\n1…………\r\n………\r\n\r\n\r\n(ग)\r\nउपाध्यक्ष, राष्ट्रिय योजना आयोग\r\nसदस्य\r\n\r\n\r\n(घ)\r\nगभर्नर, नेपाल राष्ट्र बैङ्क\r\nसदस्य\r\n\r\n\r\n(ङ)\r\nसचिव, अर्थ मन्त्रालय\r\nसदस्य\r\n\r\n\r\n(च)\r\nसचिव, 2कानून, न्याय तथा संसदीय मामिला मन्त्रालय\r\nसदस्य\r\n\r\n\r\n(छ)\r\nवित्तीय कारोबारमा अनुभव हासिल गरेका व्यक्तिहरूमध्येबाट नेपाल सरकारले मनोनीत गरेको एक जना\r\nसदस्य\r\n\r\n\r\n\r\n२) प्रवर्धन समितिले अन्तर्राष्ट्रिय वित्तीय कारोबारमा संलग्न स्वदेशी वा विदेशी विशेषज्ञ वा सल्लाहकारलाई प्रवर्द्धन समितिको बैठकमा पर्यवेक्षकको रूपमा भाग लिन आमन्त्रण गर्न सक्नेछ।\r\n\r\n\r\n३) उपदफा (१) को खण्ड (छ) बमोजिम मनोनीत सदस्यको पदावधि दुई वर्षको हुनेछ।\r\n\r\n\r\n४) प्रवर्डन समितिले नेपाल राष्ट्र बैङ्कको सहमति लिई तोकिदिएको उक्त बैड्को कुनै अधिकृत कर्मचारीले प्रवर्द्धन समितिको सचिव भई काम गर्नेछ।\r\n\r\n\r\n५) प्रवर्द्धन समितिको बैंठक सम्बन्धी कार्यविधि तोकिएवमोजिम हुनेछ।\r\n\r\n\r\n६) प्रवर्दन समितिका सदस्यहरूले तोकिएबमोजिमको भत्ता तथा सुविधा पाउने छन्‌।\r\n\r\n\r\n1 गणतन्त्र सुदृढीकरण तथा केही नेपाल कानून संशोधन गर्ने ऐन, २०६६ द्वारा झिकिएको।\r\n\r\n\r\n2 नेपालको संविधान अनुकूल बनाउन केही नेपाल ऐनलाई संशोधन गर्ने ऐन, २०७५ द्धारा संशोधित।\r\n\r\n\r\n---"
+        }
+      },
+      {
+        "id": "sec_10",
+        "english": {
+          "title": "Section 10: Functions, Duties and Powers of Promotion Board",
+          "content": "The Promotion Board shall have the following functions, duties and powers :\r\n\r\n\r\n(a) To frame necessary policies for the promotion of international financial transactions,\r\n\r\n\r\n(b) To cooperate with the Government of Nepal in the formulation of necessary laws so as to promote international financial transactions,\r\n\r\n\r\n(c) To maintain or cause to be maintained coordination among the concerned governmental, non-governmental and international entities in matters of international financial transactions,\r\n\r\n\r\n(d) To make necessary recommendations to Government of Nepal in respect of exemptions, facilities and concessions to be accorded to international financial entities for the purpose of establishing Nepal as an attractive centre for international financial transactions,\r\n\r\n\r\n(e) To hear appeals filed by any international financial entity against the suspension or revocation of its license by the Accreditation Committee,\r\n\r\n\r\n(f) To perform such other functions as may be deemed necessary for promoting international financial transactions.\r\n\r\n\r\n---"
+        },
+        "nepali": {
+          "title": "दफा १०ः प्रवर्द्धन समितिको काम, कर्तव्य र अधिकार",
+          "content": "प्रवर्द्धन समितिको काम, कर्तव्य र अधिकार देहायबमोजिम हुनेछ:-\r\n\r\n\r\n(क) अन्तर्राष्ट्रिय वित्तीय कारोबार प्रवर्द्धन गर्नको लागि आवश्यक नीति निर्धारण गर्ने,\r\n\r\n\r\n(ख) अन्तर्राष्ट्रिय वित्तीय कारोबारको प्रवर्दन गर्नको लागि आवश्यक कानुनको तर्जुमा गर्न नेपाल सरकारलाई सहयोग पुन्याउने,\r\n\r\n\r\n(ग) अन्तर्राष्ट्रिय बित्तीय कारोबारलाई प्रवर्द्धन गर्ने सम्बन्धित सरकारी, गैरसरकारी तथा अन्तर्राष्ट्रिय निकायहरू बीच समन्वय कायम गर्ने, गराउने,\r\n\r\n\r\n(घ) नेपाललाई एक आकर्षक अन्तर्राष्ट्रिय वित्तीय कारोवार केन्द्रको रूपमा स्थापित गर्न अन्तर्राष्ट्रिय वित्तीय संस्थाहरूलाई प्रदान गर्नु पर्ने छुट, सुविधा तथा सहुलियतहरूका सम्बन्धमा नेपाल सरकारलाई आवश्यक सुझाव दिने,\r\n\r\n\r\n(ङ) कार्यान्वयन समितिले कुनै अन्तर्राष्ट्रिय वित्तीय संस्थाको अनुमतिपत्र निलम्वन वा खारेज गरेकोमा सो संस्थाले दिएको पुनरावेदन सुन्ने,\r\n\r\n\r\n(च) अन्तर्राष्ट्रिय वित्तीय कारोबारलाई प्रवर्द्धन गर्न आवश्यक सम्झेको अन्य कार्य गर्ने।\r\n\r\n\r\n---"
+        }
+      },
+      {
+        "id": "sec_11",
+        "english": {
+          "title": "Section 11: Formation of Accreditation Committee",
+          "content": "(1) An International Financial Transactions Accreditation Committee consists of the following members shall be formed for the purpose of granting licenses to international financial entities to carry out international financial transactions and for the purpose of regulating financial transactions to be carried out by such entities:\r\n\r\n\r\n\r\n\r\n\r\n(a)\r\nGovernor, Nepal Rastra Bank\r\nChairperson\r\n\r\n\r\n(b)\r\nSecretary, Ministry of Finance\r\nMember\r\n\r\n\r\n(c)\r\nSecretary, Ministry of Law and Justice\r\nMember\r\n\r\n\r\n(d)\r\nOne person nominated by Government of Nepal from among Chartered Accountants\r\nMember\r\n\r\n\r\n(e)\r\nOne person nominated by Government of Nepal from among Economists\r\nMember\r\n\r\n\r\n\r\n(2) The Accreditation committee may invite national or foreign experts or advisors involved in international financial transactions to participate in its meetings as observers.\r\n\r\n\r\n(3) The tenure of office of the members nominated under Clauses (d) and (e) of Sub-section (1) shall be two years.\r\n\r\n\r\n(4) An officer-level employee of Nepal Rastra Bank as designated by the Accreditation Committee with the consent of the Nepal Rastra Bank shall act as Secretary of the Accreditation Committee.\r\n\r\n\r\n(5) The office of the Accreditation Committee shall be located at the Nepal Rastra Bank.\r\n\r\n\r\n(6) The working procedures of the meetings of the Accreditation Committee shall be as prescribed.\r\n\r\n\r\n(7) The members of the Accreditation Committee shall be entitled to receive such allowances and benefits as may be prescribed.\r\n\r\n\r\n---"
+        },
+        "nepali": {
+          "title": "दफा ११ः कार्यान्वयन समितिको गठन",
+          "content": "(१) अन्तर्राष्ट्रिय वित्तीय संस्थालाई अन्तर्राष्ट्रिय वित्तीय कारोबार गर्नको निमित्त अनुमतिपत्र प्रदान गर्न तथा त्यस्ता संस्थाले सञ्चालन गर्ने वित्तीय कारोबारलाई व्यवस्थित गर्नको लागि देहायका सदस्यहरू रहेको एक अन्तर्राष्ट्रिय वित्तीय कारोबार कार्यान्वयन समितिको गठन हुनेछ:-\r\n\r\n\r\n\r\n\r\n\r\n(क)\r\nगभर्नर, नेपाल राष्ट्र बैङ्क\r\nअध्यक्ष\r\n\r\n\r\n(ख)\r\nसचिव, अर्थ मन्त्रालय\r\nसदस्य\r\n\r\n\r\n(ग)\r\nसचिव, “कानून, न्याय तथा संसदीय मामिला मन्त्रालय\r\nसदस्य\r\n\r\n\r\n(घ)\r\nचार्टर्ड एकाउन्टेन्टहरूमध्येबाट नेपाल सरकारले मनोनीत गरेको एक जना\r\nसदस्य\r\n\r\n\r\n(ङ)\r\nअर्थ विद्हरूमध्येबाट नेपाल सरकारले मनोनीत गरेको एक जना\r\nसदस्य\r\n\r\n\r\n\r\n२) कार्यान्वयन समितिले अन्तर्राष्ट्रिय वित्तीय कारोबारमा संलग्न स्वदेशी वा विदेशी विशेषज्ञ वा सल्लाहकारलाई कार्यान्वयन समितिको बैठकमा पर्यवेक्षको रूपमा भाग लिन आमन्त्रण गर्न सक्नेछ ।\r\n\r\n\r\n३) उपदफा (१) को खण्ड (घ) र (ङ) बमोजिम मनोनीत सदस्यहरूको पदावधि दुई वर्षको हुनेछ ।\r\n\r\n\r\n४) कार्यान्वयन समितिले नेपाल राष्ट्र बैङ्कको सहमति लिई तोकिदिएको उक्त बैङ्कको कुनै अधिकृत कर्मचारीले कार्यान्वयन समितिको सचिव भई काम गर्नेछ ।\r\n\r\n\r\n५) कार्यान्वयन समितिको कार्यालय नेपाल राष्ट्र बैङ्कमा रहनेछ ।\r\n\r\n\r\n६) कार्यान्वयन समितिको बैठक सम्बन्धी कार्यविधि तोकिएबमोजिम हुनेछ ।\r\n\r\n\r\n७) कार्यान्वयन समितिका सदस्यहरूले तोकिएवमोजिमको भत्ता तथा सुविधा पाउने छन्‌ ।\r\n\r\n\r\n---"
+        }
+      },
+      {
+        "id": "sec_12",
+        "english": {
+          "title": "Section 12: Functions, Duties and Powers of the Accreditation Committee",
+          "content": "The Accreditation Committee shall, apart from the functions, duties and powers set forth elsewhere in this Act, have the following functions, duties and powers:-\r\n\r\n\r\n(a) To monitor and supervise the financial activities of license holder entities as to whether or not their international financial transaction activities are in line with the provisions of this Act or Rules made thereunder, or other prevailing laws relating to international financial transactions,\r\n\r\n\r\n(b) To make recommendations to the Promotion Board in respect of facilitates to be accorded to international financial entities for the purpose of making Nepal an attractive centre for international financial transactions,\r\n\r\n\r\n(c) To make recommendations to the Promotion Board in respect of improvements to be made in the existing laws related to international financial transactions for the purpose of carrying out international financial transactions in an effective and well-managed manner,\r\n\r\n\r\n(d) To inquire as to whether or not a license holder entity is fulfilling the conditions required to be fulfilled under the provisions of this Act and to require it to fulfil them if they are found not to have been fulfilled,\r\n\r\n\r\n(e) To give necessary instructions to license holder entities in respect of international financial transactions.\r\n\r\n\r\n(f) To avail itself of the service of national or foreign experts or specialised agencies for the promotion and development of international financial transactions,\r\n\r\n\r\n(g) To comply with the instructions given from time to time by the Promotion Board,\r\n\r\n\r\n(h) To suspend or revoke, as may be required, the license obtained by any license holder entity in cases where it is in violation of the provisions of this Act or Rules made thereunder or the existing laws relating to international financial transactions:\r\n\r\n\r\nProvided that, such an entity shall be given an opportunity to submit its explanation before such revocation.\r\n\r\n\r\n(i) To perform such other acts as may be prescribed to make international financial transactions effective.\r\n\r\n\r\n---"
+        },
+        "nepali": {
+          "title": "दफा १२ः कार्यान्वय समितिको काम, कर्तव्य र अधिकार",
+          "content": "यस ऐनमा अन्यत्र लेखिएको काम, कर्तव्य र अधिकारको अतिरिक्त कार्यान्वयन समितिको अन्य काम, कर्तव्य र अधिकार देहाय बमोजिम हुनेछ:-\r\n\r\n\r\n(क) अनुमतिपत्र प्राप्त संस्थाले यो ऐन र यस ऐन अन्तर्गत बनेको नियम वा अन्तर्राष्ट्रिय वित्तीय कारोबारसँग सम्बन्धित अन्य प्रचलित कानुनबमोजिम अन्तर्राष्ट्रिय वित्तीय कारोबार गरे नगरेको अनुगमन तथा सुपरीवेक्षण गर्ने,\r\n\r\n\r\n(ख) नेपाललाई एक आकर्षक अन्तर्राष्ट्रिय वित्तीय कारोबार केन्द्रको रूपमा स्थापित गर्न अन्तर्राष्ट्रिय वित्तीय संस्थाहरूलाई दिनु पर्ने सुविधा सम्बन्धमा प्रवर्द्धन समितिलाई सुझाव दिने,\r\n\r\n\r\n(ग) अन्तर्राष्ट्रिय वित्तीय कारोबारलाई प्रभावकारी एवं व्यवस्थित रूपबाट सञ्चालन गर्नको लागि अन्तर्राष्ट्रिय वित्तीय कारोबारसँग सम्बन्धित प्रचलित कानुनहरूमा हुनु पर्ने सुधारका सम्बन्धमा प्रवर्द्धन समितिलाई सुझाव दिने,\r\n\r\n\r\n(घ) अनुमतिपत्र प्राप्त संस्थाले यस ऐन: बमोजिम पालन गर्नु पर्ने शर्तहरु पूरा गरे नगरेको सम्बन्धमा जाँचबुझ गर्ने र नगरेको देखिएमा गर्न लगाउने,\r\n\r\n\r\n(ङ) अनुमतिपत्र प्राप्त संस्थालाई अन्तर्राष्ट्रिय वित्तीय कारोबारका सम्बन्धमा आवश्यक निर्देशन दिने,\r\n\r\n\r\n(च) अन्तर्राष्ट्रिय वित्तीय कारोवारको प्रवर्द्धन तथा विकासको लागि स्वदेशी वा विदेशी विशेषज्ञ तथा विशिष्टीकृत निकायको सेवा प्राप्त गर्ने,\r\n\r\n\r\n(छ) प्रवर्द्धन समितिले समय समयमा दिएको निर्देशनहरूको पालना गर्ने,\r\n\r\n\r\n(ज) अनुमतिप्राप्त संस्थाले यो ऐन वा यस ऐन अन्तर्गत बनेको नियम वा अन्तर्राष्ट्रिय वित्तीय कारोबारसँग सम्बन्धित अन्य प्रचलित कानुनको उल्लङ्घन गरेमा त्यस्तो संस्थाले पाएको अनुमतिपत्र अवस्था अनुसार निलम्बन वा खारेज गर्ने,\r\n\r\n\r\nतर त्यसरी खारेज गर्नु अघि त्यस्तो संस्थालाई सफाइ पेश गर्ने मौका दिनु पर्नेछ ।\r\n\r\n\r\n(झ) अन्तराष्ट्रिय वित्तिय कारोबारलाई प्रभावकारी बनाउन तोकिए बमोजिमको अन्य काम गर्ने ।\r\n\r\n\r\n---"
+        }
+      },
+      {
+        "id": "sec_13",
+        "english": {
+          "title": "Section 13: Application for License",
+          "content": "An international financial entity interested in carrying out international financial transactions shall, for the purpose of obtaining a license to carry out such financial transactions, submit an application to the Accreditation Committee in the format as prescribed along with the prescribed application fee, details and documentation.\r\n\r\n\r\n---"
+        },
+        "nepali": {
+          "title": "दफा १३ः अनुमतिको लागि निवेदन दिनुपर्ने",
+          "content": "अन्तर्राष्ट्रिय वित्तीय कारोबार गर्न चाहने अन्तर्राष्ट्रिय वित्तीय संस्थाले त्यस्तो वित्तीय कारोबार गर्ने अनुमतिको लागि तोकिएको निवदेन दस्तुर सहित तोकिएबमोजिमको ढाँचामा तोकिएका विवरण तथा कागजातहरू समेत संलग्न राखी कार्यान्वयन समिति समक्ष निवेदन दिनु पर्नेछ ।\r\n\r\n\r\n---"
+        }
+      },
+      {
+        "id": "sec_14",
+        "english": {
+          "title": "Section 14: Granting of License",
+          "content": "If the Accreditation Committee, after the necessary inquiry made into an application submitted under Section 13 for obtaining a license to carry out international financial transactions, deems it appropriate to grant a license to carry out international financial transactions, it shall, upon taking the prescribed amount of license fee, issue a license in the prescribed format setting out therein the necessary terms and conditions. If a license may not be issued, the applicant shall be informed thereof.\r\n\r\n\r\n---"
+        },
+        "nepali": {
+          "title": "दफा १४ः अनुमति दिने",
+          "content": "दफा १३ बमोजिम अन्तर्राष्ट्रिय वित्तीय कारोबार गर्ने अनुमतिको लागि परेको निवेदन उपर कार्यान्वयन समितिले आवश्यक जाँचबुझ गरी अन्तर्राष्ट्रिय वित्तीय कारोबार गर्ने अनुमति दिन उपयुक्त देखेमा आवश्यक शर्तहरु समेत तोकी तोकिएवमोजिमको अनुमतिपत्र दस्तुर लिई तोकिएबमोजिमको ढाँचामा अनुमतिपत्र दिनु पर्नेछ । अनुमतिपत्र दिन नसकिने भएमा निवेदकलाई सो कुराको सूचना दिनु पर्नेछ ।\r\n\r\n\r\n---"
+        }
+      },
+      {
+        "id": "sec_15",
+        "english": {
+          "title": "Section 15: Information, Details and Documentations may be Demanded",
+          "content": "The Accreditation Committee may, before issuing a license to any international financial entity under this Act, demand from such entity such information, details and documentation as it may deem necessary in connection with issuing a license for carrying out international financial transactions. It shall be the duty of the concerned international financial entity to furnish forthwith the\r\ninformation, details and documentation so requested by the Accreditation Committee.\r\n\r\n\r\n---"
+        },
+        "nepali": {
+          "title": "दफा १५ः सूचना, विवरण वा कागजात माग्न सक्ने",
+          "content": "यस ऐन बमोजिम कुनै अन्तर्राष्ट्रिय वित्तीय संस्थालाई अनुमतिपत्र दिनुभन्दा अगावै त्यस्तो संस्थालाई अन्तर्राष्ट्रिय वित्तीय कारोवार गर्ने अनुमतिपत्र दिने सम्बन्धमा कार्यान्वयन समितिले आवश्यक देखेको सूचना, विवरण वा कागजातहरू त्यस्तो संस्थासित माग गर्न सक्नेछ।यसरी कार्यान्वयन समितिले माग गरेको सूचना, विवरण वा कागजात अविलम्ब पेश गर्नु सम्बन्धित अन्तर्राष्ट्रिय वित्तीय संस्थाको कर्तव्य हुनेछ।\r\n\r\n\r\n---"
+        }
+      },
+      {
+        "id": "sec_16",
+        "english": {
+          "title": "Section 16: Renewal of License",
+          "content": "A license issued under section 14 for carrying out international financial transactions shall be renewed every year. The license renewal fee and other provisions regarding renewal shall be as prescribed.\r\n\r\n\r\n---"
+        },
+        "nepali": {
+          "title": "दफा १६ः अनुमतिपत्रको नवीकरण",
+          "content": "दफा १४ बमोजिम अन्तर्राष्ट्रिय बित्तीय कारोबार गर्न दिईएको अनुमतिपत्र प्रत्येक वर्ष नवीकरण गर्नु पर्नेछ।अनुमतिपत्रको नवीकरण दस्तुर र नवीकरण सम्बन्धी अन्य व्यवस्थाहरू तोकिएवमोजिम हुनेछन्‌।\r\n\r\n\r\n---"
+        }
+      },
+      {
+        "id": "sec_17",
+        "english": {
+          "title": "Section 17: Secrecy to be maintained",
+          "content": "1) The Accreditation Committee shall maintain the secrecy of all documents and information which are related to license-holders entities and are in possession or control of the Accreditation Committee.\r\n\r\n\r\n2) The Accreditation Committee shall not be compelled to produce any documents or information referred to in Sub-section (1) before any court, commission of inquiry, Commission for the Investigation of Abuse of Authority or committee of inquiry, nor shall it be compelled to leak otherwise the secrecy of such documents or information.\r\n\r\n\r\n3) Notwithstanding anything contained in Sub-section (2), if there are sufficient grounds to prove that the documents or information related to the international financial transaction carried out by a license holder entity are connected with illicit narcotic drugs or illegal arms and ammunition, the court may, on the request of the prosecuting authority acting on behalf of Government of Nepal, give an order to have such documents and information produced before it.\r\n\r\n\r\n---"
+        },
+        "nepali": {
+          "title": "दफा १७ः गोपनियता कायम राख्नु पर्ने",
+          "content": "१) कार्यान्वयन समितिले अनुमतिपत्र प्राप्त संस्थासँग सम्बन्धित आफ्नो जिम्मा वा नियन्त्रणमा रहेको सबै कागजातहरू तथा सूचनाहरू गोप्य राख्नु पर्नेछ।\r\n\r\n\r\n२) उपदफा (१) मा उल्लेखित कागजात तथा सूचनाहरू कुनै पनि अदालत, जाँचबुझ आयोग, अख्तियार दुरूपयोग अनुसन्धान आयोग वा जाँचबुझ समितिमा पेश गर्न वा अन्य कुनै पनि तवरबाट त्यस्तो कागजात वा सूचनाहरूको गोपनियता भङ्ग गर्न कार्यान्वयन समिति बाध्य हुने छैन।\r\n\r\n\r\n३) उपदफा (२) मा जुनसुकै कुरा लेखिएको भए तापनि अनुमतिपत्र प्राप्त संस्थाले गर्ने अन्तर्राष्ट्रिय वित्तीय कारोबारसँग सम्बन्धित कागजात तथा सूचनाहरू अवैध लागू औषध वा अवैध हातहतियारसँग सम्बन्धित भएको कुरा प्रमाणित गर्ने पर्याप्त आधारहरू भएमा नेपाल सरकारको तर्फबाट मुद्दा चलाउने अधिकारीको अनुरोधमा अदालतले त्यस्ता कागजात तथा सूचनाहरू अदालत समक्ष पेश गर्ने आदेश दिन सक्नेछ ।\r\n\r\n\r\n---"
+        }
+      },
+      {
+        "id": "sec_18",
+        "english": {
+          "title": "Section 18: Proceeds to be credited to the formed Fund",
+          "content": "The charges and other proceeds received by the Accreditation Committee under this Act shall be credited to the Consolidated Fund.\r\n\r\n\r\n---"
+        },
+        "nepali": {
+          "title": "दफा १८ः सञ्चित कोषमा रकम जम्मा गर्नुपर्ने",
+          "content": "कार्यान्वयन समितिले यस ऐन बमोजिम प्राप्त गरेको दस्तुर तथा अन्य रकम सञ्चित कोषमा जम्मा गर्नु पर्नेछ।\r\n\r\n\r\n---"
+        }
+      },
+      {
+        "id": "sec_19",
+        "english": {
+          "title": "Section 19: Sub-Committees may be constituted",
+          "content": "1) The Promotion Board and the Accreditation Committee may form sub-committees as may be required to conduct their business.\r\n\r\n\r\n2) The functions, duties, powers, jurisdiction and procedures of the subcommittees formed under sub-section (1) shall be as fixed by the Promotion Board or the Accreditation Committee constituting such subcommittees.\r\n\r\n\r\n---"
+        },
+        "nepali": {
+          "title": "दफा १९ः उपसमिति गठन गर्न सक्ने",
+          "content": "१) प्रवर्दन समिति वा कार्यान्वयन समितिले आफ्नो कार्य सञ्चालन गर्नको लागि आवश्यकतानुसार उपसमितिहरू गठन गर्न सक्नेछ।\r\n\r\n\r\n२) उपदफा (१) बमोजिम गठन भएका उपसमितिहरूको काम, कर्तव्य र अधिकार, कार्यक्षेत्र तथा कार्यविधि त्यस्तो उपसमिति गठन गर्ने प्रवर्द्धन समिति वा कार्यान्वयन समितिले तोकेवमोजिम हुनेछ।\r\n\r\n\r\n---"
+        }
+      },
+      {
+        "id": "sec_20",
+        "english": {
+          "title": "Section 20: Cooperation to be Extended",
+          "content": "All governmental agencies shall extend necessary cooperation to the Promotion Board or the Accreditation Committee in matters of conducting their business.\r\n\r\n\r\n---"
+        },
+        "nepali": {
+          "title": "दफा २०ः सहयोग गर्नु पर्ने",
+          "content": "प्रवर्द्धन समिति र कार्यान्वयन समितिलाई आफ्नो कार्य सञ्चालन गर्ने सम्बन्धमा सम्पूर्ण सरकारी निकायहरूले आवश्यक सहयोग गर्नु पर्नेछ।\r\n\r\n\r\n---"
+        }
+      },
+      {
+        "id": "sec_21",
+        "english": {
+          "title": "Section 21: Delegation of Power",
+          "content": "1) The Promotion Board may delegate any or all of its powers under this Act, Rules, or Bye-laws made thereunder to any of its members or the Accreditation Committee, as may be required.\r\n\r\n\r\n2) The Accreditation Committee may delegate any or all of its powers under this Act, Rules, or Bye-laws made thereunder to any of its members, a subcommittee or an employee of officer rank, as may be required.\r\n\r\n\r\nProvided that the Accreditation Committee shall not be entitled to delegate its power of issuing a license for carrying out international financial transactions or of revoking or suspending it.\r\n\r\n\r\n---"
+        },
+        "nepali": {
+          "title": "दफा २१ः अधिकार प्रत्यायोजन",
+          "content": "१) यो ऐन वा यस ऐन अन्तर्गत बनेको नियम वा विनियमहरू बमोजिम प्रवर्द्धन समितिलाई प्राप्त अधिकारहरूमध्ये कुनै वा सबै अधिकार प्रवर्द्धन समितिले आवश्यकतानुसार प्रवर्द्धन समितिको कुनै सदस्य वा कार्यान्वयन समितिलाई प्रत्यायोजन गर्न सक्नेछ।\r\n\r\n\r\n२) यो ऐन वा यस ऐन अन्तर्गत बनेको नियम वा विनियमहरू बमोजिम कार्यान्वयन समितिलाई प्राप्त अधिकारहरूमध्ये कुनै वा सबै अधिकार कार्यान्वयन समितिले आवश्यकतानुसार कार्यान्वयन समितिको कुनै सदस्य, उपसमिति वा कुनै अधिकृत कर्मचारीलाई प्रत्यायोजन गर्न सक्नेछ।\r\n\r\n\r\nतर कार्यान्वयन समितिले अन्तर्राष्ट्रिय वित्तीय कारोबार सञ्चालन गर्ने अनुमतिपत्र दिने र त्यस्तो अनुमतिपत्र खारेज वा निलम्बन गर्ने अधिकार प्रत्यायोजन गर्न सक्ने छैन।\r\n\r\n\r\n---"
+        }
+      },
+      {
+        "id": "sec_22",
+        "english": {
+          "title": "Section 22: Contact with Government of Nepal",
+          "content": "While maintaining contact with the Government of Nepal, the Promotion Board shall proceed through the Ministry of Finance.\r\n\r\n\r\n---"
+        },
+        "nepali": {
+          "title": "दफा २२ः नेपाल सरकारसँग सम्पर्क",
+          "content": "प्रवर्द्धन समितिले नेपाल सरकारसँग सम्पर्क राख्दा अर्थ मन्त्रालय मार्फत राख्नु पर्नेछ।\r\n\r\n\r\n---"
+        }
+      },
+      {
+        "id": "sec_23",
+        "english": {
+          "title": "Section 23: Power to make Rules and Bye-Laws",
+          "content": "1) In order to carry out the objectives of this Act, the Government of Nepal may make necessary Rules.\r\n\r\n\r\n2) The Promotion Board may, subject to this Act and Rules made thereunder, make necessary Bye-laws, and such Bye-laws shall come into force upon approval by Government of Nepal.\r\n\r\n\r\n---"
+        },
+        "nepali": {
+          "title": "दफा २३ः नियम तथा विनियम बनाउन सक्ने",
+          "content": "१) यस ऐनको उद्देश्य कार्यान्वयन गर्नको लागि नेपाल सरकारले आवश्यक नियमहरू बनाउन सक्नेछ।\r\n\r\n\r\n२) यो ऐन र यस ऐन अन्तर्गत बनेको नियमहरूका अधीनमा रही प्रवर्द्धन समितिले आवश्यक विनियमहरू बनाउन सक्नेछ र त्यस्ता विनियमहरू नेपाल सरकारबाट स्वीकृत भएपछि लागू हुनेछन्‌।\r\n\r\n\r\n---"
+        }
+      },
+      {
+        "id": "sec_24",
+        "english": {
+          "title": "Section 24: Existing laws to Prevail",
+          "content": "Matters governed by this Act shall be dealt with in accordance with this Act, and matters not dealt with by this Act shall be governed by existing laws related to other international financial transactions.\r\n\r\n\r\n\r\nNote: – Some of the words changed by the Nepal Law Amendment Act, 2063: –\r\n                      “Government of Nepal” instead of “Government of Sri Pacha.”\r\n\r\n\r\n---"
+        },
+        "nepali": {
+          "title": "दफा २४ः  प्रचलित कानून बमोजिम हुने",
+          "content": "यस ऐनमा लेखिएको जतिमा यसै ऐन वमोजिम र अरुमा अन्तर्राष्ट्रिय वित्तीय कारोबारसँग सम्बन्धित अन्य प्रचलित कानुनबमोजिम हुनेछ ।\r\n\r\n\r\n\r\nद्रष्टव्य:- केही नेपाल कानून संशोधन गर्ने ऐन, २०६३ द्वारा रूपान्तर गरिएका शब्द:-\r\n                  “श्री ५ को सरकार” को सट्टा “नेपाल सरकार”।\r\n\r\n\r\n---"
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,605 @@
+[
+  {
+    "id": "arbitration_act_2055",
+    "actName": "ARBITRATION",
+    "year": "2055",
+    "sections": [
+      {
+        "id": "preamble",
+        "english": {
+          "title": "Preamble",
+          "content": "Date of authentication and publication:\r\n\r\n\r\n2 Chaitra 2056\r\n\r\n\r\n1. The Act Amending Some Nepal Acts, 2064              2064/5/9\r\n\r\n\r\nAct No. 1 of the year 2056\r\n\r\n\r\nAn act made to make legal provisions for arbitration\r\n\r\n\r\nPreamble: Whereas it is expedient to update the prevailing legal provisions relating to arbitration,\r\n\r\n\r\nNow, therefore, be enacted by the Parliament in the 27th year of the reign of His Majesty King Birendra Bir Bikram Shah Dev.\r\n\r\n\r\n---"
+        },
+        "nepali": {
+          "title": "प्रस्तावना",
+          "content": "लालमोहर र प्रकाशन मिति\n\n\n२०५६।१।२।५\n\n\nसंशोधन गर्ने ऐन                                                  प्रमाणीकरण र प्रकाशन मिति\n\n\n१. केही नेपाल ऐनलाई संशोधन गर्ने ऐन, २०६४                       २०६४।५।९\n\n\n२. गणतत्र सुदृढीकरण तथा केही नेपाल कानून                        २०६६।१०।७\n\n\nसंशोधन गने ऐन, २०६६\n\n\n२०५६ सालको ऐन नं. १\n\n\nमध्यस्थता सम्बन्धमा कानूनी व्यवस्था गर्न बनेको ऐन\n\n\nप्रस्तावना: मध्यस्थता सम्बन्धी प्रचलित कानूनी व्यवस्थालाई समयानुकूल बनाउन वाञ्छनीय भएकोले,\n\n\nश्री ५ महाराजाधिराज वीरेन्द्र वीर विक्रम शाहदेवको शासनकालको सत्ताइसौं वर्षमा संसदले यो ऐन बनाएको छ ।\n\n\n---"
+        }
+      },
+      {
+        "id": "sec_1",
+        "english": {
+          "title": "Section 1: Short Title and Commencement",
+          "content": "1) This Act may be called the “Arbitration Act, 2056.”\r\n\r\n\r\n2) It shall come into force immediately.\r\n\r\n---",
+          "chapterTitle": "Chapter-1 Preliminary"
+        },
+        "nepali": {
+          "title": "दफा १ः संक्षिप्त नाम र प्रारम्भ",
+          "content": "१) यस ऐनको नाम “मध्यस्थता ऐन, २०५५” रहेको छ।\n\n\n२) यो ऐन तुरुन्त प्रारम्भ हुनेछ।\n\n---",
+          "chapterTitle": "परिच्छेद -१ प्रारम्भिक"
+        }
+      },
+      {
+        "id": "sec_2",
+        "english": {
+          "title": "Section 2: Definitions",
+          "content": "In this Act, unless the subject or the context otherwise requires:\r\n\r\n\r\n(a) “Agreement” means a written agreement reached between the concerned parties for a settlement through arbitration of any dispute concerning any specific legal issue that has arisen or may arise in the future under a contract or otherwise.\r\n\r\n\r\nExplanation: For the purpose of this clause, the concerned parties shall be deemed to have entered into a written agreement in case any of the following documents exists:\r\n\r\n\r\n(1) Any contract containing a provision for arbitration or any separate agreement signed in that connection.\r\n\r\n\r\n(2) Letter, telex, telegram, telefax message, or any other similar at-time message exchanged through telecommunication media whose records can be maintained in a written form between the concerned parties, which provides for referring their disputes to arbitration.\r\n\r\n\r\n(3) In case any party has presented a claim for referring any dispute to arbitration and the objection to that claim submitted by the party objecting to that claim without rejecting the proposal for referring the dispute to arbitration.\r\n\r\n\r\n(b) “Party” means any party connected with arbitration.\r\n\r\n\r\n(c) “District Court” means the District Court of the place prescribed in the agreement as the place of arbitration, if any, and if no such place has been prescribed, the place where the dispute has arisen or where the arbitration proceedings have been conducted and decisions taken, or the territorial jurisdiction over the place where any party generally resides.\r\n\r\n\r\n(d) “Appellate Court” means the Appellate Court of the place prescribed in the agreement as the place of arbitration, if any, and if no such place has been prescribed, the place where the dispute has arisen or where the arbitration proceedings have been conducted and decisions taken, or the territorial jurisdiction over the place where any party generally resided.\r\n\r\n\r\n(e) “Dispute” means a dispute which can be settled through arbitration under this Act.\r\n\r\n\r\n(f) “Counter-claim” means a claim made by the Respondent on the Claimants.\r\n\r\n\r\n(g) “Rejoinder” means a claim to the counter-claim by the Claimants.\r\n\r\n\r\n(h) “Arbitrator” means an arbitrator appointed for the settlement of a dispute and the term also includes a panel of arbitrators.\r\n\r\n---\r\n\r\n\r\n---",
+          "chapterTitle": "Chapter-1 Preliminary"
+        },
+        "nepali": {
+          "title": "दफा २ः परिभाषा",
+          "content": "विषय वा प्रसङ्गले अर्को अर्थ नलागेमा यस ऐनमाः\n\n\n(क) “सम्झौता” भन्नाले करार भएको वा नभएको कुनै निश्चित कानूनी सम्बन्धका विषयमा तत्काल उठेको वा भविष्यमा उठ्न सक्ने विवादलाई मध्यस्थताद्वारा समाधान गराउनको लागि पक्षहरु बीच भएको लिखित सहमति सम्झनु पर्छ।\n\n\nस्पष्टीकरण: यस खण्डको प्रयोजनको लागि देहायका कुनै लिखत भएमा पक्षहरु बीच लिखित सहमति भएको मानिनेछः-\n\n\n(१) मध्यस्थको प्रावधान समेत व्यवस्था गरी भएको कुनै करार वा तत्सम्बन्धमा भएको अन्य कुनै छुट्टै सम्झौता,\n\n\n(२) मध्यस्थलाई विवाद सुम्पने “गरी पक्षहरु बीच आदान प्रदान भएको पत्र, टेलेक्स, टेलिग्राम, टेलिफ्याक्स वा लिखित अभिलेख रहन सक्ने त्यस्तै प्रकतिका अन्य दूरसञ्चार माध्यमहरु,\n\n\n(३) कुनै पक्षले कुनै विवाद मध्यस्थलाई सुम्पने गरी दावी पेश गरेकोमा सो दावी उपर प्रतिवाद गर्ने पक्षले मध्यस्थलाई विवाद सुम्पने सम्बन्धमा इन्कार नगरी पेश भएको प्रतिवाद।\n\n\n(ख) “पक्ष” भन्नाले मध्यस्थतासँग सम्बन्धित कुनै पक्ष सम्झनु पर्छ।\n\n\n(ग) “जिल्ला अदालत” भन्नाले सम्झौतामा मध्यस्थता हुने ठाउँतोकिएकोमा सो ठाउँको र त्यस्तो ठाउँनतोकिएकोमा विवाद उत्पन्न भएको वा मध्यस्थताको कारबाही र निर्णय भएको वा साधारणतया कुनै पक्ष बसोबास गरी आएको ठाउँको प्रादेशिक क्षेत्राधिकार भएको जिल्ला अदालत सम्झनु पर्छ।\n\n\n(घ) “उच्च अदालत” भन्नाले सम्झौतामा मध्यस्थता हुने ठाउँ तोकिएकोमा सो ठाउँको र त्यस्तो ठाउँनतोकिएकोमा विवाद उत्पन्न भएको वा मध्यस्थताको कारबाही र निर्णय भएको वा कुनै पक्ष साधारणतया बसोबास गरी आएको ठाउँको प्रादेशिक क्षेत्राधिकार भएको उच्च अदालत सम्झनु पर्छ।\n\n\n(ङ) “बिवाद” भन्नाले यस ऐन बमोजिम मध्यस्थताद्वारा “समाधान हुन सक्ने विवाद सम्झनु पर्छ।\n\n\n(च) “प्रतिदावी” भन्नाले दावी गर्ने पक्ष उपर प्रतिवाद गर्ने पक्षले गरेको दावी सम्झनु पर्छ।\n\n\n(छ) प्रत्युक्ति” भन्नाले प्रतिवादी विरुद्ध दावी गर्ने पक्षले गरेको प्रतिवाद सम्झनु पर्छ।\n\n\n(ज) “मध्यस्थ” भन्नाले विवाद समाधानको लागि नियुक्त मध्यस्थ सम्झनु पर्छर सो शब्दले मध्यस्थहरुको समूह समेतलाई जनाउँछ ।\n\n---\n\n\n---",
+          "chapterTitle": "परिच्छेद -१ प्रारम्भिक"
+        }
+      },
+      {
+        "id": "sec_3",
+        "english": {
+          "title": "Section 3: Disputes to be Settled through Arbitration",
+          "content": "1) In case any agreement provides for the settlement of disputes through arbitration, the disputes connected with that agreement or with issues coming under that agreement shall be settled through arbitration according to the procedure prescribed in that agreement, if any, and if not, according to this Act.\r\n\r\n\r\n2) Notwithstanding anything contained in sub-section (1), in case of concerned parties to a civil suit of a commercial nature which has been filed in a court and which may be settled through arbitration according to prevailing laws, file an application for its settlement through arbitration, such dispute shall also be settled through arbitration.\r\n\r\n---",
+          "chapterTitle": "Chapter-2 Settlement of Disputes Through Arbitration"
+        },
+        "nepali": {
+          "title": "दफा ३ः मध्यस्थताद्वारा विवाद समाधान गराउनु पर्ने",
+          "content": "१) कुनै सम्झौतामा मध्यस्थताद्वारा विवाद समाधान गरिने व्यवस्था भएकोमा त्यस्तो सम्झौता वा सो अन्तर्गतका विषयसँग सम्बन्धित विवाद सम्झौतामा नै कार्यविधि उल्लेख भएकोमा सोही बमोजिम र नभएकोमा यस ऐन बमोजिम मध्यस्थताद्वारा समाधान गराउनु पर्नेछ।\n\n\n२) उपदफा (१) मा जुनसुकै कुरा लेखिएको भए तापनि अदालतमा दायर भएको प्रचलित कानून बमोजिम मिलापत्र हुन सक्ने व्यापारिक प्रकृतिको कुनै देवानी मुद्दा सम्बन्धित पक्षहरुले मध्यस्थताद्वारा समाधान गरी पाउँभनी निवेदन दिएमा त्यस्तो विवाद समेत मध्यस्थताद्वारा समाधान गराउनु पर्नेछ।\n\n---",
+          "chapterTitle": "परिच्छेद -२ मध्यस्थताद्वारा विवादको समाधान"
+        }
+      },
+      {
+        "id": "sec_4",
+        "english": {
+          "title": "Section 4: Cancellation of Records of the Suit",
+          "content": "1) The court may order for cancellation of the records of a suit filed in connection with a dispute which the concerned parties have sought to settle through arbitration pursuant to sub-section (2) of Section 3.\r\n\r\n\r\n2) Notwithstanding anything contained in Sub-section (1), the court shall not order for the cancellation of a suit in the following circumstances:\r\n\r\n\r\n(a) In case it is deemed necessary to pronounce a decision on any issue which cannot be arbitrated together with an issue which can be arbitrated or\r\n\r\n\r\n(b) In case there appears to be any appropriate reason why the dispute cannot be settled through arbitration.\r\n\r\n---\r\n\r\n\r\n---",
+          "chapterTitle": "Chapter-2 Settlement of Disputes Through Arbitration"
+        },
+        "nepali": {
+          "title": "दफा ४ः मुद्दाको लगत काट्ने",
+          "content": "१) दफा २ को उपदफा (२) बमोजिम मध्यस्थताद्वारा समाधान गराउन चाहेको विवादको विषयमा दायर रहेको मुद्दाको लगत काट्न अदालतले आदेश दिन सक्नेछ।\n\n\n२) उपदफा (१) मा जुनसुकै कुरा लेखिएको भए तापनि देहायको अवस्थामा अदालतले मुद्दाको लगत काट्ने आदेश दिने छैनः-\n\n\n(क) मध्यस्थता हुनसक्ने विषयको साथ साथै मध्यस्थता हुन नसक्ने विषयमा पनि निर्णय दिनुपर्ने देखिएमा, वा\n\n\n(ख) मध्यस्थताद्वारा विवादको निर्णय हुन नसक्ने कुनै मनासिब कारण देखिएमा।\n\n---\n\n\n---",
+          "chapterTitle": "परिच्छेद -२ मध्यस्थताद्वारा विवादको समाधान"
+        }
+      },
+      {
+        "id": "sec_5",
+        "english": {
+          "title": "Section 5: Number of Arbitrators",
+          "content": "1) The number of arbitrators is as specified in the agreement. In case the agreement does not specify the number of arbitrators, there shall ordinarily be three arbitrators.\r\n\r\n\r\n2) In case the number of arbitrators appointed under the agreement is an even one, it shall be turned into an odd one by designating an additional arbitrator chosen by them.\r\n\r\n---",
+          "chapterTitle": "Chapter-3 Appointment of Arbitrators and Their Office"
+        },
+        "nepali": {
+          "title": "दफा ५ः मध्यस्थको संख्या",
+          "content": "१) सम्झौतामा मध्यस्थको संख्या तोकिएकोमा सोही बमोजिम र नतोकिएकोमा सामान्यतया तीनजना मध्यस्थहरु रहनेछन्‌ ।\n\n\n२) सम्झौता बमोजिम नियुक्त भएका मध्यस्थहरुको संख्या सम भएमा त्यस्ता मध्यस्थहरुले रोजेको कुने एक व्यक्ति थपी मध्यस्थको संख्या विषम गर्नु पर्नेछ ।\n\n---",
+          "chapterTitle": "परिच्छेद -३ मध्यस्थको नियुक्ति र कार्यालय"
+        }
+      },
+      {
+        "id": "sec_6",
+        "english": {
+          "title": "Section 6: Appointment of Arbitrator",
+          "content": "1) Notwithstanding otherwise contained in the agreement, the process of appointing arbitrators must be started within 30 days from the date when the reason for the settlement of a dispute through arbitration arises.\r\n\r\n\r\n2) In case the agreement mentions the names of arbitrators, they themselves shall be recognised as having been appointed as arbitrators.\r\n\r\n\r\n3) In case the agreement has made any separate provision for the appointment of arbitrators, arbitrators shall be appointed accordingly.\r\n\r\n\r\n4) Notwithstanding otherwise contained in the agreement, each party shall appoint one arbitrator, and the arbitrators shall appoint the third arbitrator, who shall work as the chief arbitrator.\r\n\r\n---",
+          "chapterTitle": "Chapter-3 Appointment of Arbitrators and Their Office"
+        },
+        "nepali": {
+          "title": "दफा ६ः मध्यस्थको नियुक्ति",
+          "content": "१) सम्झौतामा अन्यथा व्यवस्था भएकोमा बाहेक मध्यस्थताद्वारा विवादको समाधान गराउनु पर्ने कारण उत्पन्न भएको मितिले तीन महिनाभित्र मध्यस्थ नियुक्त गर्ने प्रकृया शुरु गर्नु पर्नेछ ।\n\n\n२) सम्झौतामा मध्यस्थ हुने व्यक्तिको नाम उल्लेख भएकोमा सम्झौतामा उल्लिखित व्यक्ति नै मध्यस्थ नियुक्त भएको मानिनेछ ।\n\n\n३) सम्झौतामा मध्यस्थ नियुक्त गर्ने सम्बन्धमा कुनै छुट्टै व्यवस्था भएको रहेछ भने सोही बमोजिम मध्यस्थ नियुक्त गरिनेछ ।\n\n\n४) सम्झौतामा अन्यथा व्यवस्था भएकोमा बाहेक प्रत्येक पक्षले एक एकजना मध्यस्थ नियुक्त गर्नेछन्‌ र त्यसरी नियुक्त भएका मध्यस्थहरुद्वारा नियुक्त तेस्रो मध्यस्थले मुख्य मध्यस्थ भई काम गर्नेछ ।\n\n---",
+          "chapterTitle": "परिच्छेद -३ मध्यस्थको नियुक्ति र कार्यालय"
+        }
+      },
+      {
+        "id": "sec_7",
+        "english": {
+          "title": "Section 7: Appointment of Arbitrators by Court",
+          "content": "1) Any party may submit an application to the Appellate Court for the appointment of arbitrators in the following circumstances:\r\n\r\n\r\n(a) In case no arbitrator can be appointed upon following the procedure contained in the agreement.\r\n\r\n\r\n(b) In case the agreement does not mention anything about the appointment of arbitrators.\r\n\r\n\r\n2) The application to be filed pursuant to sub-section (1) must explicitly mention the full name, address, occupation and field of specialisation of at least three persons who can be appointed as arbitrators and also be accompanied by a copy of the agreement.\r\n\r\n\r\n3) Upon receiving an application pursuant to sub-section (1), the Appellate Court shall notify all the parties and shall appoint arbitrators from the persons proposed by them in the case of consensus in that connection and in the case of failure to consensus, the persons deemed appropriate by the Appellate Court, within 60 days from the date of receipt of the application. The decision taken by the court in that manner shall be final.\r\n\r\n---",
+          "chapterTitle": "Chapter-3 Appointment of Arbitrators and Their Office"
+        },
+        "nepali": {
+          "title": "दफा ७ः अदालतद्वारा मध्यस्थको नियुक्ति",
+          "content": "१) देहायको अवस्थामा कुनै पक्षले मध्यस्थको नियुक्तिको लागि उच्च अदालतमा निवेदन दिन सक्नेछः-\n\n\n(क) सम्झौतामा उल्लेख भएको प्रकृया अपनाउँदा मध्यस्थ नियुक्त हुन नसकेमा ।\n\n\n(ख) सम्झौतामा मध्यस्थ नियुक्ति गर्ने सम्बन्धमा कुनै कुरा उल्लेख नभएमा ।\n\n\n२) उपदफा (१) बमोजिम दिइने निवेदनमा मध्यस्थ हुन सक्ने कम्तीमा तीनजना व्यक्तिको नाम, थर, वतन, पेशा र निजको विशेषज्ञताको क्षेत्र समेत खुलाउनु पर्नेछ र त्यस्तो निवेदन साथ सम्झौताको प्रतिलिपि समेत पेश गर्नु पर्नेछ ।\n\n\n३) उपदफा (१) बमोजिम निवेदन प्राप्त भएपछि उच्च अदालतले सबै पक्षलाई सूचना दिई मध्यस्थ हुने व्यक्तिका सम्बन्धमा सम्बन्धित सबै पक्षको मतैक्य भएमा तिनीहरुले प्रस्ताव गरेको व्यक्तिलाई र मतैक्य हुन नसकेमा उच्च अदालतले उपयुक्त ठहस्याएको व्यक्तिलाई त्यस्तो निवेदन प्राप्त भएको साठी दिनभित्र मध्यस्थ नियुक्त गर्नेछ । त्यसरी उच्च अदालतले गरेको निर्णय अन्तिम हुनेछ ।\n\n---",
+          "chapterTitle": "परिच्छेद -३ मध्यस्थको नियुक्ति र कार्यालय"
+        }
+      },
+      {
+        "id": "sec_8",
+        "english": {
+          "title": "Section 8: Fulfilment of Arbitrators in Special Circumstances",
+          "content": "1) In case the appointed arbitrator for the purpose of arbitration falls vacant by reason of his resignation or refusal to function in that capacity or of his/her death or any other reason, it shall be filled up by appointing another arbitrator ordinarily within 30 days from the date when the vacancy has occurred in the manner in which the arbitrator had originally been appointed.\r\n\r\n\r\n2) In case the vacant arbitrator was not filled up within the time limit mentioned in sub-section (1), any party may apply to the Appellate Court within 15 days from the date of expiry of that time limit. In case such an application is filed, the Appellate Court shall appoint an arbitrator ordinarily within 15 days, subject to section 7.\r\n\r\n---",
+          "chapterTitle": "Chapter-3 Appointment of Arbitrators and Their Office"
+        },
+        "nepali": {
+          "title": "दफा ८ः विषेश परिस्थितिमा मध्यस्थको पूर्ति",
+          "content": "१) मध्यस्थताको लागि नियुक्त भएको कुनै मध्यस्थले राजीनामा दिएमा वा मध्यस्थ हुन इन्कार गरेमा वा निजको मृत्यु भएमा वा अन्य कुनै कारणले निजको स्थान रिक्त हुन गएमा त्यसरी स्थान रिक्त भएको साधारणतः तीस दिनभित्र सो स्थान निज नियुक्त हुँदाकै प्रकृया अनुसार अर्को मध्यस्थ नियुक्त गरी पूर्ति गरिनेछ।\n\n\n२) उपदफा (१) बमोजिमको म्यादभित्र मध्यस्थको रिक्त स्थानको पूर्ति हुन नसकेमा त्यस्तो म्याद नाघेको पन्ध्र दिनभित्र कुनै पक्षले उच्च अदालतमा निवेदन दिन सक्नेछ । त्यस्तो निवेदन परेकोमा साधारणतः पन्ध्र दिनभित्र उच्च अदालतले दफा ७ को अधीनमा रही मध्यस्थ नियुक्त गरिदिनु पर्नेछ।\n\n---",
+          "chapterTitle": "परिच्छेद -३ मध्यस्थको नियुक्ति र कार्यालय"
+        }
+      },
+      {
+        "id": "sec_9",
+        "english": {
+          "title": "Section 9: Arbitrators to Take Oath",
+          "content": "1) Before starting the arbitration proceedings, the arbitrator must affix his signature to two copies of a written oath as indicated in the schedule regarding impartiality and honesty, send one copy to the Appellate Court, and keep the other copy in the case file.\r\n\r\n\r\n2) Before taking oath pursuant to sub-section (1), the arbitrator must make clear matters, if any, which raise a reasonable doubt about his /her impartiality or independence with respect to the dispute which he/she has to settle.\r\n\r\n---",
+          "chapterTitle": "Chapter-3 Appointment of Arbitrators and Their Office"
+        },
+        "nepali": {
+          "title": "दफा ९ः मध्यस्थले शपथ लिनुपर्ने",
+          "content": "१) मध्यस्थताको काम कारबाही शुरु गर्नु अघि मध्यस्थले अनुसूचीमा उल्लेख भए अनुसार निष्पक्षता तथा इमान्दारिताको दुई प्रति लिखित शपथमा दस्तखत गर्नु पर्नेछ र त्यस्तो शपथको एक प्रति मिसिल साथ राखी अर्को एक प्रति उच्च अदालतमा पठाउनु पर्नेछ ।\n\n\n२) कुनै पनि मध्यस्थले उपदफा (१) बमोजिम शपथ लिनु अघि निजले समाधान गर्नुपर्ने विवादका सम्बन्धमा -निजको निष्पक्षता वा स्वतन्त्रताका सम्बन्धमा मनासिब माफिकको शंका गर्नुपर्ने कुनै कुरा भएमा सो कुरा सम्बन्धित पक्षहरुको जानकारीमा ल्याउनु पर्नेछ ।\n\n---",
+          "chapterTitle": "परिच्छेद -३ मध्यस्थको नियुक्ति र कार्यालय"
+        }
+      },
+      {
+        "id": "sec_10",
+        "english": {
+          "title": "Section 10: Qualifications of Arbitrators",
+          "content": "The following persons shall not be disqualified for appointment as arbitrators:\r\n\r\n\r\n(a) Disqualified for entering into contracts as per prevailing laws.\r\n\r\n\r\n(b) Punished by a court on criminal charges involving moral turpitude.\r\n\r\n\r\n(c) Become insolvent or been declared bankrupt.\r\n\r\n\r\n(d) Any personal interest in the dispute which has to be settled through arbitration.\r\n\r\n\r\n(e) Not having any specific qualification specified in the agreement for becoming eligible for appointment as an arbitrator.\r\n\r\n---",
+          "chapterTitle": "Chapter-3 Appointment of Arbitrators and Their Office"
+        },
+        "nepali": {
+          "title": "दफा १०ः मध्यस्थको अयोग्यता",
+          "content": "देहायको व्यक्ति मध्यस्थ नियुक्त हुनको निमित्त योग्य हुने छैनः-\n\n\n(क) प्रचलित कानून बमोजिम करार गर्न अयोग्य भएको,\n\n\n(ख) नैतिक पतन देखिने फौजदारी कसूरमा अदालतबाट सजाय पाएको,\n\n\n(ग) साहुको दामासाहीमा परेको वा टाट उल्टेको,\n\n\n(घ) मध्यस्थताद्वारा समाधान हुनुपर्ने विवादको विषयमा कुनै स्वार्थ भएको,\n\n\n(ङ) कुनै सम्झौतामा मध्यस्थ नियुक्त हुनको लागि कुनै खास योग्यता तोकिएको रहेछ भने त्यस्तो योग्यता नपुगेको ।\n\n---",
+          "chapterTitle": "परिच्छेद -३ मध्यस्थको नियुक्ति र कार्यालय"
+        }
+      },
+      {
+        "id": "sec_11",
+        "english": {
+          "title": "Section 11: Removed of Arbitrators",
+          "content": "1) The condition and procedure for the removal of an arbitrator shall be as mentioned in the agreement.\r\n\r\n\r\n2) In case the condition and procedure have not been mentioned in the agreement pursuant to sub-section (1), any party may, in any of the following circumstances, submit an application to the arbitrator requesting permission to remove an arbitrator within 15 days from the date of his/her appointment or from the date when the party learns that the concerned arbitrator has failed to act:\r\n\r\n\r\n(a) In case any arbitrator is clearly seen to have shown a bias toward or discrimination against any party instead of working in an impartial manner,\r\n\r\n\r\n(b) In case any arbitrator engages in improper conduct or commits fraud in the course of arbitration,\r\n\r\n\r\n(c) In case any arbitrator frequently commits mistakes or irregularities in the course of arbitration,\r\n\r\n\r\n(d) In case any arbitrator does not attend arbitration meetings or refuses to take part in arbitration proceedings more than three times without furnishing satisfactory reasons with the objective of prolonging or delaying the arbitration proceedings in an improper manner,\r\n\r\n\r\n(e) In case any arbitrator takes any action which is opposed to the principles or rules of natural justice or\r\n\r\n\r\n(f) In case any arbitrator is found to be lacking the necessary qualifications, or to have ceased to be qualified.\r\n\r\n\r\n3) Upon received an application pursuant to sub-section (2), if the arbitrator whose removal has been demanded does not relinquish his/her post voluntarily, or the other party does not agree with the grounds on which his/her removal, the arbitrator must take a decision on the matter within 30 days from the date of application.\r\n\r\n\r\n4) A complaint may be filed before the Appellate Court against the decision pursuant to sub-section (3), and the decision of the Appellate Court shall be final.\r\n\r\n---",
+          "chapterTitle": "Chapter-3 Appointment of Arbitrators and Their Office"
+        },
+        "nepali": {
+          "title": "दफा ११ः मध्यस्थलाई हटाउन सकिने",
+          "content": "१) मध्यस्थलाई हटाउने अवस्था र कार्यविधि सम्झौतामा उल्लेख भए बमोजिम हुनेछ ।\n\n\n२) उपदफा (१) बमोजिम सम्झौतामा अवस्था र कार्यविधि उल्लेख नगरिएको भए देहायको कुनै अवस्थामा मध्यस्थलाई हटाई पाउँभनी कुनै पक्षले मध्यस्थ नियुक्त भएको वा निजको काम कारबाही यस उपदफा बमोजिम नभएको थाहा पाएको मितिले पन्ध्र दिनभित्र मध्यस्थ समक्ष निवेदन दिन सक्नेछ:-\n\n\n(क)कुनै मध्यस्थले निष्पक्ष रुपले काम नगरी कुनै पपक्षप्रति झुकाव राखेको वा पक्षपात गरेको स्पष्ट देखिएमा,\n\n\n(ख) कुनै मध्यस्थले मध्यस्थताको कारबाहीमा अनुचित आचरण वा जालसाज गरेमा,\n\n\n(ग) कुनै मध्यस्थले मध्यस्थता सम्बन्धी कारबाहीमा बराबर बुटि वा अनियमितता गरेमा,\n\n\n(घ) कुनै मध्यस्थले मध्यस्थताको काम कारबाही अनुचित रुपमा लम्ब्याउने वा ढिलाई गर्ने उद्देश्यले मनासिब माफिकको कारण नदेखाई तीनपटकभन्दा बढी मध्यस्थको बैठकमा उपस्थित नभएमा वा बैठकको काम कारबाहीमा भाग लिन इन्कार गरेमा,\n\n\n(ङ) कुनै मध्यस्थले प्राकृतिक न्यायको सिद्धान्त वा नियमको प्रतिकूल हुने कार्य गरेमा, वा\n\n\n(च) कुनै मध्यस्थको योग्यता नपुगेको भएमा वा योग्यता नरहेमा।\n\n\n३) उपदफा (२) बमोजिम निवेदन पर्न आएमा हटाउन माग गरिएको मध्यस्थले स्वेच्छाले पद त्याग नगरेमा वा हटाउन माग गरेका आधार उपर अर्को पक्ष सहमत नभएमा मध्यस्थले सो सम्बन्धमा निवेदन परेको तीस दिनभित्र निर्णय गर्नु पर्नेछ ।\n\n\n४) उपदफा (३) बमोजिमको निर्णय उपर उच्च अदालतमा उजूर लाग्नेछ र सो अदालतले गरेको आदेश अन्तिम हुनेछ।\n\n---",
+          "chapterTitle": "परिच्छेद -३ मध्यस्थको नियुक्ति र कार्यालय"
+        }
+      },
+      {
+        "id": "sec_12",
+        "english": {
+          "title": "Section 12: Location of Office of the Arbitrator",
+          "content": "1) The office of the arbitrator shall be located at the following place:\r\n\r\n\r\n(a) At the place specified in the agreement, if any.\r\n\r\n\r\n(b) If the agreement does not specify the location of the arbitrators office, at the place selected by the concerned parties.\r\n\r\n\r\n(c) In case the concerned parties do not select such place within 15 days from the date of appointment of the arbitrator, or in case the concerned parties fail to reach an agreement in that connection, at the place specified by the arbitrator in the light of all the relevant circumstances.\r\n\r\n\r\n2) Notwithstanding anything contained elsewhere in this Section, the arbitrators may, except when any other arrangement has been made by the concerned parties, designate through mutual consultations the location of their office at any other appropriate place which is convenient for them to record the statements of witnesses, obtain the opinion of experts, and inspect any document, object or place.\r\n\r\n---",
+          "chapterTitle": "Chapter-3 Appointment of Arbitrators and Their Office"
+        },
+        "nepali": {
+          "title": "दफा १२ः मध्यस्थको कार्यालय रहने स्थान",
+          "content": "१) मध्यस्थको कार्यालय देहायको स्थानमा रहनेछ:-\n\n\n(क) सम्झौतामा मध्यस्थको कार्यालय रहने स्थान उल्लेख भएकोमा सोही स्थानमा ।\n\n\n(ख) सम्झौतामा मध्यस्थको कार्यालय रहने स्थान उल्लेख नभएकोमा पक्षहरुले रोजेको स्थानमा ।\n\n\n(ग) मध्यस्थ नियुक्त भएको पन्ध्र दिनभित्र पक्षहरुले त्यस्तो स्थान नरोजेमा वा त्यस सम्बन्धमा पक्षहरुका बीच मतैक्य नभएमा सम्पूर्ण सम्बद्ध परिस्थितिलाई विचार गरी मध्यस्थले तोकेको स्थानमा ।\n\n\n२) यस दफामा अन्यत्र जुनसुकै कुरा लेखिएको भए तापनि पक्षहरुले अन्यथा व्यवस्था गरेकोमा बाहेक साक्षीको बकपत्र गराउन, विशेषज्ञको राय लिन, कुनै लिखत, वस्तु वा स्थान निरीक्षण गर्न सुविधा हुने अन्य कुनै उपयुक्त स्थानमा समेत मध्यस्थहरुले आपसमा छलफल गरी मुकाम तोक्न सक्नेछन्‌ ।\n\n---",
+          "chapterTitle": "परिच्छेद -३ मध्यस्थको नियुक्ति र कार्यालय"
+        }
+      },
+      {
+        "id": "sec_13",
+        "english": {
+          "title": "Section 13: Language to be used by Arbitrators in their Proceedings",
+          "content": "The language to be used by the arbitrators in the proceedings shall be as specified in the agreement, if any. In case the agreement does not specify any such language, they shall use the language determined by them through mutual consultations. In case the arbitrators fail to determine the language to be used by them, the language used in the agreement shall be the language to be used by the arbitrators.\r\n\r\n---\r\n\r\n\r\n---",
+          "chapterTitle": "Chapter-3 Appointment of Arbitrators and Their Office"
+        },
+        "nepali": {
+          "title": "दफा १३ः  मध्यस्थको काम कारबाहीमा प्रयोग हुने भाषा",
+          "content": "मध्यस्थले आफ्नो काम कारबाहीमा प्रयोग गर्ने भाषा सम्झौतामा उल्लेख भएकोमा सोही बमोजिम र उल्लेख नभएकोमा पक्षहरुले आपसमा छलफल गरी निर्धारण गरेको भाषा हुनेछ र त्यसरी निर्धारण हुन नसकेमा सम्झौतामा प्रयोग गरिएको भाषा मध्यस्थको काम कारबाहीमा प्रयोग हुने भाषा हुनेछ ।\n\n---\n\n\n---",
+          "chapterTitle": "परिच्छेद -३ मध्यस्थको नियुक्ति र कार्यालय"
+        }
+      },
+      {
+        "id": "sec_14",
+        "english": {
+          "title": "Section 14: Submission of Claims, Counter-Claims, Objections or Rejoinders",
+          "content": "1) The claimant shall submit its claim to the arbitrator in writing, explicitly mentioning the details of the subject matter of the dispute and the remedy sought, along with evidence, and also supply a copy thereof to the other party within the time limit mentioned in the agreement, if any, and within three months from the date when a dispute requiring arbitration has arisen in case only the name of the arbitration has been mentioned in the agreement without mentioning any time limit, and from the date of appointment of the arbitrator in case the arbitrator has been appointed after the dispute has arisen.\r\n\r\n\r\n2) After a claim is filed pursuant to sub-section (1), the other party shall submit its objection to it within 30 days from the date of receipt of the claim unless otherwise provided for in the agreement.\r\n\r\n\r\n3) The other party shall submit its objection, as well as its counter-claim, if any, in that connection within the time limit mentioned in sub-section (2). In case it submits a counter-claim, the arbitrator shall also provide a time limit of 15 days for the claimant to submit its rejoinder over such counter-claim. In case a rejoinder is so submitted a copy thereof shall be supplied to the party making the counter-claim.\r\n\r\n\r\n4) In case any party fails to submit its 1objection or rejoinder within the time limit mentioned in sub-section (2) or (3) due to circumstances beyond its control, it may submit an application to the arbitrator for an extension of the time limit within 15 days from the date of expiry of the time limit, explicitly mentioning satisfactory reasons for its failure to do so. The arbitrator may, if he/she finds the reasons mentioned in the application to be satisfactory, extend the time limit to not more than seven days.\r\n\r\n\r\n5) While submitting claims, counter-claims, objections or rejoinders under this section, all documents, as well as evidence substantiating them, if any, shall also be submitted. In case the parties wish to substantiate any point through a witness, they must mention the full name and address of such witnesses in their claims, counter-claims, objections or rejoinders, and they shall themselves be responsible for presenting such witnesses before the arbitrator on the day prescribed by him/her.\r\n\r\n\r\n6) Each party submitting documents to the arbitrator in connection with arbitration proceedings under this Act shall supply copies thereof to the other party.\r\n\r\n\r\n1 Deleted by the Act Amending Some Nepal Acts, 2064\r\n\r\n---",
+          "chapterTitle": "Chapter- 4 Arbitration Proceedings and Powers of Arbitrators"
+        },
+        "nepali": {
+          "title": "दफा १४ः दावी, प्रतिदावी, प्रतिवाद वा प्रत्युक्ति पेश गर्ने",
+          "content": "१) सम्झौतामा दावी पेश गर्ने म्याद उल्लेख भएकोमा सोही म्यादभित्र र कुनै म्याद उल्लेख नभई मध्यस्थ हुने व्यक्तिको नामसम्म उल्लेख भएकोमा मध्यस्थता गराउनु पर्ने विवाद उत्पन्न भएको मितिले र विवाद खडा भएपछि मध्यस्थ नियुक्त भएकोमा मध्यस्थ नियुक्त भएको मितिले तीन महिनाभित्र दावी पेश गर्नु पर्नेछ । त्यसरी दावी पेश गर्दा पक्षले कुन कुरामा मतभेद भएको हो र कुन कुरा गराई पाउन चाहेको हो सो खुलाई प्रमाण सहित मध्यस्थ समक्ष आफ्नो दावी लिखित रुपमा पेश गर्नु पर्नेछ र त्यस्को एकप्रति अर्को पक्षलाई समेत दिनु पर्नेछ ।\n\n\n२) उपदफा (१) बमोजिम दावी पेश भएपछि सम्झौतामा अन्यथा व्यवस्था भएकोमा बाहेक अर्को पक्षले दावी प्राप्त गरेको तीस दिनभित्र त्यस्तो दावी उपर प्रतिवाद पेश गर्नु पर्नेछ ।\n\n\n३) उपदफा (२) बमोजिमको म्यादभित्र अर्को पक्षले प्रतिवाद र सो सम्बन्धमा निजको कुनै प्रतिदावी भए सो समेत पेश गर्नु पर्नेछ र निजले प्रतिदावी समेत पेश गरमा मध्यस्थले त्यस्तो प्रतिदावी उपर प्रत्युक्ति पेश गर्न दावी पेश गर्ने पक्षलाई पन्ध्र दिनको म्याद दिनु पर्नेछ र त्यसरी प्रत्युक्ति पेश भएकोमा प्रतिदावी पेश: गर्ने पक्षलाई त्यसको एकप्रति उपलब्ध गराउनु पर्नेछ ।\n\n\n४) उपदफा (२) वा (३) बमोजिमको म्यादभित्र कुनै पक्षले आफ्नो काबु बाहिरको परिस्थितिले गर्दा 1……. प्रतिवाद वा प्रत्युक्ति पेश गर्न नसकेमा त्यसको मनासिब कारण खुलाई त्यस्तो म्याद समाप्त भएको मितिले पन्ध्र दिनभित्र म्याद थपको लागि मध्यस्थ समक्ष निवेदन दिन सक्नेछ र निवेदनमा उल्लिखित कारण मनासिब देखिएमा मध्यस्थले निवेदन माग बमोजिम मनासिब म्याद थप गर्न सक्नेछ ।\n\n\n५) यस दफा बमोजिम दावी, प्रतिदावी वा प्रतिवाद वा प्रत्युक्ति पेश गर्दा सो विवाद सम्बन्धी सबै लिखत तथा त्यसलाई समर्थन गर्ने कुनै सबूत प्रमाण भए सो समेत पेश गर्नु पर्नेछ । पक्षहरुले कुनै कुरा साक्षीद्वारा प्रमाणित गर्न गराउन चाहेमा दावी, प्रतिदावी, प्रतिवाद वा प्रत्युक्तिमा साक्षीको नाम, थर, वतन समेत खुलाउनु पर्नेछ र मध्यस्थले तोकेको दिन त्यस्ता साक्षीलाई सम्बन्धित पक्ष आफैले मध्यस्थ समक्ष उपस्थित गराउनु पर्नेछ ।\n\n\n६) यस ऐन बमोजिम प्रत्येक पक्षले मध्यस्थताको काम कारबाहीको सन्दर्भमा मध्यस्थ समक्ष दाखिल गरेका कागजातहरुको प्रतिलिपि अर्को पक्षलाई दिनु पर्नेछ ।\n\n\n1 केही नेपाल ऐनलाई संशोधन गर्ने ऐन, २०६४ द्बारा झिकिएको ।\n\n---",
+          "chapterTitle": "परिच्छेद -४ मध्यस्थता सम्बन्धी कारबाही र मध्यस्थको अधिकार"
+        }
+      },
+      {
+        "id": "sec_15",
+        "english": {
+          "title": "Section 15: Circumstances in which Arbitration Proceedings shall Terminate or Continue",
+          "content": "Except when otherwise provided for by the parties, arbitration proceedings shall terminate or continue in the following circumstances:\r\n\r\n\r\n(a) The arbitration proceedings shall terminate in case the claimant does not submit his/her claim within the time limit mentioned in Section 14 (1).\r\n\r\n\r\n(b) Even if no objection is submitted within the time limit mentioned in Section 14 (2), this alone shall not be taken as the acceptance by the party not submitting its counter-claim to the claim made by the claimant, and the arbitrator shall continue proceedings in such a manner as to evaluate the claimant’s claim and the evidence submitted to substantiate the claim.\r\n\r\n\r\n(c) The arbitrator may pronounce the verdict on the basis of the evidence that has been submitted or in case any party does not present itself or does not submit any written evidence at the time of hearing prescribed by the arbitrator. Arbitration shall send a copy of the verdict to the party not submitting its objection as well.\r\n\r\n---",
+          "chapterTitle": "Chapter- 4 Arbitration Proceedings and Powers of Arbitrators"
+        },
+        "nepali": {
+          "title": "दफा १५ः मध्यस्थताको कारबाही अन्त्य वा जारी हुने अवस्था",
+          "content": "पक्षहरुले अन्यथा व्यवस्था गरेकोमा बाहेक देहायको अवस्थामा मध्यस्थताको कारबाही अन्त्य वा जारी हुनेछः\n\n\n(क) दावीकार्ताले दफा १४ को उपदफा (१) बमोजिमको म्यादभित्र दावी पेश नगरेमा मध्यस्थको काम कारबाही अन्त्य हुनेछ। \n\n\n(ख) दफा १४ को उपदफा (२) को म्यादभित्र प्रतिवाद पेश नभए तापनि सोही कारणले मात्र प्रतिदावी पेश नगर्ने पक्षले शदावीकर्ताको दावी स्वीकार गरेको मानिने छैन र दावीकर्ताको दावी र सो दावी पुष्टी गर्न पेश भएका प्रमाणको मूल्याङ्कन हुने गरी मध्यस्थले आफ्नो कारबाही जारी राखु पर्नेछ ।\n\n\n(ग) मध्यस्थले तोकेको सुनुवाईका बखत कुनै पक्ष उपस्थित नभएमा वा लिखित प्रमाण दाखिला नगरेमा पेश हुन आएका प्रमाणहरुको आधारमा मध्यस्थले निर्णय गर्न सक्नेछ र त्यस्तो निर्णयको प्रतिलिपि प्रतिवाद नगर्ने पक्षलाई समेत पठाउनु पर्नेछ ।\n\n---",
+          "chapterTitle": "परिच्छेद -४ मध्यस्थता सम्बन्धी कारबाही र मध्यस्थको अधिकार"
+        }
+      },
+      {
+        "id": "sec_16",
+        "english": {
+          "title": "Section 16: Power of the Arbitrator to Determine Jurisdiction",
+          "content": "1) In case any party claims that the arbitrator has no jurisdiction over the dispute which has been referred to him/her for settlement or that the contract because of which the dispute has emerged is itself illegal or null and void, it may claim so before the arbitrator. The arbitrator shall take a decision on his/her jurisdiction or the validity or effectiveness of the contract before starting the proceeding on the matter referred to him/her.\r\n\r\n\r\n2) Any party not satisfied with the decision taken under sub-section (2) may file an appeal with the Appellate Court within 30 days from the date of the decision, and the decision taken by that court on the matter shall be final.\r\n\r\n\r\n3) For the purpose of taking a decision on the validity or effectiveness of a contract pursuant to sub-section (1), in case the contract contains provisions for the settlement of disputes through arbitration as its integral part, such provisions shall be taken as a separate agreement, and even if the arbitrator takes a decision holding the contract as null and void, such provisions shall not be held to be legally null and void for that reason alone.\r\n\r\n\r\n4) No claim may be made pursuant to sub-section (1) after the expiry of the time limit for submitting objections prescribed pursuant to sub-section (2) of section 14.\r\n\r\n\r\n5) No party shall be deemed to have been deprived of the opportunity to claim pursuant to sub-section (1) simply for the reason of having appointed an arbitrator on its behalf or participated in or agreed to the appointment of the arbitrator.\r\n\r\n\r\n6) The filing of a petition with the Appellate Court pursuant to sub-section (2) shall not be deemed to have prejudiced the power of the arbitrator to continue the proceedings and pronounce the decision before the petition is finally disposed of by the court.\r\n\r\n---",
+          "chapterTitle": "Chapter- 4 Arbitration Proceedings and Powers of Arbitrators"
+        },
+        "nepali": {
+          "title": "दफा १६ः मध्यस्थले क्षेत्राधिकार निर्धारण गर्न सक्ने",
+          "content": "१) मध्यस्थ समक्ष पेश भएको विवादको निरोपण गर्ने मध्यस्थको क्षेत्राधिकार नरहेको वा जुन करारको कारणबाट विवाद उत्पन्न भएको हो सो करार नै गैर कानूनी वा बदरयोग्य वा प्रभावहीन भएको दावी कुनै पक्षले लिन चाहेमा त्यस्तो दावी निजले मध्यस्थ समक्ष पेश गर्न सक्नेछ र मध्यस्थले आफूलाई सुम्पिएको काम कारबाही प्रारम्भ गर्नु अघि क्षेत्राधिकार वा करारको वैधता वा प्रभावकारीताका सम्बन्धमा निर्णय गर्नु पर्नेछ। \n\n\n२) उपदफा (१) बमोजिम निर्णय उपर चित्त नबुझ्ने पक्षले सो निर्णय भएको मितिले तीस दिनभित्र उच्च अदालतमा निवेदन दिन सक्नेछ र सो विषयमा उच्च अदालतले दिएको निर्णय अन्तिम हुनेछ।\n\n\n३) उपदफा (१) बमोजिम करारको वैधता वा प्रभावकारीताको सम्बन्धमा निर्णय गर्ने प्रयोजनका लागि कुनै करारमा मध्यस्थताद्वारा विवादको समाधान गर्ने प्रावधान रहेछ र सो प्रावधान सोही करारको अभिन्न अंगको रुपमा रहेको रहेछ भने सो करारको मध्यस्थता सम्बन्धी प्रावधानलाई छुट्टै सम्झौताको रुपमा लिइनेछ । मध्यस्थले त्यस्तो करार बदर वा अमान्य हुने गरी वा प्रभावहीन भएको निर्णय गरे तापनि सोही कारणले त्यस्तो प्रावधान कानूनतः बदर वा अमान्य वा प्रभावहीन भएको मानिने छैन।\n\n\n४) दफा १४ को उपदफा (२) बमोजिम प्रतिवाद पेश गर्ने म्याद नाघेपछि उपदफा (१) बमोजिमको दावी गर्न सकिने छैन।\n\n\n५) कुनै पक्षले आफ्नो तर्फबाट मध्यस्थ नियुक्त गरेको वा मध्यस्थ नियुक्तिमा सहभागी भएको वा मध्यस्थको नियुक्तिमा सहमति जनाएको कारणले मात्र त्यस्तो पक्ष उपदफा (१) बमोजिमको दावी लिनबाट वञ्चित भएको मानिने छैन।\n\n\n६) उपदफा (२) बमोजिम उच्च अदालतमा दायर भएको निबेदन सो अदालतबाट अन्तिम किनारा नहुँदै मध्यस्थलाई आफ्नो कारबाही जारी राख र निर्णय गर्न बाधा पुगेको मानिने छैन।\n\n---",
+          "chapterTitle": "परिच्छेद -४ मध्यस्थता सम्बन्धी कारबाही र मध्यस्थको अधिकार"
+        }
+      },
+      {
+        "id": "sec_17",
+        "english": {
+          "title": "Section 17: Procedure to be Adopted by Arbitrators",
+          "content": "1) The procedure to be adopted by the arbitrator while taking a decision on a dispute shall be as mentioned in the agreement, and in case no such procedure has been mentioned in the agreement, it shall be as laid down in this Act.\r\n\r\n\r\nProvided that the procedure not laid down in the Act shall be as prescribed by the arbitrator with the consent of the parties, and in case the parties fail to reach an agreement in that connection, it shall be as prescribed by the arbitrator him/herself.\r\n\r\n\r\n2) The arbitrator shall start arbitration proceedings immediately after receiving all such claims, objections, counter-claims or rejoinders as need to be received by him/her.\r\n\r\n\r\n3) The arbitrator must inform the parties about the type of proceedings to be held and the day and time fixed for the purpose and also keep records thereof in the concerned case file.\r\n\r\n\r\n4) In respect to a dispute which has been referred to three or more arbitrators, the arbitrators who are present may conduct all arbitration proceedings other than taking the final decision or issuing the final order.\r\n\r\n\r\n5) The arbitrator may continue arbitration proceedings and pronounce his/her decision on the basis of the available evidence even if any party does not present itself on the day and at the time of arbitration proceedings after receiving a notice pursuant to sub-section (3).\r\n\r\n\r\n6) After the completion of the hearing process, the arbitrator shall issue an order stating that the hearing has concluded and keeping a record thereof in the case file. No evidence may be examined, and neither may the parties be heard thereafter.\r\n\r\n\r\n7) Notwithstanding otherwise claimant in the agreement, the arbitrator must read out his/her written decision within 30 days from the date of issue of an order pursuant to sub-section (6).\r\n\r\n---",
+          "chapterTitle": "Chapter- 4 Arbitration Proceedings and Powers of Arbitrators"
+        },
+        "nepali": {
+          "title": "दफा १७ः मध्यस्थले अपनाउने कार्यविधि",
+          "content": "१) मध्यस्थले बिवादको निर्णय गर्दा अपनाउनु पर्ने कार्यविधि सम्झौतामा उल्लेख भएकोमा सोही बमोजिम र त्यसरी उल्लेख नभएकोमा यस ऐन बमोजिम हुनेछ।\n\n\nतर यस ऐनमा व्यवस्था नभएको कार्यविधि पक्षहरुको सहमतिमा मध्यस्थले तोके बमोजिम र त्यस्तो सहमति नभएमा मध्यस्थ आफैले निर्धारण गरे बमोजिम हुनेछ।\n\n\n२) मध्यस्थ समक्ष पेश हुनुपर्ने दावी, प्रतिवाद, प्रतिदावी वा प्रत्युक्ति पेश भइसकेपछि मध्यस्थले अविलम्ब मध्यस्थता सम्बन्धी काम कारबाही शुरु गर्नु पर्नेछ ।\n\n\n३) मध्यस्थता सम्बन्धी के कस्तो काम कारबाही कुने दिन र समयमा हुने हो त्यसको जानकारी पक्षहरुलाई दिनु पर्नेछ र सम्बन्धित मिसिलमा त्यसरी जानकारी दिएको अभिलेख राख्नु पर्नेछ ।\n\n\n४) तीनजना वा सो भन्दा बढी मध्यस्थ रहेको विवादमा निर्णय गर्ने वा अन्तिम आदेश दिने काम बाहेक मध्यस्थताको अन्य कारबाही उपस्थित मध्यस्थहरुबाट हुन सक्नेछ ।\n\n\n५) उपदफा (३) बमोजिम जानकारी पाएपछि कुनै पक्ष मध्यस्थताको कारबाही हुने दिन र समयमा उपस्थित नभए तापनि मध्यस्थले कारबाही जारी राख र उपलब्ध प्रमाणका आधारमा आफ्नो निर्णय दिन सक्नेछ ।\n\n\n६) मध्यस्थ समक्ष सुनुवाईको काम सकिए पछि मध्यस्थले सुनुवाईको. कारबाही अन्त भएको आदेश गरी सो कुराको अभिलेख मिसिलमा राख्नु पर्नेछ र त्यसपछि पक्षबाट प्रमाणहरु बुझ्ने वा सुनुवाई गर्ने कार्य हुन सक्ने छैन ।\n\n\n७) सम्झौतामा अन्यथा व्यवस्था भएकोमा बाहेक उपदफा (६) बमोजिम आदेश गरेको साधारणतः तीस दिनभित्र मध्यस्थले आफ्नो लिखित निर्णय सुनाउनु पर्नेछ ।\n\n---",
+          "chapterTitle": "परिच्छेद -४ मध्यस्थता सम्बन्धी कारबाही र मध्यस्थको अधिकार"
+        }
+      },
+      {
+        "id": "sec_18",
+        "english": {
+          "title": "Section 18: Substantive Law to be followed by Arbitrators",
+          "content": "1) The Nepal Law shall be the substantive law to be followed by the arbitrator, except when otherwise provided for in the agreement.\r\n\r\n\r\n2) The arbitrator may settle the dispute according to the principle of justice and conscience (Ex aqua et bono) or natural justice (amiable compositor) only when explicitly authorised by the parties to do so.\r\n\r\n\r\n3) Notwithstanding anything contained elsewhere in this act, the arbitrator shall settle the dispute according to the conditions stipulated in the concerned contract. While doing so, the arbitrator shall also pay attention to the commercial usages applicable to the concerned transaction.\r\n\r\n---",
+          "chapterTitle": "Chapter- 4 Arbitration Proceedings and Powers of Arbitrators"
+        },
+        "nepali": {
+          "title": "दफा १८ः मध्यस्थले अपनाउने सारवान कानुन",
+          "content": "१) सम्झौतामा अन्यथा व्यवस्था भएकोमा बाहेक मध्यस्थले अपनाउने सारवान कानून नेपाल कानून हुनेछ ।\n\n\n२) पक्षहरुले स्पष्ट रुपमा अख्तियारी दिएको अवस्थामा मात्र मध्यस्थले विवादलाई न्याय र सद्विवेक (एक्स एक्वा एट वोनो) वा प्राकृतिक समन्याय (एमिएवल कम्पोजिटर) को सिद्धान्त बमोजिम विवादको निरोपण गर्न सक्नेछ।\n\n\n३) यस दफामा अन्यत्र जुनसुकै कुरा लेखिएको भए तापनि मध्यस्थले सम्बन्धित करारका शर्तहरु बमोजिम विवादको निरोपण गर्नेछ र त्यसरी विवाद निरोपण गर्दा सम्बन्धित कारोबारमा लागू हुने व्यापारिक प्रचलनहरु (युसेज) उपर समेत ध्यान दिनु पर्नेछ।\n\n---",
+          "chapterTitle": "परिच्छेद -४ मध्यस्थता सम्बन्धी कारबाही र मध्यस्थको अधिकार"
+        }
+      },
+      {
+        "id": "sec_19",
+        "english": {
+          "title": "Section 19: Arbitration Hearings to be held in Camera",
+          "content": "Except when otherwise desired by the parties, arbitration proceedings shall be held in-camera.\r\n\r\n---",
+          "chapterTitle": "Chapter- 4 Arbitration Proceedings and Powers of Arbitrators"
+        },
+        "nepali": {
+          "title": "दफा १९ः मध्यस्थताको सुनुवाई गोप्य रुपमा हुने",
+          "content": "पक्षहरुले अन्यथा चाहेमा बाहेक मध्यस्थताको सुनुवाई गोप्य रुपमा हुनेछ ।\n\n---",
+          "chapterTitle": "परिच्छेद -४ मध्यस्थता सम्बन्धी कारबाही र मध्यस्थको अधिकार"
+        }
+      },
+      {
+        "id": "sec_20",
+        "english": {
+          "title": "Section 20: Saving Notices and Summon",
+          "content": "1) Notwithstanding anything contained in the prevailing law, any notice to be served in connection with arbitration, or any notice or summon to be furnished in the name of any party residing\r\nwithin or outside Nepal in connection with the hearing by the arbitrator, or with the dispute under consideration of the arbitrator, may be delivered directly to the concerned party or sent to its telex, telefax or telegram address or to the address of any other communication media whose printed records can be maintained, if such address is mentioned in the agreement, or if the concerned parties have supplied such address to each other or to their respective arbitrators after signing the agreement, except when otherwise provided for in the agreement. In case the address of such communication media or any other address has not been supplied, such notices or summonses shall be served at the place of business or permanent residence of the concerned party. Notice or summon so served shall be deemed to have been duly served.\r\n\r\n\r\nProvided that notice or summon to be served by the postal service shall be served only after registering it.\r\n\r\n\r\n2) Notwithstanding anything contained in sub-section (1), this provision shall have no prejudicial impact on the function and proceeding of the court.\r\n\r\n---",
+          "chapterTitle": "Chapter- 4 Arbitration Proceedings and Powers of Arbitrators"
+        },
+        "nepali": {
+          "title": "दफा २०ः सूचना तथा म्याद तामेली",
+          "content": "१) प्रचलित कानूनमा जुनसुकै कुरा लेखिएको भए तापनि मध्यस्थताका सम्बन्धमा दिइने कुनै सूचना वा मध्यस्थले सुनुवाई गर्ने विषयमा वा मध्यस्थ समक्ष विचाराधीन रहेको विवादमा नेपाल 1…….. भित्र वा नेपाल 1……… बाहिर रहे बसेको पक्षको नाउँमा कुनै म्याद वा सूचना तामेल गर्नु परेमा सम्झौतामा अन्यथा भएकोमा बाहेक सम्बन्धित पक्षलाई सिधै बुझाई वा पक्षको टेलेक्स, टेलिफ्याक्स, टेलिग्राम वा लिखित अभिलेख रहन सक्ने त्यस्तो प्रकृतिका अन्य कुनै दूरसञ्चार माध्यमको ठेगाना सम्झौतामा उल्लेख भएको रहेछ वा सम्झौता भएपछि पक्षहरुले त्यस्तो ठेगाना एक अर्कोलाई वा मध्यस्थलाई उपलब्ध गराएका रहेछन्‌ भने त्यस्तो ठेगानामा म्याद वा सूचना पठाउन सकिनेछ । त्यस्तो सञ्चार माध्यम वा ठेगाना उपलब्ध नगराएकोमा सम्बन्धित पक्षको व्यवसाय रहेको स्थान वा निजको स्थायी बसोबास भएको स्थानमा बुझाउनु पर्नेछ । यसरी दिइएको सूचना वा भएको म्याद तामेली रीतपूर्वक भए गरेको मानिनेछ ।\n\n\nतर हुलाकद्वारा त्यस्तो म्याद वा सूचना पठाउँदा रजिष्ट्री गरी पठाउनु पर्नेछ ।\n\n\n२) उपदफा (१) मा जुनसुकै कुरा लेखिएको भए तापनि अदालतको काम कारबाहीका सम्बन्धमा यस व्यवस्थाले प्रतिकूल प्रभाव पार्ने छैन ।\n\n\n1 गणतन्र सदृुढीकरण तथा केही नेपाल कानून संशोधन गर्ने ऐन, २०६६ द्वारा झिकिएको।\n\n---",
+          "chapterTitle": "परिच्छेद -४ मध्यस्थता सम्बन्धी कारबाही र मध्यस्थको अधिकार"
+        }
+      },
+      {
+        "id": "sec_21",
+        "english": {
+          "title": "Section 21: Power of the Arbitrator",
+          "content": "1) The powers of the arbitrator shall be as follows, except when otherwise provided for in the agreement:\r\n\r\n\r\n(a) To direct the concerned parties to appear before him/her to submit documents and record their statements as required.\r\n(b) To record statements of the witness.\r\n\r\n\r\n(c) To appoint an expert and seek their opinion or cause examination on any specific issue.\r\n\r\n\r\n(d) In case the party is a foreign national so that, the decision pronounced by the arbitrator is not likely to be implemented for that reason to obtain a bank guarantee or any other appropriate guarantee as determined by the arbitrator.\r\n\r\n\r\n(e) To inspect the concerned place, object, product, structure, production process or any other related matter which are connected with the dispute on the request of the parties or on his/her own initiative if he/she so deems appropriate, and in case there is any material or object which is likely to be destroyed or damaged, to sell them in consultation with the parties, and keep the sale proceeds as a deposit.\r\n\r\n\r\n(f) To exercise any specific power conferred by the parties.\r\n\r\n\r\n(g) To issue preliminary orders, or interim or inter-locating orders in respect to any matter connected with the dispute on the request of any party, or take a conditional decision.\r\n\r\n\r\n(h) To issue a certified copy of the document.\r\n\r\n\r\n(i) To exercise the other power conferred by this Act.\r\n\r\n\r\n2) Any party which is not satisfied with the order issued by the arbitrator pursuant to Clause (g) of Sub-section (1) may submit an application to the appellate court within 15 days, and the decision made by the Appellate Court shall be final.\r\n\r\n---",
+          "chapterTitle": "Chapter- 4 Arbitration Proceedings and Powers of Arbitrators"
+        },
+        "nepali": {
+          "title": "दफा २१ः मध्यस्थको अधिकार",
+          "content": "१) सम्झौतामा अन्यथा व्यवस्था भएकोमा बाहेक मध्यस्थको अधिकार देहाय बमोजिम हुनेछः-\n\n\n(क) पक्षहरुलाई आफू समक्ष उपस्थित गराउने, कागजपत्र पेश गर्न लगाउने र आवश्यकतानुसार बयान लिने,\n\n\n(ख) साक्षीहरुलाई बकपत्र गराउने,\n\n\n(ग) कुनै खास विषयमा विशेषज्ञ नियुक्त गरी जाँच गराउने वा राय लिने,\n\n\n(घ) कुनै पक्ष विदेशी नागरिक भएको कारणले आफूले दिएको निर्णय कार्यान्वयन हुन सक्ने किसिमको अवस्था नभएमा मध्यस्थले तोके बमोजिमको बैङ्क ग्यारेण्टी वा अन्य उपयुक्त जमानत लिने,\n\n\n(ङ) पक्षको अनुरोधमा वा आफैले उपयुक्त देखेमा विवादसँग सम्बन्धित स्थान, वस्तु उत्पादन, संरचना, उत्पादन प्रक्रिया वा सोसँग सम्बन्धित अन्य कुराको निरीक्षण गर्ने तथा नासिने बिग्रिने किसिमका चीज वस्तु भएमा पक्षहरुसँग परामर्श गरी बिक्री गरी आएको रकम धरौट राख्ने,\n\n\n(च) पक्षहरुले प्रदान गरेको कुने खास अधिकारको प्रयोग गर्ने,\n\n\n(छ) प्रारम्भिक आदेश, कुनै पक्षको अनुरोधमा विवादको विषयवस्तुसँग सम्बन्धित कुनै कुरामा अन्तरिम आदेश वा अन्तरकालीन आदेश जारी गर्ने वा शर्त सहितको निर्णय गर्ने,\n\n\n(ज) लिखतको प्रमाणित नक्कल दिने,\n\n\n(झ) यस ऐनले प्रदान गरेको अन्य अधिकारको प्रयोग गर्ने ।\n\n\n२) उपदफा (१) को खण्ड (छ) बमोजिम मध्यस्थले दिएको आदेश उपर चित्त नबुझ्ने पक्षले पन्ध्र दिनभित्र उच्च अदालतमा निवेदन दिन सक्नेछ र सो सम्बन्धमा उच्च अदालतले गरेको निर्णय अन्तिम हुनेछ ।\n\n---",
+          "chapterTitle": "परिच्छेद -४ मध्यस्थता सम्बन्धी कारबाही र मध्यस्थको अधिकार"
+        }
+      },
+      {
+        "id": "sec_22",
+        "english": {
+          "title": "Section 22: Parties to have Equal Opportunity",
+          "content": "1) Each party shall be provided with an equal and adequate opportunity in the arbitration proceedings to present its case subject to this Act.\r\n\r\n\r\n2) Any party may attend the arbitration proceedings either in person or by proxy and also designate a legal practitioner on its behalf.\r\n\r\n---",
+          "chapterTitle": "Chapter- 4 Arbitration Proceedings and Powers of Arbitrators"
+        },
+        "nepali": {
+          "title": "दफा २२ः पक्षलाई समान अवसर हुने",
+          "content": "१) मध्यस्थता सम्बन्धी कारबाहीमा प्रत्येक पक्षलाई आफ्नो कुरा प्रस्तुत गर्न यस ऐनको अधीनमा रही पर्याप्त र अवसर दिइनेछ ।\n\n\n२) मध्यस्थता सम्बन्धी कारबाहीमा कुनै भी पक्ष आफै वा आफ्नो प्रतिनिधि मार्फत उपस्थित हुन सक्नेछ र आफ्नो तर्फबाट कानून व्यवसायी मुकरर गर्न समेत सक्नेछ ।\n\n---",
+          "chapterTitle": "परिच्छेद -४ मध्यस्थता सम्बन्धी कारबाही र मध्यस्थको अधिकार"
+        }
+      },
+      {
+        "id": "sec_23",
+        "english": {
+          "title": "Section 23: Assistance of the Court May be Sought to Examine Any Evidence",
+          "content": "Notwithstanding anything contained in the prevailing law, in case the arbitrator requires the assistance of the court to examine any evidence concerning a dispute under consideration, the arbitrator him/herself may, on his/her own or at the request of any party, request the District Court for such assistance. In case any such request is received, the District Court shall provide assistance in examining the evidence according to the prevailing law.\r\n\r\n---\r\n\r\n\r\n---",
+          "chapterTitle": "Chapter- 4 Arbitration Proceedings and Powers of Arbitrators"
+        },
+        "nepali": {
+          "title": "दफा २३ः प्रमाण बुझ्न अदालतको सहयोग लिन सकिने",
+          "content": "प्रचलित कानूनमा जुनसुकै कुरा लेखिएको भए तापनि मध्यस्थ समक्ष विचाराधीन रहेको विवादका सम्बन्धमा कुनै प्रमाण बुझ्न मध्यस्थलाई अदालतको सहयोग आवश्यक परेमा मध्यस्थ आफैंले वा पक्षको अनुरोधमा जिल्ला अदालत समक्ष त्यस्तो सहयोगको लागि अनुरोध गर्न सक्नेछ। यसरी अनुरोध भै आएमा प्रचलित कानून बमोजिम जिल्ला अदालतले प्रमाण बुझ्ने सम्बन्धमा सहयोग गर्नु पर्नेछ।\n\n---\n\n\n---",
+          "chapterTitle": "परिच्छेद -४ मध्यस्थता सम्बन्धी कारबाही र मध्यस्थको अधिकार"
+        }
+      },
+      {
+        "id": "sec_24",
+        "english": {
+          "title": "Section 24: Period Within Which Decision Must Be Taken",
+          "content": "Except when otherwise provided for in the agreement, the arbitrator shall pronounce the decision ordinarily within 120 days from the date of submission of documents under Section 14 pursuant to sub-section (7) of Section 17.\r\n\r\n---",
+          "chapterTitle": "Chapter- 5 Decision of the Arbitrator and Implementation"
+        },
+        "nepali": {
+          "title": "दफा २४ः निर्णय गर्नुपर्ने अवधि",
+          "content": "सम्झौतामा अन्यथा उल्लेख भएकोमा बाहेक दफा १७ को उपदफा (७) को अधीनमा रही दफा १४ बमोजिमका कागजातहरु मध्यस्थ समक्ष पेश भएको साधारणतः एक सय बीस दिनभित्र मध्यस्थले आफ्नो निर्णय दिनु पर्नेछ।\n\n---",
+          "chapterTitle": "परिच्छेद -५  मध्यस्थको निर्णय र त्यसको कार्यान्वयन"
+        }
+      },
+      {
+        "id": "sec_25",
+        "english": {
+          "title": "Section 25: Circumstances in Which Decisions Must Not Be Taken",
+          "content": "1) In case any issue requiring arbitration is found to be inextricably linked with any other issue on which the arbitrator cannot pronounce the decision, the arbitration shall not pronounce the decision on that issue.\r\n\r\n\r\n2) In a situation in which the arbitrator cannot take a decision pursuant to sub-section (1), the arbitration must inform the concerned parties accordingly.\r\n\r\n\r\n3) The concerned party may file a complaint to the Court within 35 days from the date of receipt of a notice pursuant to sub-section (2), Notwithstanding anything contained in the prevailing law.\r\n\r\n---",
+          "chapterTitle": "Chapter- 5 Decision of the Arbitrator and Implementation"
+        },
+        "nepali": {
+          "title": "दफा २५ः निर्णय दिन नहुने अवस्था",
+          "content": "१) मध्यस्थता गर्नुपर्ने विषयसँग मध्यस्थले निर्णय गर्न नहुने विषय अभिन्न रुपमा गासिएको रहेछ भने त्यस्तो विषयमा मध्यस्थले निर्णय दिने छैन ।\n\n\n२) उपदफा (१) बमोजिम निर्णय गर्न नहुने अवस्था परेमा मध्यस्थले सोको सूचना सम्बन्धित पक्षहरुलाई दिनु पर्नेछ ।\n\n\n३) उपदफा (२) बमोजिम सूचना प्राप्त गरेको मितिले पैंतीस दिनभित्र सम्बन्धित पक्षले प्रचलित कानूनमा जुनसुकै कुरा लेखिएको भए तापनि अदालतमा उजूर गर्न सक्नेछ ।\n\n---",
+          "chapterTitle": "परिच्छेद -५  मध्यस्थको निर्णय र त्यसको कार्यान्वयन"
+        }
+      },
+      {
+        "id": "sec_26",
+        "english": {
+          "title": "Section 26: Decision of Arbitrator",
+          "content": "1) In case there are three more arbitrators, the decision of the majority shall be deemed to be the decision of arbitration.\r\n\r\n\r\n2) In case the arbitrators have dissenting opinions so that the majority (opinion) cannot be ascertained, the opinion of the chief arbitrator shall be deemed to be the decision of arbitration, except when otherwise provided for in the agreement.\r\n\r\n\r\n3) Every arbitrator must affix a signature on the decision subject to sub-section (4).\r\n\r\n\r\nProvided that in case there is any special reason why any arbitrator cannot affix a signature on the decision, the other arbitrators shall affix their signatures explicitly mentioning the reason.\r\n\r\n\r\n4) In case any arbitrator does not agree with the decision of arbitration, he/she may express his/her dissenting opinion.\r\n\r\n---",
+          "chapterTitle": "Chapter- 5 Decision of the Arbitrator and Implementation"
+        },
+        "nepali": {
+          "title": "दफा २६ः मध्यस्थको निर्णय",
+          "content": "१) तीनजना वा सोभन्दा बढी मध्यस्थहरु भएमाबहुसंख्यकको राय नै मध्यस्थको निर्णय मानिनेछ ।\n\n\n२) मध्यस्थहरुको राय भिन्न भिन्न भई बहुमत कायम हुन नसकेमा सम्झौतामा अन्यथा व्यवस्था-भएकोमा बाहेक मुख्य मध्यस्थको राय मध्यस्थको निर्णय मानिनेछ ।\n\n\n३) उपदफा (४) को अधीनमा रही प्रत्येक मध्यस्थले निर्णयमा दस्तखत गर्नु पर्नेछ ।\n\n\nतर कुनै मध्यस्थले निर्णयमा दस्तखत गर्न नसक्ने कुनै कारण भएमा सो खुलाई बाँकी मध्यस्थले दस्तखत गर्नु पर्नेछ ।\n\n\n४) कुनै मध्यस्थ मध्यस्थताको निर्णयसँग सहमत हुन नसकेमा  सहमतिपूर्ण राय व्यक्त गर्न सक्नेछ ।\n\n---",
+          "chapterTitle": "परिच्छेद -५  मध्यस्थको निर्णय र त्यसको कार्यान्वयन"
+        }
+      },
+      {
+        "id": "sec_27",
+        "english": {
+          "title": "Section 27: Matters to be Mentioned in Decision",
+          "content": "The arbitrator must explicitly mention the following matters in the decision, except when otherwise provided for in the agreement:\r\n\r\n\r\n(a) Brief particulars of the matter referred to for arbitration.\r\n\r\n\r\n(b) In case any party has questioned the jurisdiction of arbitration, the grounds for deciding that the matter falls under the jurisdiction of arbitration are as follows:\r\n\r\n\r\n(c) The arbitrator’s decision and the reasons and grounds for reaching that decision.\r\n\r\n\r\n(d) Claims which must be realised or amounts which must be compensated.\r\n\r\n\r\n(e) Interest on the amount to be realised and the additional interest rate to be charged after the expiry of the time limit for implementing the decision of the arbitrator in the event of the limit mentioned in section 31.\r\n\r\n\r\n(f) Place and date of decision.\r\n\r\n---",
+          "chapterTitle": "Chapter- 5 Decision of the Arbitrator and Implementation"
+        },
+        "nepali": {
+          "title": "दफा २७ः निर्णयमा खुलाउनु पर्ने कुरा",
+          "content": "सम्झौतामा अन्यथा उल्लेख भएकोमा बाहेक मध्यस्थले निर्णयमा देहायका कुराहरु स्पष्ट रुपमा खुलाउनु पर्नेछः-\n\n\n(क) मध्यस्थता गर्न सुम्पिएको विषयको छोटकरी विवरण,\n\n\n(ख) मध्यस्थताको क्षेत्राधिकार उपर कुनै पक्षले प्रश्न उठाएको भए क्षेत्राधिकार भएको ठहर गर्ने आधार,\n\n\n(ग) मध्यस्थको ठहर र उक्त ठहरमा पुग्न लिईएका कारण र आधार,\n\n\n(घ) भरीभराउ वा क्षतिपूर्ति गरी दिनुपर्ने कुरा वा रकम,\n\n\n(ङ) भरीभराउ गर्नुपर्ने रकममा लाग्ने ब्याज र दफा ३१ को म्यादभित्र मध्यस्थको निर्णय कार्यान्वयन नभएमा त्यस्तो समय व्यतित भएपछि लाग्ने थप ब्याज दर,\n\n\n(च) मध्यस्थताको निर्णय भएको स्थान र मिति।\n\n---",
+          "chapterTitle": "परिच्छेद -५  मध्यस्थको निर्णय र त्यसको कार्यान्वयन"
+        }
+      },
+      {
+        "id": "sec_28",
+        "english": {
+          "title": "Section 28: Decision to be Read Out",
+          "content": "The arbitrator shall read out the decision in the presence of the concerned parties, hand over a copy of that decision to each party, and keep evidence thereof in the case file. In case any party is\r\nabsent at the time fixed for reading out the decision or refuses to accept a copy of the decision even after being present at the time fixed for reading out the decision, a notice shall be furnished to him/her along with a copy of the decision after indicating the same.\r\n\r\n---",
+          "chapterTitle": "Chapter- 5 Decision of the Arbitrator and Implementation"
+        },
+        "nepali": {
+          "title": "दफा २८ः निर्णय सुनाउनु पर्ने",
+          "content": "मध्यस्थले पक्षहरुका समक्ष निर्णय पढी सुनाउनु पर्नेछ र त्यसको एक एक प्रति सम्बन्धित सबै पक्षहरुलाई दिई सोको निस्सा मिसिल साथ राख्नु पर्नेछ । कुनै पक्ष: निर्णय सुनाउन तोकिएको समयमा अनुपस्थित रहेमा वा उपस्थित भएर पनि निर्णयको प्रतिलिपि बुझिलिन इन्कार गरेमा सो कुरा जनाई निर्णयको प्रतिलिपि संलग्न गरी निजलाई सूचना दिनु पर्नेछ।\n\n---",
+          "chapterTitle": "परिच्छेद -५  मध्यस्थको निर्णय र त्यसको कार्यान्वयन"
+        }
+      },
+      {
+        "id": "sec_29",
+        "english": {
+          "title": "Section 29: Prohibition to Revision of Decision",
+          "content": "1) Except the Appellate Court has issued an order under Section 30, the arbitrator shall not take another decision on the matter referred to him/her for arbitration after once reading out his decision on the matter, except correcting arithmetic, printing, typing or similar other minor errors and inserting omitted particulars without prejudice to the substance of the decision.\r\n\r\n\r\n2) In case any party observes that any mistake contained in the decision of the arbitrator needs to be corrected pursuant to sub-section (1), one must submit an application to the arbitrator within 30 days from the date of receipt of a copy of the decision. In case the arbitrator deems it appropriate to correct such mistakes or insert any omitted particulars, he/she may prepare a separate note thereof and have the omitted particulars inserted or mistake corrected within 15 days from the date of receipt of the application. In case the arbitrator the deems it appropriate to make such\r\ncorrection, he/she must do so by preparing a note and informing the parties accordingly within 30 days from the decision date.\r\n\r\n\r\n3) Notwithstanding anything contained elsewhere in this Section, in case the arbitrator has not taken a decision on any point from among the points contained in the claims made by any party, the concerned party may submit an application for a decision on the point to the extent of the matter covered by it after securing the approval of the other party within 30 days from the date of decision by the arbitrator. In case such an application is received, a supplementary decision may be taken by confining in to the matter covered by the point within 45 days from the date of application.\r\n\r\n\r\n4) If the parties agree, any party may, by notifying the other party, request the arbitrator to explain any point contained in or any part of the arbitrator’s decision which is not clear within 30 days from the decision date. In case any such request is received, the arbitrator may explain and clarify any unclear point within 45 days.\r\n\r\n---",
+          "chapterTitle": "Chapter- 5 Decision of the Arbitrator and Implementation"
+        },
+        "nepali": {
+          "title": "दफा २९ः दोहर्‍याई निर्णय गर्न नहुने",
+          "content": "१) दफा ३० बमोजिम उच्च अदालतले आदेश दिएकोमा बाहेक मध्यस्थले आफू समक्ष सुम्पिएको विषयमा एकपटक निर्णय गरिसकेपछि निर्णयको मूल सारमा असर नपर्ने गरी गणितीय, छपाई, टाइपिङ्ग वा त्यस्तै प्रकृतिका सानातिना त्रुटि सच्याउन र त्यसमा छुट भएको कुरा समावेश गर्न बाहेक सोही विषयमा पुनः अर्को निर्णय गर्न हुँदैन ।\n\n\n२) उपदफा (१) बमोजिम मध्यस्थको निर्णयमा भएका त्रुटि सच्याउनु पर्ने भन्ने कुनै पक्षलाई लागेमा निजले निर्णयको प्रतिलिपि पाएको मितिले तीस दिनभित्र मध्यस्थ समक्ष निवेदन दिनु पर्नेछ र मध्यस्थले त्यस्तो त्रुटि सच्याउन वा छुट भएको कुरा समावेश गर्न मनासिब देखेमा त्यस्तो निवेदन प्राप्त भएको मितिले पन्ध्र दिनभित्र छुट्टै पर्चा खडा गरी छुट भएको कुरा समावेश गर्न र त्रुटि सच्याउन सक्नेछ । मध्यस्थ आफैले त्यस्तो कुरा सच्याउन उचित ठानेमा निर्णय भएको तीस दिनभित्र पर्चा खडा गरी सच्याई त्यसको जानकारी सम्बन्धित पक्षहरुलाई दिनु पर्नेछ ।\n\n\n३) यस दफामा अन्यत्र जुनसुकै कुरा लेखिएको भए तापनि कुनै पक्षले दावी पेश गरेका कुराहरुमध्ये कुनै कुराका सम्बन्धमा मध्यस्थले निर्णय गरेको रहेनछ भने त्यस्ता कुराका हदसम्म अर्को पक्षको सहमति लिई मध्यस्थले निर्णय गरेको तीस दिनभित्र सो कुरामा निर्णय हुन निवेदन दिन सक्नेछ र त्यसरी निवेदन परेकोमा निवेदन परेको .पैंतालीस दिनभित्र सोही हदसम्म सीमित रही पूरक निर्णय गर्न सक्नेछ ।\n\n\n४) पक्षहरुको सहमति भएमा निर्णयको कुनै कुरा वा अंश अस्पष्ट भएकोले व्याख्या गर्न कुनै पक्षले अर्को पक्षलाई सूचना दिई मध्यस्थको निर्णय भएको मितिले तीस दिनभित्र मध्यस्थ समक्ष अनुरोध गर्न सक्नेछ र त्यस्तो अनुरोध भएमा पैंतालीस दिनभित्र मध्यस्थले अस्पष्ट भएको कुराको व्याख्या गरी स्पष्ट पार्न सक्नेछ ।\n\n---",
+          "chapterTitle": "परिच्छेद -५  मध्यस्थको निर्णय र त्यसको कार्यान्वयन"
+        }
+      },
+      {
+        "id": "sec_30",
+        "english": {
+          "title": "Section 30: Circumstances in Which Decision May Be Invalidated",
+          "content": "1) Any party dissatisfied with the decision taken by the arbitrator may if one wishes to invalidate the decision, file a petition to the Appellate Court along with the related documents and a copy of the decision within 35 days from the date the decision was heard or notice received thereof under this Act. The petition shall also supply a copy of that petition to the arbitrator and the other party.\r\n\r\n\r\n2) In case a petition is filed pursuant to sub-section (1), the Appellate Court may, in case the petitioner proves that the arbitration decision contains any of the following matters, invalidate that decision or issue an order to have a fresh decision taken as per necessity:\r\n\r\n\r\n(a) In case any party to the agreement was incompetent for any reason to sign the agreement at the time of signing the agreement, or in case the agreement is not valid under the law of that the nation which governs jurisdiction over the parties, or in case such law is not clear and agreement is not valid under the laws of Nepal.\r\n\r\n\r\n(b) In case the due petition was not given a notice to appoint an arbitrator or about the arbitration proceedings in time.\r\n\r\n\r\n(c) In case the decision has been taken on a disputed matter which had not been referred to the arbitrator, or in a manner contrary to the conditions prescribed for the arbitrator, or by acting beyond the jurisdiction prescribed for the arbitrator.\r\n\r\n\r\n(d) Except when an agreement has been signed contrary to the laws of Nepal, in case the procedure of designation of arbitrators or their functions and actions do not conform to the agreement signed between the parties, or in case there is no such agreement it has not been done as per this Act.\r\n\r\n\r\n3) Notwithstanding anything contained in sub-section (2), the Appellate Court may invalidate the decision of the arbitrator in the following circumstances in case a petition is filed pursuant to sub-section (1):\r\n\r\n\r\n(a) In case the dispute settled by the arbitrator cannot be settled through arbitration under the laws of Nepal.\r\n\r\n\r\n(b) In case the decision taken by the arbitrator is likely to prove detrimental to the public interests or policies.\r\n\r\n---",
+          "chapterTitle": "Chapter- 5 Decision of the Arbitrator and Implementation"
+        },
+        "nepali": {
+          "title": "दफा ३०ः निर्णय बदर हुन सक्ने",
+          "content": "१) यस ऐन बमोजिम मध्यस्थको निर्णय सुनी पाएको वा निर्णयको सूचना पाएको मितिले पैंतीस दिनभित्र त्यस्तो निर्णयमा चित्त नबुझ्ने पक्षले सो निर्णय बदर गराउन चाहेमा सम्बन्धित कागजातहरु र निर्णयको प्रतिलिपि समेत संलग्न गरी उच्च अदालतमा निवेदन दिनु पर्नेछ र त्यसको प्रतिलिपि मध्यस्थ र सम्बन्धित पक्षलाई दिनु पर्नेछ ।\n\n\n२) उपदफा (१) बमोजिम निवेदन परेकोमा मध्यस्थताको निर्णयमा देहायका कुनै कुरा रहेको निवेदन गर्ने पक्षले प्रमाणित गरेमा उच्च अदालतले त्यस्तो निर्णय बदर गर्न वा आवश्यकतानुसार पुनः निर्णय गराउन आदेश दिन सक्नेछः-\n\n\n(क) सम्झौताका कुनै पक्ष सम्झौता गर्दाका बखत कुनै कारणले सम्झौता गर्न असक्षम रहेको वा पक्षहरु जुन मुलुकको कानूनको अधीनमा रहेका छन्‌ सो कानून अनुसार वा त्यस्तो कानून स्पष्ट हुन नसकेकोमा नेपाल कानून बमोजिम सो सम्झौता वैध नरहेको,\n\n\n(ख) निवेदन गर्ने पक्षलाई मध्यस्थ नियुक्त गर्नका लागि वा मध्यस्थताको कारबाहीका सम्बन्धमा समयमा नै रीतपूर्वक सूचना नदिएको,\n\n\n(ग) मध्यस्थलाई नसुम्पिएको विवादसँग सम्बन्धित विषयमा वा मध्यस्थलाई सुम्पिएको शर्त विपरीत वा मध्यस्थलाई सुम्पिएको क्षेत्रबाहिर गई निर्णय भएको,\n\n\n(घ) नेपाल कानून प्रतिकूल सम्झौता भएकोमा बाहेक मध्यस्थताको गठन विधि वा त्यसको काम कारबाही पक्षहरु बीच सम्पन्न सम्झौता अनुरुप नभएको वा त्यस्तो सम्झौता नभएकोमा यस ऐन अनुसार नभएको।\n\n\n३) उपदफा (२) मा जुनसुकै कुरा लेखिएको भए तापनि उपदफा (१) अनुसार निवेदन परेकोमा उच्च अदालतले देहायका अवस्थामा मध्यस्थताको निर्णय बदर गर्न सक्नेछ:-\n\n\n(क) मध्यस्थले निर्णय गरेको विवाद नेपाल कानून बमोजिम मध्यस्थद्वारा निरोपण हुन नसक्ने भएमा।\n\n\n(ख) मध्यस्थले गरेको निर्णय सार्वजनिक हित वा नीति प्रतिकूल हुने भएमा।\n\n---",
+          "chapterTitle": "परिच्छेद -५  मध्यस्थको निर्णय र त्यसको कार्यान्वयन"
+        }
+      },
+      {
+        "id": "sec_31",
+        "english": {
+          "title": "Section 31: Implementation of Award",
+          "content": "The concerned parties shall be under obligation to implement the award of the arbitrator within 45 days from the date when they receive a copy thereof.\r\n\r\n---",
+          "chapterTitle": "Chapter- 5 Decision of the Arbitrator and Implementation"
+        },
+        "nepali": {
+          "title": "दफा ३१ः निर्णयको कार्यान्वयन",
+          "content": "पक्षहरुले मध्यस्थको निर्णयको प्रतिलिपि पाएको मितिले पैतालीस दिनभित्र निर्णय कार्यान्वयन गर्नु पर्नेछ।\n\n---",
+          "chapterTitle": "परिच्छेद -५  मध्यस्थको निर्णय र त्यसको कार्यान्वयन"
+        }
+      },
+      {
+        "id": "sec_32",
+        "english": {
+          "title": "Section 32: Implementation of Award by Court",
+          "content": "In case an award cannot be implemented within the time limit prescribed in Section 31 of this Act, the concerned party may file a petition to the District Court within 30 days from the date of expiry of the time limit prescribed for that purpose to implement the award In case such a petition is filed, the District Court shall implement the award ordinarily within 30 days as if it was its own judgment.\r\n\r\n---",
+          "chapterTitle": "Chapter- 5 Decision of the Arbitrator and Implementation"
+        },
+        "nepali": {
+          "title": "दफा ३२ः अदालतबाट निर्णय कार्यान्वयन हुने",
+          "content": "यस ऐनको दफा ३१ मा तोकिएको अवधिभित्र निर्णय कार्यान्वयन हुन नसकेमा सो म्याद नाघेको तीस दिनभित्र मध्यस्थको निर्णय कार्यान्वयन गराउनको लागि सम्बन्धित पक्षले जिल्ला अदालत समक्ष निवेदन दिन सक्नेछ र त्यसरी निवेदन परेमा जिल्ला अदालतले सो निर्णयलाई आफ्नो फैसला सरह साधारणतः तीस दिनभित्र कार्यान्वयन गरिदिनु पर्नेछ।\n\n---",
+          "chapterTitle": "परिच्छेद -५  मध्यस्थको निर्णय र त्यसको कार्यान्वयन"
+        }
+      },
+      {
+        "id": "sec_33",
+        "english": {
+          "title": "Section 33: Interest to be Paid",
+          "content": "Except when otherwise provided for in the agreement, in case the arbitrator has taken an award providing for the payment of any amount by one party to another, the concerned party shall also pay interest at the rate prescribed by the arbitrator in the light also of the nature of the business related to the dispute and by ensuring that it is not higher than the rate of interest currently charged by commercial banks in respect to similar transactions.\r\n\r\n\r\nProvided that no interest shall be charged for the period between the date of the decision by the arbitrator and the time limit prescribed for the implementation of the award under this Act.\r\n\r\n---",
+          "chapterTitle": "Chapter- 5 Decision of the Arbitrator and Implementation"
+        },
+        "nepali": {
+          "title": "दफा ३३ः ब्याज तिर्नुपर्ने",
+          "content": "सम्झौतामा अन्यथा व्यवस्था भएकोमा बाहेक कुनै पक्षले अर्को पक्षलाई कुनै रकम बुझाउनु पर्नेगरी मध्यस्थको निर्णय भएको रहेछ भने विवादसँग सम्बन्धित व्यवसायको प्रकृति उपर समेत विचार गरी त्यस्तो कारोबारमा वाणिज्य बैङ्कले तत्काल अपनाएको ब्याज दर भन्दा बढी नहुने गरी मध्यस्थले तोकिदिएको ब्याज समेत बुझाउनु पर्नेछ।\n\n\nतर मध्यस्थको निर्णय भएको मितिदेखि यस ऐन बमोजिम निर्णय कार्यान्वयन गर्नुपर्ने समयावधिसम्मको अवधिको हकमा भने कुनै ब्याज लाग्ने छैन।\n\n---",
+          "chapterTitle": "परिच्छेद -५  मध्यस्थको निर्णय र त्यसको कार्यान्वयन"
+        }
+      },
+      {
+        "id": "sec_34",
+        "english": {
+          "title": "Section 34: Implementation of Award Taken in a Foreign Country",
+          "content": "1) A party which willing to implement an award made in a foreign country in Nepal shall submit an application to the Appellate Court along with the following documents:\r\n\r\n\r\n(a) The original or certified copy of the arbitrators award.\r\n\r\n\r\n(b) The original or certified copy of the agreement.\r\n\r\n\r\n(c) In case the arbitrators award is not in the Nepali Language, an official translation thereof is in the Nepali language.\r\n\r\n\r\n2) In case Nepal is a party to any treaty which provides for recognition and implementation of decisions taken by arbitrators in foreign countries, any decision taken by an arbitrator after the commencement of this act within the area of the foreign country which is a party to that treaty shall be recognised and implemented in Nepal in the following circumstances subject to the provisions of that treaty and the conditions mentioned at the time of entering into the treaty.\r\n\r\n\r\n(a) In case the arbitrator has been appointed and the award is made according to the laws and procedures mentioned in the agreement,\r\n\r\n\r\n(b) In case the parties have been notified about the arbitration proceedings in time,\r\n\r\n\r\n(c) In case the decision has been taken according to the conditions mentioned in the agreement or upon confining only to the subject matters referred to the arbitrator.\r\n\r\n\r\n(d) In case the decision has become final and binding on the parties according to the laws of the country where the decision has been taken.\r\n\r\n\r\n(e) In case the laws of the country of the petitioner or the laws of the country where arbitration proceedings have been conducted, do not contain provision under which arbitration award taken in Nepal cannot be implemented.\r\n\r\n\r\n(f) In case the application has been filed for the implementation of the award within 90 days from the date of award.\r\n\r\n\r\n3) In case the Appellate Court is satisfied that the conditions mentioned in sub-section (2) have been fulfilled in the application filed pursuant to sub-section (1), it shall forward the award to the District Court for its implementation.\r\n\r\n\r\n4) Notwithstanding anything contained in this Section, no award made by an arbitrator in a foreign country shall be implemented in the following circumstances.\r\n\r\n\r\n(a) In case the awarded settled dispute cannot be settled through arbitration under the laws of Nepal.\r\n\r\n\r\n(b) In case the implementation of the award is detrimental to the public policy.\r\n\r\n---\r\n\r\n\r\n---",
+          "chapterTitle": "Chapter- 5 Decision of the Arbitrator and Implementation"
+        },
+        "nepali": {
+          "title": "दफा ३४ः विदेशमा भएको निर्णय कार्यान्वयन हुने",
+          "content": "१) विदेशमा भएको निर्णय नेपाल 1……… मा कार्यान्वयन गराउन चाहने पक्षले देहायका लिखतहरु संलग्न गरी उच्च अदालत समक्ष निवेदन दिनु पर्नेछः-\n\n\n(क) मध्यस्थको निर्णयको सक्कल वा त्यसको प्रमाणित प्रति ।\n\n\n(ख) सम्झौताको सक्कल वा त्यसको प्रमाणित प्रति ।\n\n\n(ग) मध्यस्थको निर्णय नेपाली भाषामा भएको रहेनछ भने सोको नेपाली भाषामा भएको औपचारिक अनुवाद ।\n\n\n२) विदेशमा भएको मध्यस्थको निर्णयलाई मान्यता दिने तथा कार्यान्वयन गराउने सम्बन्धमा व्यवस्था भएको कुनै सन्धिको नेपाल पक्ष भएको रहेछ भने सो सन्धिको पक्ष भएको विदेशी मुलुकको इलाकामा यो ऐन प्रारम्भ भएपछि भएको मध्यस्थको निर्णय त्यस्तो सन्धिको व्यवस्था तथा त्यसको पक्ष बन्दा उल्लेख गरिएका शर्तहरुको अधीनमा रही देहायको अवस्थामा मान्यता दिई नेपाल 1…….. मा कार्यान्वयन हुनेछः-\n\n\n(क) सम्झौतामा उल्लेख भएको कानून तथा कार्यविधि बमोजिम मध्यस्थ नियुक्त भई निर्णय भएको भएमा,\n\n\n(ख) पक्षहरुलाई मध्यस्थताको कारबाहीको समयमै जानकारी गराइएको भएमा,\n\n\n(ग) सम्झौताका शर्तहरु वा मध्यस्थलाई सुम्पिएको विषयहरुमा मात्र सीमित रही निर्णय भएको भएमा,\n\n\n(घ) जुन मुलुकमा निर्णय भएको हो सो मुलुकको कानून बमोजिम सो निर्णय पक्षहरुलाई अन्तिम र बन्धनकारी भइसकेको भएमा,\n\n\n(ङ) जुन व्यक्तिले मध्यस्थको निर्णय कार्यान्वयन गराउन निवेदन दिएको हो सो व्यक्तिको मुलुकको कानूनमा वा मध्यस्थता भएको स्थानको मुलुकको कानूनमा नेपाल 1 ………. मा भएको मध्यस्थको निर्णय कार्यान्वयन हुन नसक्ने कानूनी व्यवस्था नभएमा,\n\n\n(च) निर्णण भएको मितिले नब्बे  दिनभित्र निर्णय कार्यान्वयनका लागि निवेदन पेरेको भएमा ।\n\n\n३) उपदफा (१) बमोजिम परेको कुनै निवेदनमा उपदफा (२) मा उल्लेखित शर्तहरु पूरा भएको छ भन्ने कुरामा उच्च अदालत सन्तुष्ट भएमा सो अदालतले सो निर्णयलाई कार्यान्वयन गर्न जिल्ला अदालतमा पठाउनु पर्नेछ ।\n\n\n४) यस दफामा अन्यत्र जुनसुकै कुरा लेखिएको भए तापनि देहायका अवस्थामा विदेशमा भएको मध्यस्थको निर्णय कार्यान्वयन हुने छैनः-\n\n\n(क) जुन विवाद निरोपण भै निर्णय गरिएको हो सो विवाद नेपाल कानून बमोजिम मध्यस्थद्वारा समाधान हुन नसक्ने प्रकृतिको भएमा।\n\n\n(ख) त्यस्तो निर्णयको कार्यान्वयन गर्दा सार्वजनिक नीति विरुद्ध हुने भएमा।\n\n\n1गणतन्त्र सुदृढीकरण तथा केही नेपाल कानून संशोधन गर्ने ऐन, २०६६ द्वारा झिकिएको।\n\n---\n\n\n---",
+          "chapterTitle": "परिच्छेद -५  मध्यस्थको निर्णय र त्यसको कार्यान्वयन"
+        }
+      },
+      {
+        "id": "sec_35",
+        "english": {
+          "title": "Section 35: Cost of Arbitration Proceedings",
+          "content": "1) Except when otherwise provided for in the agreement, the parties seeking arbitration must pay to the arbitrator the amount fixed in consultation with the parties for conducting the arbitration proceedings.\r\n\r\n\r\n2) Except the otherwise provided in the agreement, each party shall bear the expenses required for the arbitration proceedings in the proportion prescribed by the arbitrator, taking into account the relevant circumstances.\r\n\r\n---",
+          "chapterTitle": "Chapter-6 Miscellaneous"
+        },
+        "nepali": {
+          "title": "दफा ३५ः मध्यस्थता सम्बन्धी कारबाहीमा लाग्ने खर्च",
+          "content": "१) सम्झौतामा अन्यथा उल्लेख भएकोमा बाहेक मध्यस्थता गराउने पक्षहरुले मध्यस्थता सम्बन्धी कारबाहीको लागि उपस्थित पक्षहरुसँग परामर्श गरी मध्यस्थले तोकेको रकम बुझाउनु पर्नेछ।\n\n\n२) सम्झौतामा अन्यथा व्यवस्था भएकोमा बाहेक मध्यस्थताको काम कारबाहीमा लाग्ने खर्च सम्बद्ध परिस्थितिहरुलाई विचार गरी मध्यस्थले तोके बमोजिमको अनुपातमा प्रत्येक पक्षले व्यहोर्नु पर्नेछ।\n\n---",
+          "chapterTitle": "परिच्छेद -६ विविध"
+        }
+      },
+      {
+        "id": "sec_36",
+        "english": {
+          "title": "Section 36: Arbitrator&#8217;s Remuneration",
+          "content": "1) The arbitrator’s remuneration shall be as prescribed in the agreement.\r\n\r\n\r\n2) In case the arbitrator’s remuneration is not mentioned in the agreement, the concerned parties shall pay the remuneration fixed by the arbitrator in consultation with them. Such remuneration shall be paid as a full payment or in the form of advance payment as ordered by the arbitrator in consultation with the concerned parties.\r\n\r\n---",
+          "chapterTitle": "Chapter-6 Miscellaneous"
+        },
+        "nepali": {
+          "title": "दफा ३६ः मध्यस्थको पारिश्रमिक",
+          "content": "१) मध्यस्थको पारिश्रमिक सम्झौतामा उल्लेख भए बमोजिम हुनेछ।\n\n\n२) सम्झौतामा मध्यस्थको पारिश्रमिक उल्लेख नभएकोमा उपस्थित पक्षहरुसँग परामर्श गरी मध्यस्थले तोकेको पारिश्रमिक पक्षहरुले बुझाउनु पर्नेछ र त्यस्तो पारिश्रमिक उपस्थित पक्षहरुसँग परामर्श गरी मध्यस्थले आदेश दिए बमोजिम पूरै वा पेश्कीको रुपमा भुक्तानी गर्नु पर्नेछ।\n\n---",
+          "chapterTitle": "परिच्छेद -६ विविध"
+        }
+      },
+      {
+        "id": "sec_37",
+        "english": {
+          "title": "Section 37: Arbitrator To Refund Payment",
+          "content": "In case no hearing has been made on the dispute referred to the arbitrator, or the position of arbitrator falls vacant for any reason, the concerned arbitrator, if he/she has already received remuneration under Section 36, shall refund the balance left after deducting. The amount covering the period for which he has worked, in consultation with the parties.\r\n\r\n\r\nProvided that in case any arbitrator is removed under Section 11, he/she shall fully refund the remuneration amount received by him/her prior to that, if any.\r\n\r\n---",
+          "chapterTitle": "Chapter-6 Miscellaneous"
+        },
+        "nepali": {
+          "title": "दफा ३७ः मध्यस्थले रकम फिर्ता गर्नुपर्ने",
+          "content": "मध्यस्थ समक्ष पेश भएको विवादको सुनुवाई हुन नसकेमा वा मध्यस्थको स्थान कुनै कारणले रिक्त भएमा त्यस्तो मध्यस्थले दफा ३६ बमोजिम पारिश्रमिक पाइसकेको रहेछ भने सो मध्ये मध्यस्थले काम गरेको अवधिसम्मको रकम पक्षहरुसँग परामर्श गरी कटाई बाँकी रकम फिर्ता गर्नु पर्नेछ।\n\n\nतर कुनै मध्यस्थलाई दफा ११ बमोजिम हटाइएमा निजले सो भन्दा पहिले कुनै पारिश्रमिक लिएको भएमा सो पारिश्रमिकको पूरै रकम फिर्ता गर्नु पर्नेछ।\n\n---",
+          "chapterTitle": "परिच्छेद -६ विविध"
+        }
+      },
+      {
+        "id": "sec_38",
+        "english": {
+          "title": "Section 38: Devolution of Rights and Liabilities",
+          "content": "In case any party dies, disappears or becomes insane after the commencement of arbitration proceedings under this Act, all his rights and liabilities shall devolve on his/her relative, who is entitled to inherit his/her property upon the prevailing law.\r\n\r\n---",
+          "chapterTitle": "Chapter-6 Miscellaneous"
+        },
+        "nepali": {
+          "title": "दफा ३८ः हक र दायित्व सर्ने",
+          "content": "यस ऐन बमोजिम मध्यस्थताको काम कारबाही प्रारम्भ भएपछि कुनै पक्षको मृत्यु भएमा वा निज बेपता भएमा वा बहुलाएमा निजको सम्पूर्ण हक र दायित्व प्रचलित कानून बमोजिम निजको सम्पत्ति खाने हकवाला माथि सर्नेछ।\n\n---",
+          "chapterTitle": "परिच्छेद -६ विविध"
+        }
+      },
+      {
+        "id": "sec_39",
+        "english": {
+          "title": "Section 39: Court to Have No Jurisdiction",
+          "content": "Notwithstanding anything contained in the prevailing law, no court shall have jurisdiction over any matter regulated by this Act except when otherwise provided for in this Act.\r\n\r\n---",
+          "chapterTitle": "Chapter-6 Miscellaneous"
+        },
+        "nepali": {
+          "title": "दफा ३९ः अदालतको क्षेत्राधिकार नहुने",
+          "content": "प्रचलित कानूनमा जुनसुकै कुरा लेखिएको भए तापनि यस ऐनमा अन्यथा व्यवस्था भएकोमा बाहेक यस ऐनद्वारा नियमित भएका विषयमा कुनै अदालतको क्षेत्राधिकार हुने छैन ।\n\n---",
+          "chapterTitle": "परिच्छेद -६ विविध"
+        }
+      },
+      {
+        "id": "sec_40",
+        "english": {
+          "title": "Section 40: Parties May Compromise",
+          "content": "In case the parties to a dispute that has been referred for arbitration under this Act desire to reach a compromise, they may submit an application to the arbitrator explicitly mentioning the conditions under which they wish to do so. The arbitrator shall approve the application so filed, and no appeal may be filed against such award except on issues concerning actions not taken according to the condition for compromise.\r\n\r\n---",
+          "chapterTitle": "Chapter-6 Miscellaneous"
+        },
+        "nepali": {
+          "title": "दफा ४०ः पक्षहरु मिल्न सक्ने",
+          "content": "यस ऐन बमोजिम मध्यस्थताको लागि परेको विवादका सम्बन्धमा पक्षहरु मिल्न चाहेमा आफू मिल्न चाहेको शर्त सहितको व्यहोरा खुलाई मध्यस्थ समक्ष पक्षहरुले निवेदन दिन सक्नेछन्‌ र यसरी पर्न आएको निवेदनमा मध्यस्थको सहमतिपूर्ण निर्णय हुनेछ र त्यस्तो निर्णय उपर सहमति बमोजिम नभएको कुरामा बाहेक कुने उजूरी लाग्ने छैन।\n\n---",
+          "chapterTitle": "परिच्छेद -६ विविध"
+        }
+      },
+      {
+        "id": "sec_41",
+        "english": {
+          "title": "Section 41: Payment of Fees for Implementing the Award",
+          "content": "1) Notwithstanding anything contained in the prevailing law, a fee amounting to 0.5 percent of the amount received through the implementation of the award of the arbitrator shall be paid to the concerned court in the form of a fee for having implemented the award. In case the award to be so implemented does not concern for being payment of any amount, a fee amounting to 0.5 percent of the current market value or amount of the action to be taken or has to be taken according to the decision, if the same can be determined, and if not, a sum of Rs 500/- shall be paid by the party requesting for the implementation of the award.\r\n\r\n\r\n2) In case any party who pays the fee mentioned in Sub-section (1) wishes to have it realised from the other party, the District Court shall have it realised from the other party as in the case of court fees according to the prevailing law.\r\n\r\n---",
+          "chapterTitle": "Chapter-6 Miscellaneous"
+        },
+        "nepali": {
+          "title": "दफा ४१ः चलन चलाएको दस्तुर तिर्नुपर्ने",
+          "content": "१) प्रचलित कानूनमा जुनसुकै कुरा लेखिएको भए तापनि मध्यस्थको निर्णय कार्यान्वयन गराउँदा निर्णय कार्यान्वयनबाट प्राप्त रकमको ०.५ प्रतिशतका दरले हुन आउने रकम निर्णय कार्यान्वयन गरी दिए बापतको दस्तुरको रुपमा सम्बन्धित अदालतलाई बुझाउनु, पर्नेछ र त्यसरी कार्यान्वयन गरिने निर्णय रकम तिर्नु बुझाउनु पर्ने विषयसँग सम्बन्धित नभएमा निर्णय बमोजिम गर्नुपर्ने वा गरी पाउने विषयको प्रचलित बजार भाउ बमोजिम मूल्य वा रकम निर्धारण हुन सक्ने भएमा त्यसको ०.५ प्रतिशतका दरले र त्यसरी निर्धारण. हुन नसक्ने भएमा पाँच सय रुपैयाँदस्तुर सो निर्णय कार्यान्वयन गराई माग्ने पक्षले बुझाउनु पर्नेछ ।\n\n\n२) उपदफा (१) बमोजिम बुझाएको दस्तुर अर्को पक्षबाट भराउन चाहेमा जिल्ला अदालतले प्रचलित कानून बमोजिम कोर्ट फी सरह भराई दिनेछ।\n\n---",
+          "chapterTitle": "परिच्छेद -६ विविध"
+        }
+      },
+      {
+        "id": "sec_42",
+        "english": {
+          "title": "Section 42: Case Files Relating to Arbitrator",
+          "content": "1) The arbitrator shall prepare a case file containing documents, evidence, a statement of the concerned person’s award, and all other documents connected with the arbitration, mentioning the date and time in chronological order.\r\n\r\n\r\n2) After the finalisation of the arbitration proceedings, the arbitrator shall submit the concerned case file to the District Court.\r\n\r\n\r\n3) The District Court shall keep the case-file received pursuant to sub-section (2) as safely as it keeps the case-files of its judgments.\r\n\r\n\r\n4) Notwithstanding anything contained in the prevailing law, no copy of the award and documents related thereto shall be given to any person other than the concerned parties without their approval.\r\n\r\n---",
+          "chapterTitle": "Chapter-6 Miscellaneous"
+        },
+        "nepali": {
+          "title": "दफा ४२ः मध्यस्थता सम्बन्धी मिसिल",
+          "content": "१) मध्यस्थले पक्षहरुले पेश गरेको लिखत तथा प्रमाणहरु, सम्बन्धित व्यक्तिहरुलाई गराएको बयान, आफ्नोनिर्णय र मध्यस्थतासँग सम्बन्धित सबै कागजातहरुमा मिति र समय जनाई सिलसिलेवार तरिकाबाट मिसिल तयार गर्नु पर्नेछ।\n\n\n२) मध्यस्थले मध्यस्थता सम्बन्धी कारबाही अन्तिम भएपछि तत्सम्बन्धी मिसिल जिल्ला अदालतमा बुझाउनु पर्नेछ।\n\n\n३) उपदफा (२) बमोजिम प्राप्त मिसिल जिल्ला अदालतले आफूले गरेको फैसलाको मिसिल सरह सुरक्षित साथ राख्नु पर्नेछ।\n\n\n४) प्रचलित कानूनमा जुनसुकै कुरा लेखिएको भए तापनि पक्षहरुको सहमति बिना मध्यस्थको निर्णय र सोसँग सम्बन्धित लिखतको नक्कल पक्षहरु बाहेक अन्य व्यक्तिलाई दिइने छैन।\n\n---",
+          "chapterTitle": "परिच्छेद -६ विविध"
+        }
+      },
+      {
+        "id": "sec_43",
+        "english": {
+          "title": "Section 43: Power to Frame Rules",
+          "content": "The Supreme Court may frame necessary Rules with respect to the procedure of regulating the functions to be discharged by courts under this Act.\r\n\r\n---",
+          "chapterTitle": "Chapter-6 Miscellaneous"
+        },
+        "nepali": {
+          "title": "दफा ४३ः नियम बनाउने अधिकार",
+          "content": "यस ऐन बमोजिम अदालतले गर्नुपर्ने काम कारबाहीलाई नियमित गर्ने कार्यविधिका सम्बन्धमा सर्वोच्च अदालतले आवश्यक नियमहरु बनाउन सक्नेछ ।\n\n---",
+          "chapterTitle": "परिच्छेद -६ विविध"
+        }
+      },
+      {
+        "id": "sec_44",
+        "english": {
+          "title": "Section 44: Repeal and Saving",
+          "content": "1) The Arbitration Act of 2038 has been repealed.\r\n\r\n\r\n2) In the case of an arbitration whose proceedings have been started prior to the commencement of this Act, 2041, the procedure laid down in the 2041 Arbitration Act itself shall be adopted.\r\n\r\n\r\n3) The Time limit and grounds for filing an appeal against an award decided through arbitration under the Arbitration Act, 2038 shall be as mentioned in the Act.\r\n\r\n---\r\n\r\n\r\n---",
+          "chapterTitle": "Chapter-6 Miscellaneous"
+        },
+        "nepali": {
+          "title": "दफा ४४ः खारेजी र बचाउ",
+          "content": "(१) मध्यस्थता ऐन, २०३८ खारेज गरिएको छ।\n\n\n(२) यो ऐन प्रारम्भ हुनुअघि मध्यस्थताको कारबाही शुरु भई सकेको मध्यस्थताको: हकमा मध्यस्थता ऐन, २०३८ कै कार्यविधि अपनाउनु पर्नेछ।\n\n\n(३) मध्यस्थता ऐन, २०३८ बमोजिम भएको मध्यस्थताको निर्णय बदर गर्न, दिइने उजूरीको म्याद एवं उजूरी दिने आधार मध्यस्थता ऐन, २०३८ मा उल्लेख भए बमोजिम नै हुनेछ।\n\n\nदृष्टव्य: न्याय प्रशासन ऐन, २०७३ द्वारा रुपान्तर गरिएका शब्दहरुः-\n\n\n“पुनरावेदन अदालत”को सट्टा “उच्च अदालत”।\n\n\n---",
+          "chapterTitle": "परिच्छेद -६ विविध"
+        }
+      },
+      {
+        "id": "sch",
+        "english": {
+          "title": "Schedule",
+          "content": "(Relating to Section 9)\r\n\r\n\r\nIn the dispute referred to me/us for arbitration between ………………………. and ……………………., I/we shall work in an impartial and honest manner without any bias toward any party.\r\n\r\n\r\nName                             Signature                                                  Date\r\n\r\n\r\n---",
+          "chapterTitle": "Chapter-6 Miscellaneous"
+        },
+        "nepali": {
+          "title": "अनुसूची",
+          "content": "**अनुसूची**\n(दफा ९ सँग सम्बन्धित)\n\n.................... र .................... बीचको जुन विवादमा मलाई/हामीलाई मध्यस्थको रूपमा तोकिएको छ, सो विवादमा म/हम कुनै पनि पक्षप्रति कुनै पूर्वाग्रह नराखी निष्पक्ष र इमानदारीपूर्वक काम गर्नेछु/छौं।\n\nनाम:                                        दस्तखत:                                        मिति:\n\n\n\n(मिति २०७९ /८/ १४ गते अद्यवधिक गरेको)\n\n\n---",
+          "chapterTitle": "परिच्छेद -६ विविध"
+        }
+      }
+    ]
+  }
+]

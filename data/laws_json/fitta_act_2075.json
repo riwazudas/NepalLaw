@@ -1,0 +1,722 @@
+[
+  {
+    "id": "fitta_act_2075",
+    "actName": "FITTA",
+    "year": "2075",
+    "sections": [
+      {
+        "id": "preamble",
+        "english": {
+          "title": "Preamble",
+          "content": "Date of Authentication\r\n\r\n\r\n2075/12/13\r\n\r\n\r\nAct No. 34 of the year 2075\r\n\r\n\r\nAn Act Made to Amend and Consolidate Laws Relating to Foreign Investment and Technology Transfer\r\n\r\n\r\nPreamble: Whereas it is expedient to amend and consolidate the prevailing Nepal laws relating to foreign investment and technology transfer in order to make the national economy competitive, strong and employment-oriented through mobilisation to the maximum extent of the available means and resources for economic prosperity of the country, and to achieve sustainable economic growth through industrialization while creating investment-friendly environment to attract foreign capital, technology and investment in the sectors of import substitution, export promotion, through increase in productivity, and of infrastructure development and production of goods or services,\r\n\r\n\r\nNow, therefore, it should be enacted by the Federal Parliament.\r\n\r\n\r\n---"
+        },
+        "nepali": {
+          "title": "प्रस्तावना",
+          "content": "प्रमाणीकरण मिति\r\n\r\n\r\n२०७५।१२।१३\r\n\r\n\r\nसम्वत्‌ २०७५ सालको ऐन नं. ३४\r\n\r\n\r\nविदेशी लगानी तथा प्रविधि हस्तान्तरण सम्बन्धी कानूनलाई संशोधन र एकीकरण गर्न बनेको ऐन\r\n\r\n\r\nप्रस्तावना: मुलुकको आर्थिक समृद्धिका लागि उपलब्ध स्रोतसाधनको अधिकतम परिचालन गर्दै राष्ट्रिय अर्थतन्त्रलाई प्रतिस्पर्धी , सुदृढ तथा – रोजगारउन्मुख बनाउन र उत्पादकत्व वृद्धि गरी आयात प्रतिस्थापन, निर्यात प्रवर्द्धन र पूर्वाधार विकास तथा वस्तु वा सेवाको उत्पादनका क्षेत्रमा विदेशी पूँजी, प्रविधि र लगानीलाई आकर्षित गर्न लगानी मैत्री वातावरण सिर्जना गर्दै औद्योगिकीकरण मार्फत दीगो आर्थिक वृद्धि हासिल गर्न विदेशी लगानी तथा प्रविधि हस्तान्तरण सम्बन्धी प्रचलित नेपाल कानूनलाई संशोधन र एकीकरण गर्न वाञ्छनीय भएकाले,\r\n\r\n\r\nसंघीय संसदले यो ऐन बनाएको छ।\r\n\r\n\r\n---"
+        }
+      },
+      {
+        "id": "sec_1",
+        "english": {
+          "title": "Section 1: Short Title and Commencement",
+          "content": "1) This Act may be cited as the “Foreign Investment and Technology Transfer Act, 2075.”\r\n\r\n\r\n\r\n\r\n2) Sections 10 and 11 of this Act shall commence on such date as appointed by the Government of Nepal by notification in the Nepal Gazette, and other Sections shall commence forthwith.\r\n\r\n---",
+          "chapterTitle": "Chapter-1 Preliminary"
+        },
+        "nepali": {
+          "title": "दफा १ः संक्षिप्त नाम र प्रारम्भ",
+          "content": "१) यस ऐनको नाम “विदेशी लगानी तथा प्रविधि हस्तान्तरण ऐन, २०७५” रहेको छ।\r\n\r\n\r\n२) यो ऐनको दफा १० र ११ नेपाल सरकारले नेपाल राजपत्रमा सूचना प्रकाशन गरी तोकेको मितिबाट र अन्य दफाहरु तुरुन्त प्रारम्भ हुनेछन्‌।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद-१ प्रारम्भिक"
+        }
+      },
+      {
+        "id": "sec_2",
+        "english": {
+          "title": "Section 2: Definitions",
+          "content": "Unless the subject or the context otherwise requires, in this Act,-\r\n\r\n\r\n\r\n\r\n(a) “Industry” means any industry established in accordance with the prevailing law relating to industrial enterprises.\r\n\r\n\r\n\r\n\r\n(b) “One Stop Service Centre” means the One Stop Service Centre established in accordance with the prevailing law relating to industrial enterprises.\r\n\r\n\r\n\r\n\r\n(c) “Non-resident Nepali” means a person holding a non-resident Nepali identity card in accordance with the prevailing law relating to non-resident Nepalis.\r\n\r\n\r\n\r\n\r\n(d) “Prescribed” or “as prescribed” means prescribed or as prescribed in the Rules framed under this Act.\r\n\r\n\r\n\r\n\r\n(e) “Securities Board” means the Securities Board of Nepal established in accordance with the prevailing law relating to securities.\r\n\r\n\r\n\r\n\r\n(f) “Technology transfer” means any transfer of technology to be made under an agreement between an industry and a foreign investor on the following matters:\r\n\r\n\r\n\r\n\r\n(1) Patent, design, trademark, goodwill, technological specificity, formula, process,\r\n\r\n\r\n\r\n\r\n(2) User’s license, technological know-how sharing or use of technological knowledge (franchise),\r\n\r\n\r\n\r\n\r\n(3) Provision of foreign technical adviser, management and marketing service or other technological skill or knowledge.\r\n\r\n\r\n\r\n\r\n(g) “Board” means the Industry and Investment Promotion Board referred to in the prevailing law relating to industrial enterprises.\r\n\r\n\r\n\r\n\r\n(h) “Ministry” means the Ministry of Industries, Commerce and Supplies\r\n\r\n\r\n\r\n\r\n(i) “Investment Board” means the Investment Board referred to in the prevailing law relating to the Investment Board.\r\n\r\n\r\n\r\n\r\n(j)“Foreign investment” means the following investment made by a foreign investor in an industry or company:\r\n\r\n\r\n\r\n\r\n(1) Share investment in foreign currency,\r\n\r\n\r\n\r\n\r\n(2) Re-investment in an industry of dividends derived from foreign currency or shares,\r\n\r\n\r\n\r\n\r\n(3) Lease finance made in accordance with Section 6,\r\n\r\n\r\n\r\n\r\n(4) Investment made in venture capital fund in accordance with Section 9,\r\n\r\n\r\n\r\n\r\n(5) Investment made in listed securities through the secondary securities market in accordance with Section 10,\r\n\r\n\r\n\r\n\r\n(6) Investment made by purchasing shares or assets of a company incorporated in Nepal,\r\n\r\n\r\n\r\n\r\n(7) Investment received through the banking channel after issuing securities in a foreign capital market by an industry or company incorporated in Nepal in accordance with Section 11,\r\n\r\n\r\n\r\n\r\n(8) Investment made through technology transfer, or\r\n\r\n\r\n\r\n\r\n(9) Investment maintained by establishing and expanding an industry in Nepal.\r\n\r\n\r\n\r\n\r\n(k) “Foreign investor” means any foreign individual, firm, company, Non-resident Nepali or foreign government or international agency or other corporate body of similar nature that makes foreign investment, and also includes, in the case of a foreign investor that is an institutional foreign investor, the ultimate beneficiary of such an institution.\r\n\r\n\r\n\r\n\r\n(l) “Foreign investment approving body” means the body referred to in Section 17.\r\n\r\n\r\n\r\n\r\n(m)“Department” means the Department of Industries.\r\n\r\n\r\n\r\n\r\n(n)“Institutional foreign investor” means a foreign company, corporate body or international institution making foreign investments.\r\n\r\n---\r\n\r\n\r\n---",
+          "chapterTitle": "Chapter-1 Preliminary"
+        },
+        "nepali": {
+          "title": "दफा २ः परिभाषा",
+          "content": "विषय वा प्रसङ्गले अर्को अर्थ नलागेमा यस ऐनमा,-\r\n\r\n\r\n(क) “उद्योग” भन्नाले औद्योगिक व्यवसाय सम्बन्धी प्रचलित कानून बमोजिम स्थापना भएको उद्योग सम्झनु पर्छ।\r\n\r\n\r\n(ख) “एकल बिन्दु सेवा केन्द्र ” भन्नाले औद्योगिक व्यवसाय सम्बन्धी प्रचलित कानून बमोजिम स्थापना भएको एकल बिन्दु सेवा केन्द्र सम्झनु पर्छ।\r\n\r\n\r\n(ग) “गैर आवासीय नेपाली” भन्नाले गैर आवासीय नेपाली सम्बन्धी प्रचलित कानून बमोजिम गैर आवासीय नेपाली परिचयपत्र प्राप्त व्यक्ति सम्झनु पर्छ।\r\n\r\n\r\n(घ) “तोकिएको” वा“ तोकिएबमोजिम” भन्नाले यस ऐन अन्तर्गत बनेको नियममा तोकिएको वा तोकिएबमोजिम सम्झनु पर्छ।\r\n\r\n\r\n(ङ) “धितोपत्र बोर्ड” भन्नाले धितोपत्र सम्बन्धी प्रचलित कानून बमोजिम स्थापना भएको नेपाल धितोपत्र बोर्ड सम्झनु पर्छ।\r\n\r\n\r\n(च) “प्रविधि हस्तान्तरण” भन्नाले उच्योग र विदेशी लगानी कर्ताबीच देहायको कुराको सम्बन्धमा सम्झौता गरी गरिने प्रविधिको हस्तान्तरण सम्झनु पर्छः-\r\n\r\n\r\n(१) पेटेण्ट, डिजायन, ट्रेडमार्क, व्यापारिक ख्याति (गुडवील) , प्राविधिक विशिष्टता, सुत्र (फर्मुला), प्रक्रिया,\r\n\r\n\r\n(२) उपयोगको इजाजत (युजर्स लाइसेन्स) , प्राविधिक जानकारी प्रदान (नो हाउ शेयरिङ्ग) वा प्राविधिक ज्ञानको प्रयोग (फ्रेन्चाइज),\r\n\r\n\r\n(३) वैदेशिक प्राविधिक सल्लाहकार , व्यवस्थापन तथा बजार सेवा उपलब्ध गराउने वा अन्य प्राविधिक सीप वा ज्ञान।\r\n\r\n\r\n(छ) “बोर्ड भन्नाले औद्योगिक व्यवसाय सम्बन्धी प्रचलित कानून बमोजिमको उच्योग तथा लगानी प्रवर्द्धन बोर्ड सम्झनु पर्छ।\r\n\r\n\r\n(ज) “मन्त्रालय” भन्नाले नेपाल सरकारको उद्योग, वाणिज्य तथा आपूर्ति मन्त्रालय सम्झनु पर्छ।\r\n\r\n\r\n(झ) “लगानी बोर्ड ” भन्नाले लगानी बोर्ड सम्बन्धी प्रचलित कानून बमोजिमको लगानी बोर्ड सम्झनु पर्छ।\r\n\r\n\r\n(ञ) “बिदेशी लगानी” भन्नाले विदेशी लगानी कर्ताले उद्योग वा कम्पनीमा गरेको देहायको लगानी सम्झनु पर्छः-\r\n\r\n\r\n(१) विदेशी मुद्रामा गरिने शेयर लगानी,\r\n\r\n\r\n(२) उद्योगमा विदेशी मुद्रा वा शेयरबाट प्राप्त लाभांश रकमको पुनःलगानी,\r\n\r\n\r\n(३) दफा ६ बमोजिम गरेको लिज लगानी (लिज फाइनान्स), \r\n\r\n\r\n(४) दफा ९ बमोजिम पुँजी लगानी कोषमा गरेको लगानी,\r\n\r\n\r\n(५) दफा १० बमोजिम धितोपत्रको दोस्रो बजार मार्फत सूचीकृत धितोपत्रमा गरेको लगानी,\r\n\r\n\r\n(६) नेपालमा संस्थापना भएको कम्पनीको शेयर वा सम्पत्ति खरिद गरी भएको लगानी,\r\n\r\n\r\n(७) दफा ११ बमोजिम नेपालमा संस्थापित उद्योग वा कम्पनीले विदेशी पूँजी बजारमा धितोपत्र जारी गरी बैकिङ्ग प्रणाली मार्फत्‌ प्राप्त भएको लगानी,\r\n\r\n\r\n(८) प्रबिधि हस्तान्तरणद्वारा भएको लगानी, वा\r\n\r\n\r\n(९) नेपालमा उच्चोग स्थापना र विस्तार गरी कायम भएको लगानी।\r\n\r\n\r\n(ट) “विदेशी लगानीकर्ता ” भन्नाले विदेशी लगानी गर्ने विदेशी व्यक्ति , फर्म, कम्पनी, गैर आवासीय नेपाली वा विदेशी सरकार वा अन्तर्राष्ट्रिय संस्था वा अन्य यस्तै प्रकारका संगठित संस्थालाई सम्झनु पर्छ र सो शब्दले विदेशी लगानीकर्ता कुनै संस्थागत विदेशी लगानीकर्ता भएमा त्यस्तो संस्थाको अन्तिम हिताधिकारीलाई समेत जनाउँछ।\r\n\r\n\r\n(ठ) “विदेशी लगानी स्वीकृत गर्ने निकाय” भन्नाले दफा १७ बमोजिमको निकाय सम्झनु पर्छ।\r\n\r\n\r\n(ड) “विभाग” भन्नाले उद्योग विभाग सम्झनु पर्छ।\r\n\r\n\r\n(ढ) “संस्थागत विदेशी लगानीकर्ता” भन्नाले विदेशी लगानी गर्ने विदेशी कम्पनी, संगठित संस्था वा अन्तर्राष्ट्रिय संस्था सम्झनु पर्छ।\r\n\r\n---\r\n\r\n\r\n---",
+          "chapterTitle": "परिच्छेद-१ प्रारम्भिक"
+        }
+      },
+      {
+        "id": "sec_3",
+        "english": {
+          "title": "Section 3: Foreign Investment May Be Made",
+          "content": "1) A foreign investor may make foreign investments in any industry and derive gains from such investments.\r\n\r\n\r\n\r\n\r\n2) Notwithstanding anything contained in sub-section (1), no industry operated with foreign investment may make foreign investment of profits earned or in any other manner in any industry referred to in the Schedule.\r\n\r\n\r\n\r\n\r\nProvided that technology transfer may be made, with the Department’s approval, in an industry referred to in the Schedule, which is established with Nepali investment.\r\n\r\n\r\n\r\n\r\n3) Notwithstanding anything contained in sub-section (1), approval shall not be given for making foreign investment in any industry of an amount that is less than the amount specified by the Government of Nepal by notification in the Nepal Gazette.\r\n\r\n---",
+          "chapterTitle": "Chapter-2 Foreign Investment"
+        },
+        "nepali": {
+          "title": "दफा ३ः विदेशी लगानी गर्न सक्ने",
+          "content": "१) विदेशी लगानीकर्ताले कुनै उद्योगमा विदेशी लगानी गर्न र त्यस्तो लगानीबाट लाभ प्राप्त गर्न सक्नेछ।\r\n\r\n\r\n२) उपदफा (१) मा जुनसुकै कुरा लेखिएको भए तापनि अनुसूचीमा उल्लिखित उद्योगमा  विदेशी लगानीबाट सञ्चालित उद्योगले आर्जित नाफा वा अन्य कुनै तरिकाबाट विदेशी लगानी गर्न सक्नेछैन।\r\n\r\n\r\nतर अनुसूचीमा उल्लिखित नेपाली लगानीमा स्थापना भएका उद्योगमा विभागको स्वीकृति लिई प्रविधि हस्तान्तरण गर्न सकिनेछ ।\r\n\r\n\r\n३) उपदफा (१) मा जुनसुकै कुरा लेखिएको भए तापनि कुनै उद्योगमा नेपाल सरकारले नेपाल राजपत्रमा सूचना प्रकाशन गरी तोकेको भन्दा कम रकमको विदेशी लगानी गर्न स्वीकृति दिइने छैन।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद-२ विदेशी लगानी"
+        }
+      },
+      {
+        "id": "sec_4",
+        "english": {
+          "title": "Section 4: Foreign Investment May Be Made Individually or Jointly",
+          "content": "A foreign investor may make a foreign investment individually or jointly or by establishing an industry jointly with an established industry in Nepal or a Nepali citizen.\r\n\r\n---",
+          "chapterTitle": "Chapter-2 Foreign Investment"
+        },
+        "nepali": {
+          "title": "दफा ४ः एकल वा संयुक्त रुपमा विदेशी लगानी गर्न सक्ने",
+          "content": "विदेशी लगानीकर्ताले एकल वा संयुक्त रुपमा वा नेपालमा स्थापित उद्योग वा नेपाली नागरिकसँग संयुक्त रुपमा उद्योग स्थापना गरी विदेशी लगानी गर्न सक्नेछ ।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद-२ विदेशी लगानी"
+        }
+      },
+      {
+        "id": "sec_5",
+        "english": {
+          "title": "Section 5:  Foreign Investment May be Made by Purchasing Assets or Shares of Industry",
+          "content": "A foreign investor may make a foreign investment by purchasing the assets of or shares not exceeding the prescribed percent of any industry established in Nepal.\r\n\r\n---",
+          "chapterTitle": "Chapter-2 Foreign Investment"
+        },
+        "nepali": {
+          "title": "दफा ५ः उद्योगको जायजेथा वा शेयर खरिद गरी विदेशी लगानी गर्न सक्ने",
+          "content": "विदेशी लगानीकर्ताले नेपालमा स्थापना भएको कुनै उद्योगको जायजेथा वा तोकिएको प्रतिशतसम्मको शेयर खरिद गरी विदेशी लगानी गर्न सक्नेछ।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद-२ विदेशी लगानी"
+        }
+      },
+      {
+        "id": "sec_6",
+        "english": {
+          "title": "Section 6: Lease Investment May be Made",
+          "content": "A foreign investor may make a foreign investment, subject to the prescribed ceiling, in any aircraft, ship, machinery and equipment, construction equipment or similar other equipment.\r\n\r\n---",
+          "chapterTitle": "Chapter-2 Foreign Investment"
+        },
+        "nepali": {
+          "title": "दफा ६ः लिज लगानी गर्न सक्ने",
+          "content": "विदेशी लगानीकर्ताले हवाइजहाज, पानीजहाज, मेसिन औजार, निर्माण उपकरण वा अन्य यस्तै उपकरणमा तोकिएको सीमाको अधीनमा रही लिज लगानी गर्न सक्नेछ।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद-२ विदेशी लगानी"
+        }
+      },
+      {
+        "id": "sec_7",
+        "english": {
+          "title": "Section 7: Investment May be Made Through Technology Transfer",
+          "content": "1) A foreign investor may make foreign investments by making technology transfers in any industry established in Nepal.\r\n\r\n\r\n\r\n\r\n2) The terms of technology transfer to be made pursuant to sub-section (1) shall be as specified in the technology transfer agreement entered into between the concerned industry and the foreign investor.\r\n\r\n\r\n\r\n\r\n3) The agreement referred to in sub-section (2) may not provide for the repatriation of royalty in excess of the prescribed ceiling.\r\n\r\n\r\n\r\n\r\n4) The agreement referred to in sub-section (2) has to be got approved by the foreign investment approving body.\r\n\r\n\r\n\r\n\r\n5) The foreign investment approving body may, in giving approval pursuant to sub-section (4), specify the necessary terms based, inter alia, on international practices on foreign investment and the industry’s production and selling capacity.\r\n\r\n---",
+          "chapterTitle": "Chapter-2 Foreign Investment"
+        },
+        "nepali": {
+          "title": "दफा ७ः प्रविधि हस्तान्तरण गरी विदेशी लगानी गर्न सक्ने",
+          "content": "१) विदेशी लगानीकर्ताले नेपालमा स्थापित कुनै उद्योगमा प्रविधि हस्तान्तरण गरी विदेशी लगानी गर्न सक्नेछ।\r\n\r\n\r\n२) उपदफा (१) बमोजिम हुने प्रविधि हस्तान्तरणका शर्तहरु सम्बन्धित उद्योग र विदेशी लगानीकर्ताबीच भएको प्रविधि हस्तान्तरण सम्बन्धी सम्झौतामा उल्लेख भए बमोजिम हुनेछ ।\r\n\r\n\r\n३) उपदफा (२) बमोजिमको सम्झौतामा तोकिएको सीमाभन्दा बढी रोयल्टी रकम फिर्ता लैजाने व्यवस्था गर्न सकिने छैन।\r\n\r\n\r\n४) उपदफा (२) बमोजिमको सम्झौता विदेशी लगानी स्वीकृत गर्ने निकायबाट स्वीकृत गराउनु पर्नेछ।\r\n\r\n\r\n५) उपदफा (४) बमोजिम स्वीकृति दिँदा विदेशी लगानी स्वीकृत गर्ने निकायले विदेशी लगानी सम्बन्धी अन्तर्राष्ट्रिय प्रचलन, उद्योगको उत्पादन र बिक्रीको क्षमता समेतको आधारमा आवश्यक शर्त तोक्न सक्नेछ ।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद-२ विदेशी लगानी"
+        }
+      },
+      {
+        "id": "sec_8",
+        "english": {
+          "title": "Section 8: Foreign Investment May be Made by Establishing a Branch",
+          "content": "1) Any industry incorporated in a foreign country may make foreign investment by establishing or expanding its branch industry in Nepal, subject to the prevailing law.\r\n\r\n\r\n\r\n\r\n2) Other provisions relating to the establishment or expansion of a branch of the industry pursuant to sub-section (1) shall be as prescribed.\r\n\r\n---",
+          "chapterTitle": "Chapter-2 Foreign Investment"
+        },
+        "nepali": {
+          "title": "दफा ८ः शाखा स्थापना गरी विदेशी लगानी गर्न सक्ने",
+          "content": "१) विदेशमा संस्थापना भएको कुनै उद्योगले प्रचलित कानूनको अधीनमा रही नेपालमा आफ्नो शाखा उद्योग स्थापना वा विस्तार गरी विदेशी लगानी गर्न सक्नेछ।\r\n\r\n\r\n२) उपदफा (१) बमोजिम उद्योगको शाखा स्थापनावा विस्तार सम्बन्धी अन्य व्यवस्था तोकिए बमोजिम हुनेछ ।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद-२ विदेशी लगानी"
+        }
+      },
+      {
+        "id": "sec_9",
+        "english": {
+          "title": "Section 9: Foreign Investment May be Made by Establishing Venture Capital Fund",
+          "content": "1) An institutional foreign investor may, for the purpose of investing equity in any industry, establish a venture capital fund by incorporating a company in accordance with the prevailing law and by obtaining approval of the Securities Board.\r\n\r\n\r\n\r\n\r\n2) Approval shall have to be obtained by fulfilling the procedures referred to in Section 15 for the investment in an industry from the fund referred to in sub-section (1).\r\n\r\n\r\n\r\n\r\n3) Such a company shall provide the statements of the venture capital fund referred to in sub-section (1) to the Department in every six months.\r\n\r\n\r\n\r\n\r\n4) Other provisions relating to the fund established pursuant to sub-section (1) shall be as prescribed.\r\n\r\n---",
+          "chapterTitle": "Chapter-2 Foreign Investment"
+        },
+        "nepali": {
+          "title": "दफा ९ः पूँजी लगानी कोष खडा गरी विदेशी लगानी गर्न सक्ने",
+          "content": "१) संस्थागत विदेशी लगानीकर्ताले कुनै उद्योगमा स्वपूँजी (इक्विटी) लगानी गर्ने प्रयोजनको लागि प्रचलित कानून बमोजिम कम्पनी संस्थापना गरी धितोपत्र बोर्डको स्वीकृति लिई पूँजी लगानी कोष (भेन्चर क्यापिटल फण्ड) खडा गर्न सक्नेछ।\r\n\r\n\r\n२) उपदफा (१) बमोजिमको कोषबाट उद्योगमा लगानी गर्न दफा १५ बमोजिमको प्रकृया पूरा गरी स्वीकृति लिनु पर्नेछ।\r\n\r\n\r\n३) उपदफा (१) बमोजिमको पुँजी लगानी कोषको विवरण त्यस्तो कम्पनीले प्रत्येक छ महिनामा विभागलाई उपलब्ध गराउनु पर्नेछ।\r\n\r\n\r\n४) उपदफा (१) बमोजिम स्थापित कोष सम्बन्धी अन्य व्यवस्था तोकिए बमोजिम हुनेछ ।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद-२ विदेशी लगानी"
+        }
+      },
+      {
+        "id": "sec_10",
+        "english": {
+          "title": "Section 10: Trading in Securities May be Made",
+          "content": "1) An institutional foreign investor establishing a venture capital fund pursuant to Section 9 shall have to be registered in the Securities Board for trading in securities.\r\n\r\n\r\n\r\n\r\n2) The foreign investor registered in the Securities Board pursuant to sub-section (1) may, through the secondary securities market, trade in securities of an industry in which foreign investment may be made pursuant to this Act.\r\n\r\n\r\n\r\n\r\n3) In carrying on trading in securities pursuant to sub-section (2), the minimum number of securities to be purchased, the ceiling of investment, the minimum period for which it has to hold the securities after the purchase, a reserve fund to be held in foreign currency for purchasing securities and other provisions related thereto shall be as prescribed.\r\n\r\n---",
+          "chapterTitle": "Chapter-2 Foreign Investment"
+        },
+        "nepali": {
+          "title": "दफा १०ः धितोपत्र सम्बन्धी कारोबार गर्न सक्ने",
+          "content": "१) दफा ९ बमोजिम पूँजी लगानी कोष खडा गर्ने संस्थागत विदेशी लगानीकर्ताले धितोपत्र कारोबारका लागि धितोपत्र बोर्डमा दर्ता हुनुपर्नेछ।\r\n\r\n\r\n२) उपदफा (१) बमोजिम धितोपत्र बोर्डमा दर्ता भएको विदेशी लगानीकर्ताले यस ऐन बमोजिम बिदेशी लगानी गर्न सकिने उद्योगको धितोपत्रको दोस्रो बजार मार्फत धितोपत्र कारोबार गर्न सक्नेछ।\r\n\r\n\r\n३) उपदफा (२) बमोजिम धितोपत्र सम्बन्धी कारोबार गर्दा खरिद गर्नुपर्ने धितोपत्रको न्यूनतम संख्या, लगानीको सीमा, धितोपत्र खरिद गरेपछि आफूले राख्नुपर्ने न्यूनतम अर्वाधि , धितोपत्र खरिद गर्न विदेशी मुद्रामा राख्नुपर्ने जगेडा कोष (रिजर्भ फण्ड) र सो सम्बन्धी अन्य व्यवस्था तोकिए बमोजिम हुनेछ।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद-२ विदेशी लगानी"
+        }
+      },
+      {
+        "id": "sec_11",
+        "english": {
+          "title": "Section 11:  Loan May be Borrowed or Foreign Currency Acquired by Issuing Securities",
+          "content": "1) Any public limited company incorporated in Nepal or a corporate body authorised under the prevailing law to issue securities may, with the approval of the Nepal Rastra Bank and the Securities Board, borrow a loan or acquire foreign currency by issuing bonds, debentures or other securities in the capital market of a foreign country.\r\n\r\n\r\n\r\n\r\n2) A company which is incorporated with foreign investment in Nepal may, subject to the prevailing law relating to securities, borrow a loan by issuing securities within Nepal.\r\n\r\n\r\n\r\n\r\n3) A loan borrowed or foreign currency acquired by issuing securities pursuant to sub-sections (1) and (2) shall have to be invested in Nepal.\r\n\r\n\r\n\r\n\r\n4) Other provisions relating to the issuance of securities referred to in this Section shall be in accordance with the prevailing law relating to securities.\r\n\r\n---",
+          "chapterTitle": "Chapter-2 Foreign Investment"
+        },
+        "nepali": {
+          "title": "दफा ११ः धितोपत्र जारी गरी ऋण लिन वा विदेशी मुद्रा प्राप्त गर्न सक्ने",
+          "content": "१) नेपालमा संस्थापना भएको कुनै पनि पब्लिक लिमिटेड कम्पनी वा धितोपत्र जारी गर्न प्रचलित कानून बमोजिम अख्तियारी पाएको संगठित संस्थाले नेपाल राष्ट्र बैंक र धितोपत्र बोर्डको स्वीकृति लिई विदेशी मुलुकको पूँजी बजारमा ऋणपत्र , डिवेञ्चर वा अन्य धितोपत्र जारी गरी ऋण लिन वा विदेशी मुद्रा प्राप्त गर्न सक्नेछ।\r\n\r\n\r\n२) विदेशी लगानीमा नेपालमा संस्थापना भएको कम्पनीले धितोपत्र सम्बन्धी प्रचलित कानूनको अधीनमा रही नेपालभित्र धितोपत्र जारी गरी ऋण लिन सक्नेछ।\r\n\r\n\r\n३) उपदफा (१) र (२) बमोजिम धितोपत्र जारी गरी लिएको ऋण वा विदेशी मुद्रा नेपालमा लगानी गर्नुपर्नेछ ।\r\n\r\n\r\n४) यस दफा बमोजिम को धितोपत्र जारी गर्ने सम्बन्धी अन्य व्यवस्था धितोपत्र सम्बन्धी प्रचलित कानून बमोजिम हुनेछ ।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद-२ विदेशी लगानी"
+        }
+      },
+      {
+        "id": "sec_12",
+        "english": {
+          "title": "Section 12: Loan May be Borrowed From Foreign Financial Institution",
+          "content": "Any industry having foreign investment may, on the recommendation of the Ministry and with the approval of the Nepal Rastra Bank, in accordance with the prevailing law, borrow a project loan from, or a loan by entering into a project financing agreement with, any foreign financial institution.\r\n\r\n---",
+          "chapterTitle": "Chapter-2 Foreign Investment"
+        },
+        "nepali": {
+          "title": "दफा १२ः विदेशी वित्तीय संस्थाबाट ऋण लिन सक्ने",
+          "content": "विदेशी लगानी भएको कुनै उद्योगले प्रचलित नेपाल कानून बमोजिम मन्त्रालयको सिफारिश र नेपाल राष्ट्र बैंकको स्वीकृतिमा विदेशी वित्तीय संस्थाबाट परियोजना ऋण (प्रोजेक्ट लोन) वा परियोजना लगानी (प्रोजेक्ट फाईनान्सिङ्ग) सम्झौता गरी ऋण लिन सक्नेछ।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद-२ विदेशी लगानी"
+        }
+      },
+      {
+        "id": "sec_13",
+        "english": {
+          "title": "Section 13: Maximum Ceiling Threshold of Foreign Investment Not to be Prescribed",
+          "content": "1) No maximum ceiling of the amount to be invested and the share of investment by a foreign investor wishing to make an investment in Nepal shall be prescribed.\r\n\r\n\r\n\r\n\r\n2) Notwithstanding anything contained in sub-section (1), in the case of the service industry, the maximum ceiling of equity foreign investment and ceiling of investment to be made in securities pursuant to Section 10 may be so prescribed as not to be lesser than the commitment made by Nepal in respect of the concerned sector or sub-sector at the time of obtaining membership of the World Trade Organisation.\r\n\r\n---",
+          "chapterTitle": "Chapter-2 Foreign Investment"
+        },
+        "nepali": {
+          "title": "दफा १३ः विदेशी लगानीको अधिकतम सीमा नतोकिने",
+          "content": "१) नेपालमा लगानी गर्न चाहने विदेशी लगानीकर्ताले लगानी गर्ने रकम र लगानीको हिस्साको अधिकतम सीमा तोकिने छैन।\r\n\r\n\r\n२) उपदफा (१) मा जुनसुकै कुरा लेखिएको भए तापनि सेवा उद्योगको हकमा नेपालले विश्व व्यापार संगठनको सदस्यता प्राप्त गर्दाका बखत सम्बन्धित क्षेत्र वा उपक्षेत्रका सम्बन्धमा जनाएको प्रतिबद्धताभन्दा कम नहुने गरी विदेशी लगानीको स्वपूँजीको अधिकतम सीमा र दफा १० बमोजिम धितोपत्रमा गरिने लगानीको सीमा तोक्न सकिनेछ ।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद-२ विदेशी लगानी"
+        }
+      },
+      {
+        "id": "sec_14",
+        "english": {
+          "title": "Section 14: Agreement May be Made with Commercial Bank",
+          "content": "1) A foreign investor making an investment pursuant to this Act may, for purposes of business related to its investment made in Nepal, execute a tripartite agreement (escrow agreement) with its partner investor or other foreign investor and any such commercial bank or infrastructure development bank as recognised by the Nepal Rastra Bank.\r\n\r\n\r\n\r\n\r\nExplanation: For the purposes of this Section, the term “escrow agreement” means an agreement by which the contracting parties agree to the effect that any amount of the documentary amount of evidence shall be handed over to any third party for the security of the transaction between them or as a security for any guarantee, and such amount, documentary evidence or guarantee shall be provided to the concerned party after the completion of contractual obligations by the contracting parties.\r\n\r\n\r\n\r\n\r\n2) A bank executing an escrow agreement pursuant to sub-section (1) shall act as an agent of the parties to the agreement.\r\n\r\n\r\n\r\n\r\n3) Other provisions relating to an escrow agreement to be made pursuant to sub-section (1) shall be as prescribed.\r\n\r\n---\r\n\r\n\r\n---",
+          "chapterTitle": "Chapter-2 Foreign Investment"
+        },
+        "nepali": {
+          "title": "दफा १४ः वाणिज्य बैंकसँग सम्झौता गर्न सक्ने",
+          "content": "१) यस ऐन बमोजिम लगानी गर्ने विदेशी लगानीकर्ताले नेपालमा गरेको आफ्नो लगानी सम्बन्धी कामको लागि आफ्नो साझेदार लगानीकर्ता वा अर्को विदेशी लगानीकर्ता र नेपाल राष्ट्र बैंकबाट मान्यता प्राप्त कुनै वाणिज्य बैंक वा पूर्वाधार विकास बैंकसँग सम्झौता त्रिपक्षीय सम्झौता (स्क्रो एग्रिमेन्ट) गर्न सक्नेछ।\r\n\r\n\r\nस्पष्टीकरण: यस दफाको प्रयोजनको लागि “सम्झौता ( स्क्रो एग्रिमेन्ट)” भन्नाले करारका पक्षहरुबीच हुने कारोबारको सम्बन्धमा त्यस्तो कारोबारको सुरक्षाको लागि करारका पक्षहरूले कुनै तेस्रो पक्षलाई कुनै रकम, प्रमाण कागजात वा कुनै जमानतको लागि सुरक्षणमा राख दिने र करारका पक्षहरुबाट करारीय दायित्व पूरा भएपछि त्यस्तो रकम, प्रमाण कागजात वा जमानत सम्बन्धित पक्षलाई उपलब्ध गराउने गरी मञ्जुर गरी गरिएको सम्झौतालाई सम्झनु पर्छ।\r\n\r\n\r\n२) उपदफा (१) बमोजिम सम्झौता ( स्क्रो एग्रिमेन्ट) गर्ने बैंकले सम्झौताका पक्षहरूको एजेन्टको रुपमा काम गर्नेछ।\r\n\r\n\r\n३) उपदफा (१) बमोजिम गरिने सम्झौता ( स्क्रो एग्रिमेन्ट) सम्बन्धी अन्य व्यवस्था तोकिए बमोजिम हुनेछ।\r\n\r\n---\r\n\r\n\r\n---",
+          "chapterTitle": "परिच्छेद-२ विदेशी लगानी"
+        }
+      },
+      {
+        "id": "sec_15",
+        "english": {
+          "title": "Section 15: Application to be Made For Approval to Make Foreign Investment",
+          "content": "1) A foreign investor wishing to make a foreign investment shall have to make an application, setting out the details, accompanied by a schedule for bringing foreign investment into Nepal and an foreign action plan on investment in the industry, to the Foreign Investment Approving Body for approval, to make foreign a investment, in such a form and setting out such details as prescribed.\r\n\r\n\r\n\r\n\r\n2) If, in examining an application received pursuant to sub-section (1), it appears that such documents as prescribed have been completed, the Foreign Investment Approving Body shall give approval for foreign investment in such a form as prescribed within a period of seven days of the date of receipt of the application.\r\n\r\n\r\n\r\n\r\n3) An industry which has obtained approval pursuant to sub-section (2) wishes to make an investment from the earned profits in the same industry or in any industry other than that referred to the Schedule, it is not necessary for it to re-obtain approval on foreign investment.\r\n\r\n\r\n\r\n\r\nProvided that the natter requiring license or permission under the prevailing law for the purpose of registration of an industry or company or tax or any other business shall be governed accordingly.\r\n\r\n\r\n\r\n\r\n4) If any industry is established or the structure of ownership of any industry is changed because of foreign investment, in accordance with sub-section (3), such industry shall give information thereof to the Department and the Nepal Rastra Bank. On receipt of such information, the Department shall maintain records thereof.\r\n\r\n\r\n\r\n\r\n5) If, in examining the application pursuant to sub-section (2), it appears that approval cannot be given, the Foreign Investment Approving Body shall give information thereof in writing, setting out the ground and reason therefor, to the applicant within a period of seven days.\r\n\r\n\r\n\r\n\r\n6) If, upon receipt of information in accordance with sub-section (5), the concerned investor is not satisfied with the decision made by the Department, such an investor may make an application to the Ministry for the review of the decision.\r\n\r\n\r\n\r\n\r\n7) The Ministry shall, upon making necessary examination of the application received pursuant to sub-section (6), make a decision thereon within a period of thirty days.\r\n\r\n---",
+          "chapterTitle": "Chapter-3 Approval and Repatriation of Foreign Investment"
+        },
+        "nepali": {
+          "title": "दफा १५ः विदेशी लगानी गर्ने स्वीकृतिको लागि निवेदन दिनुपर्ने",
+          "content": "१) यस ऐन बमोजिम विदेशी लगानी गर्न चाहने विदेशी लगानीकर्ताले नेपालमा विदेशी लगानी भित्र्याउने समय तालिका तथा उद्योगमा लगानीको कार्य योजना सहितको विवरण खुलाई विदेशी लगानी गर्ने स्वीकृतिको लागि तोकिए बमोजिमको ढाँचामा तोकिए बमोजिमको विवरणहरु खुलाई विदेशी लगानी स्वीकृत गर्ने निकायमा निवेदन दिनुपर्नेछ।\r\n\r\n\r\n२) उपदफा (१) बमोजिम प्राप्त निवेदन जाँचबुझ गर्दा तोकिए बमोजिमका कागजात पूरा भएको देखिएमा विदेशी लगानी स्वीकृत गर्ने निकायले निवेदन प्राप्त भएको मितिले सात दिनभित्र तोकिए बमोजिमको ढाँचामा विदेशी लगानीको लागि स्वीकृति दिनेछ।\r\n\r\n\r\n३) उपदफा (२) बमोजिम स्वीकृति प्राप्त उद्योगले आर्जित नाफाबाट सोही उद्योगमा लगानी गर्न वा अनुसूची बमोजिमका उद्योग बाहेका अन्य कुनै उद्योगमा लगानी गर्न चाहेमा पुनः विदेशी लगानी सम्बन्धी स्वीकृति आवश्यक पर्ने छैन।\r\n\r\n\r\nतर उद्योग वा कम्पनी दर्ता वा कर प्रयोजन वा अन्य कुनै कामको लागि प्रचलित कानून बमोजिम इजाजत वा अनुमति लिनुपर्ने विषयमा सोही बमोजिम हुनेछ।\r\n\r\n\r\n४) उपदफा ( ३) बमोजिम कुने उद्योग स्थापना भएमा वा विदेशी लगानीको कारणबाट कुनै उद्योगको स्वामित्व संरचनामा परिवर्तन भएमा त्यस्तो उद्योगले सोको जानकारी विभाग र नेपाल राष्ट्र बैंकलाई गराउनु पर्नेछ । त्यसरी जानकारी प्राप्त भएपछि विभागले सोको अभिलेख राख्नुपर्नेछ ।\r\n\r\n\r\n५) उपदफा (२) बमोजिम निवेदन जाँचबुझ गर्दा स्वीकृति दिन नमिल्ने देखिएमा विदेशी लगानी स्वीकृत गर्ने निकायले त्यसको आधार र कारण खुलाई सात दिनभित्र निवेदकलाई सोको लिखित जानकारी दिनुपर्नेछ ।\r\n\r\n\r\n६) उपदफा ( ५) बमोजिम प्राप्त जानकारी बमोजिम विभाग ले गरेको निर्णय चित्त नबुझेमा सम्बन्धित लगानीकर्ताले मन्त्रालय समक्ष त्यस्तो निर्णय उपर पुनरावलोकनका लागि निवेदन दिन सक्नेछ।\r\n\r\n\r\n७) उपदफा ( ६) बमोजिम प्राप्त निवेदन उपर मन्त्रालयले आवश्यक जाँचबुझ गरी तीस दिनभित्र निर्णय गर्नुपर्नेछ ।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद-३ विदेशी लगानीको स्वीकृति तथा फिर्ता"
+        }
+      },
+      {
+        "id": "sec_16",
+        "english": {
+          "title": "Section 16: To Give Information to the Nepal Rastra Bank",
+          "content": "1) Upon obtaining the approval for foreign investment in accordance with Section 15, the foreign investor shall give information in writing, along with the self-declaration to the effect that the amount of such investment has been earned from any legitimate source to the Nepal Rastra Bank. After giving such information, the foreign investor may bring the amount of such investment into Nepal.\r\n\r\n\r\n\r\n\r\n2) A foreign investor shall bring the amount to be invested in convertible foreign currency through the banking system upon completion of such procedures as determined by the Nepal Rastra Bank.\r\n\r\n\r\n\r\n\r\nProvided that an Indian investor may also make an investment of such amount in Indian currency through the banking channel.\r\n\r\n\r\n\r\n\r\n3) Notwithstanding anything contained in sub-section (3), lease investment referred to in Section 6 and loan investment made by issuing securities referred to in Section 11 shall be as prescribed.\r\n\r\n---",
+          "chapterTitle": "Chapter-3 Approval and Repatriation of Foreign Investment"
+        },
+        "nepali": {
+          "title": "दफा १६ः नेपाल राष्ट्र बैँकलाई जानकारी दिनुपर्ने",
+          "content": "१) दफा १५ बमोजिम विदेशी  लगानीको लागि स्वीकृति प्राप्त गरेपछि विदेशी लगानीकर्ताले त्यस्तो लगानीको रकम आफ्नो वैध स्रोतबाट आर्जित रकम भएको स्वःघोषणा सहितको लिखित जानकारी नेपाल राष्ट्र बैंक लाई गराउनु पर्नेछ। त्यस्तो जानकारी गराएपछि विदेशी लगानीकर्ताले त्यस्तो लगानीको रकम नेपाल भित्र्याउन सक्नेछ।\r\n\r\n\r\n२) विदेशी लगानीकर्ताले लगानी गर्ने रकम नेपाल राष्ट्र बैंकले निर्धारण गरेको प्रक्रिया पूरा गरी बैकिङ्ग प्रणाली मार्फत परिवर्त्य विदेशी मुद्रामा ल्याउनु पर्नेछ।\r\n\r\n\r\nतर भारतीय लगानीकर्ताले त्यस्तो लगानी रकम बैकिङ्ग प्रणाली मार्फत भारतीय मुद्रामा समेत लगानी गर्न सक्नेछन्‌।\r\n\r\n\r\n३) उपदफा (२) मा जुनसुकै कुरा लेखिएको भए तापनि दफा ६ बमोजिमको लिज लगानी र दफा ११ बमोजिमको धितोमा जारी गरिएको ऋण लगानी तोकिए बमोजिम हुनेछ।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद-३ विदेशी लगानीको स्वीकृति तथा फिर्ता"
+        }
+      },
+      {
+        "id": "sec_17",
+        "english": {
+          "title": "Section 17:  Foreign Investment Approving Body",
+          "content": "(1) The Department shall approve foreign investments not exceeding six billion rupees.\r\n\r\n\r\n\r\n\r\n(2) The Investment Board under the Investment Board Act, 2068 under the Investment Board Act, 2068, shall approve foreign investments exceeding six billion rupees.\r\n\r\n---",
+          "chapterTitle": "Chapter-3 Approval and Repatriation of Foreign Investment"
+        },
+        "nepali": {
+          "title": "दफा १७ः विदेशी लगानी स्वीकृत गर्ने निकाय",
+          "content": "१) छ अर्ब रुपैयाँसम्मको विदेशी लगानीको स्वीकृती विभागले गर्नेछ।\r\n\r\n\r\n२) छ अर्ब रुपैयाँभन्दा बढीको विदेशी लगानीको लगानी बोर्ड ऐन, २०६८ अन्तर्गतको लग्रानी बोर्डले गर्नेछ।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद-३ विदेशी लगानीको स्वीकृति तथा फिर्ता"
+        }
+      },
+      {
+        "id": "sec_18",
+        "english": {
+          "title": "Section 18: Period Within Which Investment Has to be Made",
+          "content": "1) A foreign investor shall have to make an investment of the amount in relation to which approval has been obtained for foreign investment pursuant to sub-section (2) of Section 15 within such period as prescribed.\r\n\r\n\r\n\r\n\r\n2) A foreign investor who has already obtained approval for making foreign investment in accordance with the prevailing law at the time of the commencement of this Act shall also make an investment of the prescribed minimum amount within the period prescribed pursuant to sub-section (1).\r\n\r\n\r\n\r\n\r\n3) The approval-giving body may revoke the investment approval given to an industry that fails to make an investment within the period referred to in sub-section (1) or (2) or Section 43, except in case of reasonable grounds.\r\n\r\n---",
+          "chapterTitle": "Chapter-3 Approval and Repatriation of Foreign Investment"
+        },
+        "nepali": {
+          "title": "दफा १८ः लगानी गरी सक्नु पर्ने अवधि",
+          "content": "१) विदेशी लगानीकर्ताले दफा १५ को उपदफा (२) बमोजिम विदेशी लगानी गर्न स्वीकृति प्राप्त गरेको रकम  तोकिएको अवधिभित्र लगानी गरी सक्नु पर्नेछ।\r\n\r\n\r\n२) यो ऐन प्रारम्भ हुँदाका बखत विदेशी लगानी गर्न प्रचलित कानून बमोजिम स्वीकृति प्राप्त गरिसकेका विदेशी लगानीकर्ताले समेत तोकिएको न्यूनतम रकम उपदफा (१) बमोजिम तोकिएको अवधिभित्र त्यस्तो लगानी गरी सक्नुपर्नेछ।\r\n\r\n\r\n३) मनासिब माफिकको कारण बिना उपदफा (१) वा (२) वा दफा ४३ बमोजिमको अवधिभित्र लगानी नगर्ने उद्योगलाई प्रदान गरिएको लगानी स्वीकृति त्यस्तो स्वीकृति दिने निकायले रद्द गर्नेछ।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद-३ विदेशी लगानीको स्वीकृति तथा फिर्ता"
+        }
+      },
+      {
+        "id": "sec_19",
+        "english": {
+          "title": "Section 19: To Give Information on Sale of or Transfer of Title to Shares",
+          "content": "1) In the case of the sale of or transfer of title to, or otherwise change in the ownership or vested ownership of, the property, assets or shares or any other kind of financial equipment generated in Nepal from foreign investment, whether effected within or outside Nepal, the concerned company shall, not later than thirty days of the effect of transaction, give information thereof, along with the relevant documentary evidence, to the body giving approval for making such investment and have the same recorded as prescribed.\r\n\r\n\r\n\r\n\r\n2) In the case of a change in the ownership of the industry subject to foreign investment in Nepal as a result of the transfer of title to any property, assets, shares or any other financial equipment of any holding company, the concerned branch industry or unit of the industry shall have the liability to give the information referred to in sub-section (1).\r\n\r\n\r\n\r\n\r\n3) In the case of a transaction in accordance with sub-section (1), it shall not be recorded pursuant to sub-section (1) until tax is paid by the concerned industry upon setting out the amount of transaction, in accordance with the prevailing law.\r\n\r\n\r\n\r\n\r\n4) Other provisions relating to the sale of and transfer of title to shares shall be as prescribed.\r\n\r\n---",
+          "chapterTitle": "Chapter-3 Approval and Repatriation of Foreign Investment"
+        },
+        "nepali": {
+          "title": "दफा १९ः शेयर बिक्री वा हक हस्तान्तरणको जानकारी गराउनु पर्ने",
+          "content": "१) विदेशी लगानीबाट नेपालमा सिर्जित सम्पत्ति, जायजेथा वा शेयर वा अन्य कुनै प्रकारको वित्तीय उपकरणको नेपालभित्र वा बाहिर शेयर बिक्री वा हक हस्तान्तरण वा अन्य कुनै प्रकारले स्वामित्व वा निहित स्वामित्वको संरचनामा परिवर्तन भएमा सम्बन्धित कम्पनीले कारोबार भएको तीस दिनभित्र तत्सम्बन्धी प्रमाण कागजात सहित सोको जानकारी त्यस्तो लगानी गर्न अनुमति दिने निकायमा दिई सोको तोकिए बमोजिम अभिलेखन गराउनु पर्नेछ।\r\n\r\n\r\n२) कुनै होल्डिङ कम्पनीको सम्पत्ति, जायजेथा वा शेयर वा अन्य कुनै प्रकारको वित्तीय उपकरणको हक हस्तान्तरण हुँदा नेपालमा विदेशी लगानी भएको उद्योगको स्वामित्व परिवर्तन भएकोमा उपदफा (१) बमोजिमको जानकारी गराउने दायित्व नेपालमा स्थापित सम्बन्धित शाखा उद्योग वा उद्योगको एकाइको हुनेछ।\r\n\r\n\r\n३) उपदफा (१) बमोजिम कारोबार भएकोमा सम्बन्धित उद्योगले कारोबारको रकम खुलाई प्रचलित कानून बमोजिम कर दाखिला नगरेसम्म उपदफा (१) बमोजिम अभिलेखन गरिने छैन।\r\n\r\n\r\n४) शेयर बिक्री र हक हस्तान्तरण सम्बन्धी अन्य व्यवस्था तोकिए बमोजिम हुनेछ।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद-३ विदेशी लगानीको स्वीकृति तथा फिर्ता"
+        }
+      },
+      {
+        "id": "sec_20",
+        "english": {
+          "title": "Section 20: Repatriation of Investment and Earnings",
+          "content": "1) A foreign investor may, if it so wishes, repatriate its investment from Nepal by selling wholly or partly of the shares or industry having its investment in accordance with the prevailing Nepal law after paying all such taxes as may be leviable in accordance with the prevailing Nepal law.\r\n\r\n\r\n\r\n\r\n2) A foreign investor may repatriate the following amount in the same foreign currency in which the investment has been made or other convertible foreign currency with the approval of the Nepal Rastra Bank tax-related after paying the tax related liabilities under the prevailing law:\r\n\r\n\r\n\r\n\r\n(a) Amount received from the sale of shares with foreign investment,\r\n\r\n\r\n\r\n\r\n(b) Amount of profit or dividend received from foreign investment,\r\n\r\n\r\n\r\n\r\n(c) In the case of liquidation or winding up of the industry or company, the amount remaining after paying all liabilities following the liquidation or winding up,\r\n\r\n\r\n\r\n\r\n(d) Amount of royalty received under the technology transfer agreement,\r\n\r\n\r\n\r\n\r\nProvided, however, that in the case of the royalty or fee for the use of a trademark under the transfer of technology in a liquor industry other than a liquor industry exporting cent percent of liquor, the amount of such royalty shall not exceed five percent of the total selling price, as prescribed, excluding the prevailing tax.\r\n\r\n\r\n\r\n\r\n(e) Amount of lease rent under the lease investment,\r\n\r\n\r\n\r\n\r\n(f) Amount received as damages or compensation, if any, received from the final settlement of a law suit, arbitration or any other legal process in Nepal,\r\n\r\n\r\n\r\n\r\n(g) Amount that can be repatriated in accordance with the prevailing law.\r\n\r\n\r\n\r\n\r\n3) In repatriating amount in a convertible foreign currency in accordance with sub-section (1) or (2), it shall be repatriated by making conversion at the prevailing exchange rate.\r\n\r\n\r\n\r\n\r\n4) Where any foreign investor has lent a loan to any industry or company against the pledge or mortgage of a movable or immovable property situated in Nepal and the movable or immovable property pledged or mortgaged required to be auctioned or forfeited because of non-repayment of the principal or interest of such a loan, the institution lending such a loan may repatriate the principal and interest of the loan by auction of such property as if it were a bank or financial institution of Nepal.\r\n\r\n\r\n\r\n\r\n5) In the case of termination of a lease agreement because of non-payment in accordance with the lease agreement or breach of its terms, the foreign investor may repatriate its investment and the property invested in the lease.\r\n\r\n\r\n\r\n\r\n6)  A foreign investor who wishes to repatriate the foreign investment or amount earned therefrom in accordance with this Section shall make an application, in the form as prescribed, to the foreign investment approving body for approval to that effect.\r\n\r\n\r\n\r\n\r\nProvided that such an application shall be made to the Single Stop Service Centre if the Government of Nepal, by notification in the Nepal Gazette, grants to the Single Stop Service Centre the power to the body to give approval relating to the repatriation of foreign investment or the amount earned therefrom.\r\n\r\n\r\n\r\n\r\n7) If, in examining an application received pursuant to sub-section (6), it appears that the foreign investor has fulfilled the terms and liabilities referred to in this Act, prevailing law and the agreement made in relation to foreign investment, the foreign investment approving body shall give the approval to repatriate the foreign investment or amount earned therefrom not later than fifteen days of the date of receipt of the application.\r\n\r\n\r\n\r\n\r\n8) After obtaining the approval pursuant to sub-section (7), the foreign investor may make an application to the Nepal Rastra Bank for the foreign currency exchange facility.\r\n\r\n\r\n\r\n\r\n9) The Nepal Rastra Bank shall, upon receipt of an application in accordance with sub-section (8), provide the exchange facility to the foreign investor for the repatriation of foreign investment.\r\n\r\n\r\n\r\n\r\n10) Where the amount of investment is to be repatriated by selling wholly or partly any industry with foreign investment or upon revocation of the registration of the industry or company for any reason, repatriation of the remaining amount may be made only after the payment or settlement of all liabilities including the tax payable by such industry.\r\n\r\n\r\n\r\n\r\n11) Notwithstanding anything contained elsewhere in this Section, a foreign investor may, in repatriating foreign investment made in any industry in accordance with this Act or profit earned therefrom, repatriate such investment or profit only to the extent of the ratio of the portion of its investment in the concerned company.\r\n\r\n\r\n\r\n\r\n12) If any foreign investor is not satisfied with a decision made by the body giving such approval in the course of repatriation of the amount of its investment, the investor may make an application to the Ministry. The Ministry shall make a decision on such an application within thirty working days.\r\n\r\n---\r\n\r\n\r\n---",
+          "chapterTitle": "Chapter-3 Approval and Repatriation of Foreign Investment"
+        },
+        "nepali": {
+          "title": "दफा २०ः लगानी तथा आर्जित रकम फिर्ता लैजान पाउने",
+          "content": "१) विदेशी लगानीकर्ताले चाहेमा प्रचलित नेपाल कानून बमोजिम आफ्नो लगानीको शेयर वा उद्योग पूर्ण वा आंशिक रुपमा बिक्री गरी प्रचलित नेपाल कानून बमोजिम लाग्ने सबै कर भुक्तान गरी नेपालबाट आफ्नो लगानी फिर्ता लैजान पाउनेछ ।\r\n\r\n\r\n२) विदेशी लगानीकर्ताले जुन विदेशी मुद्रामा लगानी गरको हो सोही विदेशी मुद्रामा वा नेपाल राष्ट्र बैंकको स्वीकृति लिई अन्य परिवर्त्य विदेशी मुद्रामा प्रचलित कानून बमोजिमको कर सम्बन्धी दायित्व पूरा गरी देहाय बमोजिमको रकम फिर्ता लैजान पाउनेछः-\r\n\r\n\r\n(क) विदेशी लगानीको शेयर बिक्रीबाट प्राप्त रकम,\r\n\r\n\r\n(ख) विदेशी लगानीबाट प्राप्त मुनाफा वा लाभांश बापतको रकम,\r\n\r\n\r\n(ग) उद्योग वा कम्पनी खारेजी वा लिक्विडेसनमा गएकोमा खारेजी वा लिक्विडेसन पश्चात सम्पूर्ण दायित्व चुक्ता गरी बाँकी रहन आउने रकम,\r\n\r\n\r\n(घ) प्रविधि हस्तान्तरण सम्झौता अन्तर्गत प्राप्त लाभ (रोयल्टी) बापतको रकम,\r\n\r\n\r\nतर शतप्रतिशत मदिरा निकासी गर्ने मदिराजन्य उद्योग बाहेक अन्य मदिराजन्य उद्योगमा हुने प्रविधि हस्तान्तरण अन्तर्गतको ट्रेडमार्क उपयोग हुने वा पतको रोयल्टी वा शुल्कको हकमा त्यस्तो लाभ बापतको रकम प्रचलित कर बाहेकको कुल बिक्री मूल्यको तोकिए बमोजिमको पाँच प्रतिशतभन्दा बढी हुने छैन,\r\n\r\n\r\n(ङ) लिज लगानी अन्तर्गत लिज भाडा (लिज रेन्ट) रकम,\r\n\r\n\r\n(च) नेपालमा चलेको मुद्दा , मध्यस्थता वा अन्य कुनै कानूनी प्रक्रियाको अन्तिम व्यवस्थापनबाट प्राप्त गरेको कुनै हर्जाना वा क्षतिपूर्ति बापतको रकम,\r\n\r\n\r\n(छ) प्रचलित कानून बमोजिम फिर्ता लैजान पाउने रकम।\r\n\r\n\r\n३) उपदफा (१) वा (२) बमोजिम परिवर्त्य विदेशी मुद्रामा रकम फिर्ता लैजाँदा प्रचलित विनिमय दरमा सटही गरी लैजानु पर्नेछ।\r\n\r\n\r\n४) कुनै विदेशी लगानीकर्ताले नेपालको चल वा अचल सम्पत्ति धितो वा बन्धक लिई कुने उद्योग वा कम्पनीलाई ऋण दिएकोमा त्यस्तो ऋणको सावाँ वा ब्याज रकम भुक्तानी नभएको कारणबाट धितो वा बन्धक दिएको चल वा अचल सम्पत्ति लिलाम बिक्री वा जफत गर्नु परेमा त्यस्तो ऋण दिने संस्थाले प्रचलित कानून बमोजिम नेपालको बैंक वा वित्तीय संस्था सरह लिलाम बिक्री गरी ऋणको सावाँ ब्याज फिर्ता लैजान सक्नेछ।\r\n\r\n\r\n५) लिज सम्झौता बमोजिम भुक्तानी नभएको वा सम्झौताको शर्त उल्लंघन भएको कारणबाट लिज सम्झौता अन्त्य भएमा विदेशी लगानीकर्ताले आफ्नो लगानी र लिजमा लगानी गरेको सम्पत्ति फिर्ता लैजान सक्नेछ ।\r\n\r\n\r\n६) यस दफा बमोजिम विदेशी लगानी वा त्यसबाट आर्जित रकम फिर्ता लैजान चाहने विदेशी लगानीकर्ताले स्वीकृतिको लागि तोकिएबमोजिमको ढाँचामा विदेशी लगानी स्वीकृत गर्ने निकायमा निवेदन दिनुपर्नेछ।\r\n\r\n\r\nतर नेपाल सरकारले नेपाल राजपत्रमा सूचना प्रकाशन गरी विदेशी लगानी वा त्यसबाट आर्जित रकम फिर्ता लैजाने सम्बन्धी स्वीकृति दिने अधिकार एकल बिन्दु सेवा केन्द्रलाई प्रदान गरेमा त्यस्तो निवेदन एकल बिन्दु सेवा केन्द्रमा दिनुपर्नेछ ।\r\n\r\n\r\n७) उपदफा (६) बमोजिम प्राप्त निवेदन जाँचबुझ गर्दा विदेशी लगानीकर्ताले यस ऐन, प्रचलित कानून तथा विदेशी लगानी सम्बन्धमा भएको सम्झौता बमोजिमका शर्त र दायित्व पूरा गरेको देखिएमा विदेशी लगानी स्वीकृत गर्ने निकायले निवेदन प्राप्त भएको मितिले पन्ध्र दिनभित्र विदेशी लगानी वा त्यसबाट आर्जित रकम फिर्ता लैजाने स्वीकृति दिनुपर्नेछ ।\r\n\r\n\r\n८) उपदफा (७) बमोजिम स्वीकृति प्राप्त भएपछि विदेशी लगानीकर्ताले विदेशी मुद्राको सटही सुविधाको लागि नेपाल राष्ट्र बैंकमा निवेदन दिन सक्नेछ।\r\n\r\n\r\n९) उपदफा (८) बमोजिम निवेदन प्राप्त भएपछि नेपाल राष्ट्र बैंकले विदेशी लगानीकर्तालाई विदेशी लगानी फिर्ता लैजान सटहीको सुविधा उपलब्ध गराउनेछ ।\r\n\r\n\r\n१०) विदेशी लगानी भएको कुनै उद्योग पूर्ण वा आंशिक रुपमा बिक्री गरी वा कुनै कारणले उद्योग वा कम्पनीको दर्ता खारेज भई लगानी रकम फिर्ता लैजाने भएमा त्यस्तो उद्योगले भुक्तान गर्नुपर्ने कर लगायत सम्पूर्ण दायित्व भुक्तान वा फरफारख भएपछि मात्र बाँकी रकम फिर्ता लैजान पाउनेछ।\r\n\r\n\r\n११) यस दफामा अन्यत्र जुनसुकै कुरा लेखिएको भए तापनि विदेशी लगानीकर्ताले यस ऐन बमोजिम कुनै उद्योगमा गरेको विदेशी लगानी वा सोबाट आर्जित मुनाफा फिर्ता लैजाँदा निजको सम्बन्धित कम्पनीमा रहेको लगानीको हिस्साको अनुपातको हदसम्म मात्र त्यस्तो लगानी वा मुनाफा फिर्ता लैजान पाउनेछ।\r\n\r\n\r\n१२) कुनै विदेशी लगानीकर्ताले आफ्नो लगानी रकम फिर्ता लैजाने सन्दर्भमा त्यस्तो स्वीकृति दिने निकायले गरेको निर्णय उपर चित्त नबुझेमा मन्त्रालय समक्ष निवेदन दिन सक्नेछ। मन्त्रालयले त्यस्तो निवेदन उपर तीस कार्यदिन भित्र निर्णय गरी सक्नु पर्नेछ।\r\n\r\n---\r\n\r\n\r\n---",
+          "chapterTitle": "परिच्छेद-३ विदेशी लगानीको स्वीकृति तथा फिर्ता"
+        }
+      },
+      {
+        "id": "sec_21",
+        "english": {
+          "title": "Section 21: Functions, Duties and Powers of the Board",
+          "content": "In addition to its functions, duties, and powers referred to elsewhere in this Act, other functions, duties and powers of the Board shall be as follows:\r\n\r\n\r\n(a) To give suggestions to the Government of Nepal for such policy, institutional and procedural reforms as may be required to be made for the attraction of foreign investment in industrial and infrastructure development,\r\n\r\n\r\n\r\n\r\n(b) To set such strategies and programs as may be required for the enhancement of attraction of foreign investment in Nepal and promotion and protection thereof,\r\n\r\n\r\n\r\n\r\n(c) To give approval for the establishment of industries and infrastructures with foreign investment, and promote foreign investment,\r\n\r\n\r\n\r\n\r\n(d) To facilitate foreign investment by enhancing, expanding and protecting foreign investment,\r\n\r\n\r\n\r\n\r\n(e) To make coordination at the policy and implementation levels of foreign investment,\r\n\r\n\r\n\r\n\r\n(f) To assist in the implementation of policies and laws relating to foreign investment,\r\n\r\n\r\n\r\n\r\n(g) To make arrangements for the provision of services to foreign investors from the Single Stop Service Centre,\r\n\r\n\r\n\r\n\r\n(h) To obtain information as to whether activities of giving approval for foreign investment and delivery of services have been carried out properly and give necessary direction to the concerned body,\r\n\r\n\r\n\r\n\r\n(i) To make facilitation, if there arises any problem in respect of the repatriation of foreign investment or amount earned, as referred to in Section 20 or implementation of this Act or the rules framed under this Act,  in that respect,\r\n\r\n\r\n\r\n\r\n(j) To perform, or cause to be performed, such other functions as prescribed.\r\n\r\n---",
+          "chapterTitle": "Chapter-4 Promotion, Facilitation and Regulation of Foreign Investment"
+        },
+        "nepali": {
+          "title": "दफा २१ः बोर्डको काम, कर्तव्य र अधिकार",
+          "content": "यस ऐनमा अन्यत्र लेखिएको काम, कर्तव्य र अधिकारका अतिरिक्त बोर्डको अन्य काम, कर्तव्य र अधिकार देहाय बमोजिम हुनेछः-\r\n\r\n\r\n(क) औद्योगिक तथा पूर्वाधार संरचना विकासमा विदेशी लगानी आकर्षण गर्न अवलम्बन गर्नुपर्ने नीतिगत , संस्थागत र प्रक्रियागत सुधारको लागि नेपाल सरकारलाई सुझाव दिने,\r\n\r\n\r\n(ख) नेपालमा विदेशी लगानीको आकर्षण बढाउन र त्यसको प्रबर्द्धन तथा संरक्षण गर्न आवश्यक रणनीति र कार्यक्रम तय गर्ने,\r\n\r\n\r\n(ग) विदेशी लगानीमा आधारित उद्योग, तथा पूर्वाधार संरचना को स्थापनाको लागि स्वीकृति दिने तथा विदेशी लगानीको प्रबर्द्धन गर्ने,\r\n\r\n\r\n(घ) विदेशी लगानीको अभिवृद्धि , विस्तार तथा संरक्षण गरी विदेशी लगानीको लागि सहजीकरण गर्ने,\r\n\r\n\r\n(ङ) विदेशी लगानीको नीतिगत तथा कार्यान्वयनको तहमा समन्वय कायम गर्ने,\r\n\r\n\r\n(च) विदेशी लगानी सम्बन्धी नीति तथा कानूनको कार्यान्वयनमा सहयोग गर्ने,\r\n\r\n\r\n(छ) विदेशी लगानीकर्तालाई एकल बिन्दु सेवा केन्द्रबाट सेवा उपलब्ध गराउने व्यवस्था गर्ने,\r\n\r\n\r\n(ज) विदेशी लगानीको स्वीकृति तथा सेवा प्रवाहको काम कारबाही उचित ढङ्गले सञ्चालन भए वा नभएको जानकारी लिई सम्बन्धित निकायलाई आवश्यक निर्देशन दिने,\r\n\r\n\r\n(झ) दफा २० बमोजिमको विदेशी लगानी वा आर्जित रकम फिर्ता लैजाने सम्बन्धमा वा यो ऐन वा यस ऐन अन्तर्गत बनेको नियमको कार्यान्वयनमा कुनै समस्या देखिए सहजीकरण गर्ने,\r\n\r\n\r\n(ञ) तोकिए बमोजिमका अन्य काम गर्ने, गराउने ।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद-४ विदेशी लगानीको प्रवर्दन, सहजीकरण तथा नियमन"
+        }
+      },
+      {
+        "id": "sec_22",
+        "english": {
+          "title": "Section 22: Functions, Duties and Powers of the Department",
+          "content": "In addition to the functions, duties and powers referred to  elsewhere in this Act, other functions, duties and powers of the Department shall be as follows:\r\n\r\n\r\n\r\n\r\n(a) To create conducive environment for the establishment and operation of industries to be established with foreign investment,\r\n\r\n\r\n\r\n\r\n(b) To facilitate foreign investors to obtain any approval or permission including initial environmental assessment, environmental impact assessment in accordance with the prevailing law,\r\n\r\n\r\n\r\n\r\n(c) To maintain updated records of foreign investments approved or permitted in accordance with this Act or the prevailing law and of the technology transferred in Nepal, update such records and make the same public periodically,\r\n\r\n\r\n\r\n\r\n(d) To give approval for foreign investors and foreign experts, technicians or managerial employees who are engaged in the industries with foreign investment pursuant to Section 27 to repatriate investment and remuneration,\r\n\r\n\r\n\r\n\r\n(e) To make and enforce Standard Operating Procedures in order to make foreign investment transparent and to make procedural simplification,\r\n\r\n\r\n\r\n\r\n(f) To make recommendations for visas to foreign investors and their authorised representatives, foreign experts, technical or managerial employees engaged in industries with foreign investment in accordance with  Section 27 and minor members of their families, and make facilitation for that purpose.\r\n\r\n\r\n\r\n\r\n(g) To make regular supervision and monitoring as to whether any industry with foreign investment has misused any facility granted in accordance with this Act,\r\n\r\n\r\n\r\n\r\n(h) To facilitate industries with foreign investment in establishing industries in an industrial zone or special economic zone,\r\n\r\n\r\n\r\n\r\n(i) To perform, or cause to be performed, such other functions as prescribed.\r\n\r\n---",
+          "chapterTitle": "Chapter-4 Promotion, Facilitation and Regulation of Foreign Investment"
+        },
+        "nepali": {
+          "title": "दफा २२ः विभागको काम, कर्तव्य र अधिकार",
+          "content": "यस ऐनमा अन्यत्र लेखिएका काम, कर्तव्य र अधिकारका अतिरिक्त विभागको अन्य काम , कर्तव्य र अधिकार देहाय बमोजिम हुनेछः-\r\n\r\n\r\n(क) विदेशी लगानीमा स्थापित हुने उद्योगहरु स्थापना र सञ्चालनको लागि सहज वातावरण सृजना गर्ने,\r\n\r\n\r\n(ख) प्रचलित कानून बमोजिम प्रारम्भिक वातावरणीय परीक्षण , वातावरणीय प्रभाव मूल्याङ्कक लगायतका कुनै स्वीकृति वा अनुमतिपत्र प्राप्त गर्नका लागि विदेशी लगानीकर्तालाई सहजीकरण गर्ने,\r\n\r\n\r\n(ग) यस ऐन वा प्रचलित कानून बमोजिम स्वीकृत भएका वा अनुमति प्राप्त गरेका विदेशी लगानी तथा नेपालमा हस्तान्तरण भएको प्रविधिको अच्यावधिक अभिलेख राख्ने , त्यसलाई अद्यावधिक गर्ने र आवधिक रुपमा सार्वजनिक गर्ने,\r\n\r\n\r\n(घ) विदेशी लगानीकर्ता तथा विदेशी लगानी भएका उद्योगमा दफा २ ७ बमोजिम कार्यरत विदेशी विशेषज्ञ , प्राविधिक वा व्यवस्थापकीय कर्मचारीलाई लगानी तथा पारिश्वमिक फिर्ता लैजान स्वीकृति दिने,\r\n\r\n\r\n(ङ) विदेशी लगानीलाई पारदर्शी बनाउन तथा प्रक्रियागत सरलीकरण गर्न कार्य सञ्चालन कार्यविधि (स्टाण्डर्ड अपरेटिङ्ग प्रोसि ड्युर) बनाई लागू गर्ने,\r\n\r\n\r\n(च) विदेशी लगानीकर्ता र निजका आधिकारिक प्रतिनिधि तथा विदेशी लगानी भएका उद्योगमा दफा र ७ बमोजिम कार्यरत विदेशी विशेषज्ञ, प्राविधिक वा व्यवस्थापकीय कर्मचारी र निजका परिवारका नाबालक सदस्यलाई भिसाको लागि सिफारिस गर्ने तथा सोको लागि सहजीकरण गर्ने,\r\n\r\n\r\n(छ) बिदेशी लगानी भएका उद्योगले यस ऐन बमोजिम दिइएको सुविधाको दुरुपयोग गरे वा नगरको नियमित सुपरीवेक्षण तथा अनुगमन गर्ने,\r\n\r\n\r\n(ज) विदेशी लगानी भएका उच्योगको लागि औद्योगिक क्षेत्र वा विशेष आर्थिक क्षेत्रमा उद्योग स्थापनाका लागि सहजीकरण गर्ने,\r\n\r\n\r\n(झ) तोकिए बमोजिमका अन्य काम गर्ने, गराउने।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद-४ विदेशी लगानीको प्रवर्दन, सहजीकरण तथा नियमन"
+        }
+      },
+      {
+        "id": "sec_23",
+        "english": {
+          "title": "Section 23: Services to be Provided Through the Single Stop Service Centre",
+          "content": "1) The Government of Nepal may make necessary arrangements so that exemptions, facilities, concessions or services to be provided to the foreign investors in accordance with this Act and other prevailing laws are provided through the Single Stop Service Centre.\r\n\r\n\r\n\r\n\r\n2) In managing the services to be provided through the Single Stop Service Centre pursuant to sub-section (1), necessary provision shall be made so that the following services are provided gradually:\r\n\r\n\r\n\r\n\r\n(a) Registration and administration of industries,\r\n\r\n\r\n\r\n\r\n(b) Approval of foreign investment and loan,\r\n\r\n\r\n\r\n\r\n(c) Registration and administration of companies,\r\n\r\n\r\n\r\n\r\n(d) Labour permit,\r\n\r\n\r\n\r\n\r\n(e) Visa facility,\r\n\r\n\r\n\r\n\r\n(f) Testing and control of quality of goods produced by industries,\r\n\r\n\r\n\r\n\r\n(g) Approval of environmental study report,\r\n\r\n\r\n\r\n\r\n(h) Energy and infrastructure development and necessary coordination for that purpose, as well as a focal point among other bodies,\r\n\r\n\r\n\r\n\r\n(i) Exemptions, facilities to which industries are entitled,\r\n\r\n\r\n\r\n\r\n(j) Provision of permanent account number,\r\n\r\n\r\n\r\n\r\n(k) Foreign exchange approval,\r\n\r\n\r\n\r\n\r\n(l) Any service related to such other functions as may be required to be performed for industries in accordance with this Act and the Regulation framed under this Act.\r\n\r\n\r\n\r\n\r\n3) It may be so prescribed that the Single Stop Service Centre may provide other services referred to in the prevailing law in addition to the services and facilities to be provided pursuant to this Section.\r\n\r\n---\r\n\r\n\r\n---",
+          "chapterTitle": "Chapter-4 Promotion, Facilitation and Regulation of Foreign Investment"
+        },
+        "nepali": {
+          "title": "दफा २३ः एकल बिन्दु सेवा केन्द्र मार्फत्‌ सेवा उपलब्ध गराइने",
+          "content": "१) नेपाल सरकारले विदेशी लगानीकर्तालाई यस ऐन तथा प्रचलित अन्य कानून बमोजिम प्रदान गरिने छुट, सुविधा, सहुलियत वा सेवाहरू एकल बिन्दु सेवा केन्द्र मार्फत्‌ उपलब्ध गराउने गरी आवश्यक व्यवस्था मिलाउन सक्नेछ।\r\n\r\n\r\n२) उपदफा (१) बमोजिम एकल बिन्दु सेवा केन्द्र बाट प्रदान गरिने सेवाहरूको व्यवस्थापन गर्दा क्रमशः देहायका सेवाहरू प्रदान गर्ने गरी आवश्यक व्यवस्था मिलाइनेछः-\r\n\r\n\r\n(क) उद्योगको दर्ता तथा उद्योग प्रशासन,\r\n\r\n\r\n(ख) विदेशी लगानी,र ऋणको स्वीकृति,\r\n\r\n\r\n(ग) कम्पनी दर्ता तथा कम्पनी प्रशासन,\r\n\r\n\r\n(घ) श्रम स्वीकृति,\r\n\r\n\r\n(ङ) भिसा सुविधा,\r\n\r\n\r\n(च) उद्योगबाट उत्पादित वस्तुको गुणस्तर मापन तथा नियन्त्रण,\r\n\r\n\r\n(छ) वातावरणीय अध्ययन प्रतिवेदन स्वीकृति,\r\n\r\n\r\n(ज) उर्जा र पूर्वाधार बिकास तथा सोको लागि आवश्यक समन्वय एवं अन्य निकायहरुकाबीच सम्पर्क बिन्दु (फोकल पोइन्ट),\r\n\r\n\r\n(झ) उद्योगले पाउने छुट, सुविधा,\r\n\r\n\r\n(ञ) स्थायी लेखा नम्बर प्रदान गर्ने कार्य,\r\n\r\n\r\n(ट) विदेशी विनिमय स्वीकृति,\r\n\r\n\r\n(ठ) यो ऐन र यस ऐन अन्तर्गत बनेको नियमावली बमोजिम उद्योगका लागि गर्नुपर्ने अन्य कार्यसँग सम्बन्धित कुनै सेवा।\r\n\r\n\r\n३) एकल बिन्दु सेवा केन्द्रलाई यस दफा बमोजिम प्रदान गरिने सेवा सुविधाका अतिरिक्त प्रचलित कानून बमोजिमका अन्य सेवाहरु प्रदान गर्ने गरी तोक्न सकिनेछ।\r\n\r\n---\r\n\r\n\r\n---",
+          "chapterTitle": "परिच्छेद-४ विदेशी लगानीको प्रवर्दन, सहजीकरण तथा नियमन"
+        }
+      },
+      {
+        "id": "sec_24",
+        "english": {
+          "title": "Section 24: Facilities to be Obtained by Industries",
+          "content": "1) In addition to the exemptions, facilities, concessions or protection referred to in this Act, be provided to any industry with foreign investment, such exemptions, facilities or concessions as may be available under the prevailing Industrial Enterprises Act and other prevailing law shall.\r\n\r\n\r\n\r\n\r\n2) Notwithstanding anything contained in sub-section (1), such facilities to which a sick industry is entitled in accordance with the prevailing law shall not be available to any industry with foreign investment.\r\n\r\n---",
+          "chapterTitle": "Chapter-5 Exemptions, Facilities and Concessions to be Provided to Industries with Foreign Investment or Foreign Investors"
+        },
+        "nepali": {
+          "title": "दफा २४ः उद्योगले प्राप्त गर्ने सुविधा",
+          "content": "१) विदेशी लगानी भएका उच्योगलाई यस ऐन बमोजिमका छुट, सुविधा, सहुलियत वा संरक्षणको अतिरिक्त प्रचलित औद्योगिक व्यवसाय ऐन र अन्य प्रचलित कानून बमोजिम उपलब्ध हुने छुट, सुविधा वा सहुलियत समेत प्रदान गरिनेछ ।\r\n\r\n\r\n२) उपदफा (१) मा जुनसुकै कुरा लेखिएको भए तापनि विदेशी लगानी भएका उद्योगलाई प्रचलित कानून बमोजिम रुग्ण उद्योगले पाउने सुविधा उपलब्ध हुनेछैन।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद-५ विदेशी लगानी भएका उद्योग वा विदेशी लगानीकर्तालाई प्रदान गरिने छुटसुविधा र सहुलियत"
+        }
+      },
+      {
+        "id": "sec_25",
+        "english": {
+          "title": "Section 25: Facility to Deal with Foreign Currency",
+          "content": "1) A foreign investor or industry with foreign investment may open an account in Nepali currency with any commercial bank, infrastructure development bank or financial institution of Nepal and in foreign currency with any bank or financial institution licenced to deal with convertible foreign currency in accordance with the prevailing law and carry on transaction accordingly.\r\n\r\n\r\n\r\n\r\nProvided, however, that approval of the Nepal Rastra Bank shall be obtained to carry on a transaction by opening an account in convertible foreign currency.\r\n\r\n\r\n\r\n\r\n2) An industry with foreign investment may, in order to mitigate the foreign currency exchange fluctuation risk, use any approved derivatives equipment through a bank or financial institution.\r\n\r\n---",
+          "chapterTitle": "Chapter-5 Exemptions, Facilities and Concessions to be Provided to Industries with Foreign Investment or Foreign Investors"
+        },
+        "nepali": {
+          "title": "दफा २५ः  विदेशी मुद्राको कारोबार गर्न सुविधा",
+          "content": "१) विदेशी लगानीकर्ता वा विदेशी लगानी भएका उद्योगले नेपालको कुनै वाणिज्य बैंक वा पूर्वाधार विकास बैंक वा वित्तीय संस्थामा नेपाली मुद्रामा र प्रचलित कानून बमोजिम परिवर्त्य विदेशी मुद्राको कारोबार गर्न इजाजत प्राप्त कुनै बैंक वा वित्तीय संस्थामा विदेशी मुद्रामा खाता खोली कारोबार गर्न सक्नेछ ।\r\n\r\n\r\nतर परिवर्त्य विदेशी मुद्रामा खाता खोली कारोबार गर्न नेपाल राष्ट्र बैंकको स्वीकृति लिनु पर्नेछ।\r\n\r\n\r\n२) विदेशी लगानी भएका उद्योगले परिवर्त्य विदेशी मुद्राको विनिमयदर हेरफेरको जोखिम न्यूनीकरण गर्न बैंक वा वित्तीय संस्था मार्फत स्वीकृत प्राप्त डेरिभेटिभस्‌ उपकरणको प्रयोग गर्न सक्नेछ ।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद-५ विदेशी लगानी भएका उद्योग वा विदेशी लगानीकर्तालाई प्रदान गरिने छुटसुविधा र सहुलियत"
+        }
+      },
+      {
+        "id": "sec_26",
+        "english": {
+          "title": "Section 26: Facility of Foreign Currency",
+          "content": "1) An industry with foreign investment may, on the recommendation of the foreign investment approving body and with the approval of the Nepal Rastra Bank, obtain the foreign exchange facility for such amount as may be required for the following purposes:\r\n\r\n\r\n\r\n\r\n(a) To pay such remuneration as may be payable to any foreign expert, technical or managerial employee employed in the industry in accordance with Section 27,\r\n\r\n\r\n\r\n\r\n(b) To pay the principal or interest of any bonds or debentures issued in accordance with sub-section (1) of Section 11,\r\n\r\n\r\n\r\n\r\n(c) To repatriate the foreign investment or income earned in accordance with Section 20.\r\n\r\n\r\n\r\n\r\n2) After obtaining approval from the Nepal Rastra Bank in accordance with sub-section (1), an industry with foreign investment may pay or use such amount as approved from the foreign currency held in the account of such industry as referred to in Section 25.\r\n\r\n\r\n\r\n\r\n3) Any foreign expert, technical or managerial employee employed in an industry in accordance with Section 27 may repatriate to his or her country in convertible foreign currency such amount of savings out of the remuneration receivable by him or her after paying income tax in Nepal in accordance with the prevailing law.\r\n\r\n\r\n\r\n\r\n4) The exchange or repatriation of convertible foreign currency in accordance with sub-section (2) or (3) shall be made according to the open market exchange rate.\r\n\r\n---",
+          "chapterTitle": "Chapter-5 Exemptions, Facilities and Concessions to be Provided to Industries with Foreign Investment or Foreign Investors"
+        },
+        "nepali": {
+          "title": "दफा २६ः विदेशी मुद्राको सुविधा",
+          "content": "१) विदेशी लगानी भएका उद्योगले विदेशी लगानी स्वीकृत गर्ने निकायको सिफारिसमा नेपाल राष्ट्र बैंकको स्वीकृति लिई देहायको प्रयोजनका लागि आवश्यक पर्ने रकमको लागि विदेशी मुद्राको सुविधा प्राप्त गर्न सक्नेछः-\r\n\r\n\r\n(क) दफा २७ बमोजिम उद्योगमा काम लगाइएका विदेशी विशेषज्ञ, प्राविधिक वा व्यवस्थापकीय कर्मचारीले पाउने पारिश्रमिक भुक्तानी गर्न,\r\n\r\n\r\n(ख) दफा ११ को उपदफा (१) बमोजिम जारी भएको ऋणपत्र वा डिवेच्चरको सावाँ वा ब्याज भुक्तानी गर्न,\r\n\r\n\r\n(ग) दफा २० बमोजिम विदेशी लगानी वा आर्जित रकम फिर्ता लैजान।\r\n\r\n\r\n२) उपदफा (१) बमोजिम नेपाल राष्ट्र बैंकबाट स्वीकृत भएपछि विदेशी लगानी भएका उद्योगले स्वीकृत भए बमोजिमको रकम त्यस्तो उद्योगको दफा २५ बमोजिमको खातामा रहेको विदेशी मुद्राबाट भुक्तानी वा प्रयोग गर्न सक्नेछ।\r\n\r\n\r\n३) दफा २७ बमोजिम उद्योगमा काम लगाइएका विदेशी विशेषज्ञ , प्राविधिक वा व्यवस्थापकीय कर्मचारीले प्रचलित कानून बमोजिम नेपालमा आयकर दाखिला गरी निजले पाउने पारिश्रमिक को रकममध्ये बचत हुन आएको रकम परिवर्त्य विदेशी मुद्रामा निजको मुलुकमा लैजान सक्नेछ ।\r\n\r\n\r\n४) उपदफा (२) वा (३) बमोजिम परिवर्त्य विदेशी मुद्रा सटही गर्दा वा लैजाँदा खुला बजार विनिमयदरबाट गर्नुपर्नेछ।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद-५ विदेशी लगानी भएका उद्योग वा विदेशी लगानीकर्तालाई प्रदान गरिने छुटसुविधा र सहुलियत"
+        }
+      },
+      {
+        "id": "sec_27",
+        "english": {
+          "title": "Section 27: Provision Relating to Experts, Top-Level Technical and Managerial Employees",
+          "content": "1) An industry with foreign investment shall fill the positions of experts in its top-level management, high-level technical, managerial employees, or technical employees from amongst Nepali citizens.\r\n\r\n\r\n\r\n\r\n2) Notwithstanding anything contained in sub-section (1), if an industry with foreign investment cannot fulfil the positions of experts in its top-level management, high-level technical, managerial employees or technical employees from amongst the Nepali citizens and it is necessary to transfer technical knowledge or skill through any technical or expert of another country in such an industry, the industry may employee any foreign citizen in accordance with the prevailing law.\r\n\r\n\r\n\r\n\r\n3) The concerned industry shall provide details relating to the foreign citizens employed in accordance with sub-section (2) to the Department. The Department shall also provide the details to the Ministry of Finance, Ministry of Home Affairs, and Ministry of Labour, Employment, and Social Security.\r\n\r\n\r\n\r\n\r\n4) The employees and workers employed in any industry with foreign investment in accordance with sub-section (2) shall comply with the terms and conditions referred to in the prevailing Nepal law.\r\n\r\n---",
+          "chapterTitle": "Chapter-5 Exemptions, Facilities and Concessions to be Provided to Industries with Foreign Investment or Foreign Investors"
+        },
+        "nepali": {
+          "title": "दफा २७ः विशेषज्ञ, उच्च प्राविधिक र व्यवस्थापकीय कर्मचारी सम्बन्धी व्यवस्था",
+          "content": "१) विदेशी लगानी भएको उद्योगको उच्च व्यवस्थापनमा विशेषज्ञ, उच्च प्राविधिक, व्यवस्थापकीय कर्मचारी वा प्राविधिक कर्मचारीको पूर्ति गर्दा नेपाली नागरिकबाट गर्नुपर्नेछ ।\r\n\r\n\r\n२) उपदफा (१) मा जुनसुकै कुरा लेखिएको भए तापनि उद्योगको उच्च व्यवस्थापनमा विशेषज्ञ, उच्च प्राविधिक, व्यवस्थापकीय कर्मचारी वा प्राविधिक कर्मचारीको पूर्ति नेपाली नागरिकबाट हुन नसक्ने भएमा र त्यस्तो उद्योगमा अन्य देशका प्राविधिक वा विशेषज्ञ मार्फत प्राविधिक ज्ञान वा सीप हस्तान्तरण गर्नु पेरमा प्रचलित कानून बमोजिम विदेशी नागरिकलाई काममा लगाउन सकिनेछ।\r\n\r\n\r\n३) उपदफा (२) बमोजिम काममा लगाइएको विदेशी नागरिक सम्बन्धी विवरण सम्बन्धित उद्योगले विभागलाई उपलब्ध गराउनु पर्नेछ। विभागले त्यस्तो विवरण अर्थ मन्त्रालाय, गृह मन्त्रालय र श्रम, रोजगार तथा सामाजिक सुरक्षा मन्त्रालयलाई समेत उपलब्ध गराउनेछ ।\r\n\r\n\r\n४) उपदफा (२) बमोजिम विदेशी लगानी भएका उद्योगमा काममा लगाइएका कर्मचारी एवं कामदारले प्रचलित नेपाल कानून अनुसारका शर्त पालना गर्नुपर्नेछ।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद-५ विदेशी लगानी भएका उद्योग वा विदेशी लगानीकर्तालाई प्रदान गरिने छुटसुविधा र सहुलियत"
+        }
+      },
+      {
+        "id": "sec_28",
+        "english": {
+          "title": "Section 28: Provision Relating to Industrial Security",
+          "content": "Such industrial security shall be provided to any industry with foreign investment as may be available to any other industry established in Nepal.\r\n\r\n---",
+          "chapterTitle": "Chapter-5 Exemptions, Facilities and Concessions to be Provided to Industries with Foreign Investment or Foreign Investors"
+        },
+        "nepali": {
+          "title": "दफा २८ः औद्योगिक सुरक्षा सम्बन्धी व्यवस्था",
+          "content": "विदेशी लगानी भएका उद्योगलाई नेपालमा स्थापित अन्य उद्योग सरहको औद्योगिक सुरक्षा उपलब्ध गराइनेछ।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद-५ विदेशी लगानी भएका उद्योग वा विदेशी लगानीकर्तालाई प्रदान गरिने छुटसुविधा र सहुलियत"
+        }
+      },
+      {
+        "id": "sec_29",
+        "english": {
+          "title": "Section 29: Facility of Identity Card",
+          "content": "The Department may provide an identity card in the prescribed form to any foreign investor who makes such foreign investment as prescribed.\r\n\r\n---",
+          "chapterTitle": "Chapter-5 Exemptions, Facilities and Concessions to be Provided to Industries with Foreign Investment or Foreign Investors"
+        },
+        "nepali": {
+          "title": "दफा २९ः परिचयपत्रको सुविधा",
+          "content": "विभागले तोकिए बमोजिमको विदेशी लगानी गर्ने विदेशी लगानीकर्तालाई तोकिएको ढाँचामा परिचयपत्र उपलब्ध गराउन सक्नेछ ।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद-५ विदेशी लगानी भएका उद्योग वा विदेशी लगानीकर्तालाई प्रदान गरिने छुटसुविधा र सहुलियत"
+        }
+      },
+      {
+        "id": "sec_30",
+        "english": {
+          "title": "Section 30: Provision Relating to Visa Facility",
+          "content": "1) The non-tourist visa not exceeding six months shall be granted to a foreign citizen who visits Nepal to conduct a study, research or survey for foreign investment.\r\n\r\n\r\n\r\n\r\n2) The business visa shall be granted to a foreign investor or one authorised representative of him or her and the family members of such an investor or representative to stay in Nepal until the foreign investment equal to such minimum amount as prescribed is maintained.\r\n\r\n\r\n\r\n\r\nExplanation: For the purpose of this Section, the term “family member” means the husband or wife, father, mother and minor son, or daughter of the foreign investor or his or her authorised representative.\r\n\r\n\r\n\r\n\r\n3) Notwithstanding anything contained in sub-section (2), in the case of an investor who makes an investment exceeding the prescribed amount, such facility shall be provided only to a maximum of two persons and their family members.\r\n\r\n\r\n\r\n\r\n4) The residential visa shall be provided to a foreign investor who makes foreign investment in an amount exceeding one million US dollars or in convertible foreign currency equivalent thereto at one time or to the authorised representative of him or her and the family member of such a person until the foreign investment equal to such minimum amount as prescribed is maintained.\r\n\r\n\r\n\r\n\r\n5) The tourist visa shall be provided to any foreign expert, technical or managerial employee to be employed in an industry in accordance with Section 27.\r\n\r\n\r\n\r\n\r\n6) The body giving working approval and work permit for the non-tourist visa shall make a decision whether or not to give working approval or work permit after completing the necessary procedures not later than fifteen days.\r\n\r\n\r\n\r\n\r\n7) Other provisions relating to visa facility shall be as prescribed.\r\n\r\n---",
+          "chapterTitle": "Chapter-5 Exemptions, Facilities and Concessions to be Provided to Industries with Foreign Investment or Foreign Investors"
+        },
+        "nepali": {
+          "title": "दफा ३०ः भिसा सुविधा सम्बन्धी व्यवस्था",
+          "content": "१) विदेशी लगानीका लागि अध्ययन अनुसन्धान वा सर्भेक्षण गर्न आउने विदेशी नागरिकलाई छ महिनासम्मको गैर पर्यटक भिसा दिइनेछ।\r\n\r\n\r\n२) विदेशी लगानीकर्ता वा निजको एकजना आधिकारिक प्रतिनिधि र त्यस्तो लगानीकर्ता वा प्रतिनिधिको परिवारका सदस्यलाई तोकिए बमोजिमको न्यूनतम रकम बराबरको विदेशी लगानी कायम रहेसम्म नेपालमा बस्न व्यावसायिक भिसा दिइनेछ।\r\n\r\n\r\nस्पष्टीकरण: यस दफाको प्रयोजनका लागि “परिवारका सदस्य” भन्नाले विदेशी लगानीकर्ता वा निजको आधिकारिक प्रतिनिधिको पति वा पत्नी , आमा बाबु र नाबालक छोराछोरी सम्झनु पर्छ।\r\n\r\n\r\n३) उपदफा (२) मा जुनसुकै कुरा लेखिएको भए तापनि तोकिएको रकमभन्दा बढी लगानी गर्ने लगानीकर्ताको हकमा यस्तो सुविधा बढीमा दुई जनासम्म र निजको परिवारको सदस्यलाई मात्र उपलब्ध गराइनेछ ।\r\n\r\n\r\n४) एकै पटक दश लाख अमेरिकी डलरभन्दा बढी रकम वा सो बराबरको परिवर्त्य विदेशी मुद्रामा विदेशी लगानी गर्ने विदेशी लगानीकर्ता वा निजको आधिकारिक प्रतिनिधि र त्यस्तो व्यक्तिको परिवारका सदस्यलाई तोकिए बमोजिमको न्यूनतम रकम बराबरको विदेशी लगानी कायम रहेसम्मको लागि आवासीय भिसा दिइनेछ।\r\n\r\n\r\n५) दफा २७ बमोजिम उद्योगमा काम गर्न आउने विदेशी विशेषज्ञ , प्राविधिक वा व्यवस्थापकीय कर्मचारीलाई गैर पर्यटक भिसा दिइनेछ।\r\n\r\n\r\n६) गैर पर्यटक भिसाको लागि कार्य सहमति र श्रम स्वीकृति दिने निकायले पन्ध्र दिनभित्र आवश्यक प्रक्रिया पूरा गरी कार्य सहमति र श्रम स्वीकृति दिने वा नदिने सम्बन्धी निर्णय गरिसक्नु पर्नेछ।\r\n\r\n\r\n७) भिसा सुविधा सम्बन्धी अन्य व्यवस्था तोकिए बमोजिम हुनेछ।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद-५ विदेशी लगानी भएका उद्योग वा विदेशी लगानीकर्तालाई प्रदान गरिने छुटसुविधा र सहुलियत"
+        }
+      },
+      {
+        "id": "sec_31",
+        "english": {
+          "title": "Section 31: Provisions Relating to Land",
+          "content": "1) A foreign investor shall have to manage such land as may be required for the industry by purchasing it on his or her own or through other means in accordance with the prevailing law.\r\n\r\n\r\n\r\n\r\n2) Notwithstanding anything contained in sub-section (1), if a foreign investor is unable to purchase or manage the necessary land on his or her own for the operation of the industry as prescribed and makes a request, setting out the content, for the purchase or acquisition of the land, the foreign investment approving body shall make necessary recommendation, coordination and facilitation for that purpose.\r\n\r\n\r\n\r\n\r\n3) If such land as in excess of the ceiling is required for an industry which is operated or to be operated with foreign investment for the establishment and operation of the industry, the body registering the industry shall make necessary recommendations, coordination and facilitation in accordance with the prevailing law. The land that is not subject to such ceiling shall be used only for the same purpose for which it has been purchased.\r\n\r\n\r\n\r\n\r\n4) Other provisions relating to the provision of land in lease to an industry with foreign investment and to the ceiling of land shall be in accordance with the Industrial Enterprises Act and the prevailing law.\r\n\r\n\r\n\r\n\r\n5) Other provisions relating to the land to be provided to any industry to be operated with foreign investment shall be as prescribed.\r\n\r\n---",
+          "chapterTitle": "Chapter-5 Exemptions, Facilities and Concessions to be Provided to Industries with Foreign Investment or Foreign Investors"
+        },
+        "nepali": {
+          "title": "दफा ३१ः जग्गा सम्बन्धी व्यवस्था",
+          "content": "१) विदेशी लगानीकर्ताले उद्योगको लागि आवश्यक पर्ने जग्गा प्रचलित कानून बमोजिम आफैले खरिद गरी वा अन्य उपायद्वारा जग्गाको व्यवस्था गर्नुपर्नेछ।\r\n\r\n\r\n२) उपदफा (१) मा जुनसुकै कुरा लेखिएको भए तापनि तोकिए बमोजिमको उद्योग सञ्चालनको लागि विदेशी लगानीकर्ता आफैले आवश्यक जग्गा खरिद गर्न वा व्यवस्था गर्न नसकेमा त्यसको व्यहोरा खुलाई जग्गा खरिद गर्न वा प्राप्त गरिदिन अनुरोध गरमा विदेशी लगानी स्वीकृत गर्ने निकायले त्यसको लागि आवश्यक सिफारिस, समन्वय र सहजीकरण गर्नेछ ।\r\n\r\n\r\n३) विदेशी लगानीमा सञ्चालित वा सञ्चालन हुने उद्योगलाई उद्योग स्थापना तथा सञ्चालनका लागि हदबन्दीभन्दा बढी जग्गा आवश्यक पर्ने भएमा प्रचलित कानून बमोजिम हुने गरी उद्योग दर्ता गर्ने निकायले आवश्यक सिफारिस, समन्वय र सहजीकरण गर्नेछ । त्यसरी हदबन्दी नलागेको जग्गा जुन प्रयोजनको लागि खरिद गरेको हो सोही प्रयोजनको लागि मात्र उपयोग गर्न पाइनेछ।\r\n\r\n\r\n४) विदेशी लगानी भएका उद्योगको लागि जग्गा लिजमा उपलब्ध गराउने तथा जग्गाको हदबन्दी सम्बन्धी अन्य व्यवस्था औद्योगिक व्यवसाय ऐन र प्रचलित कानून बमोजिम हुनेछ।\r\n\r\n\r\n५) विदेशी लगानीमा सञ्चालन हुने उद्योगलाई उपलब्ध गराईने जग्गा सम्बन्धी अन्य व्यवस्था तोकिए बमोजिम हुनेछ।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद-५ विदेशी लगानी भएका उद्योग वा विदेशी लगानीकर्तालाई प्रदान गरिने छुटसुविधा र सहुलियत"
+        }
+      },
+      {
+        "id": "sec_32",
+        "english": {
+          "title": "Section 32: National Treatment to be Accorded",
+          "content": "1) In respect of the terms applicable to the management, maintenance, use, transfer and sale of any foreign investment made in Nepal by a foreigner, subject to this Act and other prevailing law, after the commencement of this Act, such foreign investment shall, after the investment is brought into, and until it remains in Nepal, be accorded national treatment no less favourable than that accorded to any investment made by a Nepali person, in respect of the terms applicable to the management, maintenance, use, transfer and sale of such investment.\r\n\r\n\r\n\r\n\r\n2) Notwithstanding anything contained in sub-section (1), in the case of a foreign investment approved prior to the commencement of this Act, the provisions contained in the prevailing law relating to foreign investment in force at the time of making such an investment shall apply, and no change shall, without his or her consent, be made that may prejudice to any facility obtained by any foreign investor in accordance with that law.\r\n\r\n\r\n\r\n\r\n3) The following protection shall be accorded to any industry with foreign investment in accordance with sub-section (1):\r\n\r\n\r\n\r\n\r\n(a) The industry or enterprise with foreign investment shall be accorded the same treatment as accorded to any industry of the same nature with investment made by a Nepali citizen.\r\n\r\n\r\n\r\n\r\n(b) The industry and enterprise with foreign investment shall be free to determine the price of goods and services, subject to the prevailing law.\r\n\r\n\r\n\r\n\r\n(c) No industry or enterprise with foreign investment shall be prevented from doing trade, as prescribed, being limited to that industry.\r\n\r\n\r\n\r\n\r\n(d) No industry or enterprise with foreign investment shall be restricted from repatriating profit and investment, paying interest on, and repaying the principal of a loan.\r\n\r\n\r\n\r\n\r\n4) Notwithstanding anything contained in sub-section (1), national treatment shall not apply in respect of the following matters:\r\n\r\n\r\n\r\n\r\n(a) Matters relating to the creation of such intellectual property rights, limits thereof, transfer of title thereto or provisions requiring compulsory licensing for the use thereof as specified in any agreement made under the World Trade Organisation,\r\n\r\n\r\n\r\n\r\n(b) Matters relating to the exemption or facility, if any, granted to any domestic industry or goods in accordance with the prevailing Nepal law relating to public procurement,\r\n\r\n\r\n\r\n\r\n(c) Matter relating to any grant or concession to be made or provided by the Government of Nepal,\r\n\r\n\r\n\r\n\r\n(d) Matter of non-commercial services to be provided by the Government of Nepal,\r\n\r\n\r\n\r\n\r\n(e) Such measures relating to financial services as may be adopted or managed by the Government of Nepal upon considering appropriate on matters such as matters relating to the protection of investors, participants in the securities market, insurance policy holders or insurance policy claimants, or relating to financial institutions having liability to safeguard the financial interests of any persons or relating to maintaining soundness, morality or financial responsibility of financial institutions,\r\n\r\n\r\n\r\n\r\n(f) Matters involving liability or provision to accord special treatment by the Government of Nepal because of being a party to any regional or multilateral economic, monetary organisation or organisation of similar nature to which the Government of Nepal is or will be a party,\r\n\r\n\r\n\r\n\r\n(g) Matters relating to the terms that may be specified by the regulatory body in accordance with the prevailing law in respect of repatriation of investment to a foreign country, repayment of loan (including principal, interest and fees), payment of service fees,\r\n\r\n\r\n\r\n\r\n(h) Matters relating to the protection of human, animal and plant health or the environment.\r\n\r\n---",
+          "chapterTitle": "Chapter-5 Exemptions, Facilities and Concessions to be Provided to Industries with Foreign Investment or Foreign Investors"
+        },
+        "nepali": {
+          "title": "दफा ३२ः राष्ट्रिय व्यवहार गरिने",
+          "content": "१) यो ऐन प्रारम्भ भएपछि कुनै विदेशीले नेपालमा यस ऐन र प्रचलित अन्य कानूनको अधीनमा रही गरेको विदेशी लगानी त्यस्तो, लगानी नेपाल भित्रिइसकेपछि सो लगानी नेपालमा रहेको अवधिसम्म सो लगानीको व्यवस्थापन , संभार, प्रयोग, हस्तान्तरण, बिक्रीमा लागू हुने शर्त नेपाली व्यक्तिले गरेको लगानीको व्यवस्थापन , संभार, प्रयोग, हस्तान्तरण, बिक्रीमा लागू हुने शर्तभन्दा कम अनुकुल नहुने गरी राष्ट्रिय व्यवहार (नेशनल ट्रिटमेन्ट) हुनेछ।\r\n\r\n\r\n२) उपदफा (१) मा जुनसुकै कुरा लेखिएको भए तापनि यो ऐन प्रारम्भ हुनु अगावै स्वीकृति लिएको विदेशी लगानीका हकमा त्यस्तो लगानी हुँदाका बखत बहाल रहेको विदेशी लगानी सम्बन्धी प्रचलित कानूनमा भएको व्यवस्था लागू हुनेछ र सो बमोजिम कुने विदेशी लगानीकर्ताले पाएको कुने सुविधामा असर पर्ने गरी निजको मञ्जुरी बिना कुनै परिवर्तन गरिने छैन।\r\n\r\n\r\n३) उपदफा (१) बमोजिम विदेशी लगानी भएका उद्योगहरुलाई देहायको संरक्षण प्राप्त हुनेछः-\r\n\r\n\r\n(क) विदेशी लगानी भएको उद्योग व्यवसायलाई सोही प्रकृतिको नेपाली नागरिकले लगानी गरेको उद्योगलाई गरिए सरहको व्यवहार गरिनेछ ।\r\n\r\n\r\n(ख) विदेशी लगानी भएको उद्योग व्यवसायले प्रचलित कानूनको परिधिभित्र रहेर वस्तु तथा सेवाको मूल्य निर्धारण गर्न स्वतन्त्र हुनेछन्‌।\r\n\r\n\r\n(ग) विदेशी लगानी भएको उद्योग व्यवसायलाई आफनो उच्चोगसँग सिमित रही तोकिए बमोजिम व्यापार गर्न रोक लगाइने छैन।\r\n\r\n\r\n(घ) विदेशी लगानी भएको उद्योग व्यवसायलाई नाफा लैजान, लगानी फिर्ता लैजान, ऋणको ब्याज तिर्न र ऋणको सावाँ भुक्तानी गर्न प्रतिबन्ध लगाइने छैन।\r\n\r\n\r\n४) उपदफा (१) मा जुनसुकै कुरा लेखिएको भए तापनि देहायको विषयमा राष्ट्रिय व्यवहार (नेशनल ट्रिटमेन्ट) लागू हुनेछैन:-\r\n\r\n\r\n(क) विश्व व्यापार संगठन अन्तर्गत गरिएका सम्झौतामा उल्लेखित बौद्धिक सम्पत्तिको सिर्जना, त्यसका सीमा, हक हस्तान्तरण वा प्रयोगमा अनिवार्य अनुमति लिनुपर्ने (कम्पलसरी लाइसेन्सिङ्ग) भनी तोकिएका व्यवस्थाको विषय,\r\n\r\n\r\n(ख) सार्वजनिक खरिद सम्बन्धी प्रचलित नेपाल कानून बमोजिम स्वदेशी उद्योग वा मालसामानलाई कुनै छुट वा सुविधा दिएको रहेछ भने त्यस्तो छुट वा सुविधाको विषय,\r\n\r\n\r\n(ग) नेपाल सरकारबाट प्रदान गरिने वा उपलब्ध हुने अनुदान वा सहुलियतको विषय,\r\n\r\n\r\n(घ) नेपाल सरकारबाट प्रवाह हुने गैर व्यापारिक सेवाको विषय,\r\n\r\n\r\n(ङ) लगानीकर्ता, धितोपत्र बजारका सहभागीहरु, बिमा पोलिसी बाहक वा बिमा पोलिसी दावीकर्ताहरुको संरक्षण गर्न वा कुनै व्यक्तिको आर्थिक स्वार्थको रक्षा गर्ने दायित्व लिएका वित्तीय संस्थाहरु सम्बन्धी विषय तथा वित्तीय संस्थाको स्वस्थता (साउण्डनेस), नैतिकता वा वित्तीय जिम्मेवारी कायम राखने जस्ता विषयहरुमा नेपाल सरकारले उचित ठानी अवलम्बन वा व्यवस्थापन गरेका वित्तीय सेवा सम्बन्धी उपायहरु,\r\n\r\n\r\n(च) नेपाल सरकार पक्ष रहेको वा हुने कुनै क्षेत्रीय वा बहुपक्षीय आर्थिक, मौद्रिक वा यस्तै प्रकृतिको कुनै संगठनको पक्ष भएको कारणबाट नेपाल सरकारले विशेष व्यवहार गर्नुपर्ने दायित्व वा प्रावधान भएको विषय,\r\n\r\n\r\n(छ) नेपाल बाहिर लगानी फिर्ता, ऋण भुक्तानी (सावाँ, ब्याज तथा शुल्क समेत), सेवा शुल्कको भुक्तानीमा प्रचलित कानून बमोजिम नियामक निकायले तोक्ने शर्त सम्बन्धी विषयहरु,\r\n\r\n\r\n(ज) मानव स्वास्थ्य, जीवजन्तु, वनस्पती वा वातावरण संरक्षणको विषय।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद-५ विदेशी लगानी भएका उद्योग वा विदेशी लगानीकर्तालाई प्रदान गरिने छुटसुविधा र सहुलियत"
+        }
+      },
+      {
+        "id": "sec_33",
+        "english": {
+          "title": "Section 33: Nationalisation or Expropriation Not to be Made",
+          "content": "1) No industry with foreign investment in accordance with this Act shall be nationalised.\r\n\r\n\r\n\r\n\r\n2) No industry shall, except for a public purpose, be expropriated directly or indirectly. If it is required to expropriate it for the public purpose, due process referred to in the prevailing law shall be fulfilled.\r\n\r\n---",
+          "chapterTitle": "Chapter-5 Exemptions, Facilities and Concessions to be Provided to Industries with Foreign Investment or Foreign Investors"
+        },
+        "nepali": {
+          "title": "दफा ३३ः राष्ट्रियकरण वा अधिग्रहण नगरिने",
+          "content": "१) यस ऐन बमोजिम विदेशी लगानी भएको उद्योगलाई राष्ट्रियकरण गरिने छैन।\r\n\r\n\r\n२) कुनै पनि उद्योगलाई सार्वजनिक प्रयोजनको लागि बाहेक प्रत्यक्ष वा अप्रत्यक्ष रुपमा अधिग्रहण गरिने छैन । सार्वजनिक प्रयोजनको लागि अधिग्रहण गर्नुपर्दा प्रचलित कानून बमोजिमको उचित प्रकृया पूरा गर्नुपर्नेछ।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद-५ विदेशी लगानी भएका उद्योग वा विदेशी लगानीकर्तालाई प्रदान गरिने छुटसुविधा र सहुलियत"
+        }
+      },
+      {
+        "id": "sec_34",
+        "english": {
+          "title": "Section 34: Change in Terms, Services and Facilities",
+          "content": "Notwithstanding anything contained elsewhere in this Act or the prevailing law, if any provision made in a manner to change the terms of foreign investments and any exemption, facility or concession receivable by foreign investors is to the disadvantage of any foreign investor having obtained approval prior to the making of such provision, such a change shall not apply to such an investor.\r\n\r\n---\r\n\r\n\r\n---",
+          "chapterTitle": "Chapter-5 Exemptions, Facilities and Concessions to be Provided to Industries with Foreign Investment or Foreign Investors"
+        },
+        "nepali": {
+          "title": "दफा ३४ः शर्त तथा सेवा सुविधामा परिवर्तन",
+          "content": "यस ऐन वा प्रचलित कानूनमा अन्यत्र जुनसुकै कुरा लेखिएको भए तापनि विदेशी लगानीका शर्त तथा विदेशी लगानीकर्ताले प्राप्त गर्ने छुट, सुविधा वा सहुलियतमा परिवर्तन गर्ने गरी भएको कुनै व्यवस्थाले त्यस्तो परिवर्तन हुनुअगावै स्वीकृति प्राप्त गरको कुनै विदेशी लगानीकर्तालाई मर्का पर्ने भएमा त्यस्तो परिर्वतन त्यस्तो लगानीकर्ताको हकमा लागू हुनेछैन।\r\n\r\n---\r\n\r\n\r\n---",
+          "chapterTitle": "परिच्छेद-५ विदेशी लगानी भएका उद्योग वा विदेशी लगानीकर्तालाई प्रदान गरिने छुटसुविधा र सहुलियत"
+        }
+      },
+      {
+        "id": "sec_35",
+        "english": {
+          "title": "Section 35: Grievance Handling",
+          "content": "1) If a foreign investor or industry has any grievance with respect to any act or action performed by any authority that registers, regulates, or monitors industries in accordance with the prevailing law or by any authority of the Single Stop Service Centre, such an investor or industry may make an application to the Department, setting out that content, for a hearing.\r\n\r\n\r\n\r\n\r\n2) The Department shall address, as prescribed, the grievance received in accordance with sub-section (1).\r\n\r\n\r\n\r\n\r\n3) If a foreign investor or industry has a grievance regarding any act or action performed by the Department or Single Stop Service Centre, it may make an application to the Ministry for its hearing, setting out the content.\r\n\r\n\r\n\r\n\r\n4) The Ministry shall address, as prescribed, the grievance received in accordance with sub-section (3).\r\n\r\n---",
+          "chapterTitle": "Chapter-6 Grievance Handling and Action"
+        },
+        "nepali": {
+          "title": "दफा ३५ः गुनासो व्यवस्थापन",
+          "content": "१) प्रचलित कानून बमोजिम उच्योगको दर्ता, नियमन वा अनुगमन गर्ने अधिकारी वा एकल बिन्दु सेवा केन्द्रको कुनै अधिकारीले गरेको कुनै काम कारबाहीका सम्बन्धमा विदेशी लगानीकर्ता वा उद्योगको कुनै गुनासो भए निजले सो व्यहोरा खोली विभाग समक्ष सुनुवाइको लागि निवेदन दिन सक्नेछ।\r\n\r\n\r\n२) उपदफा (१) बमोजिम प्राप्त गुनासोलाई विभागले तोकिए बमोजिम सम्बोधन गर्नेछ।\r\n\r\n\r\n३) विभाग वा एकल बिन्दु सेवा केन्द्रबाट भएको कुनै काम कारबाहीको सम्बन्धमा विदेशी लगानीकर्ता वा उद्योगको कुनै गुनासो भए निजले सो व्यहोरा खोली मन्त्रालय समक्ष सुनुवाइको लागि निवेदन दिन सक्नेछ।\r\n\r\n\r\n४) उपदफा (३) बमोजिम प्राप्त गुनासोलाई मन्त्रालयले तोकिए बमोजिम सम्बोधन गर्नेछ ।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद-६ गुनासो व्यवस्थापन तथा कारबाही"
+        }
+      },
+      {
+        "id": "sec_36",
+        "english": {
+          "title": "Section 36: Prohibition on Acts, Actions Contrary to The Terms",
+          "content": "If any foreign investor or industry with foreign investment is found to have done any act contrary to this Act or the rules framed under this Act and the terms specified while giving approval for foreign investment, such approval may be revoked, or it may be caused to rectify the error, upon fulfilling the procedures as prescribed.\r\n\r\n---",
+          "chapterTitle": "Chapter-6 Grievance Handling and Action"
+        },
+        "nepali": {
+          "title": "दफा ३६ः शर्त विपरीतको काम कारबाही गर्न नहुने",
+          "content": "विदेशी लगानीकर्ता वा विदेशी लगानी भएका उद्योगले यो ऐन वा यस ऐन अन्तर्गत बनेको नियम तथा विदेशी लगानीको लागि स्वीकृति दिँदा तोकिएको शर्त विपरीतको कुने काम गरेको पाइएमा त्यस्तो स्वीकृति तोकिए बमोजिम को प्रकृया पूरा गरी रद्द गर्न वा त्रुटि सच्याउन लगाउन सकिनेछ।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद-६ गुनासो व्यवस्थापन तथा कारबाही"
+        }
+      },
+      {
+        "id": "sec_37",
+        "english": {
+          "title": "Section 37: Monitoring and Inspection of Industries",
+          "content": "1) The officer designated by the Department may, as required, make monitoring and inspection of any industry with foreign investment.\r\n\r\n\r\n\r\n\r\n2) The officer who makes monitoring and inspection in accordance with sub-section (1) shall, not later than three days after the date of completion of the monitoring and inspection, give a report to the Department, setting out the details inter alia whether or not the foreign investor or industry has done any act contrary to Section 36.\r\n\r\n\r\n\r\n\r\n3) Other provisions relating to monitoring and inspection of the industry shall be as prescribed.\r\n\r\n---\r\n\r\n\r\n---",
+          "chapterTitle": "Chapter-6 Grievance Handling and Action"
+        },
+        "nepali": {
+          "title": "दफा ३७ः उद्योगको अनुगमन तथा निरीक्षण",
+          "content": "१) विभागले तोकिदिएको अधिकृतले विदेशी लगानी भएको उद्योगको समेत आवश्यकता अनुसार अनुगमन तथा निरीक्षण गर्न सक्नेछ।\r\n\r\n\r\n२) उपदफा (१) बमोजिम अनुगमन तथा निरीक्षणमा जाने अधिकृतले विदेशी लगानीकर्ता वा उच्योगद्वारा दका ३६ विपरीतको काम गरे नगरेको समेतको विवरण खुलाई अनुगमन तथा निरीक्षण सम्पन्न भएको मितिले तीन दिनभित्र विभागमा प्रतिवेदन दिनुपर्नेछ ।\r\n\r\n\r\n३) उद्योगको अनुगमन तथा निरीक्षण सम्बन्धी अन्य व्यवस्था तोकिए बमोजिम हुनेछ।\r\n\r\n---\r\n\r\n\r\n---",
+          "chapterTitle": "परिच्छेद-६ गुनासो व्यवस्थापन तथा कारबाही"
+        }
+      },
+      {
+        "id": "sec_38",
+        "english": {
+          "title": "Section 38: Bilateral or Multilateral Investment Agreement May be Concluded",
+          "content": "The Government of Nepal may bring foreign investment by concluding a multilateral or bilateral investment agreement with any foreign-friendly country or international institution for the promotion of foreign investment.\r\n\r\n---",
+          "chapterTitle": "Chapter-7 Miscellaneous"
+        },
+        "nepali": {
+          "title": "दफा ३८ः द्विपक्षीय वा बहुपक्षीय लगानी सम्झौता गर्न सकिने",
+          "content": "विदेशी लगानी प्रवर्द्वनका लागि नेपाल सरकारले विदेशी मित्रराष्ट्र वा अन्तर्राष्ट्रिय संस्थासँग द्विपक्षीय वा बहुपक्षीय लगानी सम्झौता गरी विदेशी लगानी भित्र्याउन सक्नेछ।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद-७ विविध"
+        }
+      },
+      {
+        "id": "sec_39",
+        "english": {
+          "title": "Section 39: Agreement May be Made",
+          "content": "1) In making an investment in any industry jointly by a Nepali investor and a foreign investor, a joint agreement concerning foreign investment may be made with respect to that investment, subject to this Act.\r\n\r\n\r\n\r\n\r\n2) The agreement referred to in sub-section (1) shall provide for, inter alia, the terms of the joint distribution of profits earned from the investment and settlement of disputes relating to the distribution of profits earned from the investment and settlement of disputes relating to the investment.\r\n\r\n---",
+          "chapterTitle": "Chapter-7 Miscellaneous"
+        },
+        "nepali": {
+          "title": "दफा ३९ः सम्झौता गर्न सक्ने",
+          "content": "१) कुनै उद्योगमा नेपाली लगानीकर्ता र विदेशी लगानीकर्ताबीच संयुक्त लगानी गर्दा सो लगानीका सम्बन्धमा यस ऐनको अधीनमा रही विदेशी लगानी सम्बन्धी संयुक्त सम्झौता गर्न सकिनेछ।\r\n\r\n\r\n२) उपदफा (१) बमोजिमको सम्झौतामा अन्य कुराका अतिरिक्त संयुक्त लगानीका शर्तहरु, लगानीबाट आर्जित मुनाफा बाँडफाँट तथा लगानी सम्बन्धी विवाद समाधान सम्बन्धी व्यवस्था गर्नुपर्नेछ ।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद-७ विविध"
+        }
+      },
+      {
+        "id": "sec_40",
+        "english": {
+          "title": "Section 40: Settlement of Disputes",
+          "content": "1) If there arises any dispute between a Nepali investor and a foreign investor in relation to foreign investment, the Department may make it necessary to facilitate such a dispute in order that such a dispute is settled by the concerned parties through mutual discussions or negotiations.\r\n\r\n\r\n\r\n\r\n2) If the dispute cannot be settled through the process referred to in sub-section (1) within a period of forty-five days after the dispute has arisen, and a joint investment or dispute settlement agreement exists between the parties to the dispute for the resolution of such a dispute, the dispute shall be settled in accordance with such an agreement.\r\n\r\n\r\n\r\n\r\n3) The parties shall give information about the settlement of the dispute in accordance with sub-section (2) to the Foreign Investment Approving body not later than fifteen days after its settlement.\r\n\r\n\r\n\r\n\r\nProvided that the parties shall not be bound to give information about what terms and conditions such a settlement has been made.\r\n\r\n\r\n\r\n\r\n4) If the agreement concluded between the parties in accordance with sub-section (2) has no provision about the settlement of disputes, such a dispute shall be settled by arbitration in accordance with the arbitration law of Nepal\r\n\r\n\r\n\r\n\r\n5) Any dispute arising in connection with any foreign investment shall be settled by arbitration in accordance with the prevailing Rules or Procedures of the United Nations Commission on International Trade Law (UNCITRAL) unless otherwise agreed upon by the parties to the dispute.\r\n\r\n\r\n\r\n\r\n6) Arbitration to be conducted in accordance with this Section shall be held in Nepal, and the substantive law of Nepal relating to arbitration shall apply.\r\n\r\n\r\n\r\n\r\nProvided that with respect to the case referred to in sub-section (2), the provision contained in that sub-section shall apply.\r\n\r\n\r\n\r\n\r\n7) If no agreement was made between the parties on the settlement of the dispute prior to the arising of the dispute or if they realise that the agreement if any made, is inadequate, the concerned parties may make an agreement for the settlement of a dispute even after the dispute has arisen. Information of the agreement so made shall be given to the body registering the industry.\r\n\r\n\r\n\r\n\r\n8) Any dispute with respect to the agreement made in accordance with sub-section (7) may also be settled in accordance with this Section\r\n\r\n---",
+          "chapterTitle": "Chapter-7 Miscellaneous"
+        },
+        "nepali": {
+          "title": "दफा ४०ः विवादको समाधान",
+          "content": "१) विदेशी लगानीका सम्बन्धमा नेपाली लगानीकर्ता र विदेशी लगानीकर्ताबीच कुनै विवाद उत्पन्न भएमा सम्बन्धित पक्षहरुले आपसी छलफल वा वार्ताबाट त्यस्तो विवादको समाधान गर्न सहजीकरण गर्न सक्नेछ ।\r\n\r\n\r\n२) विवाद उत्पन्न भएको पैँतालीस दिनभित्र उपदफा (१) बमोजिम को प्रकृयाबाट विवाद समाधान हुन नसकेमा र त्यस्तो विवादको समाधान गर्न विवादका पक्षहरुबीच संयुक्त लगानी वा विवाद समाधान सम्बन्धी सम्झौता भएकोमा त्यस्तो सम्झौता बमोजिम विवादको समाधान गरिनेछ।\r\n\r\n\r\n३) उपदफा (२) बमोजिम विवाद समाधान भएको कुराको जानकारी पक्षहरुले त्यस्तो विवाद समाधान भएको पन्ध्र दिनभित्रमा विदेशी लगानी स्वीकृति दिने निकायलाई दिनु पर्नेछ ।\r\n\r\n\r\nतर के कुन शर्तहरुमा त्यस्तो सहमति भएको हो भन्ने कुराको जानकारी दिन पक्षहरु बाध्य हुने छैनन् ।\r\n\r\n\r\n४) उपदफा (२) बमोजिम पक्षहरुबीच भएको सम्झौतामा विवाद समाधान सम्बन्धमा कने व्यवस्था नभएकोमा नेपालको मध्यस्थता सम्बन्धी कानून बमोजिम मध्यस्थताद्वारा त्यस्तो विवादको समाधान गरिनेछ ।\r\n\r\n\r\n५) कुनै विदेशी लगानीका सम्बन्धमा उत्पन्न विवादको समाधान विवादका पक्षहरुले अन्यथा मन्जुर गरेमा बाहेक अन्तर्राष्ट्रिय व्यापार कानून सम्बन्धी संयुक्त राष्ट्र संघीय आयोग (अनसिट्राल) को प्रचलित नियम वा कार्यविधिको पालना गरी मध्यस्थता गरिनेछ ।\r\n\r\n\r\n६) यस दफा बमोजिम गरिने मध्यस्थता नेपालमा हुनेछ र मध्यस्थता सम्बन्धी नेपालको सारवान कानून लागू हुनेछ ।\r\n\r\n\r\nतर उपदफा (२) बमोजिमको अवस्थामा सोही उपदफा बमोजिम हुनेछ ।\r\n\r\n\r\n७) पक्षहरुबीच विवाद हुनुअघि विवाद समाधान सम्बन्धी कुनै सम्झौता नभएको वा भएको सम्झौता अपर्याप्त भएको महसुस गरेमा विवाद उत्पन्न भएपछि पनि विवाद समाधानका लागि सम्बन्धित पक्षहरुले सम्झौता गर्न सक्नेछन्। यसरी गरिएको सम्झौताको जानकारी उद्योग दर्ता गर्ने निकायलाई दिनु पर्नेछ ।\r\n\r\n\r\n८) उपदफा (७) बमोजिम भएको सम्झौताको हकमा समेत यस दफा बमोजिम विवाद समाधान गर्न सकिनेछ ।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद-७ विविध"
+        }
+      },
+      {
+        "id": "sec_41",
+        "english": {
+          "title": "Section 41: Electronic Means May be Used",
+          "content": "The foreign investment approving body may perform functions relating to approval for foreign investment in accordance with this Act and other acts and actions related thereto through recognised electronic means in accordance with the prevailing law relating to electronic transactions.\r\n\r\n---",
+          "chapterTitle": "Chapter-7 Miscellaneous"
+        },
+        "nepali": {
+          "title": "दफा ४१ः विद्युतीय माध्यमको प्रयोग गर्न सक्ने",
+          "content": "विदेशी लगानी स्वीकृत गर्ने निकायले यस ऐन बमोजिम विदेशी लगानीको लागि स्वीकृति तथा तत्सम्बन्धी अन्य काम कारबाही विद्युतीय कारोबार सम्बन्धी प्रचलित कानून बमोजिम मान्यता प्राप्त विद्युतीय माध्यमबाट गर्न सक्नेछ।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद-७ विविध"
+        }
+      },
+      {
+        "id": "sec_42",
+        "english": {
+          "title": "Section 42: Provisions Relating to Automatic Approval Process May be Made",
+          "content": "1) The Government of Nepal may, by notification in the Nepal Gazette, provide services, such as company registration, industry registration, and approval of foreign investments in accordance with this Act and the prevailing law, through the automatic route to make the process of foreign investment simple.\r\n\r\n\r\n\r\n\r\n2) Other provisions relating to the automatic route referred to in sub-section (1) and the online system shall be as prescribed.\r\n\r\n---",
+          "chapterTitle": "Chapter-7 Miscellaneous"
+        },
+        "nepali": {
+          "title": "दफा ४२ः स्वचालित स्वीकृति प्रक्रिया सम्बन्धी व्यवस्था गर्न सकिने",
+          "content": "१) नेपाल सरकारले नेपाल राजपत्रमा सूचना प्रकाशन गरी विदेशी लगानी प्रक्रियालाई सरल , सहज बनाउन यस ऐन तथा प्रचलित कानून बमोजिम कम्पनी दर्ता, उद्योग दर्ता, विदेशी लगानी स्वीकृति जस्ता सेवाहरु स्वचालित मार्ग (अटोमेटिक रुट) बाट प्रदान गर्न सक्नेछ ।\r\n\r\n\r\n२) उपदफा (१) बमोजिम स्वचालित मार्ग (अटोमेटिक रुट) तथा विद्युतीय प्रणाली (अनलाइन सिस्टम) सम्बन्धी अन्य व्यवस्था तोकिए बमोजिम हुनेछ।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद-७ विविध"
+        }
+      },
+      {
+        "id": "sec_43",
+        "english": {
+          "title": "Section 43: Validity Period of Approval of Foreign Investment",
+          "content": "1) The approval of foreign investment given by the foreign investment approving body shall remain valid for a period until such investment remains in Nepal.\r\n\r\n\r\n\r\n\r\n2) Notwithstanding anything contained in sub-section (1), such approval shall be deemed to be ipso facto ineffective in the following circumstances:\r\n\r\n\r\n\r\n\r\n(a) In the event of failure, except for any reasonable reason, to commence bringing into Nepal the amount of such foreign investment within two years after the date of the approval of foreign investment,\r\n\r\n\r\n\r\n\r\n(b) In the event of a transfer of cent percent ownership of an industry with foreign investment to a Nepali investor as a result of the sale of shares in the industry registered with the approval of foreign investment,\r\n\r\n\r\n\r\n\r\n(c) In the event of the revocation of its registration as a result of a default on the part of the industry having got approval for foreign investment or the company establishing such an industry.\r\n\r\n\r\n\r\n\r\n3) Other provisions relating to the validity period of the approval of foreign investment shall be as prescribed.\r\n\r\n---",
+          "chapterTitle": "Chapter-7 Miscellaneous"
+        },
+        "nepali": {
+          "title": "दफा ४३ः विदेशी लगानी स्वीकृति बहाल रहने अवधि",
+          "content": "१) विदेशी लगानी स्वीकृत गर्ने निकायले प्रदान गरेको विदेशी लगानीको स्वीकृति त्यस्तो लगानी नेपालमा कायम रहेको अवधिसम्म बहाल रहनेछ।\r\n\r\n\r\n२) उपदफा (१) मा जुनसुकै कुरा लेखिएको भए तापनि देहायको अवस्थामा त्यस्तो स्वीकृति स्वतः निष्क्रीय भएको मानिनेछः-\r\n\r\n\r\n(क) कुनै मनासिब कारण बिना विदेशी लगानी स्वीकृति भएको मितिले दुई वर्षभित्र त्यस्तो लगानी रकम नेपाल भित्र्याउन प्रारम्भ नगरेमा,\r\n\r\n\r\n(ख) विदेशी लगानी स्वीकृति भई दर्ता भएको उद्योगको शेयर बिक्री वितरणको परिणामस्वरुप त्यसरी विदेशी लगानी भएको उद्योगको शतप्रतिशत स्वामित्व नेपाली लगानीकर्तामा हस्तान्तरण भएमा,\r\n\r\n\r\n(ग) विदेशी लगानी स्वीकृत भएको उद्योग वा त्यस्तो उद्योग स्थापना गर्ने कम्पनीको कुनै कारणले दर्ता खारेजी भएमा,\r\n\r\n\r\n३) विदेशी लगानी स्वीकृति बहाल रहने अवधि सम्बन्धी अन्य व्यवस्था तोकिए बमोजिम हुनेछ।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद-७ विविध"
+        }
+      },
+      {
+        "id": "sec_44",
+        "english": {
+          "title": "Section 44: Terms to be Complied With",
+          "content": "A foreign investor shall comply with the terms as prescribed, in addition to the terms referred to in this Act.\r\n\r\n---",
+          "chapterTitle": "Chapter-7 Miscellaneous"
+        },
+        "nepali": {
+          "title": "दफा ४४ः शर्तहरु पालना गर्नुपर्ने",
+          "content": "विदेशी लगानीकर्ताले यस ऐनमा लेखिएको अतिरिक्त तोकिए बमोजिमका शर्तहरु पालना गर्नुपर्नेछ।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद-७ विविध"
+        }
+      },
+      {
+        "id": "sec_45",
+        "english": {
+          "title": "Section 45: Production May be Made Upon Making Contract",
+          "content": "1) Any industry with foreign investment may produce any part of its production or such subsidiary goods or services as required for the industry, except its main production, by a contract with another industry.\r\n\r\n\r\n\r\n\r\n2) Other provisions relating to production upon making the contract shall be as prescribed.\r\n\r\n---",
+          "chapterTitle": "Chapter-7 Miscellaneous"
+        },
+        "nepali": {
+          "title": "दफा ४५ः करार गरी उत्पादन गर्न सकिने",
+          "content": "१) विदेशी लगानी भएका उद्योगले त्यस्तो उद्योगको उत्पादनको मुख्य उत्पादन बाहेक आफ्नो उत्पादनको कुनै भाग वा उद्योगलाई आवश्यक पर्ने सहायक वस्तु वा सेवा अन्य उद्योगसँग करार गरी उत्पादन गर्न सक्नेछ।\r\n\r\n\r\n२) करार गरी उत्पादन गर्न सकिने सम्बन्धी अन्य व्यवस्था तोकिए बमोजिम हुनेछ।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद-७ विविध"
+        }
+      },
+      {
+        "id": "sec_46",
+        "english": {
+          "title": "Section 46: Power of Attorney May be Given",
+          "content": "1) A person who wishes to make foreign investment in accordance with this Act gives a power of attorney to another person to perform any, some or all of the acts or actions required to be performed by that person. All acts, actions performed by the authorised person in accordance with the power of attorney shall be deemed to have been performed by the investor himself or herself.\r\n\r\n\r\n\r\n\r\n2) In order to perform the act in accordance with a power of attorney given in accordance with sub-section (1), such a power of attorney shall be notarised and provided to the foreign investment approving body. The foreign investment approving body may, if it is considered necessary, look at the original power of attorney.\r\n\r\n\r\n\r\n\r\n3) A person who is authorised in accordance with sub-section (1) may not delegate the authority conferred on him or her to another person.\r\n\r\n\r\n\r\n\r\n4) The person who gives a power of attorney may, at any time, withdraw the power of attorney given by him or her. The power of attorney shall become invalid from the date on which the person giving such power of attorney registers the information of such withdrawal of the power of attorney with the foreign investment approving body.\r\n\r\n\r\n\r\n\r\n5) Other provisions relating to the giving of power of attorney shall be as prescribed.\r\n\r\n---",
+          "chapterTitle": "Chapter-7 Miscellaneous"
+        },
+        "nepali": {
+          "title": "दफा ४६ः अख्तियारनामा दिन सकिने",
+          "content": "१) यस ऐन बमोजिम विदेशी लगानी गर्न चाहने व्यक्तिले आफुले गर्नुपर्ने कुनै, केही वा सबै काम कारबाही गर्नको निमित्त कुनै व्यक्तिलाई अख्तियारनामा दिन सक्नेछ। अख्तियारनामा प्राप्त व्यक्तिद्वारा अख्तियारनामा बमोजिम भए गरेका सबै काम कारबाहीहरु निज लगानीकर्ताले नै गरेको मानिनेछ।\r\n\r\n\r\n२) उपदफा (१) बमोजिम दिइएको अख्तियारनामा बमोजिम काम गर्न त्यस्तो अख्तियारनामा नोटरी प्रमाणित गराई विदेशी लगानी स्वीकृत गर्ने निकायमा उपलब्ध गराउनु पर्नेछ। विदेशी लगानी स्वीकृत गर्ने निकायले आवश्यक ठानेमा त्यस्तो अख्तियारनामाको सक्कल हेर्न सक्नेछ ।\r\n\r\n\r\n३) उपदफा (१) बमोजिम अख्तियारनामा प्राप्त व्यक्तिले आफूलाई प्राप्त अख्तियार अन्य व्यक्तिलाई प्रत्यायोजन गर्न सक्नेछैन ।\r\n\r\n\r\n४) अख्तियारनामा प्रदान गर्ने व्यक्तिले आफूले प्रदान गरेको अख्तियारनामा जुनसुकै बखत फिर्ता लिन सक्नेछ। यसरी अख्तियारनामा फिर्ता लिएको जानकारी अख्तियारनामा प्रदान गर्ने व्यक्तिले विदेशी लगानी स्वीकृत गर्ने निकायमा दर्ता गराएको मितिदेखि बहाल रहने छैन।\r\n\r\n\r\n५) अख्तियारनामा दिने सम्बन्धी अन्य व्यवस्था तोकिए बमोजिम हुनेछ।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद-७ विविध"
+        }
+      },
+      {
+        "id": "sec_47",
+        "english": {
+          "title": "Section 47: Delegation of Powers",
+          "content": "The Board or Department may, as required, delegate some powers out of the powers conferred on it in accordance with this Act or the rules framed under this Act to anybody or officer of the Government of Nepal.\r\n\r\n---",
+          "chapterTitle": "Chapter-7 Miscellaneous"
+        },
+        "nepali": {
+          "title": "दफा ४७ः अधिकार प्रत्यायोजन",
+          "content": "बोर्ड वा विभागले यो ऐन वा यस ऐन अन्तर्गत बनेको नियम बमोजिम आफूलाई प्राप्त अधिकारमध्ये आवश्यकता अनुसार केही अधिकार नेपाल सरकारको कुनै निकाय वा अधिकृतलाई प्रत्यायोजन गर्न सक्नेछ।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद-७ विविध"
+        }
+      },
+      {
+        "id": "sec_48",
+        "english": {
+          "title": "Section 48: Foreign Investment in Any Industry Registered in Province",
+          "content": "1) If foreign investment or transfer of technology is to be made in any industry registered by the Government of a Province in accordance with the prevailing Federal or Provincial law, approval of the Department shall be obtained in accordance with this Act.\r\n\r\n\r\n\r\n\r\n2) The certificate of registration of industry with the Province and recommendation of the Provincial ministry looking after the matters of industry, among other things, shall be submitted in order to obtain the approval in accordance with sub-section (1).\r\n\r\n\r\n\r\n\r\n3) Other provisions relating to foreign investment in an industry registered in a Province shall be as prescribed.\r\n\r\n---",
+          "chapterTitle": "Chapter-7 Miscellaneous"
+        },
+        "nepali": {
+          "title": "दफा ४८ः प्रदेशमा दर्ता भएको उद्योगमा विदेशी लगानी",
+          "content": "१) प्रचलित संघीय वा प्रदेश कानून बमोजिम प्रदेश सरकारद्वारा दर्ता भएको कुनै उद्योगमा यस ऐन बमोजिम विदेशी लगानी वा प्रविधि हस्तान्तरण गर्नुपर्ने भएमा यस ऐन बमोजिम विभागको स्वीकृति लिनु पर्नेछ।\r\n\r\n\r\n२) उपदफा (१) बमोजिम स्वीकृति लिँदा अन्य कुराका अतिरिक्त प्रदेशमा उच्चोग दर्ता भएको प्रमाणपत्र र उद्योग सम्बन्धी विषय हेर्ने सम्बन्धित प्रदेश मन्त्रालयको सिफारिस पेश गर्नुपर्नेछ ।\r\n\r\n\r\n३) प्रदेशमा दर्ता भएका उद्योगमा विदेशी लगानी सम्बन्धी अन्य व्यवस्था तोकिए बमोजिम हुनेछ।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद-७ विविध"
+        }
+      },
+      {
+        "id": "sec_49",
+        "english": {
+          "title": "Section 49: Application of Prevailing Law",
+          "content": "The matters contained herein shall be governed by this Act, and the other matters shall be governed by the prevailing law relating to industrial enterprises and other prevailing laws.\r\n\r\n---",
+          "chapterTitle": "Chapter-7 Miscellaneous"
+        },
+        "nepali": {
+          "title": "दफा ४९ः प्रचलित कानून बमोजिम हुने",
+          "content": "यस ऐनमा लेखिएका विषयमा यसै ऐन बमोजिम र अन्य विषयमा औद्योगिक व्यवसाय सम्बन्धी प्रचलित ऐन तथा अन्य प्रचलित कानून बमोजिम हुनेछ।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद-७ विविध"
+        }
+      },
+      {
+        "id": "sec_50",
+        "english": {
+          "title": "Section 50: Power to Make Alteration in the Schedule",
+          "content": "The Government of Nepal may, by notification in the Nepal Gazette, make necessary alterations to the Schedule.\r\n\r\n---",
+          "chapterTitle": "Chapter-7 Miscellaneous"
+        },
+        "nepali": {
+          "title": "दफा ५०ः अनुसूचीमा हेरफेर वा थपघट गर्न सक्ने",
+          "content": "नेपाल सरकारले नेपाल राजपत्रमा सूचना प्रकाशन गरी अनुसूचीमा आवश्यक हेरफेर वा थपघट गर्न सक्नेछ।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद-७ विविध"
+        }
+      },
+      {
+        "id": "sec_51",
+        "english": {
+          "title": "Section 51: Power to Make Rules",
+          "content": "The Government of Nepal may frame necessary rules for the implementation of this Act.\r\n\r\n---",
+          "chapterTitle": "Chapter-7 Miscellaneous"
+        },
+        "nepali": {
+          "title": "दफा ५१ः नियम बनाउने अधिकार",
+          "content": "यस ऐनको कार्यान्वयनको लागि नेपाल सरकारले आवश्यक नियम बनाउन सक्नेछ।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद-७ विविध"
+        }
+      },
+      {
+        "id": "sec_52",
+        "english": {
+          "title": "Section 52: Power to Make and Enforce Directives, Procedures or Standards",
+          "content": "The Government of Nepal may, without prejudice to this Act and the generality to the Regulation framed under this Act, make and enforce necessary Directives, Procedures or Standards.\r\n\r\n---",
+          "chapterTitle": "Chapter-7 Miscellaneous"
+        },
+        "nepali": {
+          "title": "दफा ५२ः निर्देशिका, कार्यविधि वा मापदण्ड बनाइ लागू गर्न सक्ने",
+          "content": "नेपाल सरकारले यो ऐन तथा यस ऐन अन्तर्गत बनेको नियमावलीको सर्वसामान्यतामा प्रतिकुल असर नपर्ने गरी आवश्यक निर्देशिका, कार्यविधि वा मापदण्ड बनाई लागू गर्न सक्नेछ।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद-७ विविध"
+        }
+      },
+      {
+        "id": "sec_53",
+        "english": {
+          "title": "Section 53: Repeal and Saving",
+          "content": "1) The Foreign Investment and Technology Transfer Act, 2049, is hereby repealed.\r\n\r\n\r\n\r\n\r\n2) The acts and actions performed under the Foreign Investment and Technology Transfer Act, 2049 shall be deemed to have been performed under this Act.\r\n\r\n---\r\n\r\n\r\n---",
+          "chapterTitle": "Chapter-7 Miscellaneous"
+        },
+        "nepali": {
+          "title": "दफा ५३ः खारेजी र बचाउ",
+          "content": "१) विदेशी लगानी तथा प्रविधि हस्तान्तरण ऐन , २०४९ खारेज गरिएको छ।\r\n\r\n\r\n२) विदेशी लगानी तथा प्रविधि हस्तान्तरण ऐन, २०४९ अन्तर्गत भए गरेका काम कारबाही यसै ऐन बमोजिम भए गरेको मानिनेछ।\r\n\r\n---\r\n\r\n\r\n---",
+          "chapterTitle": "परिच्छेद-७ विविध"
+        }
+      },
+      {
+        "id": "sch",
+        "english": {
+          "title": "Schedule",
+          "content": "(Relating to sub-section (2) of Section 3)\r\n\r\n\r\nIndustries or Businesses that are not open to Foreign Investment\r\n\r\n\r\n\r\n1. Poultry farming, fisheries, bee-keeping, fruits, vegetables, oil seeds, pulse seeds, milk industry and other sectors of primary agro-production,\r\n\r\n\r\n\r\n\r\n2. Cottage and small industries,\r\n\r\n\r\n\r\n\r\n3. Personal service business (hair cutting, tailoring, driving etc.),\r\n\r\n\r\n\r\n\r\n4. Industries manufacturing arms, ammunition, bullets and shells, gunpowder or explosives, and nuclear, biological and chemical (N.B.C.) weapons; industries producing atomic energy and radioactive materials,\r\n\r\n\r\n\r\n\r\n5. Real estate business (excluding construction industries), retail business, internal courier service, local catering service, moneychanger, remittance service,\r\n\r\n\r\n\r\n\r\n6. Travel agency, guide involved in tourism, trekking and mountaineering guide, rural tourism including homestay,\r\n\r\n\r\n\r\n\r\n7. Business of mass communication media (newspaper, radio, television and online news) and motion picture of national language,\r\n\r\n\r\n\r\n\r\n8. Management, account, engineering, legal consultancy service and language training, music training, computer training, and\r\n\r\n\r\n\r\n\r\n9. Consultancy services having foreign investment of more than fifty-one percent.\r\n\r\n\r\n---",
+          "chapterTitle": "Chapter-7 Miscellaneous"
+        },
+        "nepali": {
+          "title": "अनुसूची",
+          "content": "(दफा ३ को उपदफा (२) सँग सम्बन्धित)\r\n\r\n\r\nविदेशी लगानी खुला नगरिएका उद्योग वा व्यवसाय\r\n\r\n\r\n१. पशुपन्छी पालन, माछापालन, मौरीपालन, फलफूल, तरकारी, तेलहन, दलहन, दुग्ध व्यवसाय र कृषिका प्राथमिक उत्पादनका अन्य क्षेत्रहरु\r\n\r\n\r\n२. लघु तथा घरेलु उद्यम,\r\n\r\n\r\n३. व्यक्तिगत सेवा व्यवसाय (जस्तोः कपाल काट्ने, सिलाइ (टेलरिङ्ग), ड्राइभिङ्ग आदि)\r\n\r\n\r\n४. हातहतियार, खरखजाना, गोलीगट्ठा, बारुद वा विष्फोटक पदार्थ तथा न्यूक्लियर, बायोलोजिकल तथा केमिकल (एन. बी. सी.) हतियार उत्पादन गर्ने उद्योग, आणविक शक्ति (एटोमिक इनर्जी), विकीरणजन्य सामग्री (रेडियो एक्टिभ म्याटेरियल्स) उत्पादन गर्ने उद्योग,\r\n\r\n\r\n५. घर जग्गा खरिद बिक्री व्यवसाय (निर्माण उद्योग बाहेक) , खुद्रा व्यापार, आन्तरिक कुरियर सेवा, स्थानीय क्याटरिङ्ग सेवा, मनिचेन्जर, रेमिटेन्स सेवा,\r\n\r\n\r\n६. पर्यटनमा संलग्न ट्राभल एजेन्सी , पथ प्रदर्शक , ट्रेकिङ्ग तथा पर्वतारोहण पथ प्रदर्शक, होमस्टे लगायतका ग्रामीण पर्यटन,\r\n\r\n\r\n७. आमसञ्चारका माध्यमहरु (पत्रपत्रिका , रेडियो, टेलिभिजन र अनलाइन समाचार) को व्यवसाय, राष्ट्र भाषाको चलचित्र व्यवसाय,\r\n\r\n\r\n८. व्यवस्थापन, लेखा, इन्जिनियरिङ, कानूनी परामर्श सेवा र भाषा तालिम, सङ्गित तालिम, कम्प्युटर तालिम, र\r\n\r\n\r\n९. एकाउन्न प्रतिशतभन्दा बढी विदेशी लगानी हुने परामर्श सेवाहरु।\r\n\r\n\r\n---",
+          "chapterTitle": "परिच्छेद-७ विविध"
+        }
+      }
+    ]
+  }
+]

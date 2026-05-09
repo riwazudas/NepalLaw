@@ -1,0 +1,462 @@
+[
+  {
+    "id": "banking_offence_act_2064",
+    "actName": "BANKING OFFENCE",
+    "year": "2064",
+    "sections": [
+      {
+        "id": "preamble",
+        "english": {
+          "title": "Preamble",
+          "content": "Date of authentication (Pramanikaran)\r\n\r\n\r\n2064/10/23\r\n\r\n\r\nAmending Act\r\n\r\n\r\n\r\n- Banking Offences and Punishments (First Amendment) Act, 2073         2073/6/18\r\n\r\n- An Act to amend certain Nepal Acts relating to the Code, 2075               2076/1/2\r\n\r\n\r\nAct No. 35 of 2064 BS enacted by the Legislature-Parliament\r\n\r\n\r\nAn Act Formulated to Provide Legal Provisions in relation to the Banking Offences and Punishments\r\n\r\n\r\nPreamble: Whereas it is desirable to make legal provisions regarding banking offences and punishments in order to minimise the impact and risks on the banking and financial system from possible criminal acts in the transactions of the banking and financial system and to enhance credibility towards the banking and financial system,\r\n\r\n\r\nThe Legislative Parliament has formulated this Act.\r\n\r\n\r\n---"
+        },
+        "nepali": {
+          "title": "प्रस्तावना",
+          "content": "प्रमाणीकरण र प्रकाशन मिति\r\n\r\n\r\n२०६४।१०।२३\r\n\r\n\r\nसंशोधन गर्ने ऐन\r\n\r\n\r\n१. बैङ्किङ्ग कसूर तथा सजाय (पहिलो संशोधन) ऐन, २०७३                     २०७3।६।१८\r\n\r\n\r\n२. मुलुकी संहिता सम्बन्धी केही नेपाल ऐनलाई संशोधन गर्ने ऐन, २०७५     २०७६।१।२\r\n\r\n\r\nव्यवस्थापिका-संसदले बनाएको २०६४ सालको ऐन नं. ३५\r\n\r\n\r\nबैङ्किङ्ग कसूर तथा सजायका सम्बन्धमा व्यवस्था गर्न बनेको ऐन\r\n\r\n\r\nप्रस्तावना : 1बैङ्किङ्ग तथा वित्तीय प्रणालीको कारोबारमा हुन सक्ने कसूरजन्य कार्यबाट बैङ्किङ्ग तथा वित्तीय प्रणालीमा पर्ने असर र जोखिमलाई न्यून गरी बैङ्किङ्ग तथा वित्तीय प्रणालीप्रति विश्वसनीयता अभिवृद्धि गर्न बैङ्गिङ्ग कसूर तथा सजायका सम्बन्धमा कानूनी व्यवस्था गर्न वाञ्छनीय भएकोले,\r\n\r\n\r\nव्यवस्थापिका-संसदले यो ऐन बनाएको छ।\r\n\r\n\r\n1पहिलो संशोधनद्वारा संशोधित।\r\n\r\n\r\n---"
+        }
+      },
+      {
+        "id": "sec_1",
+        "english": {
+          "title": "Section 1: Short title and commencement",
+          "content": "1) The title of this Act shall be “Banking Offence and Punishment Act, 2064.\r\n\r\n\r\n2) This Act shall be applicable within Nepal and also to the persons and institutions whomsoever, residing abroad after committing banking offence in Nepal.\r\n\r\n\r\n3) This Act shall come into effect immediately.\r\n\r\n---",
+          "chapterTitle": "Chapter-1 Preliminary"
+        },
+        "nepali": {
+          "title": "दफा १ः संक्षिप्त नाम र प्रारम्भ",
+          "content": "१) यस ऐनको नाम “बैङ्किङ्ग कसूर तथा सजाय ऐन, २०६४” रहेकोछ।\r\n\r\n\r\n२) यो ऐन नेपालभर लागू हुनेछ र नेपालमा बैङ्किङ्ग कसूर गरी विदेशमा रहे बसेको जुनसुकै व्यक्ति वा संस्था समेतलाई लागू हुनेछ।\r\n\r\n\r\n३) यो ऐन तुरुन्त प्रारम्भ हुनेछ।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद-१ प्रारम्भिक"
+        }
+      },
+      {
+        "id": "sec_2",
+        "english": {
+          "title": "Section 2: Definitions",
+          "content": "Unless the subject or context otherwise requires, in this Act,\r\n\r\n\r\n(a) “Bank” means a bank licensed by Nepal Rastra Bank to carry out “A” category financial transactions, pursuant to prevailing law.\r\n\r\n\r\n(b) “Banking Offence” means the offences as stipulated under Chapter 2.\r\n\r\n\r\n(c) “Financial Institution” means a financial institution licensed by Nepal Rastra Bank to carry out “B”, “C”, and “D” category financial transactions, pursuant to prevailing law.\r\n\r\n\r\n(d) “Institution” means a firm or company eligible to maintain a bank account with the banks or financial institutions, pursuant to the prevailing laws. The term also denotes other Organised Institutions or agencies established under the prevailing laws.\r\n\r\n\r\n(e) “Borrower” means a person, firm, company or Organised Institution incorporated under prevailing law, which borrowed from a Bank or Financial Institution. The term also denotes the person who has provided a guarantee.\r\n\r\n\r\n1(f) “Cooperative organisation or association” means a cooperative organisation or association that has obtained permission from Nepal Rastra Bank to conduct banking transactions pursuant to Sub-section (2) of Section 26 of the Cooperative Act, 2048.\r\n\r\n\r\n1(g) “Dhukuti transaction” means a transaction conducted by raising money from each other and taking turns to receive or give money on the basis of an agreement.\r\n\r\n\r\n1(h) “Financial system” means a bank or financial institution, a cooperative organisation, an institution engaged in financial intermediation, an institution engaged in securities, services and barter transactions, an institution engaged in insurance and security transactions, and an institution engaged in collective fund transactions, and the overall financial system including the services, payment and settlement systems provided by such institutions, established and operating in accordance with the law for the purpose of conducting any banking or non-banking financial transaction.\r\n\r\n\r\n1(i) “Authorised person” means a person or official authorised to make the final decision in the course of any transaction.\r\n\r\n\r\n(j) “Family member” means the husband, wife, son, daughter, adopted son, adopted daughter, father, mother, stepmother of the founder, director, shareholder deemed to have a financial interest in accordance with the prevailing law, chief executive officer, employee, managing agent or related person of a bank or financial institution, and this term also refers to the elder brother, younger brother and younger sister who are to be maintained by the latter.\r\n\r\n\r\n1 Amended by the First Amendment.\r\n\r\n---\r\n\r\n\r\n---",
+          "chapterTitle": "Chapter-1 Preliminary"
+        },
+        "nepali": {
+          "title": "दफा २ः परिभाषा",
+          "content": "विषय वा प्रसङ्गले अर्को अर्थ नलागेमा यस ऐनमा,-\r\n\r\n\r\n(क)“बैङ्क” भन्नाले प्रचलित कानून बमोजिम ‘क’ वर्गको वित्तीय कारोबार गर्न नेपाल राष्ट्र बैङ्कबाट इजाजतपत्र प्राप्त संस्था सम्झनु पर्छ।\r\n\r\n\r\n(ख)“बैङ्किङ्ग कसूर” भन्नाले परिच्छेद-२ बमोजिमको कसूर सम्झनु पर्छु।\r\n\r\n\r\n(ग)“वित्तीय संस्था” भन्नाले प्रचलित कानून बमोजिम ‘ख’, ‘ग’, र ‘घ’ वर्गको वित्तीय कारोबार गर्न नेपाल राष्ट्र बैङ्कबाट इजाजतपत्र प्राप्त संस्था सम्झनु पर्छ।\r\n\r\n\r\n(घ)“संस्था” भन्नाले बैङ्क वा वित्तीय संस्थामा प्रचलित कानून बमोजिम खाता खोल्न सक्ने फर्म वा कम्पनी सम्झनु पर्छ र सो शब्दले प्रचलित कानून बमोजिम स्थापित अन्य सङ्गठित संस्था वा एजेन्सी समेतलाई जनाउँछ।\r\n\r\n\r\n(ङ)“ऋणी” भन्नाले बैङ्क वा वित्तीय संस्थाबाट क्रृण लिने व्यक्ति, फर्म, कम्पनी वा प्रचलित कानून बमोजिम स्थापना भएको सङ्गठित संस्था सम्झनु पर्छ र सो शब्दले जमानत दिने व्यक्ति समेतलाई जनाउँछ।\r\n\r\n\r\n1(च) “सहकारी संस्था वा संघ” भन्नाले सहकारी ऐन, २०४८ को दफा २६ को उपदफा (२) बमोजिम नेपाल राष्ट्र बैङ्कबाट बैङ्किङ्ग कारोबार गर्न स्वीकृति प्राप्त गरेका सहकारी संस्था वा संघ सम्झनु पर्छ।\r\n\r\n\r\n1(छ) “ढुकुटीको कारोबार” भन्नाले एक आपसमा रकम उठाई सहमतिका आधारमा आलोपालो गरी रकम लिने वा दिने गरी गरेको कारोबार सम्झनु पर्छ।\r\n\r\n\r\n1(ज) “वित्तीय प्रणाली” भन्नाले कुनै पनि बैङ्किङ्ग वा गैर बैङ्किङ्ग वित्तीय कारोबार गर्नका लागि कानून बमोजिम स्थापना भई सञ्चालनमा रहेका बैङ्क वा वित्तीय संस्था, सहकारी संघ संस्था, वित्तीय मध्यस्थताको काम गर्ने संस्था, धितोपत्र, सेवा तथा वस्तु विनिमय सम्बन्धी कारोबार गर्ने संस्था, बीमा एवं सुरक्षण सम्बन्धी कारोबार गर्ने संस्था तथा सामूहिक कोष खडा गरी कारोबार गर्ने संस्थाहरु र त्यस्ता संस्थाहरुले प्रदान गर्ने सेवा, भुक्तानी तथा फर्स्यौट प्रणाली सहितको समग्र वित्तीय प्रणाली सम्झनु पर्छु।\r\n\r\n\r\n1(झ) “अख्तियारप्राप्त व्यक्ति” भन्नाले कुनै काम कारोबारको सिलसिलामा अन्तिम निर्णय गर्ने अधिकारप्राप्त व्यक्ति वा पदाधिकारी सम्झनु पर्छ।\r\n\r\n\r\n1(ञ) “परिवारको सदस्य” भन्नाले बैङ्क वा वित्तीय संस्थाको संस्थापक, सञ्चालक, प्रचलित कानून बमोजिम वित्तीय स्वार्थ रहेको मानिने शेयरधनी, प्रमुख कार्यकारी अधिकृत, कर्मचारी, मेनेजिङ्ग एजेण्ट वा सम्बद्ध व्यक्तिको सगोलमा रहेका पति, पत्नी, छोरा, छोरी, धर्मपुत्र, धर्मपुत्री, बाबु, आमा, सौतेनी आमा सम्झनु पर्छ र सो शब्दले आफूले पालन पोषण गर्नु पर्ने दाजु, भाइ र दिदी, बहिनी समेतलाई जनाउँछ।\r\n\r\n\r\n1 पहिलो संशोधनद्वारा संशोधित।\r\n\r\n---\r\n\r\n\r\n---",
+          "chapterTitle": "परिच्छेद-१ प्रारम्भिक"
+        }
+      },
+      {
+        "id": "sec_3",
+        "english": {
+          "title": "Section 3: Not to open an account or demand cash payment in an unauthorised manner",
+          "content": "While opening an account with a bank or financial institution or demanding cash payment, no one shall undertake the following acts:\r\n\r\n\r\n1(a) Opening an account by presenting a forged document or knowingly opening an account by presenting such document or depositing or causing to be deposited money in such account or withdrawing money from such account or assisting in such action or opening an account and withdrawing money using an electronic card or device,\r\n\r\n\r\n(b) Open or allow to open an account in the name of a fictitious or other person or organisation, except otherwise permitted by the laws,\r\n\r\n\r\n1(c) Knowingly writing a check for which there is no balance in one’s account.\r\n\r\n\r\n1Amended by the First Amendment.\r\n\r\n---",
+          "chapterTitle": "Chapter-2 Banking Offences"
+        },
+        "nepali": {
+          "title": "दफा ३ः अनधिकृत रुपमा खाता खोल्न वा रकम भुक्तानी माग गर्न नहुने",
+          "content": "कसैले पनि बैङ्क वा वित्तीय संस्थामा खाता खोल्दा वा रकम भुक्तानी माग गर्दा देहायको कार्य गर्न हुँदैन :-\r\n\r\n\r\n1(क) नक्कली कागजात पेश गरी खाता खोल्न वा त्यस्तो कागजात पेश गरी खाता खोल्न लागेको छु भन्ने जानी जानी खाता खोलिदिन वा त्यस्तो खातामा रकम जम्मा गर्न, गराउन वा त्यस्तो खाताबाट रकम निकाल्न वा सो कार्यमा सहयोग गर्न वा त्यसरी खाता खोली विद्युतीय कार्ड वा उपकरणको प्रयोग गरी रकम निकाल्न,\r\n\r\n\r\n(ख) कानून बमोजिम बाहेक काल्पनिक वा अन्य व्यक्ति वा संस्थाको नाममा खाता खोल्न वा खाता खोलिदिन,\r\n\r\n\r\n1(ग) आफ्नो खातामा मौज्दात रकम नभएको जानीजानी चेक काटी दिन।\r\n\r\n\r\n1पहिलो संशोधनद्वारा संशोधित।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद-२ बैङ्किङ्ग कसूर"
+        }
+      },
+      {
+        "id": "sec_4",
+        "english": {
+          "title": "Section 4:",
+          "content": "1………………………….\r\n\r\n\r\n1 Taken out by the First Amendment.\r\n\r\n---",
+          "chapterTitle": "Chapter-2 Banking Offences"
+        },
+        "nepali": {
+          "title": "दफा ४ः",
+          "content": "1………………….\r\n\r\n\r\n1 पहिलो संशोधनद्वारा झिकिएको।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद-२ बैङ्किङ्ग कसूर"
+        }
+      },
+      {
+        "id": "sec_5",
+        "english": {
+          "title": "Section 5: Not to make unauthorised withdrawals or payments",
+          "content": "While withdrawing or making payment from an account maintained with a bank or financial institution, no one shall;\r\n\r\n\r\n(a) withdraw money, in an unauthorised manner, from another person’s account,\r\n\r\n\r\n1(b) ………………..\r\n\r\n\r\n(c) transfer fund, in an unauthorised manner, from the customer’s account or make unauthorised payment therefrom,\r\n\r\n\r\n1(d) ……………………..\r\n\r\n\r\n1 Taken out by the First Amendment.\r\n\r\n---",
+          "chapterTitle": "Chapter-2 Banking Offences"
+        },
+        "nepali": {
+          "title": "दफा ५ः अनधिकृत रुपमा रकम निकाल्न वा भुक्तानी दिन नहुने",
+          "content": "कसैले पनि बैङ्क वा वित्तीय संस्थामा रहेको खाताबाट रकम निकाल्दा वा भुक्तानी दिँदा देहायको कार्य गर्न हुँदैन :-\r\n\r\n\r\n(क) अनधिकृत रुपमा अन्य व्यक्तिको खाताबाट रकम निकाल्न,\r\n\r\n\r\n1(ख) ……………..\r\n\r\n\r\n(ग) अनधिकृत रुपमा ग्राहकको खाताबाट रकम रकमान्तर गर्न वा नगद भुक्तानी दिन,\r\n\r\n\r\n1(घ) ……………….\r\n\r\n\r\n1 पहिलो संशोधनद्वारा झिकिएको।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद-२ बैङ्किङ्ग कसूर"
+        }
+      },
+      {
+        "id": "sec_6",
+        "english": {
+          "title": "Section 6: Not to obtain or make payment by way of abuse or unauthorised use of electronic  means",
+          "content": "No one shall obtain or make payment by way of abuse or unauthorised use of a credit card, debit card, automated teller machine(ATM) card or other electronic means.\r\n\r\n---",
+          "chapterTitle": "Chapter-2 Banking Offences"
+        },
+        "nepali": {
+          "title": "दफा ६ः विद्युतीय माध्यमको दुरुपयोग वा अनधिकृत प्रयोग गरी भुक्तानी लिन वा दिन नहुने",
+          "content": "कसैले पनि क्रेडिट कार्ड, डेबिट कार्ड, अटोमेटेड टेलर मेशिन (एटीएम) कार्ड वा अन्य विद्युतीय माध्यमको दुरुपयोग वा अनधिकृत प्रयोग गरी भुक्तानी लिन वा दिन हुँदैन ।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद-२ बैङ्किङ्ग कसूर"
+        }
+      },
+      {
+        "id": "sec_7",
+        "english": {
+          "title": "Section 7: Not to avail or provide loans in an unauthorised manner",
+          "content": "While availing or providing loans from a bank or financial institution, no one shall commit the following acts:\r\n\r\n\r\n(a) Avail or provide loans by submitting a false, fake or unreal financial statement or by creating an artificial business.\r\n\r\n\r\n(b) Avail or provide excess loans by way of unnatural overvaluation of collateral security.\r\n\r\n\r\n(c) Avail or provide loans by way of unnaturally hiking the project cost based on false details.\r\n\r\n\r\n(d) Avail or provide credit, facility or discounts beyond the authority obtained or limit sanctioned.\r\n\r\n\r\n1(d1) Avail credit or advance facilities by the Chief Executive Officer or employees of the bank or financial institution other than the loan or facilities provided according to a prevailing employee by rule from his/her bank or financial institution.\r\n\r\n\r\n1(d2) Avail credit by promoter, director, shareholder deemed to have financial interest pursuant to prevailing laws or his/her family member from his/her bank or financial institution.\r\n\r\n\r\nProvided that restriction shall not be made to avail credit against the security of fixed deposit receipt, gold or government securities.\r\n\r\n\r\n2(e) Re-avail or re-provide loans from or by another Bank or Financial Institution without having a due release of the collateral security once provided to a Bank or Financial Institution.\r\n\r\n\r\nProvided that, this restriction shall not be applicable in case of release of loans to be provided under consortium lending under the paripassu agreement up to the value covered by the collateral.\r\n\r\n\r\n2(f) Avail loans through an entity having established in the name of a person who does not have the financial capability to run the business or who is a person under undue influence or establish a business in the name of such person or provide credit in the name of the person by creating false burrower or extend or obtain loans knowing the said facts.\r\n\r\n\r\n(g) Extend credit more than the requirement compared to the customer’s business transaction.\r\n\r\n\r\n(h) Accept or provide any sort of undue benefit in return for granting credit facility.\r\n\r\n\r\n1(i) Obtain full or partial credit facilities by the promoter, director, chief executive officer or person responsible for sanctioning credit of bank or financial institution by approving credit in the name of a false customer with the intent of utilising credit facilities.\r\n\r\n\r\n1(j) Supply credit facilities in the name of a person or institution with the financial interest of the promoter, director, chief executive officer or person responsible for sanctioning credit.\r\n\r\n\r\n1 Added by the First Amendment.\r\n\r\n\r\n2 Amended by the First Amendment.\r\n\r\n---",
+          "chapterTitle": "Chapter-2 Banking Offences"
+        },
+        "nepali": {
+          "title": "दफा ७ः अनधिकृत रुपमा कर्जा लिन वा दिन नहुने",
+          "content": "कसैले पनि बैङ्क वा वित्तीय संस्थाबाट कर्जा लिंदा वा दिँदा देहायको कार्य गर्नु हुँदैन :-\r\n\r\n\r\n(क) गलत, झुट्टा वा नरहे नभएको वित्तीय विवरण पेश गरी वा कृत्रिम व्यवसाय खडा गरी कर्जा लिन वा दिन,\r\n\r\n\r\n(ख) धितोको अस्वाभाविक रुपमा बढी मूल्याङ्कन गरी कर्जा लिन वा दिन,\r\n\r\n\r\n(ग) भुट्टा विवरणको आधारमा परियोजनाको लागत अस्वाभाविक रुपमा बढाई बढी कर्जा लिन वा दिन,\r\n\r\n\r\n(घ) आफूलाई प्राप्त भएको अख्तियारी वा स्वीकृत सीमा भन्दा बाहिर गई कर्जा, सुविधा वा सहुलियत प्राप्त गर्न वा उपलब्ध गराउन,\r\n\r\n\r\n1(घ१) बैङ्क वा वित्तीय संस्थाको प्रमुख कार्यकारी अधिकृत वा कर्मचारीले सो बैङ्क वा वित्तीय संस्थाको प्रचलित कर्मचारी प्रशासन सम्बन्धी विनियमावली वा प्रचलित कर्मचारी सापटी वा सुविधा सम्बन्धी विनियमावली बमोजिम पाउने कर्मचारी सुविधा अन्तर्गतको कर्जा वा सापटी बाहेक अन्य तवरले आफ्नो बैङ्क वा वित्तीय संस्थाबाट कर्जा वा सापटी लिन,\r\n\r\n\r\n1(घ२) बैङ्क वा वित्तीय संस्थाको संस्थापक, सञ्चालक, प्रचलित कानून बमोजिम वित्तीय स्वार्थ रहेको मानिने शेयरधनी वा त्यस्तो व्यक्तिको परिवारका सदस्यले आफ्नो बैङ्क वा वित्तीय संस्थाबाट\r\nकर्जा लिन,\r\n\r\n\r\nतर मुद्दती रसिद, सुन वा सरकारी ऋणपत्रको सुरक्षणमा कर्जा लिन उल्लिखित व्यवस्थाले बाधा पुर्‍याएको मानिने छैन ।\r\n\r\n\r\n२(ङ) कुनै एक बैङ वा वित्तीय संस्थालाई एकपटक दिइसकेको सुरक्षण रीतपूर्वक फुकुवा नभई सोही सुरक्षण अर्को बैङ्क वा वित्तीय संस्थामा राखी पुन: कर्जा लिन वा दिन,\r\n\r\n\r\nतर सुरक्षणको मूल्यले खामेको हदसम्म सहवित्तीयकरण सम्बन्धी प्रचलित कानून बमोजिम दोश्रो हक कायम (पारिपासु) हुने गरी कर्जा दिन वा लिन यो बन्देज लागू हुने छैन ।\r\n\r\n\r\n२(च) व्यवसाय सञ्चालन गर्न सक्ने वित्तीय हैसियत नभएको वा आफूले अनुचित प्रभाव पार्न सक्ने व्यक्तिको नाममा संस्था संस्थापना गराई त्यस्तो संस्था मार्फत वा नक्कली ऋणी खडा गरी त्यस्तो ऋणी मार्फत कर्जा लिन वा त्यस्तो कुरा जानी जानी कर्जा दिन वा कर्जा लिने वा दिने कार्य गर्न वा गराउन ।\r\n\r\n\r\n(छ) ग्राहकको कारोबारको तुलनामा आवश्यकता भन्दा बढी कर्जा दिन,\r\n\r\n\r\n(ज) कर्जा सुविधा उपलब्ध गराए बापत कुनै किसिमको अनुचित लाभ लिन वा दिन ।\r\n\r\n\r\n1(झ) बैङ्ग वा वित्तीय संस्थाका संस्थापक, सञ्चालक, प्रमुख कार्यकारी अधिकृत वा कण प्रवाह गर्न अख्तियारप्राप्त व्यक्तिले आफूले समेत क्रृण सुविधा उपभोग गर्ने मनसायले नक्कली ऋणी खडा गरी त्यस्तो करणको पुरै वा आशिक रकमको भुक्तानी लिन वा दिन,\r\n\r\n\r\n1(ञ) बैङ्ग वा वित्तीय संस्थाको संस्थापक, सञ्चालक, प्रमुख कार्यकारी अधिकृत वा त्रण प्रवाह गर्न अख्तियारप्राप्त व्यक्तिले आफ्नो वित्तीय स्वार्थ गाँसिएको कुनै व्यक्ति वा संस्थाको नाममा कुनै प्रकारको ऋण प्रवाह गर्न ।\r\n\r\n\r\n1पहिलो संशोधनद्वारा थप।\r\n\r\n\r\n२पहिलो संशोधनद्वारा संशोधित।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद-२ बैङ्किङ्ग कसूर"
+        }
+      },
+      {
+        "id": "sec_8",
+        "english": {
+          "title": "Section 8: Not to misuse credit",
+          "content": "No one shall misuse the credit facilities availed from a bank or financial institution or let the same be misused by diverting in the purpose other than for which the credit facilities were availed.\r\n\r\n---",
+          "chapterTitle": "Chapter-2 Banking Offences"
+        },
+        "nepali": {
+          "title": "दफा ८ः कर्जाको दुरुपयोग गर्न नहुने",
+          "content": "कसैले पनि बैङ्क वा वित्तीय संस्थाबाट जुन प्रयोजनको लागि कर्जा सुविधा लिएको हो सोही प्रयोजनमा नलगाई अन्यत्र प्रयोग गरी वा गराई कर्जाको दुरुपयोग गर्नु वा गराउनु हुँदैन ।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद-२ बैङ्किङ्ग कसूर"
+        }
+      },
+      {
+        "id": "sec_9",
+        "english": {
+          "title": "Section 9: Not to misuse banking resources, means and assets",
+          "content": "11) The founder, director, shareholder, chief executive officer, employee, managing agent, or related person or organisation, or family member of such person, of a bank or financial institution shall not misuse the resources and means of the bank or financial institution by taking facilities from the bank or financial institution or in any other way.\r\n\r\n\r\n2) No one shall cause or cause to be caused any expenditure of the assets of a bank or financial institution in a manner that is detrimental to the interests of the depositor or the bank or financial institution.\r\n\r\n\r\n3) No one shall commit any financial irregularities in any transaction of a bank or financial institution, including non-banking assets.\r\n\r\n\r\n1 Amended by the First Amendment.\r\n\r\n---",
+          "chapterTitle": "Chapter-2 Banking Offences"
+        },
+        "nepali": {
+          "title": "दफा ९ः  बैङ्किङ्ग स्रोत, साधन र सम्पत्तिको दुरुप्रयोग गर्न नहुने",
+          "content": "1१) बैङ्क वा वित्तीय संस्थाको संस्थापक, सञ्चालक, प्रचलित कानून बमोजिम वित्तीय स्वार्थ रहेको मानिने शेयरधनी, प्रमुख कार्यकारी अधिकृत, कर्मचारी, मेनेजिङ्ग एजेण्ट वा सम्बद्ध व्यक्ति वा संस्था वा त्यस्तो व्यक्तिका परिवारका सदस्यले बैङ्क वा वित्तीय संस्थाबाट सुविधा लिई वा अन्य कुनै तरिकाले बैङ्क वा वित्तीय संस्थाको स्रोत र साधनको दुरुपयोग गर्न हुँदैन ।\r\n\r\n\r\n२) कसैले पनी निक्षेपकर्ता वा बैङ्क वा वित्तीय संस्थाको हित प्रतिकुल हुने गरी बैङ्क वा वित्तीय संस्थाको सम्पत्ति खर्च गर्न गराउन हुँदैन।\r\n\r\n\r\n३) कसैले पनि गैर बैङ्किङ्ग सम्पत्ति लगायत बैङ्क वा वित्तीय संस्थाको अन्य कुनै कारोबार गर्दा कुनै आर्थिक अनियमितता गर्नु हुँदैन।\r\n\r\n\r\n1पहिलो संशोधनद्वारा संशोधित।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद-२ बैङ्किङ्ग कसूर"
+        }
+      },
+      {
+        "id": "sec_10",
+        "english": {
+          "title": "Section 10: Not to acquire assets or open account by borrower who has over dues",
+          "content": "No borrower who has over dues shall remit money to a bank by opening an account with a local or foreign bank or financial institution or, continue such account or, operate the account or purchase any movable or immovable assets in any manner or acquire title or possession over such assets in any manner without settling the dues payable to a bank or financial institution.\r\n\r\n\r\nHowever,\r\n\r\n\r\n(a) An account may be opened for the purpose of repayment of a loan or deposit of money in the account for up to 30 days and make payment of the loan by cheque.\r\n\r\n\r\n(b) The borrower may withdraw the amount from an account situated in Nepal or a foreign country for daily basic life maintenance up to the prescribed limit.\r\n\r\n---",
+          "chapterTitle": "Chapter-2 Banking Offences"
+        },
+        "nepali": {
+          "title": "दफा १०ः ऋणीले रकम झिक्न र सम्पत्ति प्राप्त गर्न नपाउने",
+          "content": "बैङ्क वा वित्तीय संस्थालाई तिर्न पर्ने ऋणको भाखा नाघी कालो सूचीमा परेको ऋणीले आफूले तिर्नु पर्ने कर्जा नतिरी स्वदेश वा विदेशस्थित बैङ्‌ वा वित्तीय संस्थामा खाता खोली रकम राख्न वा त्यस्तो खातालाई निरन्तरता दिन वा सञ्चालन गर्न वा अन्य कुनै तरिकाले कुनै चल वा अचल सम्पत्ति खरिद गर्न वा त्यस्तो सम्पत्ति उपर कुनै तरिकाले हकभोग प्राप्त गर्न हुँदैन ।\r\n\r\n\r\nतर,\r\n\r\n\r\n(क) करण तिर्ने प्रयोजनको लागि खाता खोल्न वा खातामा तीस दिनसम्म रकम राख्न र चेकबाट कर्जा भुक्तानी गर्न सक्नेछ ।\r\n\r\n\r\n(ख) दैनिक जीवनयापनको लागि चाहिने आधारभूत आवश्यक खर्चको प्रयोजनको लागि तोकिए बमोजिमको रकमको हदसम्म ऋणीले स्वदेश वा विदेशमा रहेका बैङ्क खाताहरुबाट रकम निकाल्न सक्नेछ ।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद-२ बैङ्किङ्ग कसूर"
+        }
+      },
+      {
+        "id": "sec_11",
+        "english": {
+          "title": "Section 11: Not to stop credit facility in the way to loss working project of borrower",
+          "content": "A Bank or Financial Institution which has once provided the first instalment after approving a credit facility for a project of the borrower, without sufficient basis and important reason, shall not stop the remaining instalments in-between in the way to loss working project of the borrower.\r\n\r\n---",
+          "chapterTitle": "Chapter-2 Banking Offences"
+        },
+        "nepali": {
+          "title": "दफा ११ः ऋणीको चालु परियोजनालाई नोक्सान हुने गरी तरण वा सुविधा रोक्न नहुने",
+          "content": "बैङ्क वा वित्तीय संस्थाले ऋणीको कुनै परियोजनाको लागि कर्जा वा सुविधा स्वीकृत गरी पहिलो किस्ता प्रदान गरिसकेपछि पर्याप्त आधार र मनासिब कारण विना ऋणीको चालू परियोजनालाई नोक्सान हुने गरी बाँकी किस्ता कर्जा वा सुविधा दिन बीचमा रोक्न हुँदैन ।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद-२ बैङ्किङ्ग कसूर"
+        }
+      },
+      {
+        "id": "sec_12",
+        "english": {
+          "title": "Section 12: Not to Make Loss by Making Alteration in Account or Ledger or by Committing Forgery or  Fraud",
+          "content": "No one shall, with a motive of self-benefit or to cause loss or benefit to any other person, commit any forgery by action like tempering any matter written in Bank or Financial Institution’s document or account or ledger whether by removing or by re-writing the same to mean different sense or with a motive to loss other, commit fraud by misleading others representing the untrue or non-existent facts to be true or existent or by getting a document signed with an alteration in the date, number or particular.\r\n\r\n---",
+          "chapterTitle": "Chapter-2 Banking Offences"
+        },
+        "nepali": {
+          "title": "दफा १२ः कागजात वा खाता बही सच्याई कीर्ते वा जालसाजी गरी हानि नोक्सानी पुर्‍याउन नहुने",
+          "content": "कसैले पनि बैङ्ग वा वित्तीय संस्थाको कुनै कागजात वा खाता बहीमा लेखिएको कुनै कुरा कुनै तरिकाले हटाई वा उडाई अर्कै मतलब निस्कने व्यहोरा पारी मिलाई लेख्ने जस्ता काम गरेबाट आफूलाई वा अरु कसैलाई फाइदा वा हानि नोक्सानी गर्ने उद्देश्यले कीर्ते गर्न वा अर्काको हानि नोक्सानी गर्ने उद्देश्यले नगरे वा नभएको भुट्टा कुरा गरे वा भएको हो भनी वा मिति, अङ्ग वा व्यहोरा फरक पारी सहीछाप गरी गराई कागजात बनाई वा बनाउन लगाई जालसाजी गर्न हुँदैन ।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद-२ बैङ्किङ्ग कसूर"
+        }
+      },
+      {
+        "id": "sec_12a",
+        "english": {
+          "title": "Section 12A: Not to make any Fraudulent Activities to Bank and Financial Institutions and Cooperatives",
+          "content": "1) No person shall, by collusion or fraud, obtain or cause to be obtained movable or immovable property owned by a bank, financial institution, cooperative society or association, or by making, giving or presenting a forged document that gives him his right to property to which he has no right, or by falsely claiming that he has something that he does not have, or by distorting a false statement as true, or by deceiving him by any other means, or by causing him to lose his right to acquire or sell movable or immovable property owned by a bank, financial institution, cooperative society or association, or by buying, selling, dealing in or bartering the same property, whether or not it is stated in a document that the property of the bank, financial institution, cooperative society or association is his or hers or that it has become his or hers, thereby causing loss or damage to the bank, financial institution, cooperative society or association.\r\n\r\n\r\n2) No person shall cause any loss or damage to a bank or financial institution by making any false or fraudulent statement, promise or in any other manner whatsoever in order to obtain cash, funds, securities or other movable or immovable property under the control, custody or ownership of such bank or financial institution or cooperative organisation or association, or to interfere with or take control of such property or to assist in the implementation of such a plan.\r\n\r\n\r\n3) No person shall enter into any transaction with a bank, financial institution, cooperative society or association on the basis of any false or misleading statement or promise or shall falsely state his/her name as if it were not his/her own, but someone else’s, or shall falsely state or give such a name to another person, or shall knowingly claim or give such a thing from another person, etc., in order to avoid punishment for an offence or to deceive, deceive or deceive a bank, financial institution, cooperative society or association in any way, thereby causing loss or damage to himself/herself or to benefit anyone else.\r\n\r\n---",
+          "chapterTitle": "Chapter-2 Banking Offences"
+        },
+        "nepali": {
+          "title": "दफा १२कः बैङ्क वा वित्तीय संस्था वा सहकारी संस्था वा संघलाई झुक्याई का काम कारोबार गर्न नहुने",
+          "content": "१) कसैले बैङ्क वा वित्तीय संस्था वा सहकारी संस्था वा संघको स्वामित्वमा रहेको चल अचल सम्पत्ति मिलोमतो वा जाल परिपञ्च गरी वा हक नभएको सम्पत्तिमा आफ्नो हक पुग्ने कीर्ते कागज बनाई, दिई वा पेश गरी वा आफूसँग नभएको कुरा आफूसँग छ भनी झुक्याई वा झुट्टा कुरालाई साँचो हो भनी भझुक्याई वा अरु जुनसुकै व्यहोरासँग धोका दिई गफलतमा पारी आफ्नो हक नपुग्ने बैङ्क वा वित्तीय संस्था वा सहकारी संस्था वा संघको हकको चल अचल सम्पत्ति लिनु दिनु दिलाउनु वा बैङ्क वा वित्तीय संस्था वा सहकारी संस्था वा संघको सम्पत्ति मेरो हो भनी वा मेरो भएको छ भनी लिखत गरी वा नगरी सोही सम्पत्ति लिनु दिनु बिक्री व्यवहार गर्ने वा सट्टापट्टा गरी बैङ्क वा वित्तीय संस्था वा सहकारी संस्था वा संघलाई हानि नोक्सानी पुर्‍याउनु हुँदैन।\r\n\r\n\r\n२) कसैले कुनै व्यहोराको झुट्टा, जालसाजपूर्ण कथन, प्रतिज्ञा वा अन्य कुनै तवरबाट बैङ्क वा वित्तीय संस्थालाई नोक्सानी पुग्ने गरी सो बैङ्क वा वित्तीय संस्था वा सहकारी संस्था वा संघको नियन्त्रण वा संरक्षण वा स्वामित्वमा रहेको नगद रकम, कोष, सुरक्षणपत्र वा अन्य चल, अचल सम्पत्ति प्राप्त गर्न वा त्यस्तो सम्पत्ति माथि दखल पुर्‍याउन वा नियन्त्रणमा लिन वा त्यस्तो योजनालाई कार्यान्वयन गर्न सहयोग पुर्‍याई बैङ्ग वा वित्तीय संस्था वा सहकारी संस्था वा संघलाई हानि नोक्सानी पुर्‍याउनु हुँदैन।\r\n\r\n\r\n३) कसैले कुनै व्यहोराको गलत वा झुट्टा विवरण वा प्रतिज्ञाको आधारमा बैङ वा वित्तीय संस्था वा सहकारी संस्था वा संघसँग कुनै कारोबार गर्न वा आफ्नो नाम ढाँटी सो नाम मेरो होइन, अर्कैको हो भनी र अर्को मानिसको नामलाई मेरो हो सो मानिस मै हुँ भनी वा त्यस्तो कुरा अर्काबाट जानी बुझी भनाउनु, भनी दिनु इत्यादि जुनसुकै कुरो गरी कसूरको सजायबाट बच्नका लागि वा बेइमानीको नियतले धोका गफलत वा झुक्यानमा पारी बैङ्क वा वित्तीय संस्था वा सहकारी संस्था वा संघलाई कुनै पनि तवरले हानि नोक्सानी पुन्याई आफू वा अरु कसैलाई लाभ हुने कार्य गर्न हुँदैन।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद-२ बैङ्किङ्ग कसूर"
+        }
+      },
+      {
+        "id": "sec_13",
+        "english": {
+          "title": "Section 13: Not to Derive Excess, Low or False Valuation or Prepare False Financials",
+          "content": "1) While carrying out the valuation of movable or immovable assets held by a bank or financial institution as collateral security of a loan or non-banking movable or immovable asset of a bank\r\nor financial institution, the valuator shall not derive an excess, low or false valuation of such assets while evaluating them for the purpose of auctioning, selling, or other purposes relating to the Bank.\r\n\r\n\r\n2) Moreover, the valuator shall not carry the valuation of the property of any person or institution in which he/she has a financial interest.\r\n\r\n\r\n3) No person, firm or, company or institution shall prepare or cause to prepare separate financial statements for a particular date or period for the purpose of availing credit.\r\n\r\n\r\n4) Auditor shall not certify different financial statements for the same date or period to be submitted by any person or institution to the Government of Nepal, foreign donor agency or other entity without disclosing his/her opinion.\r\n\r\n---",
+          "chapterTitle": "Chapter-2 Banking Offences"
+        },
+        "nepali": {
+          "title": "दफा १३ः   बढी, कम वा गलत मूल्याङ्कन तथा वित्तीय विवरण तयार गर्न नहुने",
+          "content": "१) कर्जाको धितो स्वरुप बैङ्क वा वित्तीय संस्थामा राखिने चल अचल सम्पत्ति वा गैर बैङ्किङ्ग सम्पत्तिको रुपमा रहेको बैङ्क वा वित्तीय संस्थाको चल अचल सम्पत्ति लिलाम बिक्री वा बैङ्क वा वित्तीय संस्थाको अन्य प्रयोजनको लागि मूल्याङ्कन गर्दा सम्बन्धित मूल्याङ्कनकर्ताले बढी, कम वा गलत मूल्याङ्कन गर्न हुँदैन ।\r\n\r\n\r\n२) मूल्याङ्कनकर्ताले आफूनो वित्तीय स्वार्थ गाँसिएको कुनै व्यक्ति वा संस्थाको सम्पत्तिको मूल्याङ्कन गर्नु हुँदैन ।\r\n\r\n\r\n३) बैङ्क वा वित्तीय संस्थाबाट कर्जा वा सुविधा प्राप्त गर्ने प्रयोजनका लागि कुनै व्यक्ति, फर्म वा कम्पनी वा संस्थाले एउटै मिति वा अवधिको अलग अलग वित्तीय विवरण तयार गर्न वा गर्न लगाउन हुँदैन ।\r\n\r\n\r\n४) लेखापरीक्षकले कुनै व्यक्ति वा संस्थाको नेपाल सरकार, विदेशी दातृ निकाय वा अन्य निकायमा पेश गर्ने एउटै मिति वा अवधिको वित्तीय विवरणमा आफ्नो राय तथा व्यहोरा नखुलाई वित्तीय विवरणहरु फरक पर्ने गरी प्रमाणित गर्नु हुँदैन।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद-२ बैङ्किङ्ग कसूर"
+        }
+      },
+      {
+        "id": "sec_14",
+        "english": {
+          "title": "Section 14: Not to Carry Out and Cause to Carry Out Irregular Economic and Financial Transactions",
+          "content": "No one shall, with a motive to cause any harm loss to a bank or financial institution, get something done or undone or bargain or forbid bargaining or take or give any amount or take or give any goods or services free of costs; take or give any charity, grant, gift or donation; execute or get executed or translate or get translated a false deed or do work or get the work be done with an ill intention to cause illegal benefits or losses.\r\n\r\n---",
+          "chapterTitle": "Chapter-2 Banking Offences"
+        },
+        "nepali": {
+          "title": "दफा १४ः अनियमित आर्थिक तथा वित्तीय कारोबार गर्न गराउन नहुने",
+          "content": "बैङ्क वा वित्तीय संस्थालाई हानि नोक्सानी पुर्‍याउने उद्देश्यले कसैले पनि कुनै काम गराउन वा नगराउन, मोलाहिजा गर्न वा नगर्न, कुनै किसिमको रकम लिन वा दिन, बिना मूल्य वा कम मूल्यमा कुनै माल, वस्तु वा सेवा लिन वा दिन, दान, दातव्य, उपहार वा चन्दा लिन वा दिन, गलत लिखत तयार गर्न वा गराउन, अनुवाद गर्न वा गराउन वा गैर कानूनी लाभ वा हानि पुप्याउने बदनियतले कुनै कार्य गर्न वा गराउन हुँदैन।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद-२ बैङ्किङ्ग कसूर"
+        }
+      },
+      {
+        "id": "sec_14a",
+        "english": {
+          "title": "Section 14A: Not to carry out Dhukuti transactions",
+          "content": "No one shall carry or cause to be carried out Dhukuti transactions.\r\n\r\n---",
+          "chapterTitle": "Chapter-2 Banking Offences"
+        },
+        "nepali": {
+          "title": "दफा १४कः ढुकुटीको कारोबार गर्न नहुने",
+          "content": "कसैले पनि ढुकुटीको कारोबार गर्न वा गराउन हुँदैन।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद-२ बैङ्किङ्ग कसूर"
+        }
+      },
+      {
+        "id": "sec_14b",
+        "english": {
+          "title": "Section 14B: Not to carry out banking transactions in an illegal manner",
+          "content": "Cooperative organisations or associations registered under the Cooperative Act, 2048 BS shall not conduct or cause to be conducted banking transactions without obtaining approval from Nepal Rastra Bank pursuant to sub-section (2) of Section 26 of the same Act.\r\n\r\n---\r\n\r\n\r\n---",
+          "chapterTitle": "Chapter-2 Banking Offences"
+        },
+        "nepali": {
+          "title": "दफा १४खः गैर कानूनी रुपमा बैङ्किङ्ग कारोबार गर्न नहुने",
+          "content": "सहकारी ऐन, २०४८ बमोजिम दर्ता भएका सहकारी संस्था वा संघले सोही ऐनको दफा २६ को उपदफा (२) बमोजिम नेपाल राष्ट्र बैङ्कबाट स्वीकृति प्राप्त नगरी बैङ्किङ्ग कारोबार गर्न वा गराउन हुँदैन।\r\n\r\n---\r\n\r\n\r\n---",
+          "chapterTitle": "परिच्छेद-२ बैङ्किङ्ग कसूर"
+        }
+      },
+      {
+        "id": "sec_15",
+        "english": {
+          "title": "Section 15: Punishment",
+          "content": "11) If anyone commits any offence under Section 3, he shall be liable to a fine of the amount of the offence and imprisonment for a term not exceeding three months if the amount is discovered and to a fine of the amount of the offence and imprisonment for a term not exceeding three months, and if he commits any offence under Section 11, he shall be liable to a fine of the amount of the offence and imprisonment for a term not exceeding three months.\r\n\r\n\r\n12) If any person commits any act as per clauses (d), (d1), (d2), (e), (f), (g), (h), (i) and (j) of Section 5, 6, Section 7, Section 8, 9, 10, 12 or 14, if the following amount is related to such offence, then the following imprisonment and fine shall be imposed according to the severity of the offence:-\r\n\r\n\r\n(a) Imprisonment for one year if the amount is up to one million rupees,\r\n\r\n\r\n(b) Imprisonment for two to three years if the amount is more than one million rupees and up to five million rupees,\r\n\r\n\r\n(c) Imprisonment for three to four years if the amount is more than five million rupees and up to one crore rupees,\r\n\r\n\r\n(d) Imprisonment for four to six years if the amount is more than one crore rupees and up to ten crore rupees,\r\n\r\n\r\n(e) Imprisonment for six to eight years if the amount is more than ten crore rupees and up to fifty crore rupees,\r\n\r\n\r\n(f) Imprisonment for eight to ten years if the amount is more than fifty crore rupees and up to one billion rupees,\r\n\r\n\r\n(g) Imprisonment for ten to twelve years if the amount is more than one billion rupees, whatever the amount is.\r\n\r\n\r\n13) The following offences shall be punishable as follows:-\r\n\r\n\r\n(a) If an offence under clauses (a), (b), (c) of Section 7 or Section 13 is committed, a fine shall be imposed according to the amount of the offence and imprisonment for a term not exceeding four years.\r\n\r\n\r\n(b) If an offence under Section 12A., 14A. or 14B. is committed, and the amount of the offence is as follows, the following imprisonment and fine shall be imposed according to the amount of the offence, depending on the extent of the offence:-\r\n\r\n\r\n(1) Imprisonment for one year to three years if the amount is up to five million rupees,\r\n\r\n\r\n(2) Imprisonment for three years to five years if the amount is between five million rupees and fifty million rupees,\r\n\r\n\r\n(3) Imprisonment for five years to seven years if the amount is between fifty million rupees and fifty million rupees,\r\n\r\n\r\n(4) Imprisonment for seven to nine years regardless of the amount of the offence.\r\n\r\n\r\n4) In case the suit amount cannot be established in accordance with this Section, he/she shall be punished with a fine up to Rupees one million and imprisonment up to two years.\r\n\r\n\r\n5) In case any organisation commits any offence specified under this Act and if the concerned office bearer or the employee committing such offence be identified, he/she shall be held liable, if the office bearer or the employee cannot be identified organisation, the person working in the capacity of the organisation head at the time of the occurrence of the offence shall be held liable.\r\n\r\n\r\n16) A person or organisation that attempts to commit a banking offence or a person or organisation that indirectly participates in or aids the commission of such offence shall be punished with half the punishment to be imposed on the offender.\r\n\r\n\r\n27) If there is an organisation that attempts to commit a banking offence or is indirectly involved in or aids the commission of such offence, the chief executive or officer or person performing work in an executive capacity of such organisation shall be punished in accordance with this Act.\r\n\r\n\r\n28) If the person who commits the offence under Sections 2, 5, 6, 7, 8, 9, 10, 11, 12, 12A., 12, 14, 14A. and 14B. is the chairman, director, or chief executive officer of the concerned organisation, he shall be imprisoned for one year in addition to the punishment to be imposed in accordance with this Act.\r\n\r\n\r\n1 Amended by the First Amendment.\r\n\r\n\r\n2 Added by the First Amendment.\r\n\r\n---",
+          "chapterTitle": "Chapter-3 Punishment"
+        },
+        "nepali": {
+          "title": "दफा १५ः दण्ड सजाय",
+          "content": "1१) कसैले दफा ३ बमोजिमको कुनै कसूर गरेमा बिगो खुलेकोमा बिगो भराई बिगो बमोजिम जरिबाना र तीन महिनासम्म कैद र दफा ११ बमोजिमको कुनै कसूर गरेमा बिगो भराई बिगो बमोजिमको जरिबाना हुनेछ ।\r\n\r\n\r\n1२) कसैले दफा ५, ६ दफा ७ को खण्ड (घ), (घ१), (घ२), (ङ), (च), (छ), (ज), (झ) र (ञ), दफा ८, ९, १०, १२ वा १४ बमोजिमको कुनै कार्य गरेमा त्यस्तो कसूरसँग सम्बन्धित देहाय बमोजिमको बिगो भएमा कसूरको मात्रा अनुसार देहाय बमोजिमको कैद र बिगो भराई बिगो बमोजिम जरिबाना हुनेछ :-\r\n\r\n\r\n(क) दश लाख रुपैयाँसम्म बिगो भए एक वर्षसम्म कैद,\r\n\r\n\r\n(ख) दश लाख रुपैयाँभन्दा बढी पचास लाख रुपैयाँसम्म बिगो भए दुई वर्षदेखि तीन वर्षसम्म कैद,\r\n\r\n\r\n(ग) पचास लाख रुपैयाँभन्दा बढी एक करोड रुपैयाँसम्म बिगो भए तीन वर्षदेखि चार वर्षसम्म कैद,\r\n\r\n\r\n(घ) एक करोड रुपैयाँभन्दा बढी दश करोड रुपैयाँसम्म बिगो भए चार वर्षदेखि छ वर्षसम्म कैद,\r\n\r\n\r\n(ङ) दश करोड रुपैयाँ भन्दा बढी पचास करोड रुपैयाँसम्म बिगो भए छ वर्षदेखि आठ वर्षसम्म कैद,\r\n\r\n\r\n(च) पचास करोड रूपैयाँभन्दा बढी एक अर्ब रुपैयाँसम्म बिगो भए आठ वर्षदेखि दश वर्षसम्म कैद,\r\n\r\n\r\n(छ) एक अर्ब रुपैयाँ भन्दा बढी जतिसुकै रुपैयाँ बिगो भए दश वर्षदेखि बाह्र वर्षसम्म कैद ।\r\n\r\n\r\n1३) देहाय बमोजिमको कसूरमा देहाय बमोजिम सजाय हुनेछ :-\r\n\r\n\r\n(क) दफा ७को खण्ड (क), (ख), (ग) वा दफा १३ बमोजिमको कसूर गरेमा बिगो भराई बिगो बमोजिम जरिबाना र चार वर्षसम्म कैद हुनेछु ।\r\n\r\n\r\n(ख) दफा १२क., १४क. वा १४ख. बमोजिमको कसूर गरेमा त्यस्तो कसूरसँग सम्बन्धित देहाय बमोजिमको बिगो भएमा कसूरको मात्रा अनुसार देहाय बमोजिमको कैद र बिगो भराई बिगो बमोजिम जरिबाना हुनेछ :-\r\n\r\n\r\n(१) पचास लाख रुपैयाँसम्म बिगो भए एक वर्षदेखि तीन वर्षसम्म कैद,\r\n\r\n\r\n(२) पचास लाख रुपैयाँदेखि पाँच करोड रुपैयाँसम्म बिगो भए तीन वर्षदेखि पाँच वर्षसम्म कैद,\r\n\r\n\r\n(३) पाँच करोड रुपैयाँदेखि पचास करोड रुपैयाँसम्म बिगो भए पाँच वर्षदेखि सात वर्षसम्म कैद,\r\n\r\n\r\n(४) पचास करोड रुपैयाँभन्दा माथि जतिसुकै बिगो भए तापनि सात वर्षदेखि नौ वर्षसम्म कैद ।\r\n\r\n\r\n४) यस दफा बमोजिम बिगो जफत गरी बिगो कायम गर्न नसकिने अवस्था भएकोमा कसूरको मात्रा अनुसार दश लाख रुपैयाँसम्म जरिबाना र दुई वर्षसम्म कैद हुनेछ ।\r\n\r\n\r\n५) कुनै संस्थाले यस ऐन अन्तर्गतको कसूर गरेकोमा त्यस्तो कसूर गर्ने पदाधिकारी वा कर्मचारी पहिचान भएकोमा त्यस्तो पदाधिकारी वा कर्मचारीलाई र पहिचान हुन नसकेकोमा कसूर गरेका बखत त्यस्तो संस्थाको कार्यालय प्रमुखको हैसियतमा काम गर्ने व्यक्ति जिम्मेवार हुनेछ।\r\n\r\n\r\n1६) बैङ्किङ्ग कसूर गर्न उद्योग गर्ने व्यक्ति वा संस्था वा त्यस्तो कसूर गर्न अप्रत्यक्ष रुपमा संलगन वा मद्दत पुर्‍याउने व्यक्ति वा संस्थालाई कसूरदारलाई हुने सजायको आधा सजाय हुनेछ ।\r\n\r\n\r\n2७) बैङ्गिङ्ग कसूर गर्न उद्योग गर्ने वा त्यस्तो कसूर गर्न अप्रत्यक्ष रुपमा संलग्न रहेको वा महत पुर्‍याउने संस्था रहेछ भने त्यस्तो संस्थाको प्रमुख कार्यकारी वा पदाधिकारी वा कार्यकारी हैसियतमा कार्य सम्पादन गर्ने व्यक्तिलाई यस ऐन बमोजिम सजाय हुनेछ ।\r\n\r\n\r\n2८) दफा २, ५, ६, ७, ठ, ९, १०, ११, १२, १२क., १२, १४, १४क. र १४ख. बमोजिमको कसूर गर्ने व्यक्ति सम्बन्धित संस्थाको अध्यक्ष, सञ्चालक, प्रमुख कार्यकारी अधिकृत भएमा यस ऐन बमोजिम हुने सजायमा थप एक वर्ष कैद हुनेछ ।\r\n\r\n\r\n1पहिलो संशोधनद्वारा संशोधित।\r\n\r\n\r\n2पहिलो संशोधनद्वारा थप।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद-३ दण्ड सजाय"
+        }
+      },
+      {
+        "id": "sec_16",
+        "english": {
+          "title": "Section 16: Punishment to the Persons Creating Hindrance",
+          "content": "If anyone creates hindrance protest in the investigation and inquiry proceedings undertaken under this Act, the adjudicating officer may punish him/her with imprisonment of up to six months or a fine of up to five thousand rupees or both based on the report of the Officer involved in Investigation and inquiry.\r\n\r\n---\r\n\r\n\r\n---",
+          "chapterTitle": "Chapter-3 Punishment"
+        },
+        "nepali": {
+          "title": "दफा १६ः बाधा विरोध गर्नेलाई सजाय",
+          "content": "यस ऐन अन्तर्गतको अनुसन्धान तथा तहकिकात सम्बन्धी काम कारबाहीमा कसैले बाधा विरोध गरेमा निजलाई अनुसन्धान तथा तहकिकात गर्ने अधिकारीको प्रतिवेदनको आधारमा मुद्दा हेर्ने अधिकारीले छ महिनासम्म कैद वा पाँच हजार रुपैयाँसम्म जरिबाना वा दुवै सजाय गर्न सक्नेछ ।\r\n\r\n---\r\n\r\n\r\n---",
+          "chapterTitle": "परिच्छेद-३ दण्ड सजाय"
+        }
+      },
+      {
+        "id": "sec_17",
+        "english": {
+          "title": "Section 17: Time and limitation for the Lodgement of First Information Report",
+          "content": "1) In regard to an offence under this Act, a First Information Report may be lodged within one year from the date the offence comes to the knowledge, and the suit shall have to be lodged within six months from the date the First Information Report is so lodged with the Court as fixed by the Government of Nepal with publishing a notice in Nepal Gazette.\r\n\r\n\r\n2) Notwithstanding anything contained hereinabove in sub-section (1), a lawsuit may, at any time, be initiated against an employee or office-bearer of a bank or financial institution, who caused misappropriation or loss of assets of the Bank or Financial Institution during his/her assumption of service in any post thereof and there shall be no obstruction in initiating a lawsuit even after such office-bearer or employee retires from his/her service.\r\n\r\n---",
+          "chapterTitle": "Chapter-4 Proceedings and Disposal of the suits"
+        },
+        "nepali": {
+          "title": "दफा १७ः जाहेरी दिने अवधि र हदम्याद",
+          "content": "१) यस ऐन अन्तर्गतको कसूरमा त्यस्तो कसूर भएको कुरा थाहा पाएको मितिले एक वर्षभित्र जाहेरी दिन सकिनेछ र त्यसरी जाहेरी परेको मितिले छ महिनाभित्र नेपाल सरकारले नेपाल राजपत्रमा सूचना प्रकाशन गरी 1तोकिदिएको अदालत समक्ष मुद्दा दायर गरिसक्नु पर्नेछ ।\r\n\r\n\r\n२) उपदफा (१) मा जुनसुकै कुरा लेखिएको भए तापनि कुनै बैङ्क वा वित्तीय संस्थाको कर्मचारी वा पदाधिकारीले आफू कुनै पदमा बहाल रहेको अवस्थामा बैङ्क वा वित्तीय संस्थाको सम्पत्ति हिनामिना वा हानि नोक्सानी गरी बैङ्किङ्ग कसूर गरेको सम्बन्धमा त्यस्तो कर्मचारी वा पदाधिकारी उपर जहिलेसुकै पनि मुद्दा चलाउन सकिनेछ र यस्तो कर्मचारी वा पदाधिकारीले आफ्नो पदबाट अवकाश प्राप्त गरेपछि पनि मुद्दा चलाउन बाधा पर्ने छैन ।\r\n\r\n\r\n1सम्बन्धित वाणिज्य इजलासले हेर्ने गरी तोकिएको । (नेपाल राजपत्र मिति २०६६।४।५ संख्या १४)\r\n\r\n---",
+          "chapterTitle": "परिच्छेद-४ मुद्दाको कारबाही र किनारा"
+        }
+      },
+      {
+        "id": "sec_18",
+        "english": {
+          "title": "Section 18: Government to be the plaintiff",
+          "content": "In the lawsuits, where punishment shall be given as per this Act, the government shall be the plaintiff, and such lawsuits shall be considered to be included in Schedule-1 of Act relating to Muluki Criminal Procedure (Code)Act, 2074.\r\n\r\n---",
+          "chapterTitle": "Chapter-4 Proceedings and Disposal of the suits"
+        },
+        "nepali": {
+          "title": "दफा १८ः सरकारवादी हुने",
+          "content": "यस ऐन अन्तर्गत सजाय हुने मुद्दा नेपाल सरकारवादी हुनेछ र त्यस्तो मुद्दा मुलुकी फौजदारी कार्यविधि संहिता , २०७४ को अनुसूची-१ मा समावेश भएको मानिनेछ।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद-४ मुद्दाको कारबाही र किनारा"
+        }
+      },
+      {
+        "id": "sec_19",
+        "english": {
+          "title": "Section 19: Proceedings may be initiated by detaining into the custody",
+          "content": "1) Notwithstanding anything contained in the prevailing laws, the Officer involved in the Investigation and inquiry may detain an offender under the Act in custody by giving him/her a warrant as per the prevailing law if there is adequate ground to believe that the person, against whom proceedings have been initiated as per this Act, may extinct or destroy any evidence or create hindrances or obstacles or impact adversely in the proceeding of investigation and inquiry of it or on the basis of the evidence existent presently, if there is reasonable ground to believe that a person, not having residence in Nepal, is the offender of banking offence who can be subject to imprisonment up to 6 months or above.\r\n\r\n\r\n2) In case the investigation and inquiry initiated in regard to the person detained in custody as stipulated under sub-section (1) above could not be completed within 24 hours and it is deemed necessary to continue the investigation and inquiry process by detaining him/her further in custody, the investigation and inquiry officer shall detain further only after obtaining approval from the adjudicating officer getting the person in presence before the adjudicating officer.\r\n\r\n\r\n(3) While requesting the adjudicating officer for approval as stipulated under sub-section (2) above, the charges against the person detained in the custody, basis thereon, justification for continuing the investigation and inquiry proceedings by detaining him/her in the custody and description of the affidavit of statement obtained, if any taken from him/her, shall have to be clearly mentioned.\r\n\r\n\r\n4) If approval for detention as stipulated under sub-section (2) above is sought for detention, the adjudicating officer may, considering, after reviewing the concerned documents, whether the investigation and inquiry progress has been satisfactory or not, grant approval for detention up to a period of maximum 1sixty days at a time or in multiple instances but not exceeding 1seven days at a time if progress in the investigation and inquiry proceedings deemed to be satisfactory.\r\n\r\n\r\n1 Amended by the First Amendment.\r\n\r\n---",
+          "chapterTitle": "Chapter-4 Proceedings and Disposal of the suits"
+        },
+        "nepali": {
+          "title": "दफा १९ः थुनामा राखी कारबाही गर्न सकिने",
+          "content": "१) प्रचलित कानूनमा जुनसुकै कुरा लेखिएको भए तापनि यस ऐन अन्तर्गतको कसूरमा कारबाही चलाइएको कुनै व्यक्तिले कुनै प्रमाण लोप वा नाश गर्न सक्ने वा अनुसन्धान तथा तहकिकातको कारबाहीमा बाधा व्यवधान वा प्रतिकूल असर पार्न सक्ने पर्याप्त कारण विद्यमान भएमा वा नेपालमा स्थायी बसोबास नभएको कुनै व्यक्ति तत्काल प्राप्त प्रमाणबाट छ महिना वा सो भन्दा बढी कैदको सजाय हुन सक्ने बेङ्किङ्ग कसूरको कसूरदार हो भन्ने विश्वास गर्ने कुनै मनासिब आधार भएमा अनुसन्धान तथा तहकिकात गर्ने अधिकारीले निजलाई प्रचलित कानून बमोजिम थुनुवा पूर्जी दिई थुनामा राख्न सक्नेछ ।\r\n\r\n\r\n२) उपदफा (१) बमोजिम थुनामा राखिएको व्यक्तिको सम्बन्धमा चौबीस घण्टाभित्र अनुसन्धान तथा तहकिकात पूरा नहुने भई निजलाई थुनामा राखी अनुसन्धान तथा तहकिकात जारी राख्नु पर्ने देखिएमा अनुसन्धान तथा तहकिकात गर्ने अधिकारीले निजलाई मुद्दा हेर्ने अधिकारी समक्ष उपस्थित गराई मुद्दा हेर्ने अधिकारीबाट अनुमति लिएर मात्र थुनामा राख्नु पर्नेछ ।\r\n\r\n\r\n३) उपदफा (२) बमोजिम मुद्दा हेर्ने अधिकारीसँग अनुमति माग्दा थुनामा परेको व्यक्ति उपरको अभियोग, त्यसको आधार, निजलाई थुनामै राखी अनुसन्धान तथा तहकिकात गर्न पर्ने कारण र निजको बयान कागज भइसकेको भए बयान कागजको व्यहोरा स्पष्ट रुपमा उल्लेख गर्न पर्नेछ ।\r\n\r\n\r\n४) उपदफा (२) बमोजिम थुनामा राख्ने अनुमति मागेमा मुद्दा हेर्ने अधिकारीले सम्बन्धित कागजातहरु हेरी अनुसन्धान तथा तहकिकात सन्तोषजनक रुपमा भए वा नभएको विचार गरी सन्तोषजनक रुपमा अनुसन्धान तथा तहकिकात भइरहेको देखिएमा एकैपटक वा पटक पटक गरी एकपटकमा 1सात दिनमा नबढ्ने गरी बढीमा 1साठी दिनसम्म थुनामा राख्ने अनुमति दिन सक्नेछ ।\r\n\r\n\r\n1पहिलो संशोधनद्वारा संशोधित।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद-४ मुद्दाको कारबाही र किनारा"
+        }
+      },
+      {
+        "id": "sec_19a",
+        "english": {
+          "title": "Section 19A: Special investigation team may be formed",
+          "content": "1) Notwithstanding anything contained in the prevailing law, if it is deemed appropriate to form an investigation team including experts in banking matters to investigate a case related to banking offences, the Government of Nepal may, in consultation with the Attorney General, the Inspector General of Police and the Nepal Rastra Bank, form such a team.\r\n\r\n\r\n2) The special investigation team formed pursuant to sub-section (1) shall have the same powers as an officer conducting investigation and inquiry under this Act or prevailing law.\r\n\r\n---",
+          "chapterTitle": "Chapter-4 Proceedings and Disposal of the suits"
+        },
+        "nepali": {
+          "title": "दफा १९कः विशेष अनुसन्धान टोली गठन गर्न सक्ने",
+          "content": "१) प्रचलित कानूनमा जुनसुकै कुरा लेखिएको भए तापनि बैङ्किङ्ग कसूर सम्बन्धी मुद्दाको अनुसन्धान गर्नको लागि बैङ्किङ्ग सम्बन्धी विषयको विशेषज्ञ समेत संलग्न रहेको अनुसन्धान टोली गठन गर्न उपयुक्त हुने देखिएमा नेपाल सरकारले महान्यायाधिवक्ता, प्रहरी महानिरीक्षक र नेपाल राष्ट्र बैङ्कसँग परामर्श गरी त्यस्तो टोली गठन गर्न सक्नेछ।\r\n\r\n\r\n२) उपदफा (१) बमोजिम गठन भएको विशेष अनुसन्धान टोलीलाई यो ऐन वा प्रचलित कानून बमोजिम अनुसन्धान तथा तहकिकात गर्ने अधिकारीलाई भए सरहको अधिकार हुनेछ।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद-४ मुद्दाको कारबाही र किनारा"
+        }
+      },
+      {
+        "id": "sec_19b",
+        "english": {
+          "title": "Section 19B: Power to request details",
+          "content": "1) If the investigating and investigating body considers it necessary to obtain or examine any document, account statement or other details in order to fulfil the objectives of this Act and if it considers that any person or organisation has or can obtain and submit any document, account statement or other details related to the investigation and investigation, the investigating and investigating body may request such person or organisation to submit such document, account statement or other details.\r\n\r\n\r\n2) It shall be the duty of the person or organisation concerned to provide the document, account statement or other details requested by the investigating and investigating body pursuant to sub-section (1).\r\n\r\n---\r\n\r\n\r\n---",
+          "chapterTitle": "Chapter-4 Proceedings and Disposal of the suits"
+        },
+        "nepali": {
+          "title": "दफा १९खः विवरण माग्न सक्ने",
+          "content": "१) यस ऐनको उद्देश्य पूरा गर्नको लागि अनुसन्धान तथा तहकिकात गर्ने निकायले कुनै लिखत, खाताको विवरण वा अन्य विवरण प्राप्त गर्न वा जाँच्न आवश्यक छु भन्ने लागेमा र अनुसन्धान तथा तहकिकातसँग सम्बन्धित लिखत, खाताको विवरण वा अन्य विवरण कुनै व्यक्ति वा संस्थासँग छ वासो व्यक्ति वा संस्थाले प्राप्त गरी पेश गर्न सक्छ भन्ने लागेमा अनुसन्धान तथा तहकिकात गर्ने निकायले त्यस्तो व्यक्ति वा संस्थालाई त्यस्तो लिखत, खाताको विवरण वा अन्य विवरण पेश गर्न अनुरोध गर्न सक्नेछ ।\r\n\r\n\r\n२) उपदफा (१) बमोजिम अनुसन्धान तथा तहकिकात गर्ने निकायले माग गरेको लिखत, खाताको विवरण वा अन्य विवरण उपलब्ध गराउनु सम्बन्धित व्यक्ति वा संस्थाको कर्तव्य हुनेछ ।\r\n\r\n---\r\n\r\n\r\n---",
+          "chapterTitle": "परिच्छेद-४ मुद्दाको कारबाही र किनारा"
+        }
+      },
+      {
+        "id": "sec_20",
+        "english": {
+          "title": "Section 20: Cooperation to be extended",
+          "content": "It shall be the duty of the bank or financial institution or the concerned individual to extend necessary cooperation to the investigation and inquiry officer while carrying out investigation and inquiries on the offence under this Act.\r\n\r\n---",
+          "chapterTitle": "Chapter-5  Miscellaneous"
+        },
+        "nepali": {
+          "title": "दफा २०ः सहयोग गर्नु पर्ने",
+          "content": "यस ऐन अन्तर्गतको बैङ्किङ्ग कसूरको सम्बन्धमा अनुसन्धान तथा तहकिकात गर्दा अनुसन्धान तथा तहकिकात गर्न अधिकारीलाई आवश्यक सहयोग पुर्‍याउनु बैङ्क वा वित्तीय संस्था वा सम्बन्धित व्यक्तिको कर्तव्य हुनेछ।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद-५ विविध"
+        }
+      },
+      {
+        "id": "sec_21",
+        "english": {
+          "title": "Section 21: Action not be initiated on the ground of breach of secrecy",
+          "content": "Notwithstanding anything contained in the prevailing laws, if the person who provided information on the happening of the offence or possible happening of the same to initiate legal proceedings or to stop occurrence of an offence under this Act is an employee of a bank or financial institution, no action shall be taken on the ground of breach of secrecy in terms of his/her service rules, for the reason of his/her providing/doing the such cooperation.\r\n\r\n---",
+          "chapterTitle": "Chapter-5  Miscellaneous"
+        },
+        "nepali": {
+          "title": "दफा २१़ः गोप्यता भङ्ग गरेको आधारमा कारबाही नहुने",
+          "content": "प्रचलित कानूनमा जुनसुकै कुरा लेखिएको भए तापनि यस ऐन अन्तर्गतको कसूर भएको वा हुन लागेको विषयमा कानूनी कारबाही अगाडि बढाउन वा त्यस्तो कसूर हुन नदिन आवश्यक सूचना दिने बैङ्क वा वित्तीय संस्थाको कर्मचारी भए निजले गरे वा पुर्‍याएको सहयोग बापत निजको सेवा शार्त सम्बन्धी कानून अनुसार गोपनीयता भङ्ग गरेको आधारमा कारबाही हुने छैन ।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद-५ विविध"
+        }
+      },
+      {
+        "id": "sec_22",
+        "english": {
+          "title": "Section 22: Provisions relating to Delivery of Notice",
+          "content": "1) Notwithstanding anything contained in the prevailing laws, a notice to be delivered in the name of a foreign individual, in connection with the offences under this Act, shall be delivered in the name of an office or representative of such individual in Nepal, if any, and the notice so delivered shall be deemed to be duly delivered.\r\n\r\n\r\n2) In case the office or representative as stipulated under Subsection (1) is not existent, the notice shall be delivered at the main business place of such individual or his/her permanent residential address or at the mailing address if provided by him/her during the course of business, through telex, telefax or other means of recordable telecommunication or through post by registration and the notice so delivered shall be deemed to be duly delivered.\r\n\r\n\r\n3) Notwithstanding anything contained under Subsection (1) or (2), if there is a separate provision in any treaty where the Government of Nepal or Nepal is a party, there shall be no obstruction in delivering the notice in the name of a person residing in a foreign country in the manner as specified in the same.\r\n\r\n---",
+          "chapterTitle": "Chapter-5  Miscellaneous"
+        },
+        "nepali": {
+          "title": "दफा २२ः  म्याद तामेल सम्बन्धी व्यवस्था",
+          "content": "१) प्रचलित कानूनमा जुनसुकै कुरा लेखिएको भए तापनि यस ऐन अन्तर्गतको कसूरमा विदेशी व्यक्तिको नाममा म्याद तामेल गर्नु पर्दा त्यस्तो व्यक्तिको नेपालभित्र कुनै किसिमको कार्यालय वा प्रतिनिधि भए त्यस्तो कार्यालय वा प्रतिनिधिको नाममा म्याद तामेल गरिनेछ र त्यसरी तामेल भएको म्याद रीतपूर्वक तामेल भएको मानिनेछ ।\r\n\r\n\r\n२) उपदफा (१) बमोजिमको कार्यालय वा प्रतिनिधि नभएमा त्यस्तो व्यक्तिको कारोबार हुने मुख्य स्थान वा निजले स्थायी बसोबास गर्ने ठेगाना वा कारोबार गर्दाको बखत पत्राचारको लागि निजले दिएको कुनै ठेगाना रहेछ भने त्यस्तो ठेगानामा टेलेक्स, टेलिफ्याक्स वा अभिलेख हुन सक्ने दूरसञ्चारका अन्य माध्यम मार्फत वा रजिष्टरी गरी हुलाक मार्फत म्याद तामेल गरिनेछ र त्यसरी तामेल भएको म्याद रीतपूर्वक तामेल भएको मानिनेछ ।\r\n\r\n\r\n३) उपदफा (१) वा (२) मा जुनसुकै कुरा लेखिएको भए तापनि विदेशमा रहे बसेको व्यक्तिको नाममा म्याद तामेल गर्न नेपाल सरकार वा नेपाल पक्ष भएको कुनै सन्धिमा छुट्टै व्यवस्था भएको रहेछ भने सोही बमोजिम म्याद तामेल गर्न यस दफाले बाधा पुर्‍याएको मानिने छैन ।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद-५ विविध"
+        }
+      },
+      {
+        "id": "sec_23",
+        "english": {
+          "title": "Section 23: Notice to be published",
+          "content": "In case a report is received in connection with the dispatch or delivery of a notice to any individual under this Act or other prevailing laws detailing that the notice could not be dispatched or delivered for the reason that the address of such individual could not be identified or for any other reasons, notwithstanding anything contained in the prevailing laws, a public notice to this effect shall be published in a national level newspaper (in an English daily in regard to a foreigner) at least two times extending him/her a time period of 3o days and furnishing thereon the abridged particulars of the case, whether the case is investigated or is already lodged with the adjudicating officer. If the notice is so published, it shall be deemed to be duly delivered or delivered to such individual, notwithstanding anything contained under this Act or other prevailing laws.\r\n\r\n---",
+          "chapterTitle": "Chapter-5  Miscellaneous"
+        },
+        "nepali": {
+          "title": "दफा २३ः सूचना प्रकाशन गर्ने",
+          "content": "यस ऐन वा अन्य प्रचलित कानून बमोजिम कुनै व्यक्तिको नाममा सूचना पठाउँदा वा म्याद तामेल गर्दा त्यस्तो व्यक्तिको ठेगाना पत्ता नलागी वा अन्य कुनै कारणले त्यस्तो सूचना बुझाउन नसकिएको वा म्याद तामेल हुन नसकेको कुराको प्रतिवेदन पर्न आएमा प्रचलित कानूनमा जुनसुकै कुरा लेखिएको भए तापनि त्यस्तो व्यक्तिलाई तीस दिनसम्मको म्याद दिई अनुसन्धान भएको वा मुद्दा हेर्न अधिकारी समक्ष मुद्दा दायर भइसकेको भए सो विषयको संक्षिप्त विवरण उल्लेख गरी उपस्थित हुन राष्ट्रियस्तरको समाचारपत्रमा (विदेशीको हकमा अंग्रेजी दैनिकमा) कम्तीमा दुईपटक सार्वजनिक सूचना प्रकाशन गरिनेछ र त्यसरी सूचना प्रकाशन भएकोमा यस ऐन वा अन्य प्रचलित कानूनमा जुनसुकै कुरा लेखिएको भए तापनि त्यस्तो व्यक्तिलाई रीतपूर्वक सूचाना दिइएको वा म्याद तामेल भएको मानिनेछ ।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद-५ विविध"
+        }
+      },
+      {
+        "id": "sec_24",
+        "english": {
+          "title": "Section 24: Issuance of order for creating encumbrances over the assets of a foreign  individual",
+          "content": "1) If any foreign individual does not appear in front of the investigation and inquiry officer as per the notice, even after providing notice by the investigation and inquiry officer or delivering it pursuant to Section 22, the investigation and inquiry officer may issue an order not to take outside Nepal or to create encumbrance over the property, entitlement, interest or concern held by him/her within Nepal, if any, till the person doesn’t appeal in front of the investigation or inquiry officer and it shall be the duty of the all concerned to comply with such order.\r\n\r\n\r\n2) Person not complying with the order issued pursuant to Sub-section (1) shall be punished with a fine up to Rupees one hundred thousand by the investigation and inquiry officer. The losses or harm caused to the Government of Nepal or public institution, if any, due to such non-compliance of the order shall also be recovered from him/her.\r\n\r\n---",
+          "chapterTitle": "Chapter-5  Miscellaneous"
+        },
+        "nepali": {
+          "title": "दफा २४ः विदेशी व्यक्तिको सम्पत्ति रोक्का राख्न आदेश दिने",
+          "content": "१) अनुसन्धान तथा तहकिकात गर्ने अधिकारीले दिएको सूचना वा दफा २२ बमोजिम तामेल भएको म्याद बमोजिम अनुसन्धान तथा तहकिकात गर्ने अधिकारी समक्ष उपस्थित नहुने कुनै विदेशी व्यक्तिको नेपालभित्र कुनै सम्पत्ति, हक, हित वा सरोकार रहेछ भने त्यस्तो व्यक्ति अनुसन्धान तथा तहकिकात गर्ने अधिकारी समक्ष उपस्थित नभएसम्म त्यस्तो सम्पत्ति, हक, हित वा सरोकार अनुसन्धान तथा तहकिकात गर्ने अधिकारीले तोके बमोजिम यथास्थितिमा राख्न वा नेपाल बाहिर लैजान नपाउने गरी अनुसन्धान तथा तहकिकात गर्ने अधिकारीले आदेश दिन सक्नेछ र त्यस्तो आदेशको पालना गर्नु सम्बन्धित सबैको कर्तव्य हुनेछ।\r\n\r\n\r\n२) उपदफा (१) बमोजिमको आदेश पालन नगर्ने व्यक्तिलाई अनुसन्धान तथा तहकिकात गर्ने अधिकारीले एक लाख रुपैयाँसम्म जरिबाना गर्न सक्नेछ र त्यस्तो आदेश पालन नगरेको कारणबाट नेपाल सरकार वा सार्वजनिक संस्थालाई कुनै किसिमको हानि नोक्सानी भएको रहेछ भने सो समेत निजबाट भराइनेछ।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद-५ विविध"
+        }
+      },
+      {
+        "id": "sec_25",
+        "english": {
+          "title": "Section 25: Adjudication proceedings and disposal of the case not be affected",
+          "content": "Notwithstanding anything contained under the prevailing laws, the adjudication proceedings and disposal of the case initiated or to be initiated pursuant to this Act shall no longer be affected even if the offender has died.\r\n\r\n---",
+          "chapterTitle": "Chapter-5  Miscellaneous"
+        },
+        "nepali": {
+          "title": "दफा २५ः मुद्दाको कारबाही र किनारा गर्न बाधा नपर्ने",
+          "content": "प्रचलित कानूनमा जुनसुकै कुरा लेखिएको भए तापनि यस ऐन अन्तर्गतको मुद्दा दायर हुनु अगावै वा दायर भएपछि अभियुक्त वा प्रतिवादीको मृत्यु भएमा पनि मुद्दाको कारबाही र किनारा गर्न बाधा पर्ने छैन।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद-५ विविध"
+        }
+      },
+      {
+        "id": "sec_26",
+        "english": {
+          "title": "Section 26: Waiver in the Claim of Punishment may be Happen",
+          "content": "During the investigation and inquiry, an officer may provide a waiver in the claim of punishment, in full or part, to a person extending cooperation in regard to the investigation and inquiry proceedings initiated under the Act presenting such person as his/her witness.\r\n\r\n\r\nProvided, notwithstanding anything contained in this Act or in prevailing laws, a lawsuit may be reregistered against such person if his/her cooperation could not be established from other proof/evidence or if he/she made a statement before the adjudicating officer against the cooperation extended by him/her to the investigation and inquiry officer.\r\n\r\n---",
+          "chapterTitle": "Chapter-5  Miscellaneous"
+        },
+        "nepali": {
+          "title": "दफा २६ः सजायको माग दाबीमा छुट हुन सक्ने",
+          "content": "यस ऐन बमोजिमको अनुसन्धान तथा तहकिकातको काम कारबाहीमा सहयोग गर्ने अभियुक्तलाई अनुसन्धान तथा तहकिकात गर्ने अधिकारीले आफ्नो साक्षीको रुपमा प्रस्तुत गरी निजलाई सजायको माग दाबीमा पूर्ण वा आंशिक छुट दिन सक्नेछ ।\r\n\r\n\r\nतर निजले गरेको सहयोग अन्य सबुत वा प्रमाणबाट प्रमाणित नभएमा वा निजले मुद्दा हेर्ने अधिकारी समक्ष अनुसन्धान तथा तहकिकात गर्ने अधिकारीलाई गरेको सहयोग प्रतिकुल हुने गरी बयान दिएमा यस ऐन वा प्रचलित कानूनमा जुनसुकै कुरा लेखिएको भए तापनि निज उपर पुन: मुद्दा दायर गर्न सकिनेछ ।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद-५ विविध"
+        }
+      },
+      {
+        "id": "sec_27",
+        "english": {
+          "title": "Section 27: To be considered ineligible",
+          "content": "A person convicted of imprisonment under this Act shall be considered ineligible to work as an employee of a bank or financial institution.\r\n\r\n---",
+          "chapterTitle": "Chapter-5  Miscellaneous"
+        },
+        "nepali": {
+          "title": "दफा २७ः अयोग्य भएको मानिने",
+          "content": "यस ऐन बमोजिम कदको सजाय पाएको व्यक्ति बैङ्क तथा वित्तीय संस्थाको कर्मचारीको रुपमा काम गर्न अयोग्य भएको मानिनेछ ।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद-५ विविध"
+        }
+      },
+      {
+        "id": "sec_28",
+        "english": {
+          "title": "Section 28: To be governed as per the prevailing laws",
+          "content": "Notwithstanding anything contained elsewhere under this Act, in the offence committed in the involvement of a person holding a public position under the prevailing laws or of a civil servant, if the offence is prosecutable or punishable pursuant to Commission for the Investigation of Abuse of Authority Act, 2048 and the Corruption Prevention Act, 2059, the action shall be initiated and the punishment shall be given in accordance with the same Acts.\r\n\r\n---",
+          "chapterTitle": "Chapter-5  Miscellaneous"
+        },
+        "nepali": {
+          "title": "दफा २८ः प्रचलित कानून बमोजिम हुने",
+          "content": "यस ऐनमा अन्यत्र जुनसुकै कुरा लेखिएको भए तापनि प्रचलित कानून बमोजिम सार्वजनिक पद धारण गरेको व्यक्ति वा राष्ट्रसेवक संलरन रहेको कसूरमा अख्तियार दुरुपयोग अनुसन्धान आयोग ऐन, २०४८ र भ्रष्टाचार निवारण ऐन, २०५९ बमोजिम कारबाही र सजाय हुने रहेछ भने सोही ऐनहरु बमोजिम कारबाही र सजाय हुनेछ ।\r\n\r\n---",
+          "chapterTitle": "परिच्छेद-५ विविध"
+        }
+      },
+      {
+        "id": "sec_29",
+        "english": {
+          "title": "Section 29: Regulation may be framed",
+          "content": "The government of Nepal may formulate necessary regulations to implement the objectives of this Act.\r\n\r\n\r\n\r\nNote:- The words amended by the Act to Amend, Consolidate, Adjust and Repeal Certain Nepal Laws, 2074 BS and the Act to Amend Certain Nepal Acts Relating to the Civil Code, 2075 BS:-\r\n\r\n\r\nInstead of “Schedule-1 of the Government Cases Act, 2049 BS”, the words “Schedule-1 of the Muluki Criminal Procedure (Code) Act, 2074 BS”.\r\n\r\n\r\n(Updated on 2080.4.22)\r\n\r\n---\r\n\r\n\r\n---",
+          "chapterTitle": "Chapter-5  Miscellaneous"
+        },
+        "nepali": {
+          "title": "दफा २९ः  नियम बनाउन सक्ने",
+          "content": "यस ऐनको उद्देश्य कार्यान्वयन गर्न नेपाल सरकारले आवश्यक नियमहरु बनाउन सक्नेछ।\r\n\r\n\r\n\r\nद्रष्टव्य :-   केही नेपाल कानूनलाई संशोधन, एकीकरण, समायोजन र खारेज गर्ने ऐन, २०७४ द्वारा रुपान्तर भई मुलुकी संहिता सम्बन्धी केही नेपाल ऐनलाई संशोधन गर्ने ऐन, २०७५ द्वारा संशोधन भएका शब्दहरु :-\r\n\r\n\r\n\r\n“सरकारी मुद्दा सम्बन्धी ऐन,२०४९ को अनुसूची- १” को सट्टा “मुलुकी फौजदारी कार्यीवधि (संहिता) ऐन, २०७४ को अनुसूची-१”।\r\n\r\n\r\n(मिति २०८०।४।२२ गते अद्यावधिक गरेको)\r\n\r\n---\r\n\r\n\r\n---",
+          "chapterTitle": "परिच्छेद-५ विविध"
+        }
+      }
+    ]
+  }
+]
