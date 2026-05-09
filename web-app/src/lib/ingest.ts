@@ -142,7 +142,7 @@ export function parseMarkdown(content: string): ParsedSection[] {
       'part': 'part', 'भाग': 'part',
       'chapter': 'chap', 'परिच्छेद': 'chap',
       'schedule': 'sch', 'अनुसूची': 'sch',
-      'annex': 'annex',
+      'annex': 'annex', 'परिशिष्ट': 'annex',
       'rule': 'rule', 'नियम': 'rule',
       'preamble': 'preamble', 'प्रस्तावना': 'preamble',
       'constitution': 'const', 'संविधान': 'const'
@@ -158,15 +158,26 @@ export function parseMarkdown(content: string): ParsedSection[] {
       const numStr = match[2].split('').map(char => nepaliDigits[char] || char).join('');
       const suffix = match[3] ? (nepaliSuffixes[match[3]] || match[3].toLowerCase()) : '';
       sectionId = `${type}_${numStr}${suffix}`;
-    } else if (/preamble|प्रस्तावना/i.test(title)) {
-      sectionId = 'preamble';
     } else {
-      // Fallback to slugified title
-      sectionId = title.toLowerCase()
-        .replace(/[:.]/g, '')
-        .replace(/\s+/g, '_')
-        .replace(/[^a-z0-9_]/g, '')
-        .split('_').filter(Boolean).slice(0, 3).join('_');
+      // Check keywords for non-numbered headings (e.g., "Schedule", "Preamble", "Annex")
+      let foundType = '';
+      for (const [kw, type] of Object.entries(keywords)) {
+        if (new RegExp(kw, 'i').test(title)) {
+          foundType = type;
+          break;
+        }
+      }
+      
+      if (foundType) {
+        sectionId = foundType;
+      } else {
+        // Fallback to slugified title
+        sectionId = title.toLowerCase()
+          .replace(/[:.]/g, '')
+          .replace(/\s+/g, '_')
+          .replace(/[^a-z0-9_]/g, '')
+          .split('_').filter(Boolean).slice(0, 3).join('_');
+      }
     }
 
     // Ensure uniqueness within the act

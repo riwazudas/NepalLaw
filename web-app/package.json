@@ -7,7 +7,9 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "ingest": "tsx src/lib/ingest.ts"
+    "ingest": "tsx src/lib/ingest.ts",
+    "combine-acts": "tsx src/lib/combine_acts.ts",
+    "audit-acts": "tsx src/lib/audit_laws.ts"
   },
   "dependencies": {
     "@google/generative-ai": "^0.24.1",
