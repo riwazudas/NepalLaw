@@ -1,7 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 import { model } from './gemini';
-import { runIngestion, LawAct } from './ingest';
+import { LawAct } from './ingest';
 
 export interface AuditIssue {
   id: string;
@@ -23,17 +23,11 @@ export interface AuditIssue {
   error?: string;
 }
 
-const LAWS_DIR = path.join(process.cwd(), '../data/laws');
-const BACKUP_DIR = path.join(LAWS_DIR, '.backup');
-
 export function runAudit(knowledgeBase: LawAct[]): AuditIssue[] {
   const issues: AuditIssue[] = [];
 
   for (const law of knowledgeBase) {
-    // Determine English and Nepali filenames based on law.id
-    const engFile = `${law.id}_english.md`;
-    const nepFile = `${law.id}_nepali.md`;
-    
+    const jsonFile = `${law.id}.json`;
     const validSectionIds = new Set(law.sections.map(s => s.id));
 
     for (const section of law.sections) {
@@ -52,8 +46,7 @@ export function runAudit(knowledgeBase: LawAct[]): AuditIssue[] {
           details: {
             sectionId: section.id,
             language: 'nepali',
-            sourceFile: engFile,
-            companionFile: nepFile,
+            sourceFile: jsonFile,
             snippet: section.english?.content.substring(0, 150)
           },
           status: 'pending'
@@ -69,8 +62,7 @@ export function runAudit(knowledgeBase: LawAct[]): AuditIssue[] {
           details: {
             sectionId: section.id,
             language: 'english',
-            sourceFile: nepFile,
-            companionFile: engFile,
+            sourceFile: jsonFile,
             snippet: section.nepali?.content.substring(0, 150)
           },
           status: 'pending'
@@ -81,12 +73,12 @@ export function runAudit(knowledgeBase: LawAct[]): AuditIssue[] {
       if (hasEng && section.english) {
         const text = section.english.content;
         
-        // Scan for "Section X" patterns
-        const secMatches = text.matchAll(/section\s+([0-9a-z]+)/gi);
+        // Scan for "Section X" or "Article X" patterns (digits optionally followed by a single character suffix)
+        const secMatches = text.matchAll(/(?:section|article)\s+([0-9]+[a-z]?)/gi);
         for (const match of secMatches) {
           const num = match[1].toLowerCase();
           const targetId = `sec_${num}`;
-          if (!validSectionIds.has(targetId) && !validSectionIds.has(num) && num !== 's' && num !== 'under' && num !== 'this') {
+          if (!validSectionIds.has(targetId) && !validSectionIds.has(num)) {
             issues.push({
               id: `ref_${law.id}_${section.id}_eng_${targetId}`,
               actId: law.id,
@@ -98,7 +90,7 @@ export function runAudit(knowledgeBase: LawAct[]): AuditIssue[] {
                 sectionId: section.id,
                 language: 'english',
                 targetRef: targetId,
-                sourceFile: engFile,
+                sourceFile: jsonFile,
                 snippet: text.substring(Math.max(0, match.index! - 60), Math.min(text.length, match.index! + 60))
               },
               status: 'pending'
@@ -130,7 +122,7 @@ export function runAudit(knowledgeBase: LawAct[]): AuditIssue[] {
                 sectionId: section.id,
                 language: 'nepali',
                 targetRef: targetId,
-                sourceFile: nepFile,
+                sourceFile: jsonFile,
                 snippet: text.substring(Math.max(0, match.index! - 60), Math.min(text.length, match.index! + 60))
               },
               status: 'pending'
@@ -151,7 +143,7 @@ export function runAudit(knowledgeBase: LawAct[]): AuditIssue[] {
           details: {
             sectionId: section.id,
             language: 'english',
-            sourceFile: engFile,
+            sourceFile: jsonFile,
             snippet: section.english.content
           },
           status: 'pending'
@@ -168,7 +160,7 @@ export function runAudit(knowledgeBase: LawAct[]): AuditIssue[] {
           details: {
             sectionId: section.id,
             language: 'nepali',
-            sourceFile: nepFile,
+            sourceFile: jsonFile,
             snippet: section.nepali.content
           },
           status: 'pending'
@@ -177,34 +169,157 @@ export function runAudit(knowledgeBase: LawAct[]): AuditIssue[] {
     }
   }
 
-  return issues;
+  // Deduplicate issues by ID to prevent key duplication warnings
+  const uniqueIssues: AuditIssue[] = [];
+  const seenIds = new Set<string>();
+  for (const issue of issues) {
+    if (!seenIds.has(issue.id)) {
+      seenIds.add(issue.id);
+      uniqueIssues.push(issue);
+    }
+  }
+
+  return uniqueIssues;
 }
 
 export async function healIssue(issue: AuditIssue, knowledgeBase: LawAct[]): Promise<{ success: boolean; log: string }> {
   let log = `Initiating healing for issue ${issue.id}...\n`;
 
   try {
-    const act = knowledgeBase.find(l => l.id === issue.actId);
-    if (!act) {
-      throw new Error(`Act with ID "${issue.actId}" not found in knowledge base.`);
+    const actId = issue.actId;
+    const jsonFilePath = path.join(process.cwd(), '../data/laws_json', `${actId}.json`);
+    
+    if (!fs.existsSync(jsonFilePath)) {
+      throw new Error(`Laws JSON file not found: ${jsonFilePath}`);
     }
 
+    log += `[Disk Action] Loading and parsing laws JSON file: ${actId}.json...\n`;
+    const fileContent = fs.readFileSync(jsonFilePath, 'utf-8');
+    const parsed = JSON.parse(fileContent);
+    const act = parsed[0];
+
+    const sectionId = issue.details.sectionId!;
+    const sectionIndex = act.sections.findIndex((s: any) => s.id === sectionId);
+    
+    if (sectionIndex === -1) {
+      throw new Error(`Section "${sectionId}" not found in act "${actId}".`);
+    }
+
+    const section = act.sections[sectionIndex];
+
     if (issue.category === 'gap') {
-      const sectionId = issue.details.sectionId!;
       const targetLang = issue.details.language!;
       const sourceLang = targetLang === 'nepali' ? 'english' : 'nepali';
       
-      const section = act.sections.find(s => s.id === sectionId);
-      if (!section || !section[sourceLang]) {
-        throw new Error(`Source section "${sectionId}" not found or lacks companion language content.`);
+      const sourceData = section[sourceLang];
+      if (!sourceData || !sourceData.content) {
+        throw new Error(`Source section "${sectionId}" lacks content in source language "${sourceLang}".`);
       }
 
-      const sourceContent = section[sourceLang]!.content;
-      const sourceTitle = section[sourceLang]!.title;
+      const sourceContent = sourceData.content;
+      const sourceTitle = sourceData.title;
+
+      // Check for similarity/matching with existing target-only sections
+      const candidates = act.sections.filter((s: any) => s[targetLang] && !s[sourceLang]);
+      let matchedCandidate: any = null;
+
+      if (candidates.length > 0) {
+        log += `[LLM Action] Checking if the source section "${sectionId}" is similar to any of the ${candidates.length} unmatched target-language sections in the same act...\n`;
+        
+        const candidateDetails = candidates.map((c: any) => 
+          `Candidate ID: ${c.id}\nTitle: "${c[targetLang]!.title}"\nContent:\n${c[targetLang]!.content}`
+        ).join('\n\n---\n\n');
+
+        const matchPrompt = `You are an expert legal alignment model.
+We are analyzing Section "${sectionId}" of "${act.actName}".
+We have the ${sourceLang} version of this section, but the ${targetLang} translation is missing.
+
+Source (${sourceLang}) Section Details:
+Title: "${sourceTitle}"
+Content:
+${sourceContent}
+
+However, we have ${candidates.length} unmatched ${targetLang} sections in the same Act that do not have any ${sourceLang} counterpart. It is possible one of these is the exact same section, but parsed with a slightly different ID or title formatting.
+
+Here are the unmatched ${targetLang} sections:
+${candidateDetails}
+
+Analyze if the Source section matches or is the direct translation of any of these unmatched ${targetLang} sections.
+Return your response in strict JSON format:
+{
+  "isMatch": true or false,
+  "matchedCandidateId": "the matched candidate ID (or null)",
+  "reasoning": "brief explanation of why they match or do not match"
+}
+Ensure the output is valid JSON. Do not include markdown formatting like \`\`\`json.`;
+
+        try {
+          const matchResult = await model.generateContent(matchPrompt);
+          let matchText = matchResult.response.text().trim();
+          
+          if (matchText.startsWith('```json')) {
+            matchText = matchText.replace(/^```json/, '').replace(/```$/, '').trim();
+          } else if (matchText.startsWith('```')) {
+            matchText = matchText.replace(/^```/, '').replace(/```$/, '').trim();
+          }
+
+          const parsedMatch = JSON.parse(matchText);
+          if (parsedMatch.isMatch && parsedMatch.matchedCandidateId) {
+            const found = candidates.find((c: any) => c.id === parsedMatch.matchedCandidateId);
+            if (found) {
+              matchedCandidate = found;
+              log += `[LLM Action] Similarity detected! Section matches unmatched target section "${matchedCandidate.id}" (${parsedMatch.reasoning}).\n`;
+            }
+          } else {
+            log += `[LLM Action] No similar unmatched sections found. Proceeding with standard translation.\n`;
+          }
+        } catch (matchErr) {
+          log += `[WARNING] Error during similarity matching: ${matchErr}. Proceeding with standard translation.\n`;
+        }
+      }
+
+      if (matchedCandidate) {
+        log += `[Self-Healing] Resolving mismatch by merging sections in JSON...\n`;
+        
+        // Merge candidate's targetLang data into current section
+        section[targetLang] = matchedCandidate[targetLang];
+        
+        // Remove the matchedCandidate from act.sections
+        act.sections = act.sections.filter((s: any) => s.id !== matchedCandidate.id);
+        
+        // Update section in act
+        act.sections[sectionIndex] = section;
+        
+        log += `[Disk Action] Writing merged sections back to ${actId}.json with backup...\n`;
+        writeWithBackup(jsonFilePath, JSON.stringify([act], null, 2));
+
+        log += `[Disk Action] Syncing merged sections directly to global knowledge_base.json...\n`;
+        const kbPath = path.join(process.cwd(), 'public/knowledge_base.json');
+        if (fs.existsSync(kbPath)) {
+          const kbContent = fs.readFileSync(kbPath, 'utf-8');
+          const kb = JSON.parse(kbContent);
+          const kbActIdx = kb.findIndex((l: any) => l.id === actId);
+          if (kbActIdx !== -1) {
+            // Remove candidate section
+            let updatedSections = kb[kbActIdx].sections.filter((s: any) => s.id !== matchedCandidate.id);
+            // Update current section
+            updatedSections = updatedSections.map((s: any) => s.id === sectionId ? section : s);
+            kb[kbActIdx].sections = updatedSections;
+            fs.writeFileSync(kbPath, JSON.stringify(kb, null, 2), 'utf-8');
+            log += `[Success] Global knowledge_base.json merged and synced.\n`;
+          }
+        }
+        
+        log += `[Healing Complete] Sections "${sectionId}" and "${matchedCandidate.id}" are now merged bilingually under "${sectionId}"!\n`;
+        return { success: true, log };
+      }
+
+      log += `[LLM Action] Translating Section Title from ${sourceLang} to ${targetLang}...\n`;
+      const titlePrompt = `Translate this legislative section heading to ${targetLang === 'nepali' ? 'Nepali (नेपाली)' : 'English'}. Output ONLY the translated heading: "${sourceTitle}"`;
+      const titleResult = await model.generateContent(titlePrompt);
+      const translatedTitle = titleResult.response.text().trim().replace(/^"|"$/g, '');
 
       log += `[LLM Action] Translating section "${sectionId}" from ${sourceLang} to ${targetLang}...\n`;
-      
-      // 1. Translate section using Gemini
       const translatePrompt = `You are a professional legislative translator. Translate the following official section from a Nepal Law Act into ${targetLang === 'nepali' ? 'Nepali (नेपाली)' : 'English'}.
       
       Requirements:
@@ -219,78 +334,67 @@ export async function healIssue(issue: AuditIssue, knowledgeBase: LawAct[]): Pro
 
       const translationResult = await model.generateContent(translatePrompt);
       const translatedContent = translationResult.response.text().trim();
-      
-      log += `[LLM Action] Translating Section Title...\n`;
-      const titlePrompt = `Translate this legislative section heading to ${targetLang === 'nepali' ? 'Nepali (नेपाली)' : 'English'}. Output ONLY the translated heading: "${sourceTitle}"`;
-      const titleResult = await model.generateContent(titlePrompt);
-      const translatedTitle = titleResult.response.text().trim().replace(/^"|"$/g, '');
+
+      let translatedPartTitle = undefined;
+      if (sourceData.partTitle) {
+        log += `[LLM Action] Translating Part Title...\n`;
+        const partTitlePrompt = `Translate this legislative Part heading to ${targetLang === 'nepali' ? 'Nepali (नेपाली)' : 'English'}. Output ONLY the translated heading: "${sourceData.partTitle}"`;
+        const partTitleResult = await model.generateContent(partTitlePrompt);
+        translatedPartTitle = partTitleResult.response.text().trim().replace(/^"|"$/g, '');
+      }
+
+      let translatedChapterTitle = undefined;
+      if (sourceData.chapterTitle) {
+        log += `[LLM Action] Translating Chapter Title...\n`;
+        const chapTitlePrompt = `Translate this legislative Chapter heading to ${targetLang === 'nepali' ? 'Nepali (नेपाली)' : 'English'}. Output ONLY the translated heading: "${sourceData.chapterTitle}"`;
+        const chapTitleResult = await model.generateContent(chapTitlePrompt);
+        translatedChapterTitle = chapTitleResult.response.text().trim().replace(/^"|"$/g, '');
+      }
 
       log += `[Success] Synthesized translation for Section ${sectionId}.\n`;
 
-      // 2. Inject translated section into file
-      const companionFileName = issue.details.companionFile!;
-      const companionPath = path.join(LAWS_DIR, companionFileName);
-      
-      if (!fs.existsSync(companionPath)) {
-        log += `Companion file does not exist. Creating a new file: ${companionFileName}\n`;
-        const initialContent = `# ${act.actName}\n\n## Preamble\n\n### ${translatedTitle}\n\n${translatedContent}\n`;
-        writeWithBackup(companionPath, initialContent);
-      } else {
-        log += `[Disk Action] Reading current content of ${companionFileName}...\n`;
-        const companionFileContent = fs.readFileSync(companionPath, 'utf-8');
+      // Set target language data directly in the JSON section object
+      section[targetLang] = {
+        title: translatedTitle,
+        content: translatedContent,
+        ...(translatedPartTitle ? { partTitle: translatedPartTitle } : {}),
+        ...(translatedChapterTitle ? { chapterTitle: translatedChapterTitle } : {})
+      };
 
-        log += `[LLM Action] Locating insertion point inside ${companionFileName}...\n`;
-        const mergePrompt = `You are a markdown editor. We need to insert a newly translated legislative section into an existing Nepal Law markdown file.
-        
-        New Section to insert:
-        Heading level: "###" (Use H3)
-        Title: "${translatedTitle}"
-        Content:
-        ${translatedContent}
+      // Update section in act
+      act.sections[sectionIndex] = section;
 
-        Instructions:
-        1. Look at the existing markdown content of the act and locate the proper chronological position for this section.
-           Nepal Law sections are sequentially numbered (e.g., Section 1, Section 2... or दफा १, दफा २...).
-        2. Insert the section cleanly with standard horizontal rules ("---") before it, matching the precise styling of the existing headings and paragraphs.
-        3. Do not modify, edit, or delete any other part of the file.
-        4. Return the ENTIRE, COMPLETE updated markdown file content. Do not truncate or use comments like "// rest of the file...". Just return full clean markdown. No conversational backticks or wraps except valid raw markdown.
+      log += `[Disk Action] Writing updated act back to ${actId}.json with backup...\n`;
+      writeWithBackup(jsonFilePath, JSON.stringify([act], null, 2));
 
-        Existing Markdown Content:
-        ${companionFileContent}`;
-
-        const mergeResult = await model.generateContent(mergePrompt);
-        let updatedMarkdown = mergeResult.response.text().trim();
-        
-        // Clean markdown wraps if the model returned them
-        if (updatedMarkdown.startsWith('```markdown')) {
-          updatedMarkdown = updatedMarkdown.replace(/^```markdown/, '').replace(/```$/, '').trim();
-        } else if (updatedMarkdown.startsWith('```')) {
-          updatedMarkdown = updatedMarkdown.replace(/^```/, '').replace(/```$/, '').trim();
+      log += `[Disk Action] Directly updating section in global knowledge_base.json...\n`;
+      const kbPath = path.join(process.cwd(), 'public/knowledge_base.json');
+      if (fs.existsSync(kbPath)) {
+        const kbContent = fs.readFileSync(kbPath, 'utf-8');
+        const kb = JSON.parse(kbContent);
+        const kbActIdx = kb.findIndex((l: any) => l.id === actId);
+        if (kbActIdx !== -1) {
+          kb[kbActIdx].sections = kb[kbActIdx].sections.map((s: any) => s.id === sectionId ? section : s);
+          fs.writeFileSync(kbPath, JSON.stringify(kb, null, 2), 'utf-8');
+          log += `[Success] Global knowledge_base.json synced successfully.\n`;
         }
-
-        log += `[Disk Action] Writing updated content back to ${companionFileName} with backup...\n`;
-        writeWithBackup(companionPath, updatedMarkdown);
       }
 
-      log += `[Success] Successfully written to disk! Triggering re-ingestion to sync index...\n`;
-      await runIngestion();
-      log += `[Healing Complete] Section "${sectionId}" is now bilingual in the knowledge base!\n`;
+      log += `[Healing Complete] Section "${sectionId}" is now permanently bilingual in ${actId}.json and synced to the knowledge base!\n`;
       return { success: true, log };
     }
 
     if (issue.category === 'broken_link') {
-      const sectionId = issue.details.sectionId!;
       const lang = issue.details.language!;
-      const sourceFile = issue.details.sourceFile!;
       const targetRef = issue.details.targetRef!;
       
-      const section = act.sections.find(s => s.id === sectionId);
-      if (!section || !section[lang]) {
+      const langData = section[lang];
+      if (!langData || !langData.content) {
         throw new Error(`Section "${sectionId}" not found in language "${lang}".`);
       }
 
-      const content = section[lang]!.content;
-      const validSectionTitles = act.sections.map(s => `${s.id}: ${s[lang]?.title || ''}`).join('\n');
+      const content = langData.content;
+      const validSectionTitles = act.sections.map((s: any) => `${s.id}: ${s[lang]?.title || ''}`).join('\n');
 
       log += `[LLM Action] Reviewing broken reference "${targetRef}" in section "${sectionId}"...\n`;
       const resolvePrompt = `You are an expert legal auditor. In Section "${sectionId}" of "${act.actName}", there is a broken cross-reference pointing to "${targetRef}".
@@ -313,35 +417,27 @@ export async function healIssue(issue: AuditIssue, knowledgeBase: LawAct[]): Pro
       const resolveResult = await model.generateContent(resolvePrompt);
       const correctedContent = resolveResult.response.text().trim();
 
-      log += `[Disk Action] Replacing content in source file: ${sourceFile}...\n`;
-      const sourcePath = path.join(LAWS_DIR, sourceFile);
-      const fileContent = fs.readFileSync(sourcePath, 'utf-8');
+      // Update section content inside JSON section object
+      section[lang].content = correctedContent;
+      act.sections[sectionIndex] = section;
 
-      // Replace original section content with corrected content
-      const replacePrompt = `You are a markdown text replacer. Replace the content of section heading "### ${section[lang]!.title}" with the new corrected content inside the file.
-      
-      Corrected Section Content to inject:
-      ${correctedContent}
-      
-      Original File Content:
-      ${fileContent}
-      
-      Return the ENTIRE, COMPLETE updated file content. Do not truncate. Just output valid raw markdown.`;
+      log += `[Disk Action] Writing updated act back to ${actId}.json with backup...\n`;
+      writeWithBackup(jsonFilePath, JSON.stringify([act], null, 2));
 
-      const replaceResult = await model.generateContent(replacePrompt);
-      let updatedMarkdown = replaceResult.response.text().trim();
-      
-      if (updatedMarkdown.startsWith('```markdown')) {
-        updatedMarkdown = updatedMarkdown.replace(/^```markdown/, '').replace(/```$/, '').trim();
-      } else if (updatedMarkdown.startsWith('```')) {
-        updatedMarkdown = updatedMarkdown.replace(/^```/, '').replace(/```$/, '').trim();
+      log += `[Disk Action] Directly updating section in global knowledge_base.json...\n`;
+      const kbPath = path.join(process.cwd(), 'public/knowledge_base.json');
+      if (fs.existsSync(kbPath)) {
+        const kbContent = fs.readFileSync(kbPath, 'utf-8');
+        const kb = JSON.parse(kbContent);
+        const kbActIdx = kb.findIndex((l: any) => l.id === actId);
+        if (kbActIdx !== -1) {
+          kb[kbActIdx].sections = kb[kbActIdx].sections.map((s: any) => s.id === sectionId ? section : s);
+          fs.writeFileSync(kbPath, JSON.stringify(kb, null, 2), 'utf-8');
+          log += `[Success] Global knowledge_base.json synced successfully.\n`;
+        }
       }
 
-      writeWithBackup(sourcePath, updatedMarkdown);
-      
-      log += `[Success] Written corrections to ${sourceFile}. Triggering re-ingestion...\n`;
-      await runIngestion();
-      log += `[Healing Complete] Cross-reference repaired successfully!\n`;
+      log += `[Healing Complete] Section "${sectionId}" cross-reference corrected permanently in ${actId}.json and synced to the knowledge base!\n`;
       return { success: true, log };
     }
 
@@ -354,15 +450,18 @@ export async function healIssue(issue: AuditIssue, knowledgeBase: LawAct[]): Pro
 }
 
 function writeWithBackup(filePath: string, content: string) {
+  const fileDir = path.dirname(filePath);
+  const backupDir = path.join(fileDir, '.backup');
+
   // Ensure backup directory exists
-  if (!fs.existsSync(BACKUP_DIR)) {
-    fs.mkdirSync(BACKUP_DIR, { recursive: true });
+  if (!fs.existsSync(backupDir)) {
+    fs.mkdirSync(backupDir, { recursive: true });
   }
 
   // Backup existing file if present
   if (fs.existsSync(filePath)) {
     const baseName = path.basename(filePath);
-    const backupPath = path.join(BACKUP_DIR, `${Date.now()}_${baseName}`);
+    const backupPath = path.join(backupDir, `${Date.now()}_${baseName}`);
     fs.copyFileSync(filePath, backupPath);
   }
 
