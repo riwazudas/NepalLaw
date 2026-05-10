@@ -1,6 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 import { model } from './gemini';
+import { readJsonFromGCS } from './gcs';
 
 export interface SearchResult {
   actId: string;
@@ -76,13 +77,13 @@ export async function searchKnowledgeBase(
   limit: number = 5, 
   useReRanking: boolean = false
 ): Promise<SearchResult[]> {
-  const kbPath = path.join(process.cwd(), 'public/knowledge_base.json');
-  if (!fs.existsSync(kbPath)) {
-    console.error('Knowledge base file not found at:', kbPath);
+  let knowledgeBase: any;
+  try {
+    knowledgeBase = await readJsonFromGCS('knowledge_base.json');
+  } catch (err: any) {
+    console.error('Error loading knowledge base from GCS/disk:', err.message);
     return [];
   }
-  
-  const knowledgeBase = JSON.parse(fs.readFileSync(kbPath, 'utf-8'));
   const results: SearchResult[] = [];
   
   // 1. Language Detection & Query Expansion

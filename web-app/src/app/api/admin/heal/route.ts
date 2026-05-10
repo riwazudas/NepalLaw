@@ -1,7 +1,6 @@
 import { NextRequest, NextResponse } from 'next/server';
-import fs from 'fs';
-import path from 'path';
 import { healIssue } from '@/lib/self_healing';
+import { readJsonFromGCS } from '@/lib/gcs';
 
 export async function POST(req: NextRequest) {
   try {
@@ -11,13 +10,12 @@ export async function POST(req: NextRequest) {
       return NextResponse.json({ success: false, error: 'Issue object is required' }, { status: 400 });
     }
 
-    const kbPath = path.join(process.cwd(), 'public/knowledge_base.json');
-    if (!fs.existsSync(kbPath)) {
-      return NextResponse.json({ success: false, error: 'Knowledge base file not found' }, { status: 400 });
+    let knowledgeBase: any;
+    try {
+      knowledgeBase = await readJsonFromGCS('knowledge_base.json');
+    } catch (err: any) {
+      return NextResponse.json({ success: false, error: 'Knowledge base file not found: ' + err.message }, { status: 400 });
     }
-
-    const kbContents = fs.readFileSync(kbPath, 'utf8');
-    const knowledgeBase = JSON.parse(kbContents);
 
     log(`API called to heal issue: ${issue.id}`);
     const result = await healIssue(issue, knowledgeBase);

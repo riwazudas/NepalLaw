@@ -52,6 +52,9 @@ export default function AdminDashboard() {
   const [healingIssueId, setHealingIssueId] = useState<string | null>(null);
   const [healLogs, setHealLogs] = useState<string>('');
   const [healModalOpen, setHealModalOpen] = useState(false);
+  const [isAutoHealing, setIsAutoHealing] = useState(false);
+  const [autoHealProgress, setAutoHealProgress] = useState({ current: 0, total: 0 });
+  const [throttleCountdown, setThrottleCountdown] = useState(0);
 
   // Playground search state
   const [searchQuery, setSearchQuery] = useState('');
@@ -166,6 +169,75 @@ export default function AdminDashboard() {
     } finally {
       setHealingIssueId(null);
     }
+  };
+
+  const handleHealAll = async () => {
+    const pendingIssues = issues.filter(i => i.status === 'pending' || i.status === 'failed');
+    if (pendingIssues.length === 0) {
+      alert('All diagnosed issues are already healed!');
+      return;
+    }
+
+    setIsAutoHealing(true);
+    setAutoHealProgress({ current: 0, total: pendingIssues.length });
+    setHealLogs(`[Auto-Healer] Initializing Automatic Self-Healing Session...\n`);
+    setHealLogs(prev => prev + `[Auto-Healer] Found ${pendingIssues.length} pending issues to heal.\n`);
+    setHealLogs(prev => prev + `[Auto-Healer] Safety rate-limiting throttling active: a 5-second wait countdown will be enforced between operations to protect Gemini API limits.\n\n`);
+    setHealModalOpen(true);
+
+    for (let i = 0; i < pendingIssues.length; i++) {
+      const issue = pendingIssues[i];
+      setAutoHealProgress({ current: i + 1, total: pendingIssues.length });
+      setHealingIssueId(issue.id);
+      setHealLogs(prev => prev + `\n--------------------------------------------------------------------------------\n`);
+      setHealLogs(prev => prev + `[Auto-Healer] Starting task ${i + 1}/${pendingIssues.length}: ${issue.description}\n`);
+      
+      // Update the local status to healing
+      setIssues(prev => prev.map(item => item.id === issue.id ? { ...item, status: 'healing' } : item));
+
+      try {
+        const res = await fetch('/api/admin/heal', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ issue })
+        });
+        const data = await res.json();
+        
+        if (data.log) {
+          setHealLogs(prev => prev + '\n' + data.log);
+        }
+
+        if (data.success) {
+          setHealLogs(prev => prev + `\n[SUCCESS] Issue ${issue.id} has been repaired successfully!\n`);
+          setIssues(prev => prev.map(item => item.id === issue.id ? { ...item, status: 'healed' } : item));
+          fetchKB();
+        } else {
+          setHealLogs(prev => prev + `\n[FAILED] Issue ${issue.id} healing failed: ${data.error || 'Unknown error'}\n`);
+          setIssues(prev => prev.map(item => item.id === issue.id ? { ...item, status: 'failed' } : item));
+        }
+      } catch (err: any) {
+        setHealLogs(prev => prev + `\n[SYSTEM ERROR] API invocation failed: ${err.message}\n`);
+        setIssues(prev => prev.map(item => item.id === issue.id ? { ...item, status: 'failed' } : item));
+      } finally {
+        setHealingIssueId(null);
+      }
+
+      // Enforce rate limiting safety delay if there are more issues remaining in the batch
+      if (i < pendingIssues.length - 1) {
+        setHealLogs(prev => prev + `\n[Auto-Healer] Cooling down for 5 seconds to protect API rate limits...\n`);
+        for (let secondsLeft = 5; secondsLeft > 0; secondsLeft--) {
+          setThrottleCountdown(secondsLeft);
+          setHealLogs(prev => prev + `[Auto-Healer] Throttle pause: ${secondsLeft}s remaining...\n`);
+          await new Promise(resolve => setTimeout(resolve, 1000));
+        }
+        setThrottleCountdown(0);
+        setHealLogs(prev => prev + `[Auto-Healer] Throttle pause completed. Resuming next operation...\n`);
+      }
+    }
+
+    setHealLogs(prev => prev + `\n================================================================================\n`);
+    setHealLogs(prev => prev + `🎉 [Auto-Healer] AUTOMATIC BATCH HEALING COMPLETED SUCCESSFULLY!\n`);
+    setIsAutoHealing(false);
   };
 
   const handleSearchPlayground = async (e: React.FormEvent) => {
@@ -372,15 +444,37 @@ export default function AdminDashboard() {
                   <h2 className="section-title" style={{ margin: 0 }}>Legislative Alignment Audit Center</h2>
                   <p className="section-subtitle">Auto-audits document translation completeness and structural cross-reference integrity using AI models.</p>
                 </div>
-                <button 
-                  className="view-toggle-btn-small" 
-                  onClick={runFullAudit}
-                  disabled={isAuditing}
-                  style={{ display: 'flex', alignItems: 'center', gap: '0.5rem' }}
-                >
-                  {isAuditing ? <Loader2 className="spin" size={16} /> : <ShieldAlert size={16} />}
-                  <span>{isAuditing ? 'Auditing...' : 'Run Diagnostics Audit'}</span>
-                </button>
+                <div style={{ display: 'flex', gap: '0.75rem', alignItems: 'center' }}>
+                  <button 
+                    className="view-toggle-btn-small" 
+                    onClick={runFullAudit}
+                    disabled={isAuditing || isAutoHealing}
+                    style={{ display: 'flex', alignItems: 'center', gap: '0.5rem' }}
+                  >
+                    {isAuditing ? <Loader2 className="spin" size={16} /> : <ShieldAlert size={16} />}
+                    <span>{isAuditing ? 'Auditing...' : 'Run Diagnostics Audit'}</span>
+                  </button>
+
+                  {issues.some(i => i.status === 'pending' || i.status === 'failed') && (
+                    <button 
+                      className="view-toggle-btn-small" 
+                      onClick={handleHealAll}
+                      disabled={isAuditing || isAutoHealing}
+                      style={{ 
+                        display: 'flex', 
+                        alignItems: 'center', 
+                        gap: '0.5rem', 
+                        background: '#10b981', 
+                        color: 'white',
+                        border: 'none',
+                        boxShadow: '0 4px 6px -1px rgba(16, 185, 129, 0.2)'
+                      }}
+                    >
+                      {isAutoHealing ? <Loader2 className="spin" size={16} /> : <Wand2 size={16} />}
+                      <span>{isAutoHealing ? 'Auto-Healing...' : 'Heal All Issues'}</span>
+                    </button>
+                  )}
+                </div>
               </div>
 
               {issues.length === 0 ? (
@@ -528,15 +622,27 @@ export default function AdminDashboard() {
 
       {/* Healing Console Modal */}
       {healModalOpen && (
-        <div className="modal-overlay" onClick={() => !healingIssueId && setHealModalOpen(false)}>
+        <div className="modal-overlay" onClick={() => !healingIssueId && !isAutoHealing && setHealModalOpen(false)}>
           <div className="modal-content" style={{ maxWidth: '750px' }} onClick={e => e.stopPropagation()}>
             <div className="modal-header-sticky" style={{ padding: '1.25rem 2rem' }}>
               <div className="modal-header-top" style={{ margin: 0 }}>
                 <div className="title-area">
                   <span className="subtitle">Agent Diagnostics Console</span>
-                  <h2 style={{ fontSize: '1.25rem' }}>AI Self-Healing Pipeline</h2>
+                  <h2 style={{ fontSize: '1.25rem', display: 'flex', alignItems: 'center', gap: '0.75rem', flexWrap: 'wrap' }}>
+                    <span>AI Self-Healing Pipeline</span>
+                    {isAutoHealing && (
+                      <span className="view-badge" style={{ background: '#d1fae5', color: '#065f46', fontSize: '0.7rem', padding: '0.2rem 0.6rem' }}>
+                        Batch Progress {autoHealProgress.current} / {autoHealProgress.total}
+                      </span>
+                    )}
+                    {throttleCountdown > 0 && (
+                      <span className="view-badge" style={{ background: '#fef3c7', color: '#92400e', fontSize: '0.7rem', padding: '0.2rem 0.6rem' }}>
+                        Throttling Safety Pause: {throttleCountdown}s
+                      </span>
+                    )}
+                  </h2>
                 </div>
-                {!healingIssueId && (
+                {!healingIssueId && !isAutoHealing && (
                   <button className="close-btn" onClick={() => setHealModalOpen(false)}>&times;</button>
                 )}
               </div>
@@ -553,7 +659,7 @@ export default function AdminDashboard() {
               <button 
                 className="view-toggle-btn-small" 
                 onClick={() => setHealModalOpen(false)}
-                disabled={!!healingIssueId}
+                disabled={!!healingIssueId || isAutoHealing}
                 style={{ background: 'var(--muted)', color: 'var(--foreground)' }}
               >
                 Close Agent Log

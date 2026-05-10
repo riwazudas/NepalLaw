@@ -2,6 +2,7 @@ import fs from 'fs';
 import path from 'path';
 import { model } from './gemini';
 import { LawAct } from './ingest';
+import { readJsonFromGCS, writeJsonToGCS } from './gcs';
 
 export interface AuditIssue {
   id: string;
@@ -187,15 +188,10 @@ export async function healIssue(issue: AuditIssue, knowledgeBase: LawAct[]): Pro
 
   try {
     const actId = issue.actId;
-    const jsonFilePath = path.join(process.cwd(), '../data/laws_json', `${actId}.json`);
+    const gcsFileName = `laws_json/${actId}.json`;
     
-    if (!fs.existsSync(jsonFilePath)) {
-      throw new Error(`Laws JSON file not found: ${jsonFilePath}`);
-    }
-
-    log += `[Disk Action] Loading and parsing laws JSON file: ${actId}.json...\n`;
-    const fileContent = fs.readFileSync(jsonFilePath, 'utf-8');
-    const parsed = JSON.parse(fileContent);
+    log += `[Disk Action] Loading and parsing laws JSON file: ${actId}.json from GCS/disk...\n`;
+    const parsed = await readJsonFromGCS(gcsFileName);
     const act = parsed[0];
 
     const sectionId = issue.details.sectionId!;
@@ -290,14 +286,12 @@ Ensure the output is valid JSON. Do not include markdown formatting like \`\`\`j
         // Update section in act
         act.sections[sectionIndex] = section;
         
-        log += `[Disk Action] Writing merged sections back to ${actId}.json with backup...\n`;
-        writeWithBackup(jsonFilePath, JSON.stringify([act], null, 2));
+        log += `[Disk Action] Writing merged sections back to ${actId}.json...\n`;
+        await writeJsonToGCS(gcsFileName, [act]);
 
         log += `[Disk Action] Syncing merged sections directly to global knowledge_base.json...\n`;
-        const kbPath = path.join(process.cwd(), 'public/knowledge_base.json');
-        if (fs.existsSync(kbPath)) {
-          const kbContent = fs.readFileSync(kbPath, 'utf-8');
-          const kb = JSON.parse(kbContent);
+        try {
+          const kb = await readJsonFromGCS('knowledge_base.json');
           const kbActIdx = kb.findIndex((l: any) => l.id === actId);
           if (kbActIdx !== -1) {
             // Remove candidate section
@@ -305,9 +299,11 @@ Ensure the output is valid JSON. Do not include markdown formatting like \`\`\`j
             // Update current section
             updatedSections = updatedSections.map((s: any) => s.id === sectionId ? section : s);
             kb[kbActIdx].sections = updatedSections;
-            fs.writeFileSync(kbPath, JSON.stringify(kb, null, 2), 'utf-8');
+            await writeJsonToGCS('knowledge_base.json', kb);
             log += `[Success] Global knowledge_base.json merged and synced.\n`;
           }
+        } catch (err: any) {
+          log += `[WARNING] Could not sync merged sections to master database: ${err.message}\n`;
         }
         
         log += `[Healing Complete] Sections "${sectionId}" and "${matchedCandidate.id}" are now merged bilingually under "${sectionId}"!\n`;
@@ -364,20 +360,20 @@ Ensure the output is valid JSON. Do not include markdown formatting like \`\`\`j
       // Update section in act
       act.sections[sectionIndex] = section;
 
-      log += `[Disk Action] Writing updated act back to ${actId}.json with backup...\n`;
-      writeWithBackup(jsonFilePath, JSON.stringify([act], null, 2));
+      log += `[Disk Action] Writing updated act back to ${actId}.json...\n`;
+      await writeJsonToGCS(gcsFileName, [act]);
 
       log += `[Disk Action] Directly updating section in global knowledge_base.json...\n`;
-      const kbPath = path.join(process.cwd(), 'public/knowledge_base.json');
-      if (fs.existsSync(kbPath)) {
-        const kbContent = fs.readFileSync(kbPath, 'utf-8');
-        const kb = JSON.parse(kbContent);
+      try {
+        const kb = await readJsonFromGCS('knowledge_base.json');
         const kbActIdx = kb.findIndex((l: any) => l.id === actId);
         if (kbActIdx !== -1) {
           kb[kbActIdx].sections = kb[kbActIdx].sections.map((s: any) => s.id === sectionId ? section : s);
-          fs.writeFileSync(kbPath, JSON.stringify(kb, null, 2), 'utf-8');
+          await writeJsonToGCS('knowledge_base.json', kb);
           log += `[Success] Global knowledge_base.json synced successfully.\n`;
         }
+      } catch (err: any) {
+        log += `[WARNING] Could not sync to master knowledge base: ${err.message}\n`;
       }
 
       log += `[Healing Complete] Section "${sectionId}" is now permanently bilingual in ${actId}.json and synced to the knowledge base!\n`;
@@ -421,20 +417,20 @@ Ensure the output is valid JSON. Do not include markdown formatting like \`\`\`j
       section[lang].content = correctedContent;
       act.sections[sectionIndex] = section;
 
-      log += `[Disk Action] Writing updated act back to ${actId}.json with backup...\n`;
-      writeWithBackup(jsonFilePath, JSON.stringify([act], null, 2));
+      log += `[Disk Action] Writing updated act back to ${actId}.json...\n`;
+      await writeJsonToGCS(gcsFileName, [act]);
 
       log += `[Disk Action] Directly updating section in global knowledge_base.json...\n`;
-      const kbPath = path.join(process.cwd(), 'public/knowledge_base.json');
-      if (fs.existsSync(kbPath)) {
-        const kbContent = fs.readFileSync(kbPath, 'utf-8');
-        const kb = JSON.parse(kbContent);
+      try {
+        const kb = await readJsonFromGCS('knowledge_base.json');
         const kbActIdx = kb.findIndex((l: any) => l.id === actId);
         if (kbActIdx !== -1) {
           kb[kbActIdx].sections = kb[kbActIdx].sections.map((s: any) => s.id === sectionId ? section : s);
-          fs.writeFileSync(kbPath, JSON.stringify(kb, null, 2), 'utf-8');
+          await writeJsonToGCS('knowledge_base.json', kb);
           log += `[Success] Global knowledge_base.json synced successfully.\n`;
         }
+      } catch (err: any) {
+        log += `[WARNING] Could not sync to master knowledge base: ${err.message}\n`;
       }
 
       log += `[Healing Complete] Section "${sectionId}" cross-reference corrected permanently in ${actId}.json and synced to the knowledge base!\n`;

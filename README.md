@@ -1,5 +1,10 @@
 # ⚖️ NepalLaw Bilingual RAG & Control Panel
 
+[![GCP Deployment](https://img.shields.io/badge/GCP-Cloud_Run-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://nepal-law-719750440273.asia-southeast3.run.app/)
+[![Live Application](https://img.shields.io/badge/Live_App-Active-success?style=for-the-badge)](https://nepal-law-719750440273.asia-southeast3.run.app/)
+
+🌐 **Deployed Live URL**: [https://nepal-law-719750440273.asia-southeast3.run.app/](https://nepal-law-719750440273.asia-southeast3.run.app/)
+
 Welcome to the **NepalLaw Bilingual RAG & Control Panel** repository! This is an advanced, high-performance legal RAG (Retrieval-Augmented Generation) platform and audit suite designed to extract, align, heal, and query Nepalese legislative acts in both **English** and **Nepali**.
 
 The project features automated crawlers/scrapers, sequential document combination utilities, an automated integrity audit center, an AI-powered self-healing pipeline, and a beautiful interactive workspace chatbot.

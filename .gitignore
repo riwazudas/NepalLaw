@@ -53,3 +53,6 @@ next-env.d.ts
 # Caches
 .eslintcache
 .turbo/
+
+# Database backups
+**/.backup/

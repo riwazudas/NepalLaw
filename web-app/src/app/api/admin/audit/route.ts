@@ -1,20 +1,18 @@
 import { NextResponse } from 'next/server';
-import fs from 'fs';
-import path from 'path';
 import { runAudit } from '@/lib/self_healing';
+import { readJsonFromGCS } from '@/lib/gcs';
 
 export async function GET() {
   try {
-    const kbPath = path.join(process.cwd(), 'public/knowledge_base.json');
-    if (!fs.existsSync(kbPath)) {
+    let knowledgeBase: any;
+    try {
+      knowledgeBase = await readJsonFromGCS('knowledge_base.json');
+    } catch (err: any) {
       return NextResponse.json({ 
         success: false, 
-        error: 'Knowledge base not found. Please run ingestion first.' 
+        error: 'Knowledge base not found: ' + err.message
       }, { status: 400 });
     }
-
-    const kbContents = fs.readFileSync(kbPath, 'utf8');
-    const knowledgeBase = JSON.parse(kbContents);
 
     const issues = runAudit(knowledgeBase);
     

@@ -1,0 +1,64 @@
+name: Daily Scheduled Self-Healing
+
+on:
+  schedule:
+    # Runs at exactly 00:00 UTC (around 5:45 AM Nepal Standard Time) every single day
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+    # Allows you to manually trigger a single daily-heal run from your GitHub Actions UI at any time
+
+permissions:
+  contents: write # Essential to authorize action to commit and push changes back to your repository
+
+jobs:
+  heal:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. Checkout codebase
+      - name: Checkout Code
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      # 2. Setup Node.js runtime environment
+      - name: Setup Node.js 20
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: 'npm'
+          cache-dependency-path: web-app/package-lock.json
+
+      # 3. Install NPM dependencies
+      - name: Install Dependencies
+        working-directory: web-app
+        run: |
+          if [ -f package-lock.json ]; then
+            npm ci
+          else
+            npm install
+          fi
+
+      # 4. Execute single-issue automated healing script
+      - name: Run Daily Self-Heal Agent
+        working-directory: web-app
+        env:
+          GOOGLE_GENERATIVE_AI_API_KEY: ${{ secrets.GOOGLE_GENERATIVE_AI_API_KEY }}
+        run: npm run daily-heal
+
+      # 5. Commit modifications back to repository
+      - name: Commit & Push database fixes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          
+          # Target individual JSONs under data and the compiled database in public
+          git add data/laws_json/ web-app/public/knowledge_base.json
+          
+          if git diff --staged --quiet; then
+            echo "No structural healing changes detected. Database is pristine!"
+          else
+            git commit -m "chore(auto): daily self-healing database alignment [skip ci]"
+            git push origin HEAD:${{ github.ref }}
+            echo "SUCCESS: Self-healed changes permanently committed and pushed to git branch!"
+          fi

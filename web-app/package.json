@@ -9,9 +9,11 @@
     "lint": "next lint",
     "ingest": "tsx src/lib/ingest.ts",
     "combine-acts": "tsx src/lib/combine_acts.ts",
-    "audit-acts": "tsx src/lib/audit_laws.ts"
+    "audit-acts": "tsx src/lib/audit_laws.ts",
+    "daily-heal": "tsx src/scripts/daily_heal.ts"
   },
   "dependencies": {
+    "@google-cloud/storage": "^7.19.0",
     "@google/generative-ai": "^0.24.1",
     "@types/markdown-it": "^14.1.2",
     "lucide-react": "^1.14.0",
