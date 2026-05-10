@@ -111,4 +111,4 @@ When parsing hundreds of legislative sections, minor structural or translation a
 
 ## 📜 License & Acknowledgements
 
-This workspace was custom-engineered to simplify interaction with bilingual Nepalese legislative bodies. Powered by **Next.js**, **Tailwind CSS**, **Lucide React**, and **Google Gemini 1.5**.
+This workspace was custom-engineered to simplify interaction with bilingual Nepalese legislative bodies. Powered by **Next.js**, **Tailwind CSS**, **Lucide React**, and **Google Gemini**.
