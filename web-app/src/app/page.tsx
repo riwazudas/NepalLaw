@@ -49,7 +49,7 @@ export default function Home() {
 
     const savedDyslexic = localStorage.getItem('isDyslexic');
     if (savedDyslexic === 'true') setIsDyslexic(true);
-    
+
     // Attempt to load the knowledge base for the modal
     fetch('/api/knowledge')
       .then(res => {
@@ -81,7 +81,7 @@ export default function Home() {
 
       if (e.key === 'Escape') setLawModalOpen(false);
       if (e.key === 'l' || e.key === 'L') setModalLang(prev => prev === 'english' ? 'nepali' : 'english');
-      
+
       // J/K Navigation between sections
       if (e.key === 'j' || e.key === 'k') {
         const sections = Array.from(document.querySelectorAll('.law-section'));
@@ -145,13 +145,68 @@ export default function Home() {
     setMessages(prev => [...prev, { id: aiMessageId, role: 'ai', text: '' }]);
 
     try {
-      const response = await fetch('/api/chat', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ message: input }),
-      });
+      let response: Response | null = null;
+      let success = false;
+      let attempt = 0;
+      const maxRetries = 2;
 
-      if (!response.ok) throw new Error('Failed to fetch response');
+      while (attempt <= maxRetries && !success) {
+        try {
+          if (attempt > 0) {
+            // Update message bubble to show retry status
+            setMessages(prev => prev.map(msg =>
+              msg.id === aiMessageId ? { ...msg, text: `⏳ *Google's API is busy. Retrying your request (Attempt ${attempt}/${maxRetries})...*` } : msg
+            ));
+            // Wait with exponential backoff before retrying (e.g., 2s, 4s)
+            await new Promise(resolve => setTimeout(resolve, attempt * 2000));
+          } else {
+            // Clear message text initially to let typing-indicator show
+            setMessages(prev => prev.map(msg =>
+              msg.id === aiMessageId ? { ...msg, text: '' } : msg
+            ));
+          }
+
+          // If the first attempt takes more than 6 seconds, show a reassuring message
+          const takingAWhileTimeout = setTimeout(() => {
+            setMessages(prev => prev.map(msg =>
+              msg.id === aiMessageId && msg.text === '' ? { ...msg, text: '⏳ *Analyzing laws, this is taking a bit longer than usual...*' } : msg
+            ));
+          }, 6000);
+
+          response = await fetch('/api/chat', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ message: input }),
+          });
+
+          clearTimeout(takingAWhileTimeout);
+
+          if (!response.ok) {
+            // Try to parse error details from the backend response JSON
+            const errData = await response.json().catch(() => null);
+            const errMsg = errData?.error || `HTTP error ${response.status}`;
+            throw new Error(errMsg);
+          }
+
+          success = true;
+        } catch (error: any) {
+          console.warn(`[Gemini-Chat] Attempt ${attempt + 1} failed:`, error.message);
+          const is503 = error.message?.includes('503') || error.message?.toLowerCase().includes('demand') || error.message?.toLowerCase().includes('service unavailable');
+
+          if (is503 && attempt < maxRetries) {
+            attempt++;
+          } else {
+            throw error;
+          }
+        }
+      }
+
+      if (!response) throw new Error('No response received');
+
+      // Clear the loading/retry text before streaming the response
+      setMessages(prev => prev.map(msg =>
+        msg.id === aiMessageId ? { ...msg, text: '' } : msg
+      ));
 
       const reader = response.body?.getReader();
       const decoder = new TextDecoder();
@@ -173,10 +228,19 @@ export default function Home() {
           ));
         }
       }
-    } catch (error) {
+    } catch (error: any) {
       console.error('Chat error:', error);
+      let userFriendlyText = 'Sorry, I encountered an error. Please try again later.';
+
+      const is503 = error.message?.includes('503') || error.message?.toLowerCase().includes('demand') || error.message?.toLowerCase().includes('service unavailable');
+      if (is503) {
+        userFriendlyText = '⚠️ **The Gemini API is currently experiencing extremely high demand (503 Service Unavailable).**\n\nGoogle\'s servers are temporarily out of capacity to process this request. Spikes in demand are usually temporary. Please wait a few seconds and try resending your message!';
+      } else if (error.message) {
+        userFriendlyText = `⚠️ **Sorry, I encountered an error:** ${error.message}`;
+      }
+
       setMessages(prev => prev.map(msg =>
-        msg.id === aiMessageId ? { ...msg, text: 'Sorry, I encountered an error. Please try again later.' } : msg
+        msg.id === aiMessageId ? { ...msg, text: userFriendlyText } : msg
       ));
     } finally {
       setIsLoading(false);
@@ -197,7 +261,7 @@ export default function Home() {
     setSelectedSectionId(sectionId || null);
     setShowFullAct(false); // Reset to focused view
     setLawModalOpen(true);
-    
+
     // Auto-scroll to section after modal opens
     setTimeout(() => {
       const element = document.getElementById(`section-${sectionId}`);
@@ -263,8 +327,8 @@ export default function Home() {
               <button className={`a11y-btn ${fontSize === 'xl' ? 'active' : ''}`} onClick={() => setFontSize('xl')} aria-label="Extra large font size">A++</button>
             </div>
             <div className="a11y-group">
-              <button 
-                className={`a11y-btn ${isDyslexic ? 'active' : ''}`} 
+              <button
+                className={`a11y-btn ${isDyslexic ? 'active' : ''}`}
                 onClick={() => setIsDyslexic(!isDyslexic)}
                 title="Dyslexia-friendly font"
                 aria-label="Toggle dyslexia-friendly font"
@@ -274,16 +338,16 @@ export default function Home() {
             </div>
           </div>
 
-          <button 
-            className="icon-btn" 
-            onClick={toggleDarkMode} 
+          <button
+            className="icon-btn"
+            onClick={toggleDarkMode}
             title={isDarkMode ? "Switch to Light Mode" : "Switch to Night Mode"}
             aria-label={isDarkMode ? "Switch to Light Mode" : "Switch to Night Mode"}
           >
             {isDarkMode ? <Sun size={20} /> : <Moon size={20} />}
           </button>
-          <button 
-            className="reset-btn" 
+          <button
+            className="reset-btn"
             onClick={() => window.location.reload()}
             aria-label="Reset chat session"
           >
@@ -332,8 +396,8 @@ export default function Home() {
             aria-label="Legal question input"
             suppressHydrationWarning={true}
           />
-          <button 
-            onClick={() => handleSubmit()} 
+          <button
+            onClick={() => handleSubmit()}
             disabled={!input.trim() || isLoading}
             aria-label="Send message"
           >
@@ -351,39 +415,39 @@ export default function Home() {
                   <span className="subtitle">Nepal Law Document</span>
                   <h2 id="modal-title">{currentLaw ? currentLaw.actName : 'Law Details'}</h2>
                 </div>
-                <button 
-                  className="close-btn" 
+                <button
+                  className="close-btn"
                   onClick={() => setLawModalOpen(false)}
                   aria-label="Close document viewer"
                 >
                   <X size={24} />
                 </button>
               </div>
-              
+
               <div className="modal-controls">
                 <div className="language-toggle" role="tablist">
-                  <button 
+                  <button
                     role="tab"
                     aria-selected={modalLang === 'english'}
-                    className={modalLang === 'english' ? 'active' : ''} 
+                    className={modalLang === 'english' ? 'active' : ''}
                     onClick={() => setModalLang('english')}
                     aria-label="View in English"
                   >
                     English
                   </button>
-                  <button 
+                  <button
                     role="tab"
                     aria-selected={modalLang === 'nepali'}
-                    className={modalLang === 'nepali' ? 'active' : ''} 
+                    className={modalLang === 'nepali' ? 'active' : ''}
                     onClick={() => setModalLang('nepali')}
                     aria-label="नेपालीमा हेर्नुहोस्"
                   >
                     नेपाली
                   </button>
                 </div>
-                
+
                 {currentLaw && (
-                  <button 
+                  <button
                     className="view-toggle-btn-small"
                     onClick={() => setShowFullAct(!showFullAct)}
                     aria-pressed={showFullAct}
@@ -411,13 +475,13 @@ export default function Home() {
                       .map((sec: any) => {
                         const langData = sec[modalLang];
                         const isHighlighted = sec.id === selectedSectionId || sec.id === `sec_${selectedSectionId?.replace('section_', '')}`;
-                        
+
                         if (!langData && !showFullAct) return null;
-                        
+
                         return (
-                          <div 
-                            key={sec.id} 
-                            id={`section-${sec.id}`} 
+                          <div
+                            key={sec.id}
+                            id={`section-${sec.id}`}
                             className={`law-section ${isHighlighted ? 'highlight-section' : ''}`}
                             lang={modalLang === 'nepali' ? 'ne' : 'en'}
                           >

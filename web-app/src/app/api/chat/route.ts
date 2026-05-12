@@ -40,6 +40,8 @@ export async function POST(req: NextRequest) {
 
   } catch (error: any) {
     console.error('Chat API Error:', error);
-    return NextResponse.json({ error: error.message || 'Internal Server Error' }, { status: 500 });
+    const is503 = error.message?.includes('503') || error.status === 503 || error.message?.toLowerCase().includes('demand') || error.message?.toLowerCase().includes('service unavailable');
+    const statusCode = is503 ? 503 : 500;
+    return NextResponse.json({ error: error.message || 'Internal Server Error' }, { status: statusCode });
   }
 }

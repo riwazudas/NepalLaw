@@ -74,7 +74,11 @@ export async function readJsonFromGCS<T = any>(fileName: string): Promise<T> {
       const [content] = await file.download();
       return JSON.parse(content.toString('utf8')) as T;
     } catch (err: any) {
-      console.error(`[GCS-Helper] Error reading ${fileName} from GCS:`, err.message);
+      if (err.message?.includes('Could not load the default credentials')) {
+        console.log(`[GCS-Helper] Local development detected (GCP credentials not found). Safely falling back to local file system.`);
+      } else {
+        console.error(`[GCS-Helper] Error reading ${fileName} from GCS:`, err.message);
+      }
     }
   }
 

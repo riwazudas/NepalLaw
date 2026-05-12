@@ -45,7 +45,7 @@ The workspace is organized into three major layers:
 | :--- | :--- | :--- |
 | **Hybrid RAG Retriever** | BM25/TF-IDF scoring engine coupled with dual-language query expansion. | `retrieval.ts` |
 | **Bilingual Glossary Expansion** | Automatically expands terms between English and Nepali to ensure semantic alignment. | `BILINGUAL_GLOSSARY` |
-| **Contextual Re-Ranking**| Leverages Gemini 1.5 Flash to score and re-rank candidate blocks for absolute retrieval accuracy. | Google Generative AI SDK |
+| **Contextual Re-Ranking**| Leverages Gemini 3.1 Flash-Lite to score and re-rank candidate blocks for absolute retrieval accuracy. | Google Generative AI SDK |
 | **Admin Audit Diagnostic Center** | Scans legislative json records to identify bilingual translation gaps, broken cross-references, or truncated blocks. | `audit_laws.ts` |
 | **Granular AI Self-Healer** | Refactored pipeline to perform translation and cross-reference fixes **one entry at a time**, directly committing updates to individual JSON files in `laws_json` and syncing them to the database on disk. | `self_healing.ts` |
 
